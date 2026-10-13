@@ -1,214 +1,375 @@
 {
- "issue_no": 1,
+ "issue_no": 2,
  "tagline": "เช้านี้ อ่านช้าๆ · Slow news for a busy mind",
  "thailand": [
   {
    "lead": true,
-   "title": "Heavy-rain warning for West & South",
-   "th": "เตือนฝนหนักภาคตะวันตกและภาคใต้ 13–18 ต.ค. จับตาอุทัยธานี เพชรบุรี และหลายจังหวัดภาคใต้",
-   "en": "The Joint Information and Communication Center told western and southern provinces to prepare for heavy rain Oct 13–18; TMD also warns of waves above 2 m.",
-   "source": "The Nation / Bernama",
-   "url": "https://www.nationthailand.com/news/general/40072179"
-  },
-  {
-   "title": "Reservoirs at 82% capacity",
-   "th": "เขื่อนทั่วประเทศรับน้ำแล้ว 82% อ่างฯ หนองปลาไหลเกิน 105% เขื่อนเจ้าพระยาระบาย 1,900 ลบ.ม./วินาที",
-   "en": "ONWR says Nong Pla Lai is at 105%; isolated heavy rain Oct 14–16 could add pressure upstream.",
+   "title": "Floods still hit 20 provinces & Bangkok",
+   "th": "ปภ. รายงานน้ำท่วมยังครอบคลุม 20 จังหวัดและกรุงเทพฯ กระทบ 906,083 ครัวเรือน ราว 2.45 ล้านคน แต่ระดับน้ำเริ่มลดลงในหลายพื้นที่",
+   "en": "DDPM says 2.45 million people are affected; Bangkok has 329,000 households hit and four deaths as water slowly recedes.",
    "source": "The Nation",
-   "url": "https://www.nationthailand.com/news/general/40072187"
+   "url": "https://www.nationthailand.com/news/general/40072210"
   },
   {
-   "title": "Tribute to King Rama IX",
-   "th": "นายกฯ อนุทิน นำ ครม. วางพวงมาลา วันนวมินทรมหาราช ณ สวนสาธารณะเฉลิมพระเกียรติฯ ถ.พิษณุโลก",
-   "en": "Cabinet laid wreaths at 8.30am in Dusit to mark the anniversary of the late King's passing (2016).",
+   "title": "Prachin Buri water contamination",
+   "th": "กรมควบคุมมลพิษพบปิโตรเลียมไฮโดรคาร์บอน 114,860 มก./ล. ในน้ำใกล้หลุมฝังกลบกากอุตสาหกรรม ศรีมหาโพธิ เตรียมดำเนินคดีและตรวจตะกอนดิน",
+   "en": "The Pollution Control Department plans legal action and sediment checks near a leaking industrial-waste landfill.",
    "source": "The Nation",
-   "url": "https://www.nationthailand.com/news/general/40072189"
+   "url": "https://www.nationthailand.com/news/general/40072213"
   },
   {
-   "title": "House passes amnesty bill",
-   "th": "สภาฯ ผ่านร่าง พ.ร.บ.นิรโทษกรรม 306–141 เสียง ครอบคลุมราว 6,000 คน แต่ไม่รวมคดี ม.112",
-   "en": "The bill could clear charges tied to two decades of political conflict; exclusion of Section 112 cases sparks debate.",
-   "source": "Thai Times",
-   "url": "https://thaitimes.com/thailand-house-passes-political-amnesty-bill-covering-thousands-linked-to-past-unrest"
+   "title": "BoT eyes 2.3% growth",
+   "th": "ผู้ว่าฯ ธปท. วิทัย รัตนากร มั่นใจเศรษฐกิจไทยปีนี้โต 2.3% จากส่งออกที่คาดโต 17–18% และเงินลงทุนตรงจากต่างประเทศ หลัง IMF ปรับคาดการณ์ไทยขึ้นเป็น 2.1%",
+   "en": "Governor Vitai Ratanakorn cites strong exports and an FDI surge of up to 13%.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/business/general/3336303/bot-chief-envisions-23-growth"
   },
   {
-   "title": "\"AI for all\" push",
-   "th": "รองนายกฯ เอกนิติ ชูนโยบาย AI เพื่อทุกคน เน้นงานที่ดีขึ้นและทักษะที่แข็งแรงขึ้น",
-   "en": "Finance Minister Ekniti says better jobs, stronger skills and wider access to AI are priorities.",
-   "source": "Bangkok Post via Bernama",
-   "url": "https://asean.bernama.com/news.php?id=2619353"
+   "title": "Thaksin seeks amnesty ruling",
+   "th": "ทนายทักษิณยื่นคำร้องขอนิรโทษกรรมตาม พ.ร.บ.ส่งเสริมสังคมสันติสุข 2568 ขณะ รมว.ยุติธรรม ระบุยังไม่ทราบรายละเอียดและจะไม่เข้าไปเกี่ยวข้อง",
+   "en": "A subcommittee will first check whether the former PM is eligible to apply before it goes to the full committee.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/politics/3336263/justice-minister-unaware-of-details-of-thaksins-amnesty-request"
+  },
+  {
+   "title": "Suvarnabhumi ends free flood parking",
+   "th": "สุวรรณภูมิยุติบริการจอดรถฟรีสำหรับผู้ประสบอุทกภัยที่เปิดตั้งแต่ 26 ก.ย. เริ่มเก็บค่าจอดตั้งแต่วันพุธ (14 ต.ค.)",
+   "en": "Car owners who sheltered vehicles at the airport during the floods are asked to move them or start paying.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3336275/suvarnabhumi-airport-ends-free-parking-for-flooded-motorists"
   }
  ],
  "world": [
   {
-   "title": "Energy truce questioned",
-   "th": "ทรัมป์ยืนยันรัสเซีย–ยูเครนหยุดโจมตีโรงงานพลังงาน แต่เซเลนสกีระบุรัสเซียโจมตีแล้ว 6 แห่ง; EU ออกมาตรการคว่ำบาตรชุดใหญ่ที่สุด",
-   "en": "Zelenskyy says six energy sites were hit after the truce was announced; EU approves its largest sanctions package since 2022.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes"
+   "title": "IMF lifts global growth to 3.1%",
+   "th": "IMF เผยรายงาน World Economic Outlook ระหว่างประชุมประจำปีที่กรุงเทพฯ ปรับคาดการณ์เศรษฐกิจโลกปี 2026 เป็น 3.1% แต่เตือนความเสี่ยงจากราคาพลังงานและหนี้",
+   "en": "AI investment offsets energy shocks; eurozone seen at 1.1%, India 7.0%, China 4.5%.",
+   "source": "Euronews / CNBC",
+   "url": "https://www.euronews.com/2026/10/13/imf-forecasts-31-global-growth-in-2026-with-eurozone-at-11"
   },
   {
-   "title": "Riyadh airport stays shut",
-   "th": "ซาอุฯ ขยายการปิดสนามบินคิงคาลิดถึงวันเสาร์ หลังกลุ่มฮูตีโจมตีซ้ำ มีผู้เสียชีวิตอย่างน้อย 18 ราย",
-   "en": "Houthi strikes on Saudi airports continue; Trump says the group is \"misbehaving\".",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted"
+   "title": "Missile hits Saudi Aramco HQ",
+   "th": "ขีปนาวุธโจมตีอาคารสำนักงานในเครือ Saudi Aramco ที่ดาห์ราน ชั้นบนสุด 3 ชั้นเสียหายและเกิดไฟไหม้ หลังซาอุฯ โจมตีกรุงซานาของเยเมน",
+   "en": "The Houthis had threatened Aramco after Saudi-led strikes on Sanaa; the war between them is escalating fast.",
+   "source": "The Straits Times / Reuters",
+   "url": "https://www.straitstimes.com/world/middle-east/loud-booms-heard-near-saudi-aramco-headquarters-in-dhahran-sources-say"
   },
   {
-   "title": "Yemen crisis deepens",
-   "th": "UN OCHA: ผู้พลัดถิ่นในเยเมน 216,000 คนตั้งแต่ ส.ค. ส่วนใหญ่จากเมืองไตซ์",
-   "en": "At least 54 civilians killed since August, half of them children.",
-   "source": "CGTN",
-   "url": "https://news.cgtn.com/news/2026-10-13/Saudi-Houthi-strikes-continue-as-Yemen-s-humanitarian-crisis-deepens--1Rcyei1G58Y/p.html"
+   "title": "Russia spares Ukraine's power grid — for now",
+   "th": "รัสเซียโจมตีเมืองต่างๆ ในยูเครน มีผู้เสียชีวิต 4 รายที่คาร์คิฟ แต่ไม่พบการโจมตีโรงไฟฟ้าเป็นครั้งแรกนับจากทรัมป์ประกาศ 'หยุดยิงด้านพลังงาน'",
+   "en": "Zelensky says Ukraine has also paused strikes on Russian refineries; it is unclear if Moscow avoided energy sites on purpose.",
+   "source": "France 24 / Reuters",
+   "url": "https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire"
   },
   {
-   "title": "Tanker hit in Hormuz",
-   "th": "กองกำลังพิทักษ์ปฏิวัติอิหร่านอ้างโจมตีเรือซูเปอร์แท็งเกอร์ในช่องแคบฮอร์มุซ เรือเกิดไฟไหม้",
-   "en": "UK also blames Iran's IRGC for a security scare at RAF Fairford; Tehran denies it.",
-   "source": "Firstpost / Reuters",
-   "url": "https://www.firstpost.com/world/globe-at-a-glance-from-houthi-warning-to-us-to-french-school-shooting-14052326.html"
+   "title": "Drone sinks ship off Bulgaria",
+   "th": "เรือ 2 ลำถูกโดรนโจมตีนอกชายฝั่งบัลแกเรียในทะเลดำ ลำหนึ่งจม นับเป็นเหตุครั้งที่สองในสัปดาห์เดียว นายกฯ ราเดฟเตรียมเรียกทูตรัสเซียพบ",
+   "en": "Crew of the Maltese-flagged Chelsea 3 were rescued; Bulgaria's PM says he will speak with NATO's Mark Rutte.",
+   "source": "Reuters via PerthNow",
+   "url": "https://www.perthnow.com.au/news/conflict/drone-sinks-ship-off-bulgarias-black-sea-coast-c-23012403"
   }
  ],
  "lifestyle": {
-  "title": "The 10-minute rainy-day reset",
-  "body": "ฝนตกทั้งสัปดาห์แบบนี้ ลองตั้งเวลา 10 นาทีหลังเลิกงาน: เปิดไฟสีอุ่น ชงชาร้อน แล้ววางมือถือไว้อีกห้อง ไม่ต้อง scroll ต่อ — คนทำงานโซเชียลก็ต้องการเวลา 'offline' ที่ตั้งใจเหมือนกัน",
+  "title": "The 3-tab rule for busy mornings",
+  "body": "ก่อนเปิดแชทงาน ลองเปิดแค่ 3 แท็บ: ปฏิทินวันนี้ งานที่สำคัญที่สุด 1 ชิ้น และไฟล์ที่ต้องส่งก่อนเที่ยง — ปิดที่เหลือไปก่อน 30 นาที สมองจะได้ 'โฟกัสก่อน ตอบทีหลัง' ไม่โดนแจ้งเตือนลากไปทั้งเช้า",
   "note": "Evergreen tip · not news"
  },
  "word": {
-  "word": "serene",
+  "word": "resilient",
   "pos": "adj.",
-  "ipa": "/səˈriːn/",
-  "th": "สงบ เยือกเย็น",
-  "def": "calm, peaceful, and untroubled.",
-  "ex": "She stayed serene while the comments section caught fire."
+  "ipa": "/rɪˈzɪliənt/",
+  "th": "ฟื้นตัวเร็ว ยืดหยุ่น ไม่ล้มง่าย",
+  "def": "able to recover quickly from difficulties or setbacks.",
+  "ex": "Our engagement stayed resilient even after the algorithm changed."
  },
  "english": {
-  "title": "Asking your boss for a deadline extension",
+  "title": "Pushing back politely on client feedback",
   "dialogue": [
    [
-    "Nadda",
-    "Hi Khun Ploy, do you have a minute?"
-   ],
-   [
-    "Ploy",
-    "Sure, what's up?"
+    "Client",
+    "We'd like to change the key visual to bright red. Can you redo all the posts?"
    ],
    [
     "Nadda",
-    "The client sent new brand guidelines last night, so I need to redo the October content plan."
+    "Thanks for the feedback, Khun Arm. I totally see where you're coming from."
    ],
    [
-    "Ploy",
-    "Oh no. Can you still make Friday?"
-   ],
-   [
-    "Nadda",
-    "Honestly, it'd be tight. Would it be possible to push it to Monday? I'd rather get it right than rush it."
-   ],
-   [
-    "Ploy",
-    "That makes sense. Can you send me a rough draft by Thursday?"
+    "Client",
+    "Red just feels more exciting to us."
    ],
    [
     "Nadda",
-    "Absolutely. I'll keep you posted."
+    "That's fair. One thing to keep in mind, though: the campaign guideline uses navy, and switching now might confuse the audience mid-campaign."
+   ],
+   [
+    "Client",
+    "Hmm, I hadn't thought of that."
+   ],
+   [
+    "Nadda",
+    "How about this — we keep navy as the base and use red as an accent on the CTA. I can mock up both options by tomorrow."
+   ],
+   [
+    "Client",
+    "That works. Let's compare them side by side."
+   ],
+   [
+    "Nadda",
+    "Great, I'll send them over by noon."
    ]
   ],
   "vocab": [
    [
-    "do you have a minute?",
-    "ว่างสักครู่ไหมคะ"
+    "I see where you're coming from",
+    "เข้าใจมุมมองของคุณนะคะ"
    ],
    [
-    "redo",
-    "ทำใหม่"
+    "That's fair",
+    "ก็มีเหตุผลค่ะ"
    ],
    [
-    "make (a deadline)",
-    "ทันกำหนด"
+    "one thing to keep in mind",
+    "มีอีกเรื่องที่อยากให้พิจารณาด้วย"
    ],
    [
-    "it'd be tight",
-    "คงจะเร่งมาก / เวลาค่อนข้างกระชั้น"
+    "mid-campaign",
+    "ระหว่างที่แคมเปญยังดำเนินอยู่"
    ],
    [
-    "push it to Monday",
-    "เลื่อนไปวันจันทร์"
+    "as an accent",
+    "ใช้เป็นสีเน้น / จุดเด่นเล็กๆ"
    ],
    [
-    "rough draft",
-    "ร่างคร่าวๆ"
+    "mock up",
+    "ทำตัวอย่างงานคร่าวๆ"
    ],
    [
-    "I'll keep you posted",
-    "จะคอยอัปเดตให้ทราบนะคะ"
+    "side by side",
+    "เทียบกันแบบข้างๆ กัน"
+   ],
+   [
+    "send them over",
+    "ส่งไปให้"
    ]
   ],
   "tip": {
-   "instead": "Can I send it late?",
-   "better": "Would it be possible to push it to Monday?",
-   "why": "\"Would it be possible…\" ฟังสุภาพและเป็นมืออาชีพกว่า และโฟกัสที่ทางออก ไม่ใช่ปัญหา"
+   "instead": "No, red is not good.",
+   "better": "That's fair. One thing to keep in mind, though, is…",
+   "why": "เริ่มจากยอมรับความเห็นลูกค้าก่อน แล้วค่อยเสนอข้อมูลและทางเลือก — ลูกค้ารู้สึกว่าเราอยู่ทีมเดียวกัน ไม่ได้ถูกปฏิเสธ"
   }
  },
  "know": [
   {
-   "title": "Wan Nawaminthara Maharat",
-   "body": "วันที่ 13 ต.ค. คือวันนวมินทรมหาราช ชื่อนี้ได้รับการรับรองอย่างเป็นทางการในปี 2566 (2023)."
+   "title": "Bangkok hosts the IMF again",
+   "body": "การประชุมประจำปี IMF–ธนาคารโลกปีนี้จัดที่กรุงเทพฯ — ไทยเคยเป็นเจ้าภาพครั้งแรกเมื่อเดือน ต.ค. 1991 (2534) ที่ศูนย์ประชุมแห่งชาติสิริกิติ์ ซึ่งสร้างขึ้นเพื่องานนั้นโดยเฉพาะ"
   },
   {
-   "title": "Why reservoirs matter in October",
-   "body": "October is the tail of the rainy season — dams keep water for the dry months, so high levels mean careful releases downstream along the Chao Phraya."
+   "title": "Flood safety: power first",
+   "body": "ถ้าน้ำเริ่มเข้าบ้าน ให้สับเบรกเกอร์ (cut the main breaker) ก่อนน้ำถึงปลั๊ก และอย่าแตะสวิตช์ไฟขณะตัวเปียกหรือยืนในน้ำ"
   }
  ],
  "on_this_day": [
   {
-   "year": "2016",
-   "text": "King Bhumibol Adulyadej (Rama IX) passed away after a 70-year reign, the longest in Thai history."
+   "year": "1973",
+   "text": "The 14 October uprising: mass student-led protests in Bangkok ended the Thanom Kittikachorn military government — remembered in Thailand as วันมหาวิปโยค."
   },
   {
-   "year": "1792",
-   "text": "The cornerstone of the White House in Washington, D.C. was laid."
+   "year": "1947",
+   "text": "US pilot Chuck Yeager became the first person to fly faster than the speed of sound, in the Bell X-1."
   }
  ],
  "three_things": [
-  "Pack an umbrella — 78% chance of rain",
-  "Send one rough draft before lunch",
-  "10 minutes offline tonight"
+  "Umbrella day — storms likely; check flood routes",
+  "Open only 3 tabs for the first 30 minutes",
+  "Mock up two options instead of arguing one"
  ],
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "weather": {
-  "max": 33,
-  "min": 25,
-  "rain": 78,
-  "uv": 8,
+  "max": 31,
+  "min": 24,
+  "rain": 100,
+  "uv": 3,
   "cond": "Thunderstorms",
-  "humidity": 58,
+  "humidity": 96,
   "source": "Open-Meteo",
-  "fetched": "13:18"
+  "fetched": "06:58"
  },
  "wordsearch": {
   "grid": [
-   "LMSPVRKJCP",
-   "MMEVOOKTAV",
-   "EERWKSBPLC",
-   "RGEGTDTYMD",
-   "AMNKJKAMAG",
-   "IAEINDTEII",
-   "BWBONFTFHG",
-   "MNIOAGGJJD",
-   "DRMRARAINP",
-   "WSDMRJYATD"
+   "YKOCWVPEJW",
+   "ICLIENTMDO",
+   "OKVRGROWTH",
+   "TAWSVIPTYD",
+   "FPITCHDTKE",
+   "LSYYTRUCEW",
+   "OGHFBUIKYD",
+   "ORESILIENT",
+   "DMODRAINFO",
+   "PNAOCTOBER"
   ],
   "words": [
    {
-    "word": "BANGKOK",
+    "word": "RESILIENT",
     "cells": [
+     [
+      7,
+      1
+     ],
+     [
+      7,
+      2
+     ],
+     [
+      7,
+      3
+     ],
+     [
+      7,
+      4
+     ],
+     [
+      7,
+      5
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      7,
+      7
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      7,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "OCTOBER",
+    "cells": [
+     [
+      9,
+      3
+     ],
+     [
+      9,
+      4
+     ],
+     [
+      9,
+      5
+     ],
+     [
+      9,
+      6
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      8
+     ],
+     [
+      9,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "GROWTH",
+    "cells": [
+     [
+      2,
+      4
+     ],
+     [
+      2,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      2,
+      8
+     ],
+     [
+      2,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "CLIENT",
+    "cells": [
+     [
+      1,
+      1
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      1,
+      3
+     ],
+     [
+      1,
+      4
+     ],
+     [
+      1,
+      5
+     ],
+     [
+      1,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "FLOOD",
+    "cells": [
+     [
+      4,
+      0
+     ],
+     [
+      5,
+      0
+     ],
      [
       6,
       0
      ],
      [
-      5,
+      7,
+      0
+     ],
+     [
+      8,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "PITCH",
+    "cells": [
+     [
+      4,
       1
      ],
      [
@@ -216,109 +377,30 @@
       2
      ],
      [
-      3,
+      4,
       3
      ],
      [
-      2,
+      4,
       4
      ],
      [
-      1,
-      5
-     ],
-     [
-      0,
-      6
-     ]
-    ]
-   },
-   {
-    "word": "SERENE",
-    "cells": [
-     [
-      0,
-      2
-     ],
-     [
-      1,
-      2
-     ],
-     [
-      2,
-      2
-     ],
-     [
-      3,
-      2
-     ],
-     [
       4,
-      2
-     ],
-     [
-      5,
-      2
-     ]
-    ]
-   },
-   {
-    "word": "MONDAY",
-    "cells": [
-     [
-      8,
-      2
-     ],
-     [
-      7,
-      3
-     ],
-     [
-      6,
-      4
-     ],
-     [
-      5,
       5
-     ],
-     [
-      4,
-      6
-     ],
-     [
-      3,
-      7
      ]
     ]
    },
    {
-    "word": "DRAFT",
+    "word": "DRAIN",
     "cells": [
-     [
-      9,
-      2
-     ],
      [
       8,
       3
      ],
      [
-      7,
+      8,
       4
      ],
-     [
-      6,
-      5
-     ],
-     [
-      5,
-      6
-     ]
-    ]
-   },
-   {
-    "word": "RAIN",
-    "cells": [
      [
       8,
       5
@@ -330,60 +412,22 @@
      [
       8,
       7
-     ],
-     [
-      8,
-      8
      ]
     ]
    },
    {
-    "word": "POST",
+    "word": "TRUCE",
     "cells": [
      [
-      0,
-      3
-     ],
-     [
-      1,
+      5,
       4
      ],
      [
-      2,
+      5,
       5
      ],
      [
-      3,
-      6
-     ]
-    ]
-   },
-   {
-    "word": "CALM",
-    "cells": [
-     [
-      0,
-      8
-     ],
-     [
-      1,
-      8
-     ],
-     [
-      2,
-      8
-     ],
-     [
-      3,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "TEA",
-    "cells": [
-     [
-      6,
+      5,
       6
      ],
      [
@@ -391,7 +435,7 @@
       7
      ],
      [
-      4,
+      5,
       8
      ]
     ]
@@ -401,102 +445,102 @@
  "sudoku": {
   "puzzle": [
    [
-    1,
-    6,
+    5,
+    0,
     4,
+    0,
+    0,
+    0
+   ],
+   [
+    6,
+    0,
+    0,
+    5,
+    0,
+    4
+   ],
+   [
+    2,
+    0,
+    0,
+    1,
+    0,
+    6
+   ],
+   [
+    1,
+    0,
+    6,
     0,
     0,
     5
    ],
    [
-    0,
-    0,
-    0,
-    0,
-    6,
-    4
-   ],
-   [
-    4,
     3,
     0,
-    0,
-    0,
-    0
-   ],
-   [
-    5,
     1,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    0,
     4,
-    0,
-    2,
-    5,
-    1
+    6,
+    2
    ],
    [
     0,
     0,
-    1,
-    6,
     0,
-    0
+    3,
+    0,
+    1
    ]
   ],
   "solution": [
    [
+    5,
     1,
-    6,
     4,
-    3,
+    6,
     2,
+    3
+   ],
+   [
+    6,
+    2,
+    3,
+    5,
+    1,
+    4
+   ],
+   [
+    2,
+    3,
+    5,
+    1,
+    4,
+    6
+   ],
+   [
+    1,
+    4,
+    6,
+    2,
+    3,
     5
    ],
    [
     3,
-    2,
     5,
     1,
-    6,
-    4
-   ],
-   [
     4,
-    3,
-    2,
-    5,
-    1,
-    6
-   ],
-   [
-    5,
-    1,
     6,
-    4,
-    3,
     2
    ],
    [
-    6,
     4,
-    3,
+    6,
     2,
+    3,
     5,
     1
-   ],
-   [
-    2,
-    5,
-    1,
-    6,
-    4,
-    3
    ]
   ]
  }
