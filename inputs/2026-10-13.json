@@ -1,0 +1,51 @@
+{
+ "issue_no": 1,
+ "tagline": "เช้านี้ อ่านช้าๆ · Slow news for a busy mind",
+ "thailand": [
+  {"lead": true, "title": "Heavy-rain warning for West & South", "th": "เตือนฝนหนักภาคตะวันตกและภาคใต้ 13–18 ต.ค. จับตาอุทัยธานี เพชรบุรี และหลายจังหวัดภาคใต้", "en": "The Joint Information and Communication Center told western and southern provinces to prepare for heavy rain Oct 13–18; TMD also warns of waves above 2 m.", "source": "The Nation / Bernama", "url": "https://www.nationthailand.com/news/general/40072179"},
+  {"title": "Reservoirs at 82% capacity", "th": "เขื่อนทั่วประเทศรับน้ำแล้ว 82% อ่างฯ หนองปลาไหลเกิน 105% เขื่อนเจ้าพระยาระบาย 1,900 ลบ.ม./วินาที", "en": "ONWR says Nong Pla Lai is at 105%; isolated heavy rain Oct 14–16 could add pressure upstream.", "source": "The Nation", "url": "https://www.nationthailand.com/news/general/40072187"},
+  {"title": "Tribute to King Rama IX", "th": "นายกฯ อนุทิน นำ ครม. วางพวงมาลา วันนวมินทรมหาราช ณ สวนสาธารณะเฉลิมพระเกียรติฯ ถ.พิษณุโลก", "en": "Cabinet laid wreaths at 8.30am in Dusit to mark the anniversary of the late King's passing (2016).", "source": "The Nation", "url": "https://www.nationthailand.com/news/general/40072189"},
+  {"title": "House passes amnesty bill", "th": "สภาฯ ผ่านร่าง พ.ร.บ.นิรโทษกรรม 306–141 เสียง ครอบคลุมราว 6,000 คน แต่ไม่รวมคดี ม.112", "en": "The bill could clear charges tied to two decades of political conflict; exclusion of Section 112 cases sparks debate.", "source": "Thai Times", "url": "https://thaitimes.com/thailand-house-passes-political-amnesty-bill-covering-thousands-linked-to-past-unrest"},
+  {"title": "\"AI for all\" push", "th": "รองนายกฯ เอกนิติ ชูนโยบาย AI เพื่อทุกคน เน้นงานที่ดีขึ้นและทักษะที่แข็งแรงขึ้น", "en": "Finance Minister Ekniti says better jobs, stronger skills and wider access to AI are priorities.", "source": "Bangkok Post via Bernama", "url": "https://asean.bernama.com/news.php?id=2619353"}
+ ],
+ "world": [
+  {"title": "Energy truce questioned", "th": "ทรัมป์ยืนยันรัสเซีย–ยูเครนหยุดโจมตีโรงงานพลังงาน แต่เซเลนสกีระบุรัสเซียโจมตีแล้ว 6 แห่ง; EU ออกมาตรการคว่ำบาตรชุดใหญ่ที่สุด", "en": "Zelenskyy says six energy sites were hit after the truce was announced; EU approves its largest sanctions package since 2022.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes"},
+  {"title": "Riyadh airport stays shut", "th": "ซาอุฯ ขยายการปิดสนามบินคิงคาลิดถึงวันเสาร์ หลังกลุ่มฮูตีโจมตีซ้ำ มีผู้เสียชีวิตอย่างน้อย 18 ราย", "en": "Houthi strikes on Saudi airports continue; Trump says the group is \"misbehaving\".", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted"},
+  {"title": "Yemen crisis deepens", "th": "UN OCHA: ผู้พลัดถิ่นในเยเมน 216,000 คนตั้งแต่ ส.ค. ส่วนใหญ่จากเมืองไตซ์", "en": "At least 54 civilians killed since August, half of them children.", "source": "CGTN", "url": "https://news.cgtn.com/news/2026-10-13/Saudi-Houthi-strikes-continue-as-Yemen-s-humanitarian-crisis-deepens--1Rcyei1G58Y/p.html"},
+  {"title": "Tanker hit in Hormuz", "th": "กองกำลังพิทักษ์ปฏิวัติอิหร่านอ้างโจมตีเรือซูเปอร์แท็งเกอร์ในช่องแคบฮอร์มุซ เรือเกิดไฟไหม้", "en": "UK also blames Iran's IRGC for a security scare at RAF Fairford; Tehran denies it.", "source": "Firstpost / Reuters", "url": "https://www.firstpost.com/world/globe-at-a-glance-from-houthi-warning-to-us-to-french-school-shooting-14052326.html"}
+ ],
+ "lifestyle": {"title": "The 10-minute rainy-day reset", "body": "ฝนตกทั้งสัปดาห์แบบนี้ ลองตั้งเวลา 10 นาทีหลังเลิกงาน: เปิดไฟสีอุ่น ชงชาร้อน แล้ววางมือถือไว้อีกห้อง ไม่ต้อง scroll ต่อ — คนทำงานโซเชียลก็ต้องการเวลา 'offline' ที่ตั้งใจเหมือนกัน", "note": "Evergreen tip · not news"},
+ "word": {"word": "serene", "pos": "adj.", "ipa": "/səˈriːn/", "th": "สงบ เยือกเย็น", "def": "calm, peaceful, and untroubled.", "ex": "She stayed serene while the comments section caught fire."},
+ "english": {
+  "title": "Asking your boss for a deadline extension",
+  "dialogue": [
+   ["Nadda","Hi Khun Ploy, do you have a minute?"],
+   ["Ploy","Sure, what's up?"],
+   ["Nadda","The client sent new brand guidelines last night, so I need to redo the October content plan."],
+   ["Ploy","Oh no. Can you still make Friday?"],
+   ["Nadda","Honestly, it'd be tight. Would it be possible to push it to Monday? I'd rather get it right than rush it."],
+   ["Ploy","That makes sense. Can you send me a rough draft by Thursday?"],
+   ["Nadda","Absolutely. I'll keep you posted."]
+  ],
+  "vocab": [
+   ["do you have a minute?","ว่างสักครู่ไหมคะ"],
+   ["redo","ทำใหม่"],
+   ["make (a deadline)","ทันกำหนด"],
+   ["it'd be tight","คงจะเร่งมาก / เวลาค่อนข้างกระชั้น"],
+   ["push it to Monday","เลื่อนไปวันจันทร์"],
+   ["rough draft","ร่างคร่าวๆ"],
+   ["I'll keep you posted","จะคอยอัปเดตให้ทราบนะคะ"]
+  ],
+  "tip": {"instead":"Can I send it late?","better":"Would it be possible to push it to Monday?","why":"\"Would it be possible…\" ฟังสุภาพและเป็นมืออาชีพกว่า และโฟกัสที่ทางออก ไม่ใช่ปัญหา"}
+ },
+ "know": [
+  {"title":"Wan Nawaminthara Maharat","body":"วันที่ 13 ต.ค. คือวันนวมินทรมหาราช ชื่อนี้ได้รับการรับรองอย่างเป็นทางการในปี 2566 (2023)."},
+  {"title":"Why reservoirs matter in October","body":"October is the tail of the rainy season — dams keep water for the dry months, so high levels mean careful releases downstream along the Chao Phraya."}
+ ],
+ "on_this_day": [
+  {"year":"2016","text":"King Bhumibol Adulyadej (Rama IX) passed away after a 70-year reign, the longest in Thai history."},
+  {"year":"1792","text":"The cornerstone of the White House in Washington, D.C. was laid."}
+ ],
+ "three_things": ["Pack an umbrella — 78% chance of rain","Send one rough draft before lunch","10 minutes offline tonight"],
+ "wordsearch_words": ["SERENE","RAIN","TEA","DRAFT","POST","CALM","BANGKOK","MONDAY"]
+}
