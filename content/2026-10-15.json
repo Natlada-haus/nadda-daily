@@ -1,0 +1,533 @@
+{
+ "issue_no": 3,
+ "tagline": "เช้านี้ อ่านช้าๆ · Slow news for a busy mind",
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Cool season is coming, but the South braces for rain",
+   "th": "กรมอุตุฯ เผยทิศทางลมภาคเหนือเริ่มเปลี่ยน สัญญาณเข้าฤดูหนาว (อาจชัดขึ้นหลัง 20 ต.ค.) แต่ช่วง 23–27 ต.ค. ภาคใต้ เช่น สุราษฎร์ธานี นครศรีธรรมราช สงขลา ต้องเตรียมรับฝนหนัก น้ำป่า และคลื่นลมแรง",
+   "en": "The Met Department says rain eases in the upper country but rises in Bangkok, the Central region, the East and the South over the next two weeks.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3337023/southern-thailand-braces-for-heavy-rain"
+  },
+  {
+   "title": "No drones over Bangkok this Friday",
+   "th": "ตำรวจจับผู้ต้องหา 587 รายใน 25 จังหวัดเพื่อรักษาความปลอดภัยการประชุม IMF–ธนาคารโลก และ กพท. ห้ามบินโดรนในกรุงเทพฯ ตลอดวันศุกร์ (16 ต.ค.) 00.01–23.59 น.",
+   "en": "Police in three provincial regions made the arrests on Tuesday to prevent crime affecting the meetings.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3336860/nearly-600-arrests-carried-out-to-secure-imfworld-bank-meetings"
+  },
+  {
+   "title": "Swiss president visits, first in 22 years",
+   "th": "ประธานาธิบดีสวิตเซอร์แลนด์ กี ปาร์เมอแลง เยือนไทยอย่างเป็นทางการ 15–17 ต.ค. ตามคำเชิญนายกฯ อนุทิน หารือการค้า การลงทุน และ FTA ไทย–EFTA ในโอกาสครบ 95 ปีความสัมพันธ์",
+   "en": "PM Anutin hosts a welcome ceremony at Government House on Thursday, followed by talks and a joint press conference.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3337018/swiss-president-to-visit-thailand"
+  },
+  {
+   "title": "High-water alert in eastern Bangkok",
+   "th": "กทม. เตือนชาวบ้านริมคลองหลวงแพ่ง (หนองจอก ลาดกระบัง) เฝ้าระวังระดับน้ำ หลังกรมชลฯ เปิดประตูระบายน้ำ 50 ซม. แจ้งเหตุได้ทาง LINE @traffyfondue หรือสายด่วน 1555",
+   "en": "The sluice was opened to drain water from Nong Chok and Chachoengsao into Khlong Prawet Buri Rom.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3336973/highwater-alert-at-khlong-luang-phaeng-in-bangkok"
+  }
+ ],
+ "world": [
+  {
+   "title": "US inflation jumps to 3.7%",
+   "th": "ดัชนีราคาผู้บริโภคสหรัฐฯ เดือน ก.ย. สูงขึ้น 3.7% ต่อปี จากราคาน้ำมันที่พุ่งเพราะสงครามอิหร่าน ตลาดให้โอกาสเฟดขึ้นดอกเบี้ยในการประชุม 27–28 ต.ค. เพิ่มเป็นราว 54%",
+   "en": "Core CPI rose 2.6%; stocks fell and yields jumped after the release.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+  },
+  {
+   "title": "Kyiv loses power after missile strike",
+   "th": "ขีปนาวุธและโดรนรัสเซียโจมตีกรุงเคียฟ มีผู้เสียชีวิตอย่างน้อย 3 ราย บาดเจ็บ 22 ราย โรงไฟฟ้าเสียหาย ประชาชนกว่า 600,000 รายไม่มีไฟใช้",
+   "en": "The strike hit a plant supplying the capital with heat and electricity.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/10/14"
+  },
+  {
+   "title": "Houthi attack hits Saudi Aramco",
+   "th": "อาคารของ Aramco ที่ดาห์รานเกิดไฟไหม้ และมีผู้บาดเจ็บ 4 รายจากเศษขีปนาวุธในริยาด หลังการโจมตีสนามบินซานาคร่าชีวิต 13 ราย ทรัมป์ตำหนิฮูตี",
+   "en": "It is the latest round in a fast-escalating Saudi–Houthi conflict.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/10/14"
+  },
+  {
+   "title": "Haze from Indonesia chokes the region",
+   "th": "ไฟป่าอินโดนีเซียทำให้ค่า PM2.5 ฝั่งตะวันตกของสิงคโปร์ขึ้นถึง 284 สูงสุดของปี ติมอร์-เลสเตปิดโรงเรียนทั่วประเทศ 3 วันตั้งแต่ 15 ต.ค. และหลายรัฐในมาเลเซียปิดโรงเรียน",
+   "en": "Singapore's reading hit the 'very high' band.",
+   "source": "New Straits Times",
+   "url": "https://www.nst.com.my/world/region/2026/10/1555328/singapore-pollution-spikes-east-timor-shuts-schools-indonesia-wildfire"
+  }
+ ],
+ "social": [
+  {
+   "title": "Facebook ‘Your Algorithm’: users type what they want",
+   "th": "Facebook เริ่มปล่อย Your Algorithm (13 ต.ค.) ให้ผู้ใช้เพิ่ม/จัดการหัวข้อที่อยากเห็นใน Feed และ Reels และพิมพ์อธิบายความสนใจเป็นภาษาธรรมดาได้ ระบบใช้ LLM อัปเดตคำแนะนำแบบเรียลไทม์",
+   "why": "คนดูเลือกหัวข้อเองได้ชัดขึ้น โพสต์แบรนด์ต้องสื่อหัวข้อชัด (เช่น รถ EV, ครอบครัว, ออฟโรด) เพื่อให้ตรงกับที่ผู้ใช้พิมพ์ขอ",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
+  },
+  {
+   "title": "Instagram tests Reels inside the Home feed",
+   "th": "Instagram ทดสอบให้ผู้ใช้เลือกเปิดดู Reels ในหน้า Home ได้โดยตรง เสียงเล่นอัตโนมัติ ยังสลับกลับไปฟีดเดิมหรือปิดได้ — ยังเป็นการทดสอบ",
+   "why": "IG กำลังเอนไปทางวิดีโอเต็มตัว แผนคอนเทนต์ลูกค้าควรมี Reels ที่ 3 วินาทีแรกดึงคนได้แม้มีเสียงเปิดเอง",
+   "source": "PR Daily",
+   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-62/"
+  },
+  {
+   "title": "Meta’s new AI ad tools from Advertising Week",
+   "th": "Meta ขยาย Ads Creative Studio, ให้บรรยายกลุ่มเป้าหมายเป็นภาษาธรรมดาแทนการเลือกจากเมนู, เพิ่มเครื่องมือแปลงภาพนิ่ง/แคตตาล็อกเป็นวิดีโอโฆษณา และเปิดตัวช่วยซื้อของใน Messenger",
+   "why": "บรีฟ targeting เขียนเป็นประโยคได้แล้ว — ลองใช้ persona ที่ทีมมีอยู่แล้ว (เช่น สายแคมป์ปิ้ง TANK) มาทดสอบ",
+   "source": "PR Daily",
+   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-62/"
+  },
+  {
+   "title": "TikTok adds AI agents for leads and shopping",
+   "th": "TikTok เปิดตัว Agentic Leads (AI คุยกับลูกค้าใน DM/ฟอร์มเพื่อคัดลีด), Buy Direct กับ Shopping Assistant และ Smart+ Creative Selection ที่รวมครีเอทีฟทุกแหล่งไว้อนุมัติที่เดียว",
+   "why": "ถ้ามาถึงไทย ใช้กับแคมเปญจองเทสต์ไดรฟ์ได้ — คัดลีดผ่าน DM อัตโนมัติ ลดงานแอดมิน",
+   "source": "TikTok Newsroom",
+   "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en"
+  },
+  {
+   "title": "‘AI ผลไม้นอกใจ’ clips take over TikTok & Reels",
+   "th": "คลิป AI ผลไม้มีชีวิต เช่น แอปเปิลร้องไห้เพราะโดนนอกใจ กล้วยทะเลาะกับสตรอว์เบอร์รี กำลังระบาดบน TikTok และ Facebook Reels ผู้ก่อตั้ง The Marketine มองว่าเป็นสัญญาณคอนเทนต์ยุค Attention Economy ที่แข่งกันหยุดนิ้วคนดู",
+   "why": "ฟอร์แมตดราม่าสั้น + ตัวละครไม่ใช่คน ลองดัดแปลงเป็นซีรีส์สั้นให้แบรนด์ได้ แต่ต้องระวังเรื่องติดป้าย AI และโทนแบรนด์",
+   "source": "บ้านเมือง",
+   "url": "https://www.banmuang.co.th/news/marketing/476084"
+  }
+ ],
+ "lifestyle": {
+  "title": "The 2-minute desk reset",
+  "body": "ก่อนเลิกงาน ใช้ 2 นาทีเก็บโต๊ะ: ปิดแท็บที่จบแล้ว จดงานแรกของพรุ่งนี้ลงโพสต์อิท 1 แผ่น แล้ววางไว้บนคีย์บอร์ด — เช้ามาจะเริ่มงานได้ทันทีไม่ต้องนั่งนึกว่าค้างอะไรไว้",
+  "note": "Evergreen tip · not news"
+ },
+ "word": {
+  "word": "nuance",
+  "pos": "n.",
+  "ipa": "/ˈnuːɑːns/",
+  "th": "ความแตกต่างเล็กๆ ที่ละเอียดอ่อน",
+  "def": "a subtle difference in meaning, expression, or tone.",
+  "ex": "The caption works, but the Thai version loses a bit of nuance."
+ },
+ "english": {
+  "title": "Asking for a deadline extension",
+  "dialogue": [
+   [
+    "Nadda",
+    "Hi Khun Ploy, quick heads-up about the monthly report."
+   ],
+   [
+    "Client",
+    "Sure, what's up?"
+   ],
+   [
+    "Nadda",
+    "The platform data came in later than expected, so I'd like to ask for one extra day to double-check the numbers."
+   ],
+   [
+    "Client",
+    "Hmm, we were hoping to see it today."
+   ],
+   [
+    "Nadda",
+    "Totally understand. I can send you the key highlights by 5 pm today, and the full report first thing tomorrow."
+   ],
+   [
+    "Client",
+    "That sounds reasonable."
+   ],
+   [
+    "Nadda",
+    "Thanks so much for your flexibility. I'd rather get it right than rush it."
+   ],
+   [
+    "Client",
+    "Agreed. Talk tomorrow!"
+   ]
+  ],
+  "vocab": [
+   [
+    "quick heads-up",
+    "ขอแจ้งให้ทราบล่วงหน้าสั้นๆ"
+   ],
+   [
+    "later than expected",
+    "ช้ากว่าที่คาดไว้"
+   ],
+   [
+    "double-check",
+    "ตรวจสอบซ้ำ"
+   ],
+   [
+    "key highlights",
+    "ประเด็นสำคัญ"
+   ],
+   [
+    "first thing tomorrow",
+    "พรุ่งนี้เช้าเป็นอย่างแรก"
+   ],
+   [
+    "That sounds reasonable",
+    "ฟังดูสมเหตุสมผลนะ"
+   ],
+   [
+    "flexibility",
+    "ความยืดหยุ่น"
+   ],
+   [
+    "rather get it right than rush it",
+    "อยากทำให้ถูกต้องมากกว่ารีบส่ง"
+   ]
+  ],
+  "tip": {
+   "instead": "Sorry, I can't finish today.",
+   "better": "I'd like to ask for one extra day. In the meantime, I can send…",
+   "why": "ขอเวลาเพิ่มพร้อมเสนอสิ่งที่ให้ได้ทันที ลูกค้าจะรู้สึกว่างานยังเดินอยู่ ไม่ได้ถูกเลื่อนเฉยๆ"
+  }
+ },
+ "know": [
+  {
+   "title": "Why Bangkok bans drones on big days",
+   "body": "เวลามีประชุมระดับโลกหรือพิธีสำคัญ กพท. มักประกาศห้ามบินโดรนชั่วคราวในพื้นที่ — ถ้าทีมมีแผนถ่ายวิดีโอทางอากาศวันศุกร์นี้ในกรุงเทพฯ ต้องเลื่อนนะ"
+  },
+  {
+   "title": "PM2.5 numbers, simply",
+   "body": "ค่า PM2.5 เกิน 37.5 µg/m³ (เกณฑ์เฉลี่ย 24 ชม. ของไทย) ถือว่าเริ่มมีผลต่อสุขภาพ — ค่าที่สิงคโปร์วัดได้ 284 สูงกว่านั้นหลายเท่า"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1582",
+   "text": "The Gregorian calendar took effect in Italy, Spain and other Catholic countries: the day after Oct 4 was Oct 15, skipping ten days."
+  },
+  {
+   "year": "1997",
+   "text": "NASA's Cassini spacecraft launched toward Saturn, which it went on to study for 13 years."
+  }
+ ],
+ "three_things": [
+  "Umbrella still — rain picks up around Bangkok",
+  "Send highlights first if a report runs late",
+  "No drone shots in Bangkok on Friday"
+ ],
+ "date": "2026-10-15",
+ "weather": {
+  "max": 31,
+  "min": 25,
+  "rain": 86,
+  "uv": 8,
+  "cond": "Showers",
+  "humidity": 98,
+  "source": "Open-Meteo",
+  "fetched": "06:23"
+ },
+ "wordsearch": {
+  "grid": [
+   "LEYHLYYFST",
+   "KBEAPUWLFJ",
+   "NFYEFEEDTH",
+   "FFZOCECVAU",
+   "MAJNREIOKW",
+   "HIADRONEOE",
+   "OUNNHGCCVL",
+   "NUINURBMFF",
+   "KAKSWISSSV",
+   "RJSGITCBRC"
+  ],
+  "words": [
+   {
+    "word": "NUANCE",
+    "cells": [
+     [
+      7,
+      0
+     ],
+     [
+      6,
+      1
+     ],
+     [
+      5,
+      2
+     ],
+     [
+      4,
+      3
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      2,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "DRONE",
+    "cells": [
+     [
+      5,
+      3
+     ],
+     [
+      5,
+      4
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "REELS",
+    "cells": [
+     [
+      4,
+      4
+     ],
+     [
+      3,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      1,
+      7
+     ],
+     [
+      0,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "SWISS",
+    "cells": [
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      8,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "HAZE",
+    "cells": [
+     [
+      5,
+      0
+     ],
+     [
+      4,
+      1
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      2,
+      3
+     ]
+    ]
+   },
+   {
+    "word": "FEED",
+    "cells": [
+     [
+      2,
+      4
+     ],
+     [
+      2,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "RAIN",
+    "cells": [
+     [
+      9,
+      0
+     ],
+     [
+      8,
+      1
+     ],
+     [
+      7,
+      2
+     ],
+     [
+      6,
+      3
+     ]
+    ]
+   },
+   {
+    "word": "COOL",
+    "cells": [
+     [
+      3,
+      6
+     ],
+     [
+      4,
+      7
+     ],
+     [
+      5,
+      8
+     ],
+     [
+      6,
+      9
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    4,
+    0,
+    5,
+    0,
+    1,
+    0
+   ],
+   [
+    3,
+    1,
+    0,
+    4,
+    6,
+    5
+   ],
+   [
+    6,
+    0,
+    0,
+    0,
+    0,
+    4
+   ],
+   [
+    0,
+    2,
+    0,
+    6,
+    0,
+    3
+   ],
+   [
+    0,
+    0,
+    1,
+    0,
+    0,
+    6
+   ],
+   [
+    2,
+    0,
+    6,
+    0,
+    0,
+    1
+   ]
+  ],
+  "solution": [
+   [
+    4,
+    6,
+    5,
+    3,
+    1,
+    2
+   ],
+   [
+    3,
+    1,
+    2,
+    4,
+    6,
+    5
+   ],
+   [
+    6,
+    5,
+    3,
+    1,
+    2,
+    4
+   ],
+   [
+    1,
+    2,
+    4,
+    6,
+    5,
+    3
+   ],
+   [
+    5,
+    3,
+    1,
+    2,
+    4,
+    6
+   ],
+   [
+    2,
+    4,
+    6,
+    5,
+    3,
+    1
+   ]
+  ]
+ }
+}
