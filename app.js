@@ -9,6 +9,7 @@ async function load(){
   }
   throw new Error('no content');
 }
+const pulse = s => `<div class="brief pulse"><h3>${esc(s.title)}</h3><p lang="th">${esc(s.th)}</p><p class="why"><b>ทำไมต้องรู้ ·</b> ${esc(s.why)}</p><p class="src">— <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.source)}</a></p></div>`;
 const brief = b => `<div class="brief ${b.lead?'lead':''}"><h3>${esc(b.title)}</h3><p lang="th">${esc(b.th)}</p><p class="en">${esc(b.en)}</p><p class="src">— <a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.source)}</a></p></div>`;
 
 load().then(d => {
@@ -28,6 +29,7 @@ load().then(d => {
    </div>
    <div class="col">
     <section><h2>The World in Brief <small>ต่างประเทศ</small></h2>${d.world.map(brief).join('')}</section>
+    ${(d.social||[]).length?`<section class="social"><h2>Social Pulse <small>โซเชียลวันนี้</small></h2>${d.social.map(pulse).join('')}</section>`:''}
     <section class="english"><h2>English, Gently <small>ภาษาอังกฤษ</small></h2><h3>${esc(e.title)}</h3>
      <div class="dialog">${e.dialogue.map(([s,t])=>`<p><b>${esc(s)}:</b> ${esc(t)}</p>`).join('')}</div>
      <ul class="vocab">${e.vocab.map(([en,th])=>`<li>${esc(en)}<span class="th">${esc(th)}</span></li>`).join('')}</ul>

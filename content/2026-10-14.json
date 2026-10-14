@@ -69,6 +69,43 @@
    "url": "https://www.perthnow.com.au/news/conflict/drone-sinks-ship-off-bulgarias-black-sea-coast-c-23012403"
   }
  ],
+ "social": [
+  {
+   "title": "Instagram Edits now builds carousels",
+   "th": "แอป Edits ของ Instagram เพิ่มตัวทำ Carousel ผสมรูปและวิดีโอบนแคนวาสเดียว ใช้เลย์เอาต์ ฟอนต์/สไตล์ข้อความของ Edits และสติกเกอร์ไดคัทได้ โพสต์ลง IG ได้ทันที — ตอนนี้มีเฉพาะ iOS, Android ‘เร็วๆ นี้’ (เปิดตัว 7 ต.ค.)",
+   "why": "ทำ carousel ลูกค้าจบในแอปเดียว ลดขั้นตอน Canva → IG ได้ ลองทดสอบบน iPhone ทีมก่อน",
+   "source": "PetaPixel",
+   "url": "https://petapixel.com/2026/10/07/instagram-edits-now-lets-you-make-custom-photo-and-video-carousels/"
+  },
+  {
+   "title": "‘Ask YouTube’ AI search goes to all US mobile users",
+   "th": "YouTube ขยาย Ask YouTube การค้นหาแบบถามตอบด้วย AI (Gemini) ให้ผู้ใช้ในสหรัฐฯ ทุกคนบนมือถือ เว็บ และทีวี ถามคำถามยาวๆ และถามต่อเพื่อกรองผลได้ ยังไม่มีกำหนดประเทศอื่น",
+   "why": "สัญญาณว่า search บนวิดีโอจะเป็นแบบบทสนทนา — คอนเทนต์ที่ตอบคำถามชัด มี chapter/timestamp จะได้เปรียบเมื่อมาถึงไทย",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/10/13/ask-youtube-rolls-out-on-mobile/"
+  },
+  {
+   "title": "LINE ‘Scroll Preview’: read without marking as read",
+   "th": "LINE เปิดฟีเจอร์ Scroll Preview ใน LINE Labs (เวอร์ชัน 26.15.0+) กดค้างที่แชทเพื่อเลื่อนอ่านข้อความย้อนหลังโดยไม่ขึ้น ‘อ่านแล้ว’ รองรับ Android แล้ว ใช้ได้กับ Official Account ด้วย ฟรีช่วงทดลอง ก่อนจะย้ายไปเป็นสิทธิ์ LYP Premium",
+   "why": "ลูกค้าอาจอ่านข้อความ LINE OA ของแบรนด์โดยไม่ขึ้นอ่าน — อย่าใช้สถานะ ‘อ่านแล้ว’ เป็นตัววัดผลบรอดแคสต์",
+   "source": "ASCII.jp",
+   "url": "https://ascii.jp/en/elem/000/004/442/4442113/"
+  },
+  {
+   "title": "ZON’s ‘ท่าวิ่งที่ทุกคนขอ’ goes global",
+   "th": "ท่าวิ่งอยู่กับที่สไตล์ Fake Run/Glitch Run ของ ZON กลายเป็นไวรัล ศิลปินและเพจไทยแห่ทำตาม จนช่อง TikTok ทางการของ Juventus และ Liverpool หยิบไปเล่นช่วงต้นเดือนตุลาคม",
+   "why": "มีมไทยที่แบรนด์ระดับโลกยังเล่น — ยังทันใช้กับแบรนด์ลูกค้า ถ้าทำเร็วและเข้ากับคาแรกเตอร์แบรนด์",
+   "source": "Marketing Oops!",
+   "url": "https://www.marketingoops.com/news/viral-update/zon-running-meme/"
+  },
+  {
+   "title": "Backlash over phone taped to a moving BTS",
+   "th": "ครีเอเตอร์ต่างชาติโพสต์คลิป TikTok/IG แปะโทรศัพท์ไว้ข้างขบวน BTS ที่สถานีสุรศักดิ์ขณะรถออก ชาวเน็ตไทยวิจารณ์เรื่องความปลอดภัยและกฎ BTS บางส่วนตั้งข้อสงสัยว่าคลิปจัดฉาก",
+   "why": "เตือนใจเรื่อง brand safety — ตรวจคอนเทนต์ครีเอเตอร์ก่อนร่วมงาน และระวัง trend แนวสตันต์ในพื้นที่สาธารณะ",
+   "source": "Thaiger",
+   "url": "https://thethaiger.com/news/bangkok/foreign-tiktoker-criticised-after-he-tapes-phone-to-moving-bts"
+  }
+ ],
  "lifestyle": {
   "title": "The 3-tab rule for busy mornings",
   "body": "ก่อนเปิดแชทงาน ลองเปิดแค่ 3 แท็บ: ปฏิทินวันนี้ งานที่สำคัญที่สุด 1 ชิ้น และไฟล์ที่ต้องส่งก่อนเที่ยง — ปิดที่เหลือไปก่อน 30 นาที สมองจะได้ 'โฟกัสก่อน ตอบทีหลัง' ไม่โดนแจ้งเตือนลากไปทั้งเช้า",

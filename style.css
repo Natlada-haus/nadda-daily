@@ -60,3 +60,4 @@ footer{border-top:2px solid var(--rule);margin-top:10px;padding-top:6px;font-siz
  .btn{display:none}.mast h1{font-size:54pt}section{padding:5px 0 8px;break-inside:avoid}
  .answers .flip{transform:rotate(180deg)!important}
 }
+.social .why{font-size:14px;margin:3px 0;padding-left:8px;border-left:2px solid var(--rule)}.social .why b{font-weight:600}

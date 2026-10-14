@@ -4,7 +4,10 @@
 Daily routine:
  1. An agent (or you) researches REAL news with web search and writes
     inputs/YYYY-MM-DD.json (same shape as inputs/2026-10-13.json):
-    thailand[], world[] (each with title, th, en, source, url), lifestyle,
+    thailand[], world[] (each with title, th, en, source, url),
+    social[] ('Social Pulse': 4-6 real items from the last few days on
+    platform changes, Thai/global social trends, viral formats, brand
+    campaigns; each with title, th, why ('why it matters for me'), source, url), lifestyle,
     word, english, know, on_this_day, three_things, wordsearch_words.
     Never invent news; every brief needs a source + url.
  2. Run:  python3 generate.py [YYYY-MM-DD]   (default: today, Asia/Bangkok)
