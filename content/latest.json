@@ -1,250 +1,297 @@
 {
- "issue_no": 3,
+ "issue_no": 4,
  "tagline": "เช้านี้ อ่านช้าๆ · Slow news for a busy mind",
  "thailand": [
   {
    "lead": true,
-   "title": "Cool season is coming, but the South braces for rain",
-   "th": "กรมอุตุฯ เผยทิศทางลมภาคเหนือเริ่มเปลี่ยน สัญญาณเข้าฤดูหนาว (อาจชัดขึ้นหลัง 20 ต.ค.) แต่ช่วง 23–27 ต.ค. ภาคใต้ เช่น สุราษฎร์ธานี นครศรีธรรมราช สงขลา ต้องเตรียมรับฝนหนัก น้ำป่า และคลื่นลมแรง",
-   "en": "The Met Department says rain eases in the upper country but rises in Bangkok, the Central region, the East and the South over the next two weeks.",
+   "title": "Flood toll reaches 76, but water is going down",
+   "th": "ปภ. รายงาน (15 ต.ค.) ผู้เสียชีวิตจากน้ำท่วมตั้งแต่กลาง ก.ย. รวม 76 ราย มากสุดที่ปราจีนบุรี 25 ราย น้ำยังท่วมกรุงเทพฯ และอีก 20 จังหวัด ส่วนใหญ่ในภาคกลาง แต่ระดับน้ำเริ่มลดลง ในกรุงเทพฯ กระทบ 220,417 ครัวเรือน ที่ลาดกระบัง หนองจอก มีนบุรี และสะพานสูง",
+   "en": "The Department of Disaster Prevention and Mitigation says water levels are declining across the Central Plains.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3337023/southern-thailand-braces-for-heavy-rain"
+   "url": "https://www.bangkokpost.com/thailand/general/3337600/76-deaths-attributed-to-floods-since-midseptember"
   },
   {
-   "title": "No drones over Bangkok this Friday",
-   "th": "ตำรวจจับผู้ต้องหา 587 รายใน 25 จังหวัดเพื่อรักษาความปลอดภัยการประชุม IMF–ธนาคารโลก และ กพท. ห้ามบินโดรนในกรุงเทพฯ ตลอดวันศุกร์ (16 ต.ค.) 00.01–23.59 น.",
-   "en": "Police in three provincial regions made the arrests on Tuesday to prevent crime affecting the meetings.",
-   "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3336860/nearly-600-arrests-carried-out-to-secure-imfworld-bank-meetings"
+   "title": "Today is a special holiday in Bangkok",
+   "th": "วันนี้ (ศุกร์ 16 ต.ค.) เป็นวันหยุดพิเศษในกรุงเทพฯ ช่วงประชุมประจำปี IMF–ธนาคารโลก ธปท. ปิดบริการ BAHTNET การเคลียริ่งเช็คข้ามธนาคาร และ Bulk Payment กลับมาเปิดจันทร์ 19 ต.ค. ส่วนโมบายแบงกิ้ง ATM และตู้ฝากเงินใช้ได้ตามปกติ",
+   "en": "High-value transfers and interbank cheques wait until Monday; everyday banking apps still work.",
+   "source": "Bank of Thailand",
+   "url": "https://www.bot.or.th/en/news-and-media/news/news-20260713.html"
   },
   {
-   "title": "Swiss president visits, first in 22 years",
-   "th": "ประธานาธิบดีสวิตเซอร์แลนด์ กี ปาร์เมอแลง เยือนไทยอย่างเป็นทางการ 15–17 ต.ค. ตามคำเชิญนายกฯ อนุทิน หารือการค้า การลงทุน และ FTA ไทย–EFTA ในโอกาสครบ 95 ปีความสัมพันธ์",
-   "en": "PM Anutin hosts a welcome ceremony at Government House on Thursday, followed by talks and a joint press conference.",
-   "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3337018/swiss-president-to-visit-thailand"
-  },
-  {
-   "title": "High-water alert in eastern Bangkok",
-   "th": "กทม. เตือนชาวบ้านริมคลองหลวงแพ่ง (หนองจอก ลาดกระบัง) เฝ้าระวังระดับน้ำ หลังกรมชลฯ เปิดประตูระบายน้ำ 50 ซม. แจ้งเหตุได้ทาง LINE @traffyfondue หรือสายด่วน 1555",
-   "en": "The sluice was opened to drain water from Nong Chok and Chachoengsao into Khlong Prawet Buri Rom.",
-   "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3336973/highwater-alert-at-khlong-luang-phaeng-in-bangkok"
+   "title": "Cabinet backs a 165-billion-baht flood canal",
+   "th": "ครม. อนุมัติโครงการคลองผันน้ำ ชัยนาท–ป่าสัก–อ่าวไทย มูลค่า 165,000 ล้านบาท ระยะเวลา 8 ปี เพื่อช่วยป้องกันน้ำท่วมกรุงเทพฯ และภาคกลาง และเก็บน้ำไว้ใช้หน้าแล้ง",
+   "en": "The eight-year diversion canal is meant to protect Bangkok and Central Thailand from floods.",
+   "source": "Thai Times",
+   "url": "https://thaitimes.com/thailand-approves-165-billion-baht-flood-diversion-project-to-protect-bangkok-and-central-region"
   }
  ],
  "world": [
   {
-   "title": "US inflation jumps to 3.7%",
-   "th": "ดัชนีราคาผู้บริโภคสหรัฐฯ เดือน ก.ย. สูงขึ้น 3.7% ต่อปี จากราคาน้ำมันที่พุ่งเพราะสงครามอิหร่าน ตลาดให้โอกาสเฟดขึ้นดอกเบี้ยในการประชุม 27–28 ต.ค. เพิ่มเป็นราว 54%",
-   "en": "Core CPI rose 2.6%; stocks fell and yields jumped after the release.",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+   "title": "Ukraine resumes strikes on Russian refineries",
+   "th": "ยูเครนกลับมาโจมตีโรงกลั่นน้ำมันรัสเซีย หลังพักไป 3 วันตาม 'หยุดยิงด้านพลังงาน' ที่ทรัมป์ประกาศฝ่ายเดียว เซเลนสกีกล่าวว่ารู้สึกถูกสหรัฐฯ หักหลัง จากการแบ่งปันข่าวกรองที่ลดลงและ Starlink ที่ช้าลง",
+   "en": "Kyiv says Russia kept hitting its power grid during the so-called truce.",
+   "source": "NBC News",
+   "url": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648"
   },
   {
-   "title": "Kyiv loses power after missile strike",
-   "th": "ขีปนาวุธและโดรนรัสเซียโจมตีกรุงเคียฟ มีผู้เสียชีวิตอย่างน้อย 3 ราย บาดเจ็บ 22 ราย โรงไฟฟ้าเสียหาย ประชาชนกว่า 600,000 รายไม่มีไฟใช้",
-   "en": "The strike hit a plant supplying the capital with heat and electricity.",
-   "source": "Euronews",
-   "url": "https://www.euronews.com/2026/10/14"
+   "title": "Two cargo ships sink near the Strait of Hormuz",
+   "th": "เรือสินค้า 2 ลำ คือ Cape Dao และ GFS Pride จมใกล้ช่องแคบฮอร์มุซเมื่อวันพุธ ลูกเรืออพยพได้อย่างปลอดภัย แต่ตู้สินค้าจำนวนมากหลุดลอยในทะเล ท่ามกลางการโจมตีเรือพลเรือนที่เพิ่มขึ้น",
+   "en": "The sinkings come amid a surge of attacks on civilian shipping in the region.",
+   "source": "Democracy Now!",
+   "url": "https://www.democracynow.org/2026/10/15/headlines"
   },
   {
-   "title": "Houthi attack hits Saudi Aramco",
-   "th": "อาคารของ Aramco ที่ดาห์รานเกิดไฟไหม้ และมีผู้บาดเจ็บ 4 รายจากเศษขีปนาวุธในริยาด หลังการโจมตีสนามบินซานาคร่าชีวิต 13 ราย ทรัมป์ตำหนิฮูตี",
-   "en": "It is the latest round in a fast-escalating Saudi–Houthi conflict.",
-   "source": "Euronews",
-   "url": "https://www.euronews.com/2026/10/14"
-  },
-  {
-   "title": "Haze from Indonesia chokes the region",
-   "th": "ไฟป่าอินโดนีเซียทำให้ค่า PM2.5 ฝั่งตะวันตกของสิงคโปร์ขึ้นถึง 284 สูงสุดของปี ติมอร์-เลสเตปิดโรงเรียนทั่วประเทศ 3 วันตั้งแต่ 15 ต.ค. และหลายรัฐในมาเลเซียปิดโรงเรียน",
-   "en": "Singapore's reading hit the 'very high' band.",
-   "source": "New Straits Times",
-   "url": "https://www.nst.com.my/world/region/2026/10/1555328/singapore-pollution-spikes-east-timor-shuts-schools-indonesia-wildfire"
+   "title": "Japan's farm minister resigns",
+   "th": "รัฐมนตรีเกษตรญี่ปุ่น คาซูโอะ ยานะ ลาออกเมื่อวันพุธ หลังถูกวิจารณ์เรื่องคำพูดและพฤติกรรมในอดีต ถือเป็นแรงกระแทกครั้งใหญ่ต่อรัฐบาลนายกฯ ซานาเอะ ทาคาอิจิ",
+   "en": "Japanese media say it may raise questions about the PM's choice of appointee.",
+   "source": "Xinhua",
+   "url": "https://english.news.cn/20261015/195102075bc9423c923d7b1bcd936b73/c.html"
   }
  ],
  "social": [
   {
-   "title": "Facebook ‘Your Algorithm’: users type what they want",
-   "th": "Facebook เริ่มปล่อย Your Algorithm (13 ต.ค.) ให้ผู้ใช้เพิ่ม/จัดการหัวข้อที่อยากเห็นใน Feed และ Reels และพิมพ์อธิบายความสนใจเป็นภาษาธรรมดาได้ ระบบใช้ LLM อัปเดตคำแนะนำแบบเรียลไทม์",
-   "why": "คนดูเลือกหัวข้อเองได้ชัดขึ้น โพสต์แบรนด์ต้องสื่อหัวข้อชัด (เช่น รถ EV, ครอบครัว, ออฟโรด) เพื่อให้ตรงกับที่ผู้ใช้พิมพ์ขอ",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
+   "title": "Instagram Reels gets First Draft and better analytics",
+   "th": "Instagram เพิ่มฟีเจอร์ First Draft ให้เซฟร่าง Reels ไว้ทดลองหลายเวอร์ชันในแอป ใช้คู่กับแอป Edits และอัปเกรดแดชบอร์ดวิเคราะห์ Reels ให้เห็น retention แหล่งที่มาของคนดู และ engagement ละเอียดขึ้น",
+   "why": "ทำ A/B ฮุก 3 วินาทีแรกของ Reels ลูกค้าได้ง่ายขึ้น แล้วใช้ retention ใหม่มาพิสูจน์ว่าเวอร์ชันไหนดีกว่าในรายงาน",
+   "source": "Creator News Desk",
+   "url": "https://www.creatornewsdesk.com/platforms/instagram/instagram-reels-gets-smarter-with-first-draft-edits-app-analytics/"
   },
   {
-   "title": "Instagram tests Reels inside the Home feed",
-   "th": "Instagram ทดสอบให้ผู้ใช้เลือกเปิดดู Reels ในหน้า Home ได้โดยตรง เสียงเล่นอัตโนมัติ ยังสลับกลับไปฟีดเดิมหรือปิดได้ — ยังเป็นการทดสอบ",
-   "why": "IG กำลังเอนไปทางวิดีโอเต็มตัว แผนคอนเทนต์ลูกค้าควรมี Reels ที่ 3 วินาทีแรกดึงคนได้แม้มีเสียงเปิดเอง",
+   "title": "Threads launches ‘Gems’ for conversation starters",
+   "th": "Threads เปิดตัว Gems ระบบอัตโนมัติที่ติดป้ายให้โพสต์และรีพลายที่จุดบทสนทนาจริง ให้คะแนนจาก Perspective, Discussion และ Originality โพสต์ที่แชร์ข้ามมาจาก IG ไม่นับ ตอนนี้เฉพาะสหรัฐฯ",
+   "why": "ถ้ามาไทย การ auto-share จาก IG ไป Threads จะไม่พอ ควรมีโพสต์เขียนสด และตอบคอมเมนต์ในนามแบรนด์เอง",
+   "source": "We Are Social",
+   "url": "https://wearesocial.com/us/blog/2026/10/we-are-socials-monday-mashup-795/"
+  },
+  {
+   "title": "Meta removes manual placement controls for some ads",
+   "th": "แคมเปญ Engagement, Leads, App และ Sales บน Meta เลือกตัดตำแหน่งโฆษณาเอง (เช่น Facebook search หรือ in-stream Reels) ไม่ได้แล้ว ให้ AI ตัดสินใจแทน แคมเปญ Awareness และ Traffic ยังตั้งเองได้อยู่",
+   "why": "แคมเปญลีดเทสต์ไดรฟ์จะไปโผล่ทุกตำแหน่ง ครีเอทีฟต้องเตรียมครบทุกสัดส่วน และต้องแจ้งลูกค้าก่อนว่าคุมตำแหน่งไม่ได้แล้ว",
+   "source": "Zolay",
+   "url": "https://zolaystudio.com/social-media-updates"
+  },
+  {
+   "title": "YouTube's AI chatbot search launches on mobile (US)",
+   "th": "YouTube เปิดการค้นหาแบบแชตบอต AI บนมือถือในสหรัฐฯ (15 ต.ค.) ผู้ใช้ถามเป็นประโยคแล้วได้คำตอบพร้อมคลิปที่เกี่ยวข้อง",
+   "why": "ชื่อคลิปและคำอธิบายต้องตอบคำถามที่คนพิมพ์ถามจริง เช่น 'ORA 5 ชาร์จกี่นาที' จะมีโอกาสถูก AI หยิบไปตอบ",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/streaming/1012317/youtubes-ai-chatbot-search-has-launched-on-mobile-in-the-us"
+  },
+  {
+   "title": "X adds face ‘liveness checks’ and X Lift ads",
+   "th": "X เริ่มให้บัญชีที่ถูกสงสัยว่าเป็นบอตยืนยันตัวตนด้วยไบโอเมตริกส์หรือวิดีโอเซลฟี่สั้น ถ้าไม่ผ่านบัญชีจะถูกล็อก และเปิดตัว X Lift เครื่องมือ AI ที่อ่านเว็บไซต์แล้วสร้างแคมเปญโฆษณาให้",
+   "why": "ยอดผู้ติดตามและ engagement บน X อาจลดลงจากการกวาดบอต ควรเตือนลูกค้าล่วงหน้าก่อนเห็นตัวเลขตกในรายงาน",
    "source": "PR Daily",
    "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-62/"
   },
   {
-   "title": "Meta’s new AI ad tools from Advertising Week",
-   "th": "Meta ขยาย Ads Creative Studio, ให้บรรยายกลุ่มเป้าหมายเป็นภาษาธรรมดาแทนการเลือกจากเมนู, เพิ่มเครื่องมือแปลงภาพนิ่ง/แคตตาล็อกเป็นวิดีโอโฆษณา และเปิดตัวช่วยซื้อของใน Messenger",
-   "why": "บรีฟ targeting เขียนเป็นประโยคได้แล้ว — ลองใช้ persona ที่ทีมมีอยู่แล้ว (เช่น สายแคมป์ปิ้ง TANK) มาทดสอบ",
-   "source": "PR Daily",
-   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-62/"
-  },
-  {
-   "title": "TikTok adds AI agents for leads and shopping",
-   "th": "TikTok เปิดตัว Agentic Leads (AI คุยกับลูกค้าใน DM/ฟอร์มเพื่อคัดลีด), Buy Direct กับ Shopping Assistant และ Smart+ Creative Selection ที่รวมครีเอทีฟทุกแหล่งไว้อนุมัติที่เดียว",
-   "why": "ถ้ามาถึงไทย ใช้กับแคมเปญจองเทสต์ไดรฟ์ได้ — คัดลีดผ่าน DM อัตโนมัติ ลดงานแอดมิน",
-   "source": "TikTok Newsroom",
-   "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en"
-  },
-  {
-   "title": "‘AI ผลไม้นอกใจ’ clips take over TikTok & Reels",
-   "th": "คลิป AI ผลไม้มีชีวิต เช่น แอปเปิลร้องไห้เพราะโดนนอกใจ กล้วยทะเลาะกับสตรอว์เบอร์รี กำลังระบาดบน TikTok และ Facebook Reels ผู้ก่อตั้ง The Marketine มองว่าเป็นสัญญาณคอนเทนต์ยุค Attention Economy ที่แข่งกันหยุดนิ้วคนดู",
-   "why": "ฟอร์แมตดราม่าสั้น + ตัวละครไม่ใช่คน ลองดัดแปลงเป็นซีรีส์สั้นให้แบรนด์ได้ แต่ต้องระวังเรื่องติดป้าย AI และโทนแบรนด์",
-   "source": "บ้านเมือง",
-   "url": "https://www.banmuang.co.th/news/marketing/476084"
+   "title": "‘REELationship’: Thais send travel Reels but never go",
+   "th": "Klook หยิบอินไซต์คนไทยที่ส่งคลิปรีลเที่ยวให้กันทุกวัน แต่ดองแพลนไม่เคยได้ไปจริง มาตั้งชื่อเป็นเทรนด์ 'REELationship' และทำแคมเปญชวนให้เปลี่ยนรีลที่ส่งกันเป็นทริปจริง",
+   "why": "ไอเดียดี: ตั้งชื่อพฤติกรรมที่ทุกคนเคยทำ แล้วผูกกับ CTA เช่น 'ส่งรีลรถให้เพื่อนแล้ว ไปลองขับจริงกัน' เข้ากับ KPI ลงทะเบียนเทสต์ไดรฟ์",
+   "source": "Brand Inside",
+   "url": "https://brandinside.asia/klook-reelationship-campaign/"
   }
  ],
  "lifestyle": {
-  "title": "The 2-minute desk reset",
-  "body": "ก่อนเลิกงาน ใช้ 2 นาทีเก็บโต๊ะ: ปิดแท็บที่จบแล้ว จดงานแรกของพรุ่งนี้ลงโพสต์อิท 1 แผ่น แล้ววางไว้บนคีย์บอร์ด — เช้ามาจะเริ่มงานได้ทันทีไม่ต้องนั่งนึกว่าค้างอะไรไว้",
+  "title": "Holiday morning, slow on purpose",
+  "body": "วันหยุดกลางสัปดาห์แบบนี้ ลองตั้งกติกา 1 ชั่วโมงแรกหลังตื่นไม่เปิดแอปงาน ชงกาแฟ เดินเล่น หรืออ่านอะไรเล่นๆ ก่อน สมองจะได้พักจริงๆ ไม่ใช่แค่ย้ายที่ทำงานมาเป็นโซฟา",
   "note": "Evergreen tip · not news"
  },
  "word": {
-  "word": "nuance",
+  "word": "momentum",
   "pos": "n.",
-  "ipa": "/ˈnuːɑːns/",
-  "th": "ความแตกต่างเล็กๆ ที่ละเอียดอ่อน",
-  "def": "a subtle difference in meaning, expression, or tone.",
-  "ex": "The caption works, but the Thai version loses a bit of nuance."
+  "ipa": "/məˈmentəm/",
+  "th": "แรงส่ง, โมเมนตัม",
+  "def": "the force that keeps something moving or growing once it has started.",
+  "ex": "A strong first ten minutes gives the live stream momentum."
  },
  "english": {
-  "title": "Asking for a deadline extension",
+  "title": "Saying no to a last-minute request, politely",
   "dialogue": [
    [
-    "Nadda",
-    "Hi Khun Ploy, quick heads-up about the monthly report."
-   ],
-   [
     "Client",
-    "Sure, what's up?"
+    "Hi Nadda, could we add one more post to tomorrow's schedule?"
    ],
    [
     "Nadda",
-    "The platform data came in later than expected, so I'd like to ask for one extra day to double-check the numbers."
+    "Thanks for flagging it! Tomorrow's slots are already locked with the team."
    ],
    [
     "Client",
-    "Hmm, we were hoping to see it today."
+    "Oh, is there no way to squeeze it in?"
    ],
    [
     "Nadda",
-    "Totally understand. I can send you the key highlights by 5 pm today, and the full report first thing tomorrow."
+    "I'd rather not rush it and risk mistakes. Could we move it to Monday instead?"
    ],
    [
     "Client",
-    "That sounds reasonable."
+    "Monday works, as long as it goes out in the morning."
    ],
    [
     "Nadda",
-    "Thanks so much for your flexibility. I'd rather get it right than rush it."
+    "Perfect. I'll send you the draft by Friday afternoon for approval."
    ],
    [
     "Client",
-    "Agreed. Talk tomorrow!"
+    "Great, thanks for being upfront."
+   ],
+   [
+    "Nadda",
+    "Anytime!"
    ]
   ],
   "vocab": [
    [
-    "quick heads-up",
-    "ขอแจ้งให้ทราบล่วงหน้าสั้นๆ"
+    "thanks for flagging it",
+    "ขอบคุณที่แจ้งมา"
    ],
    [
-    "later than expected",
-    "ช้ากว่าที่คาดไว้"
+    "locked",
+    "ล็อกไว้แล้ว เปลี่ยนไม่ได้"
    ],
    [
-    "double-check",
-    "ตรวจสอบซ้ำ"
+    "squeeze it in",
+    "แทรกเข้าไป"
    ],
    [
-    "key highlights",
-    "ประเด็นสำคัญ"
+    "risk mistakes",
+    "เสี่ยงผิดพลาด"
    ],
    [
-    "first thing tomorrow",
-    "พรุ่งนี้เช้าเป็นอย่างแรก"
+    "move it to",
+    "เลื่อนไปเป็น"
    ],
    [
-    "That sounds reasonable",
-    "ฟังดูสมเหตุสมผลนะ"
+    "as long as",
+    "ตราบใดที่, ขอแค่"
    ],
    [
-    "flexibility",
-    "ความยืดหยุ่น"
+    "for approval",
+    "เพื่อขออนุมัติ"
    ],
    [
-    "rather get it right than rush it",
-    "อยากทำให้ถูกต้องมากกว่ารีบส่ง"
+    "upfront",
+    "ตรงไปตรงมา"
    ]
   ],
   "tip": {
-   "instead": "Sorry, I can't finish today.",
-   "better": "I'd like to ask for one extra day. In the meantime, I can send…",
-   "why": "ขอเวลาเพิ่มพร้อมเสนอสิ่งที่ให้ได้ทันที ลูกค้าจะรู้สึกว่างานยังเดินอยู่ ไม่ได้ถูกเลื่อนเฉยๆ"
+   "instead": "No, we can't do that.",
+   "better": "Tomorrow is locked, but could we move it to Monday?",
+   "why": "ปฏิเสธพร้อมเสนอทางเลือกเสมอ ลูกค้าจะรู้สึกว่าเรายังช่วยอยู่ ไม่ได้ปัดตก"
   }
  },
  "know": [
   {
-   "title": "Why Bangkok bans drones on big days",
-   "body": "เวลามีประชุมระดับโลกหรือพิธีสำคัญ กพท. มักประกาศห้ามบินโดรนชั่วคราวในพื้นที่ — ถ้าทีมมีแผนถ่ายวิดีโอทางอากาศวันศุกร์นี้ในกรุงเทพฯ ต้องเลื่อนนะ"
+   "title": "What is BAHTNET?",
+   "body": "BAHTNET คือระบบโอนเงินมูลค่าสูงระหว่างธนาคารของแบงก์ชาติ วันที่ระบบปิด การโอนเงินก้อนใหญ่และเคลียริ่งเช็คจะรอไปวันทำการถัดไป แต่แอปธนาคารบนมือถือยังใช้ได้ปกติ"
   },
   {
-   "title": "PM2.5 numbers, simply",
-   "body": "ค่า PM2.5 เกิน 37.5 µg/m³ (เกณฑ์เฉลี่ย 24 ชม. ของไทย) ถือว่าเริ่มมีผลต่อสุขภาพ — ค่าที่สิงคโปร์วัดได้ 284 สูงกว่านั้นหลายเท่า"
+   "title": "Why placements matter",
+   "body": "ตำแหน่งโฆษณา (placement) คือที่ที่แอดไปโผล่ เช่น Feed, Stories, Reels หรือหน้าค้นหา แต่ละที่มีสัดส่วนภาพและพฤติกรรมคนดูต่างกัน ครีเอทีฟชิ้นเดียวจึงอาจไม่เวิร์กทุกที่"
   }
  ],
  "on_this_day": [
   {
-   "year": "1582",
-   "text": "The Gregorian calendar took effect in Italy, Spain and other Catholic countries: the day after Oct 4 was Oct 15, skipping ten days."
+   "year": "1923",
+   "text": "Walt and Roy Disney founded the Disney Brothers Cartoon Studio, which later became The Walt Disney Company."
   },
   {
-   "year": "1997",
-   "text": "NASA's Cassini spacecraft launched toward Saturn, which it went on to study for 13 years."
+   "year": "1945",
+   "text": "The UN's Food and Agriculture Organization (FAO) was founded; Oct 16 is now marked each year as World Food Day."
   }
  ],
  "three_things": [
-  "Umbrella still — rain picks up around Bangkok",
-  "Send highlights first if a report runs late",
-  "No drone shots in Bangkok on Friday"
+  "Enjoy the Bangkok holiday; banking apps still work",
+  "Prep Reels in every ratio for Meta lead ads",
+  "Offer an alternative when saying no to a client"
  ],
- "date": "2026-10-15",
+ "date": "2026-10-16",
  "weather": {
-  "max": 31,
+  "max": 32,
   "min": 25,
-  "rain": 86,
+  "rain": 76,
   "uv": 8,
-  "cond": "Showers",
+  "cond": "Thunderstorms",
   "humidity": 98,
   "source": "Open-Meteo",
-  "fetched": "06:23"
+  "fetched": "06:20"
  },
  "wordsearch": {
   "grid": [
-   "LEYHLYYFST",
-   "KBEAPUWLFJ",
-   "NFYEFEEDTH",
-   "FFZOCECVAU",
-   "MAJNREIOKW",
-   "HIADRONEOE",
-   "OUNNHGCCVL",
-   "NUINURBMFF",
-   "KAKSWISSSV",
-   "RJSGITCBRC"
+   "SFFPRSJSFV",
+   "OUDHBELIVE",
+   "ARFVOLEDPW",
+   "DUKTALMLSI",
+   "RVLNLHIMST",
+   "ACAPVIEDON",
+   "FCGATGJBAU",
+   "TDFTPKOIMY",
+   "YJRFLOODSN",
+   "IBTRBBUWVW"
   ],
   "words": [
    {
-    "word": "NUANCE",
+    "word": "HOLIDAY",
     "cells": [
      [
-      7,
-      0
+      1,
+      3
      ],
+     [
+      2,
+      4
+     ],
+     [
+      3,
+      5
+     ],
+     [
+      4,
+      6
+     ],
+     [
+      5,
+      7
+     ],
+     [
+      6,
+      8
+     ],
+     [
+      7,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "FLOOD",
+    "cells": [
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      8,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "CANAL",
+    "cells": [
      [
       6,
       1
@@ -264,31 +311,6 @@
      [
       2,
       5
-     ]
-    ]
-   },
-   {
-    "word": "DRONE",
-    "cells": [
-     [
-      5,
-      3
-     ],
-     [
-      5,
-      4
-     ],
-     [
-      5,
-      5
-     ],
-     [
-      5,
-      6
-     ],
-     [
-      5,
-      7
      ]
     ]
    },
@@ -296,15 +318,78 @@
     "word": "REELS",
     "cells": [
      [
-      4,
+      0,
       4
      ],
      [
-      3,
+      1,
       5
      ],
      [
       2,
+      6
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      4,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "DRAFT",
+    "cells": [
+     [
+      3,
+      0
+     ],
+     [
+      4,
+      0
+     ],
+     [
+      5,
+      0
+     ],
+     [
+      6,
+      0
+     ],
+     [
+      7,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "GEMS",
+    "cells": [
+     [
+      6,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      4,
+      7
+     ],
+     [
+      3,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "LIVE",
+    "cells": [
+     [
+      1,
       6
      ],
      [
@@ -312,108 +397,20 @@
       7
      ],
      [
-      0,
+      1,
       8
+     ],
+     [
+      1,
+      9
      ]
     ]
    },
    {
-    "word": "SWISS",
+    "word": "BOT",
     "cells": [
-     [
-      8,
-      3
-     ],
-     [
-      8,
-      4
-     ],
-     [
-      8,
-      5
-     ],
-     [
-      8,
-      6
-     ],
-     [
-      8,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "HAZE",
-    "cells": [
-     [
-      5,
-      0
-     ],
-     [
-      4,
-      1
-     ],
-     [
-      3,
-      2
-     ],
-     [
-      2,
-      3
-     ]
-    ]
-   },
-   {
-    "word": "FEED",
-    "cells": [
-     [
-      2,
-      4
-     ],
-     [
-      2,
-      5
-     ],
-     [
-      2,
-      6
-     ],
-     [
-      2,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "RAIN",
-    "cells": [
-     [
-      9,
-      0
-     ],
-     [
-      8,
-      1
-     ],
-     [
-      7,
-      2
-     ],
      [
       6,
-      3
-     ]
-    ]
-   },
-   {
-    "word": "COOL",
-    "cells": [
-     [
-      3,
-      6
-     ],
-     [
-      4,
       7
      ],
      [
@@ -421,7 +418,7 @@
       8
      ],
      [
-      6,
+      4,
       9
      ]
     ]
@@ -431,75 +428,91 @@
  "sudoku": {
   "puzzle": [
    [
-    4,
     0,
-    5,
-    0,
-    1,
-    0
-   ],
-   [
-    3,
-    1,
-    0,
-    4,
     6,
+    0,
+    2,
+    0,
     5
    ],
    [
-    6,
-    0,
-    0,
-    0,
-    0,
-    4
-   ],
-   [
-    0,
     2,
+    4,
     0,
-    6,
-    0,
-    3
-   ],
-   [
-    0,
-    0,
-    1,
-    0,
-    0,
-    6
-   ],
-   [
-    2,
-    0,
-    6,
     0,
     0,
     1
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    6,
+    1,
+    0,
+    0,
+    5,
+    3
+   ],
+   [
+    5,
+    0,
+    0,
+    0,
+    2,
+    0
+   ],
+   [
+    0,
+    2,
+    4,
+    0,
+    3,
+    0
    ]
   ],
   "solution": [
    [
-    4,
+    3,
     6,
+    1,
+    2,
+    4,
+    5
+   ],
+   [
+    2,
+    4,
     5,
     3,
+    6,
+    1
+   ],
+   [
+    4,
+    5,
+    3,
+    6,
     1,
     2
    ],
    [
-    3,
+    6,
     1,
     2,
     4,
-    6,
-    5
+    5,
+    3
    ],
    [
-    6,
     5,
     3,
+    6,
     1,
     2,
     4
@@ -508,25 +521,9 @@
     1,
     2,
     4,
-    6,
-    5,
-    3
-   ],
-   [
     5,
     3,
-    1,
-    2,
-    4,
     6
-   ],
-   [
-    2,
-    4,
-    6,
-    5,
-    3,
-    1
    ]
   ]
  }

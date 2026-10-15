@@ -1,0 +1,530 @@
+{
+ "issue_no": 4,
+ "tagline": "เช้านี้ อ่านช้าๆ · Slow news for a busy mind",
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Flood toll reaches 76, but water is going down",
+   "th": "ปภ. รายงาน (15 ต.ค.) ผู้เสียชีวิตจากน้ำท่วมตั้งแต่กลาง ก.ย. รวม 76 ราย มากสุดที่ปราจีนบุรี 25 ราย น้ำยังท่วมกรุงเทพฯ และอีก 20 จังหวัด ส่วนใหญ่ในภาคกลาง แต่ระดับน้ำเริ่มลดลง ในกรุงเทพฯ กระทบ 220,417 ครัวเรือน ที่ลาดกระบัง หนองจอก มีนบุรี และสะพานสูง",
+   "en": "The Department of Disaster Prevention and Mitigation says water levels are declining across the Central Plains.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3337600/76-deaths-attributed-to-floods-since-midseptember"
+  },
+  {
+   "title": "Today is a special holiday in Bangkok",
+   "th": "วันนี้ (ศุกร์ 16 ต.ค.) เป็นวันหยุดพิเศษในกรุงเทพฯ ช่วงประชุมประจำปี IMF–ธนาคารโลก ธปท. ปิดบริการ BAHTNET การเคลียริ่งเช็คข้ามธนาคาร และ Bulk Payment กลับมาเปิดจันทร์ 19 ต.ค. ส่วนโมบายแบงกิ้ง ATM และตู้ฝากเงินใช้ได้ตามปกติ",
+   "en": "High-value transfers and interbank cheques wait until Monday; everyday banking apps still work.",
+   "source": "Bank of Thailand",
+   "url": "https://www.bot.or.th/en/news-and-media/news/news-20260713.html"
+  },
+  {
+   "title": "Cabinet backs a 165-billion-baht flood canal",
+   "th": "ครม. อนุมัติโครงการคลองผันน้ำ ชัยนาท–ป่าสัก–อ่าวไทย มูลค่า 165,000 ล้านบาท ระยะเวลา 8 ปี เพื่อช่วยป้องกันน้ำท่วมกรุงเทพฯ และภาคกลาง และเก็บน้ำไว้ใช้หน้าแล้ง",
+   "en": "The eight-year diversion canal is meant to protect Bangkok and Central Thailand from floods.",
+   "source": "Thai Times",
+   "url": "https://thaitimes.com/thailand-approves-165-billion-baht-flood-diversion-project-to-protect-bangkok-and-central-region"
+  }
+ ],
+ "world": [
+  {
+   "title": "Ukraine resumes strikes on Russian refineries",
+   "th": "ยูเครนกลับมาโจมตีโรงกลั่นน้ำมันรัสเซีย หลังพักไป 3 วันตาม 'หยุดยิงด้านพลังงาน' ที่ทรัมป์ประกาศฝ่ายเดียว เซเลนสกีกล่าวว่ารู้สึกถูกสหรัฐฯ หักหลัง จากการแบ่งปันข่าวกรองที่ลดลงและ Starlink ที่ช้าลง",
+   "en": "Kyiv says Russia kept hitting its power grid during the so-called truce.",
+   "source": "NBC News",
+   "url": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648"
+  },
+  {
+   "title": "Two cargo ships sink near the Strait of Hormuz",
+   "th": "เรือสินค้า 2 ลำ คือ Cape Dao และ GFS Pride จมใกล้ช่องแคบฮอร์มุซเมื่อวันพุธ ลูกเรืออพยพได้อย่างปลอดภัย แต่ตู้สินค้าจำนวนมากหลุดลอยในทะเล ท่ามกลางการโจมตีเรือพลเรือนที่เพิ่มขึ้น",
+   "en": "The sinkings come amid a surge of attacks on civilian shipping in the region.",
+   "source": "Democracy Now!",
+   "url": "https://www.democracynow.org/2026/10/15/headlines"
+  },
+  {
+   "title": "Japan's farm minister resigns",
+   "th": "รัฐมนตรีเกษตรญี่ปุ่น คาซูโอะ ยานะ ลาออกเมื่อวันพุธ หลังถูกวิจารณ์เรื่องคำพูดและพฤติกรรมในอดีต ถือเป็นแรงกระแทกครั้งใหญ่ต่อรัฐบาลนายกฯ ซานาเอะ ทาคาอิจิ",
+   "en": "Japanese media say it may raise questions about the PM's choice of appointee.",
+   "source": "Xinhua",
+   "url": "https://english.news.cn/20261015/195102075bc9423c923d7b1bcd936b73/c.html"
+  }
+ ],
+ "social": [
+  {
+   "title": "Instagram Reels gets First Draft and better analytics",
+   "th": "Instagram เพิ่มฟีเจอร์ First Draft ให้เซฟร่าง Reels ไว้ทดลองหลายเวอร์ชันในแอป ใช้คู่กับแอป Edits และอัปเกรดแดชบอร์ดวิเคราะห์ Reels ให้เห็น retention แหล่งที่มาของคนดู และ engagement ละเอียดขึ้น",
+   "why": "ทำ A/B ฮุก 3 วินาทีแรกของ Reels ลูกค้าได้ง่ายขึ้น แล้วใช้ retention ใหม่มาพิสูจน์ว่าเวอร์ชันไหนดีกว่าในรายงาน",
+   "source": "Creator News Desk",
+   "url": "https://www.creatornewsdesk.com/platforms/instagram/instagram-reels-gets-smarter-with-first-draft-edits-app-analytics/"
+  },
+  {
+   "title": "Threads launches ‘Gems’ for conversation starters",
+   "th": "Threads เปิดตัว Gems ระบบอัตโนมัติที่ติดป้ายให้โพสต์และรีพลายที่จุดบทสนทนาจริง ให้คะแนนจาก Perspective, Discussion และ Originality โพสต์ที่แชร์ข้ามมาจาก IG ไม่นับ ตอนนี้เฉพาะสหรัฐฯ",
+   "why": "ถ้ามาไทย การ auto-share จาก IG ไป Threads จะไม่พอ ควรมีโพสต์เขียนสด และตอบคอมเมนต์ในนามแบรนด์เอง",
+   "source": "We Are Social",
+   "url": "https://wearesocial.com/us/blog/2026/10/we-are-socials-monday-mashup-795/"
+  },
+  {
+   "title": "Meta removes manual placement controls for some ads",
+   "th": "แคมเปญ Engagement, Leads, App และ Sales บน Meta เลือกตัดตำแหน่งโฆษณาเอง (เช่น Facebook search หรือ in-stream Reels) ไม่ได้แล้ว ให้ AI ตัดสินใจแทน แคมเปญ Awareness และ Traffic ยังตั้งเองได้อยู่",
+   "why": "แคมเปญลีดเทสต์ไดรฟ์จะไปโผล่ทุกตำแหน่ง ครีเอทีฟต้องเตรียมครบทุกสัดส่วน และต้องแจ้งลูกค้าก่อนว่าคุมตำแหน่งไม่ได้แล้ว",
+   "source": "Zolay",
+   "url": "https://zolaystudio.com/social-media-updates"
+  },
+  {
+   "title": "YouTube's AI chatbot search launches on mobile (US)",
+   "th": "YouTube เปิดการค้นหาแบบแชตบอต AI บนมือถือในสหรัฐฯ (15 ต.ค.) ผู้ใช้ถามเป็นประโยคแล้วได้คำตอบพร้อมคลิปที่เกี่ยวข้อง",
+   "why": "ชื่อคลิปและคำอธิบายต้องตอบคำถามที่คนพิมพ์ถามจริง เช่น 'ORA 5 ชาร์จกี่นาที' จะมีโอกาสถูก AI หยิบไปตอบ",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/streaming/1012317/youtubes-ai-chatbot-search-has-launched-on-mobile-in-the-us"
+  },
+  {
+   "title": "X adds face ‘liveness checks’ and X Lift ads",
+   "th": "X เริ่มให้บัญชีที่ถูกสงสัยว่าเป็นบอตยืนยันตัวตนด้วยไบโอเมตริกส์หรือวิดีโอเซลฟี่สั้น ถ้าไม่ผ่านบัญชีจะถูกล็อก และเปิดตัว X Lift เครื่องมือ AI ที่อ่านเว็บไซต์แล้วสร้างแคมเปญโฆษณาให้",
+   "why": "ยอดผู้ติดตามและ engagement บน X อาจลดลงจากการกวาดบอต ควรเตือนลูกค้าล่วงหน้าก่อนเห็นตัวเลขตกในรายงาน",
+   "source": "PR Daily",
+   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-62/"
+  },
+  {
+   "title": "‘REELationship’: Thais send travel Reels but never go",
+   "th": "Klook หยิบอินไซต์คนไทยที่ส่งคลิปรีลเที่ยวให้กันทุกวัน แต่ดองแพลนไม่เคยได้ไปจริง มาตั้งชื่อเป็นเทรนด์ 'REELationship' และทำแคมเปญชวนให้เปลี่ยนรีลที่ส่งกันเป็นทริปจริง",
+   "why": "ไอเดียดี: ตั้งชื่อพฤติกรรมที่ทุกคนเคยทำ แล้วผูกกับ CTA เช่น 'ส่งรีลรถให้เพื่อนแล้ว ไปลองขับจริงกัน' เข้ากับ KPI ลงทะเบียนเทสต์ไดรฟ์",
+   "source": "Brand Inside",
+   "url": "https://brandinside.asia/klook-reelationship-campaign/"
+  }
+ ],
+ "lifestyle": {
+  "title": "Holiday morning, slow on purpose",
+  "body": "วันหยุดกลางสัปดาห์แบบนี้ ลองตั้งกติกา 1 ชั่วโมงแรกหลังตื่นไม่เปิดแอปงาน ชงกาแฟ เดินเล่น หรืออ่านอะไรเล่นๆ ก่อน สมองจะได้พักจริงๆ ไม่ใช่แค่ย้ายที่ทำงานมาเป็นโซฟา",
+  "note": "Evergreen tip · not news"
+ },
+ "word": {
+  "word": "momentum",
+  "pos": "n.",
+  "ipa": "/məˈmentəm/",
+  "th": "แรงส่ง, โมเมนตัม",
+  "def": "the force that keeps something moving or growing once it has started.",
+  "ex": "A strong first ten minutes gives the live stream momentum."
+ },
+ "english": {
+  "title": "Saying no to a last-minute request, politely",
+  "dialogue": [
+   [
+    "Client",
+    "Hi Nadda, could we add one more post to tomorrow's schedule?"
+   ],
+   [
+    "Nadda",
+    "Thanks for flagging it! Tomorrow's slots are already locked with the team."
+   ],
+   [
+    "Client",
+    "Oh, is there no way to squeeze it in?"
+   ],
+   [
+    "Nadda",
+    "I'd rather not rush it and risk mistakes. Could we move it to Monday instead?"
+   ],
+   [
+    "Client",
+    "Monday works, as long as it goes out in the morning."
+   ],
+   [
+    "Nadda",
+    "Perfect. I'll send you the draft by Friday afternoon for approval."
+   ],
+   [
+    "Client",
+    "Great, thanks for being upfront."
+   ],
+   [
+    "Nadda",
+    "Anytime!"
+   ]
+  ],
+  "vocab": [
+   [
+    "thanks for flagging it",
+    "ขอบคุณที่แจ้งมา"
+   ],
+   [
+    "locked",
+    "ล็อกไว้แล้ว เปลี่ยนไม่ได้"
+   ],
+   [
+    "squeeze it in",
+    "แทรกเข้าไป"
+   ],
+   [
+    "risk mistakes",
+    "เสี่ยงผิดพลาด"
+   ],
+   [
+    "move it to",
+    "เลื่อนไปเป็น"
+   ],
+   [
+    "as long as",
+    "ตราบใดที่, ขอแค่"
+   ],
+   [
+    "for approval",
+    "เพื่อขออนุมัติ"
+   ],
+   [
+    "upfront",
+    "ตรงไปตรงมา"
+   ]
+  ],
+  "tip": {
+   "instead": "No, we can't do that.",
+   "better": "Tomorrow is locked, but could we move it to Monday?",
+   "why": "ปฏิเสธพร้อมเสนอทางเลือกเสมอ ลูกค้าจะรู้สึกว่าเรายังช่วยอยู่ ไม่ได้ปัดตก"
+  }
+ },
+ "know": [
+  {
+   "title": "What is BAHTNET?",
+   "body": "BAHTNET คือระบบโอนเงินมูลค่าสูงระหว่างธนาคารของแบงก์ชาติ วันที่ระบบปิด การโอนเงินก้อนใหญ่และเคลียริ่งเช็คจะรอไปวันทำการถัดไป แต่แอปธนาคารบนมือถือยังใช้ได้ปกติ"
+  },
+  {
+   "title": "Why placements matter",
+   "body": "ตำแหน่งโฆษณา (placement) คือที่ที่แอดไปโผล่ เช่น Feed, Stories, Reels หรือหน้าค้นหา แต่ละที่มีสัดส่วนภาพและพฤติกรรมคนดูต่างกัน ครีเอทีฟชิ้นเดียวจึงอาจไม่เวิร์กทุกที่"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1923",
+   "text": "Walt and Roy Disney founded the Disney Brothers Cartoon Studio, which later became The Walt Disney Company."
+  },
+  {
+   "year": "1945",
+   "text": "The UN's Food and Agriculture Organization (FAO) was founded; Oct 16 is now marked each year as World Food Day."
+  }
+ ],
+ "three_things": [
+  "Enjoy the Bangkok holiday; banking apps still work",
+  "Prep Reels in every ratio for Meta lead ads",
+  "Offer an alternative when saying no to a client"
+ ],
+ "date": "2026-10-16",
+ "weather": {
+  "max": 32,
+  "min": 25,
+  "rain": 76,
+  "uv": 8,
+  "cond": "Thunderstorms",
+  "humidity": 98,
+  "source": "Open-Meteo",
+  "fetched": "06:20"
+ },
+ "wordsearch": {
+  "grid": [
+   "SFFPRSJSFV",
+   "OUDHBELIVE",
+   "ARFVOLEDPW",
+   "DUKTALMLSI",
+   "RVLNLHIMST",
+   "ACAPVIEDON",
+   "FCGATGJBAU",
+   "TDFTPKOIMY",
+   "YJRFLOODSN",
+   "IBTRBBUWVW"
+  ],
+  "words": [
+   {
+    "word": "HOLIDAY",
+    "cells": [
+     [
+      1,
+      3
+     ],
+     [
+      2,
+      4
+     ],
+     [
+      3,
+      5
+     ],
+     [
+      4,
+      6
+     ],
+     [
+      5,
+      7
+     ],
+     [
+      6,
+      8
+     ],
+     [
+      7,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "FLOOD",
+    "cells": [
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      8,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "CANAL",
+    "cells": [
+     [
+      6,
+      1
+     ],
+     [
+      5,
+      2
+     ],
+     [
+      4,
+      3
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      2,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "REELS",
+    "cells": [
+     [
+      0,
+      4
+     ],
+     [
+      1,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      4,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "DRAFT",
+    "cells": [
+     [
+      3,
+      0
+     ],
+     [
+      4,
+      0
+     ],
+     [
+      5,
+      0
+     ],
+     [
+      6,
+      0
+     ],
+     [
+      7,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "GEMS",
+    "cells": [
+     [
+      6,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      4,
+      7
+     ],
+     [
+      3,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "LIVE",
+    "cells": [
+     [
+      1,
+      6
+     ],
+     [
+      1,
+      7
+     ],
+     [
+      1,
+      8
+     ],
+     [
+      1,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "BOT",
+    "cells": [
+     [
+      6,
+      7
+     ],
+     [
+      5,
+      8
+     ],
+     [
+      4,
+      9
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    0,
+    6,
+    0,
+    2,
+    0,
+    5
+   ],
+   [
+    2,
+    4,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    6,
+    1,
+    0,
+    0,
+    5,
+    3
+   ],
+   [
+    5,
+    0,
+    0,
+    0,
+    2,
+    0
+   ],
+   [
+    0,
+    2,
+    4,
+    0,
+    3,
+    0
+   ]
+  ],
+  "solution": [
+   [
+    3,
+    6,
+    1,
+    2,
+    4,
+    5
+   ],
+   [
+    2,
+    4,
+    5,
+    3,
+    6,
+    1
+   ],
+   [
+    4,
+    5,
+    3,
+    6,
+    1,
+    2
+   ],
+   [
+    6,
+    1,
+    2,
+    4,
+    5,
+    3
+   ],
+   [
+    5,
+    3,
+    6,
+    1,
+    2,
+    4
+   ],
+   [
+    1,
+    2,
+    4,
+    5,
+    3,
+    6
+   ]
+  ]
+ }
+}
