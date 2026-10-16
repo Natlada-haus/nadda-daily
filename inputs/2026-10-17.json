@@ -1,0 +1,97 @@
+{
+ "issue_no": 5,
+ "tagline": "เสาร์สบายๆ · Slow news for a slow Saturday",
+ "thailand": [
+  {"lead": true, "title": "Anutin confident Thailand joins the OECD by 2028",
+   "th": "นายกฯ อนุทิน หารือกับ Mathias Cormann เลขาธิการ OECD ที่ศูนย์ฯ สิริกิติ์ (16 ต.ค.) และมั่นใจว่าไทยจะเข้าเป็นสมาชิก OECD ได้ภายในปี 2571 หลังได้รับคำชมว่าการเตรียมตัวเดินมาถูกทาง ไทยยื่นขอเป็นสมาชิกตั้งแต่ ก.พ. 2567 และเลื่อนเป้าจากปี 2573 มาเป็น 2571",
+   "en": "Membership isn't automatic: Thailand still has to pass technical reviews and get unanimous approval.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3338293/anutin-confident-of-joining-oecd-by-2028"},
+  {"title": "Protest march stopped near the IMF–World Bank venue",
+   "th": "สมัชชาคนจนและเครือข่าย La Via Campesina เดินขบวนจากสวนลุมฯ ไปยื่นข้อเรียกร้องต่อ IMF และธนาคารโลก แต่ถูกตำรวจตั้งแนวกั้นที่แยกอโศกมนตรี ตำรวจประเมินผู้ชุมนุมราว 800 คน ถนนรัชดาฯ ช่วงอโศก–คลองเตยปิด และสถานี MRT ศูนย์ฯ สิริกิติ์ปิดถึง 16.00 น.",
+   "en": "If you head toward Sukhumvit–Khlong Toei this weekend, check for road closures around the meeting venue.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3338230/protesters-blocked-from-reaching-imf-world-bank-meeting-venue"},
+  {"title": "Microsoft starts an AI skills and jobs project in Thailand",
+   "th": "Microsoft จับมือรัฐบาลไทยและพาร์ตเนอร์หลายภาคส่วน เปิดโครงการ AI and jobs เพื่อพัฒนาทักษะ AI และงาน โดยไทยเป็นประเทศแรกจาก 19 ประเทศที่เริ่มโครงการนี้",
+   "en": "Thailand is the first of 19 countries to launch the initiative.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/business/general/3338000/microsoft-launches-project-to-enhance-ai-skills-and-jobs"}
+ ],
+ "world": [
+  {"title": "Ukraine's Starlink service is restored",
+   "th": "เจ้าหน้าที่ยูเครนเผยว่าบริการ Starlink และ Starshield ที่ถูกจำกัดความเร็วกะทันหันเมื่อต้นสัปดาห์ กลับมาใช้งานได้เต็มที่แล้ว ส่วนทรัมป์ยืนยันว่าทำเนียบขาวไม่ได้เป็นผู้ขัดขวางระบบนี้",
+   "en": "The earlier restrictions hampered Ukraine's drone interception for about 24 hours.",
+   "source": "Axios", "url": "https://www.axios.com/world/2026/10/16"},
+  {"title": "IEA speeds up emergency oil release",
+   "th": "สมาชิกทบวงการพลังงานระหว่างประเทศ (IEA) เร่งปล่อยน้ำมันสำรองฉุกเฉิน 100 ล้านบาร์เรล ขณะที่ตลาดน้ำมันยังตึงตัวจากการขนส่งในช่องแคบฮอร์มุซที่ติดขัด",
+   "en": "Shipping disruption in the Strait of Hormuz keeps oil markets tight.",
+   "source": "Anadolu Agency", "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-16-2026/4090527"},
+  {"title": "EU leaders meet on competitiveness and energy prices",
+   "th": "ผู้นำสหภาพยุโรปประชุมสุดยอด 2 วันที่บรัสเซลส์ เน้นเรื่องขีดความสามารถในการแข่งขัน ราคาพลังงานที่สูง และงบประมาณระยะยาวรอบหน้า วันแรกจบลงด้วยความเห็นที่ยังไม่ตรงกัน",
+   "en": "A planned press conference after day one was cancelled.",
+   "source": "Xinhua", "url": "https://english.news.cn/20261016/fbffb1f1c00746cda325372b9cb3744a/c.html"}
+ ],
+ "social": [
+  {"title": "Instagram adds 'Use as reference' for Reels, ends reel linking Oct 28",
+   "th": "Instagram บน iOS ให้เปิด Reel ที่ยาวไม่เกิน 90 วินาทีเป็นหน้าต่างเล็กในกล้อง เพื่อถ่ายตามจังหวะพร้อมนับถอยหลัง และจะยกเลิกฟีเจอร์ลิงก์ Reels เป็นซีรีส์ในวันที่ 28 ต.ค.",
+   "why": "ถ่ายคอนเทนต์ตามเทรนด์ให้ลงจังหวะง่ายขึ้น และถ้าเพจลูกค้าใช้ reel linking ทำซีรีส์อยู่ ต้องหาวิธีเชื่อมตอนใหม่ เช่น ไฮไลต์หรือคำบรรยาย ก่อนวันที่ 28",
+   "source": "TechJuice", "url": "https://www.techjuice.pk/meta-adds-audio-links-reference-reels-edits-instagram/"},
+  {"title": "Edits gets Kits, audio links and a popular topics tool",
+   "th": "แอป Edits ของ Meta เพิ่ม Kits ให้เซฟสี ฟอนต์ สไตล์คำบรรยาย และเสียงไว้ใช้ซ้ำ เพิ่มลิงก์เสียงใน Reels เอฟเฟกต์ใหม่กว่า 50 แบบ และเครื่องมือดูหัวข้อยอดนิยม (ภาษาอังกฤษ บัญชี 10K+)",
+   "why": "ตั้ง Kit ตาม CI ลูกค้าครั้งเดียว ทีมตัดต่อทุกคนจะได้ Reels หน้าตาเดียวกัน ไม่ต้องไล่เช็กฟอนต์สีทีละคลิป",
+   "source": "The Creator Project", "url": "https://jadebeason.substack.com/p/instagram-edits-updates-you-need"},
+  {"title": "Meta expands Reels Trending Ads to 15 always-on topics",
+   "th": "Meta ประกาศที่งาน Brand Building Summit (16 ต.ค.) ว่ารูปแบบโฆษณาที่ขึ้นต่อจาก Reels ยอดนิยมบน FB/IG มีหัวข้อถาวร 15 หมวด พร้อมชุดตามซีซัน และจะเพิ่มการตัดกลุ่ม custom audience ออกได้ภายในปีนี้",
+   "why": "เป็นอีกตัวเลือกงบ awareness ช่วงปลายปีที่ได้ขึ้นข้างคอนเทนต์ที่คนกำลังดูจริง น่าเสนอเทียบกับ TikTok Pulse",
+   "source": "The Keyword", "url": "https://www.thekeyword.co/news/meta-reels-trending-ads-topics"},
+  {"title": "Chat-style streams drive TikTok LIVE growth",
+   "th": "มีการประเมินว่าเวลาดู TikTok LIVE ไตรมาสที่แล้วโต 19% เป็น 10.6 พันล้านชั่วโมง โดยไลฟ์แบบนั่งคุยกับกล้องเป็นหมวดที่ดึงเวลาดูมากที่สุด และส่วนแบ่งไลฟ์ไล่ตาม YouTube มาใกล้แล้ว",
+   "why": "ไลฟ์ไม่จำเป็นต้องโปรดักชันใหญ่ ไลฟ์คุยสบายๆ กับแอดมินหรือพรีเซนเตอร์ก็ได้ผล เป็นไอเดียไลฟ์ต้นทุนต่ำให้ลูกค้า",
+   "source": "The Creator Project", "url": "https://jadebeason.substack.com/p/instagram-edits-updates-you-need"},
+  {"title": "Instagram shows a 'Managed by another business' label",
+   "th": "Instagram เพิ่มป้าย 'Managed by another business' บนโปรไฟล์ บอกว่ามีธุรกิจกี่รายที่ดูแลบัญชีที่เรากำลังดูอยู่",
+   "why": "บัญชีลูกค้าที่เอเจนซีดูแลอาจขึ้นป้ายนี้ ควรเช็กสิทธิ์ใน Business Portfolio ให้เรียบร้อย และเตรียมตอบถ้าลูกค้าถาม",
+   "source": "Shareable TL;DR", "url": "https://shareabletldr.substack.com/p/october-15-the-latest-social-media"},
+  {"title": "HEYTEA turns the 'Lisa Effect' into a global collab",
+   "th": "จากภาพแก้วมัทฉะของลิซ่าบน IG ที่ทำให้คนแห่ตามรอยเมื่อปี 2568 วันที่ 15 ต.ค. HEYTEA จับมือลิซ่าอย่างเป็นทางการ ออกเมนู Mango Coconut Sticky Rice แพ็กเกจลิมิเต็ด และสินค้าสำหรับแฟนๆ",
+   "why": "ตัวอย่างการเปลี่ยนกระแสที่เกิดเองบนโซเชียลให้เป็นแคมเปญจริง โจทย์ต่อคือทำให้กระแสกลายเป็นลูกค้าประจำ",
+   "source": "ผู้จัดการออนไลน์", "url": "https://mgronline.com/business/detail/9690000100074"}
+ ],
+ "lifestyle": {"title": "A Saturday with no to-do list",
+  "body": "เสาร์นี้ลองเว้นครึ่งวันไว้แบบไม่ต้องวางแผน ไม่ต้องมีเป้าหมาย อยากนอนต่อ อยากทำอาหาร หรืออยากเดินตลาดก็ทำ สมองที่ได้ว่างจริงๆ มักจะคิดไอเดียดีๆ ออกเองตอนที่เราไม่ได้บังคับมัน",
+  "note": "Evergreen tip · not news"},
+ "word": {"word": "consistent", "pos": "adj.", "ipa": "/kənˈsɪstənt/", "th": "สม่ำเสมอ, คงเส้นคงวา",
+  "def": "always behaving or looking the same way.",
+  "ex": "Saving a style kit keeps every Reel consistent with the brand."},
+ "english": {"title": "Asking a friend to hang out on the weekend",
+  "dialogue": [
+   ["Friend", "Hey Nadda, are you free this Saturday?"],
+   ["Nadda", "Mostly! I'm keeping the morning slow, but the afternoon is open."],
+   ["Friend", "Want to grab coffee and walk around the market?"],
+   ["Nadda", "I'd love that. How about we meet around two?"],
+   ["Friend", "Sounds good. I'll send you the location."],
+   ["Nadda", "Great, see you then. Text me if you're running late!"]
+  ],
+  "vocab": [
+   ["are you free", "ว่างไหม"],
+   ["keeping the morning slow", "ขอเช้าแบบสบายๆ"],
+   ["open", "ว่าง (ตาราง)"],
+   ["grab coffee", "ไปหากาแฟกิน"],
+   ["how about", "แล้วถ้า...ล่ะ (ใช้เสนอ)"],
+   ["running late", "มาสาย"]
+  ],
+  "tip": {"instead": "I am free at 2 pm.", "better": "How about we meet around two?",
+   "why": "ใช้ How about ... ? เสนอเวลาแบบเปิดให้อีกฝ่ายตอบรับหรือเสนอใหม่ได้ ฟังเป็นกันเองกว่า"}},
+ "know": [
+  {"title": "What is the OECD?", "body": "OECD คือองค์การเพื่อความร่วมมือทางเศรษฐกิจและการพัฒนา มีสมาชิกเป็นประเทศเศรษฐกิจตลาด การเข้าเป็นสมาชิกต้องผ่านการรีวิวกฎหมายและนโยบายหลายด้านให้ได้มาตรฐานสากล"},
+  {"title": "What is a style kit?", "body": "Style kit หรือ brand kit คือชุดสี ฟอนต์ โลโก้ และรูปแบบคำบรรยายที่เซฟไว้ใช้ซ้ำ ช่วยให้ทุกชิ้นงานดูเป็นแบรนด์เดียวกัน แม้คนทำจะต่างกัน"}
+ ],
+ "on_this_day": [
+  {"year": "1956", "text": "Calder Hall in England, often called the world's first commercial-scale nuclear power station, was opened by Queen Elizabeth II."},
+  {"year": "1993", "text": "The UN first marked October 17 as the International Day for the Eradication of Poverty."}
+ ],
+ "three_things": [
+  "Check if any client series uses Reel linking before Oct 28",
+  "Try saving a brand style Kit in Edits",
+  "Leave half of Saturday unplanned"
+ ],
+ "wordsearch_words": ["OECD", "REELS", "KITS", "LIVE", "LISA", "MATCHA", "COFFEE", "SATURDAY"]
+}
