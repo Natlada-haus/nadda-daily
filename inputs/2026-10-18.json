@@ -1,0 +1,97 @@
+{
+ "issue_no": 6,
+ "tagline": "อาทิตย์ชิลๆ · A gentle Sunday read",
+ "thailand": [
+  {"lead": true, "title": "Govt fleshes out its energy transition plans",
+   "th": "ที่ประชุมประจำปี IMF–ธนาคารโลกในกรุงเทพฯ (17 ต.ค.) รมช.คลัง สันติธาร เสถียรไทย วางแผน 3 ขั้นให้ไทยเปลี่ยนผ่านสู่เศรษฐกิจสีเขียว ลดการพึ่งพาพลังงานนำเข้า ดึงเงินลงทุนเอกชน และเน้นช่วยเหลือครัวเรือนกับธุรกิจแบบตรงจุดแทนการอุดหนุนราคาน้ำมัน",
+   "en": "The plan favours targeted help for households over broad fuel subsidies during energy shocks.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3339063/govt-fleshes-out-energy-transition-plans"},
+  {"title": "Egat gets ready for a 'virtual power plant'",
+   "th": "กฟผ. ทดสอบโรงไฟฟ้าเสมือน (VPP) สำเร็จ ระบบนี้รวมแหล่งพลังงานหมุนเวียนเล็กๆ เช่น โซลาร์บนหลังคาบ้าน ให้ทำงานเหมือนโรงไฟฟ้าเดียว ร่างแผน PDP ตั้งเป้า VPP 14,000 เมกะวัตต์ภายในกลางศตวรรษนี้",
+   "en": "Homes with rooftop solar could one day be paid to shift power use at peak hours.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/business/general/3338609/egat-prepares-for-virtual-power-plant-scheme"},
+  {"title": "Recycling estates planned for old solar panels and EV batteries",
+   "th": "กระทรวงอุตสาหกรรมเดินหน้าตั้งนิคมอุตสาหกรรมรีไซเคิลสำหรับแผงโซลาร์และแบตเตอรี่รถ EV ที่หมดอายุ พร้อมคุมเข้มการทิ้งกากอุตสาหกรรมอันตรายแบบผิดกฎหมาย",
+   "en": "Old solar panels will soon be classed as 'waste' that needs proper handling.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3338998/ministry-eyes-illegal-dumping"}
+ ],
+ "world": [
+  {"title": "Istanbul hit by its worst flash floods since 1942",
+   "th": "น้ำท่วมฉับพลันครั้งรุนแรงที่สุดในอิสตันบูลนับตั้งแต่ปี 1942 มีผู้เสียชีวิต 4 ราย สูญหาย 3 ราย พื้นที่หนักสุดคือย่านซารึเยร์",
+   "en": "Turkey's interior minister called it the city's worst flood in more than 80 years.",
+   "source": "Xinhua", "url": "https://english.news.cn/20261017/dd6796462e84487f83e5ac3219802a5b/c.html"},
+  {"title": "Iran says a supertanker hit a mine in the Strait of Hormuz",
+   "th": "IRGC ของอิหร่านอ้างว่าเรือบรรทุกน้ำมันขนาดใหญ่ชนทุ่นระเบิดในช่องแคบฮอร์มุซ ขณะที่กองบัญชาการ CENTCOM ของสหรัฐฯ ระบุว่าช่องแคบยังเปิดเดินเรือได้",
+   "en": "Any trouble in Hormuz tends to push oil prices, and fuel costs, higher.",
+   "source": "World Brief Now", "url": "https://worldbriefnow.com/editions/2026-10-17/0600/"},
+  {"title": "Amazon deforestation in Brazil falls to a record low",
+   "th": "การตัดไม้ทำลายป่าแอมะซอนในบราซิลลดลงต่ำสุดเท่าที่เคยมีการบันทึก เป็นข่าวดีด้านสิ่งแวดล้อมท่ามกลางข่าวหนักๆ สัปดาห์นี้",
+   "en": "A rare piece of good climate news this week.",
+   "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record"}
+ ],
+ "social": [
+  {"title": "Facebook lets users tune 'Your Algorithm'",
+   "th": "Facebook เปิดให้ผู้ใช้ปรับแต่งฟีดเองผ่าน 'Your Algorithm' ส่วน YouTube ทดลองโบนัส Shorts สำหรับช่องที่ได้รับเชิญ และ X ก็ทดลองโบนัสวิดีโอคล้ายกัน",
+   "why": "ถ้าคนเลือกฟีดเองได้มากขึ้น เพจลูกค้าต้องพึ่งคอนเทนต์ที่คนอยากเห็นจริงๆ มากกว่าการหวังพึ่งอัลกอริทึมดันให้",
+   "source": "Creator Weekly (Peggy K)", "url": "https://www.peggyktc.com/2026/10/creator-weekly-youtube-shorts-bonuses.html"},
+  {"title": "YouTube Shorts now favours original content",
+   "th": "YouTube ปรับระบบแนะนำ Shorts ช่องที่รีอัปโหลดคอนเทนต์คนอื่นโดยไม่เพิ่มคุณค่า เช่น คอมเมนต์ การเล่าเรื่อง หรือการตัดต่อใหม่ จะถูกลดการมองเห็น",
+   "why": "คลิปรีโพสต์หรือรีคัตจาก TVC เดิมของลูกค้าอาจเข้าถึงคนน้อยลง ควรตัดต่อหรือเล่าใหม่ให้เป็นของ Shorts จริงๆ",
+   "source": "We Are Social", "url": "https://wearesocial.com/us/blog/2026/10/we-are-socials-monday-mashup-795/"},
+  {"title": "Instagram tests a Reels-first Home feed",
+   "th": "Instagram ทดลองให้ผู้ใช้เลือกเห็น Reels ในหน้า Home โดยตรง เสียงเล่นอัตโนมัติ ยังปัดกลับไปฟีดปกติหรือปิดฟีเจอร์ได้ และตอนนี้บูสต์ไลฟ์สตรีมได้แล้วด้วย",
+   "why": "ถ้าเปิดใช้วงกว้าง Reels จะยิ่งเป็นหน้าร้านหลักของแบรนด์ 3 วินาทีแรกและเสียงต้องดึงคนให้อยู่ต่อ",
+   "source": "PR Daily", "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-62/"},
+  {"title": "Punthai turns customers into co-creators with Bananoei",
+   "th": "พันธุ์ไทยต่อยอดแคมเปญ D.I.Y. ที่ทำให้เกิด UGC บนโซเชียล โดยเปิดตัวคุณเนย (@bananoeii) เป็น 'Friend of Punthai' คนแรก ร่วมคิด 5 เมนูมัทฉะเอกซ์คลูซีฟที่ทยอยออกทั้งปี",
+   "why": "ไอเดียให้ลูกค้าเป็นคนร่วมสร้าง แล้วดึงครีเอเตอร์ที่ทำไวรัลอยู่แล้วมาเป็นเพื่อนแบรนด์ ใช้กับกิจกรรมออนไลน์ของลูกค้าได้",
+   "source": "Together Driven", "url": "http://www.togetherdriven.com/when-consumers-become-co-creators-phan-thai-builds-on-d-i-y-success/"},
+  {"title": "True5G x YouTube's 21-hour 'ทรู ดู MARATHON'",
+   "th": "True5G ชวน 5 ยูทูบเบอร์ไทยทำคลิปยาวเชื่อมกันรวม 21 ชั่วโมง ฉลอง YouTube ไทยครบ 21 ปี มีซ่อน Easter Egg ให้ตามหา ได้ยอดดูกว่า 3 ล้านวิว รวม 734,000 ชั่วโมง เกือบ 5 เท่าของค่าเฉลี่ย",
+   "why": "หลักฐานว่าคลิปยาวยังได้ผล ถ้าออกแบบให้คนมีส่วนร่วมและกลับมาดูซ้ำ น่าใช้อ้างอิงเวลาเสนอแคมเปญครีเอเตอร์",
+   "source": "Brand Inside", "url": "https://brandinside.asia/true5g-youtube-marathon/"},
+  {"title": "Spotify Thailand's 'Only Spotify People Know'",
+   "th": "Spotify ไทยกับ BBDO Bangkok เล่นกับ 'ภาษาลับ' ของแฟนเพลง Gen Z ผ่านฟีเจอร์ Blend และ Jam มี YOUNGOHM, BILLKIN, ตูน บอดี้สแลม และ guncharlie พร้อมบิลบอร์ดที่โชว์ว่าคนแปลกหน้ากำลังฟังเพลงเดียวกัน",
+   "why": "ตัวอย่างการขายฟีเจอร์ด้วยมุก inside joke ของกลุ่มเป้าหมาย แทนการอธิบายฟีเจอร์ตรงๆ",
+   "source": "Marketing-Interactive", "url": "https://www.marketing-interactive.com/spotify-has-a-secret-language-and-thai-music-fans-are-in-on-it"}
+ ],
+ "lifestyle": {"title": "A slow Sunday reset",
+  "body": "อาทิตย์นี้ลองใช้เวลา 20 นาทีเตรียมสัปดาห์ใหม่แบบเบาๆ จดงานสำคัญ 3 อย่างของวันจันทร์ จัดโต๊ะนิดหน่อย แล้วที่เหลือของวันก็พักให้เต็มที่ เริ่มสัปดาห์แบบไม่ต้องรีบตั้งตัว",
+  "note": "Evergreen tip · not news"},
+ "word": {"word": "original", "pos": "adj.", "ipa": "/əˈrɪdʒənl/", "th": "ต้นฉบับ, ที่คิดขึ้นเอง",
+  "def": "made or created new, not copied from something else.",
+  "ex": "YouTube now pushes original Shorts over re-uploads."},
+ "english": {"title": "Planning a lazy Sunday brunch",
+  "dialogue": [
+   ["Joe", "Morning! Any plans for today?"],
+   ["Nadda", "Not really. I just want to take it easy."],
+   ["Joe", "How about a late brunch somewhere quiet?"],
+   ["Nadda", "That sounds perfect. Somewhere with good coffee?"],
+   ["Joe", "I know a little café nearby. Shall we go around eleven?"],
+   ["Nadda", "Deal. Let me sleep in a bit first!"]
+  ],
+  "vocab": [
+   ["any plans", "มีแผนอะไรไหม"],
+   ["take it easy", "ทำตัวสบายๆ"],
+   ["late brunch", "มื้อสายๆ"],
+   ["somewhere quiet", "ที่เงียบๆ"],
+   ["shall we", "ไป...กันไหม (ชวน)"],
+   ["sleep in", "นอนตื่นสาย"]
+  ],
+  "tip": {"instead": "I want to rest today.", "better": "I just want to take it easy today.",
+   "why": "take it easy ฟังเป็นธรรมชาติและอบอุ่นกว่า ใช้บอกว่าอยากใช้วันแบบไม่เร่งรีบ"}},
+ "know": [
+  {"title": "What is a virtual power plant?", "body": "โรงไฟฟ้าเสมือน (VPP) ไม่ใช่โรงไฟฟ้าจริง แต่เป็นระบบดิจิทัลที่รวมโซลาร์บนหลังคา แบตเตอรี่ และอุปกรณ์จำนวนมากให้ทำงานร่วมกันเหมือนโรงไฟฟ้าเดียว ช่วยรักษาสมดุลไฟช่วงคนใช้เยอะ"},
+  {"title": "What is UGC?", "body": "UGC (User-Generated Content) คือคอนเทนต์ที่ลูกค้าหรือผู้ใช้ทำเองเกี่ยวกับแบรนด์ เช่น รีวิว คลิปสูตรเมนู มักน่าเชื่อถือกว่าโฆษณาที่แบรนด์ทำเอง"}
+ ],
+ "on_this_day": [
+  {"year": "1867", "text": "The United States formally took possession of Alaska from Russia, now celebrated as Alaska Day."},
+  {"year": "1922", "text": "The British Broadcasting Company, later the BBC, was founded in London."}
+ ],
+ "three_things": [
+  "Write down the top 3 tasks for Monday",
+  "Note one co-creator idea like Punthai's for a client",
+  "Take it easy and sleep in a little"
+ ],
+ "wordsearch_words": ["SUNDAY", "BRUNCH", "SHORTS", "REELS", "MATCHA", "SOLAR", "ORIGINAL", "UGC"]
+}
