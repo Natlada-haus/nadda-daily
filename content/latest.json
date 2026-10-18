@@ -1,437 +1,430 @@
 {
- "issue_no": 6,
- "tagline": "อาทิตย์ชิลๆ · A gentle Sunday read",
+ "issue_no": 7,
+ "tagline": "จันทร์สดใส · A fresh Monday start",
  "thailand": [
   {
    "lead": true,
-   "title": "Govt fleshes out its energy transition plans",
-   "th": "ที่ประชุมประจำปี IMF–ธนาคารโลกในกรุงเทพฯ (17 ต.ค.) รมช.คลัง สันติธาร เสถียรไทย วางแผน 3 ขั้นให้ไทยเปลี่ยนผ่านสู่เศรษฐกิจสีเขียว ลดการพึ่งพาพลังงานนำเข้า ดึงเงินลงทุนเอกชน และเน้นช่วยเหลือครัวเรือนกับธุรกิจแบบตรงจุดแทนการอุดหนุนราคาน้ำมัน",
-   "en": "The plan favours targeted help for households over broad fuel subsidies during energy shocks.",
+   "title": "Floods persist in Bangkok and 21 provinces",
+   "th": "ปภ. รายงาน (18 ต.ค.) น้ำท่วมยังคงอยู่ในกรุงเทพฯ (ลาดกระบัง หนองจอก มีนบุรี) และอีก 21 จังหวัด ส่วนใหญ่ภาคกลาง แม้ระดับน้ำเริ่มลดลง ผู้ได้รับผลกระทบรวมราว 2.18 ล้านคน และเสียชีวิตแล้ว 80 รายตั้งแต่กลางเดือนกันยายน",
+   "en": "Water levels are falling, but about 2.18 million people are still affected.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3339063/govt-fleshes-out-energy-transition-plans"
+   "url": "https://www.bangkokpost.com/thailand/general/3339258/flooding-persists-in-bangkok-21-provinces-death-toll-80"
   },
   {
-   "title": "Egat gets ready for a 'virtual power plant'",
-   "th": "กฟผ. ทดสอบโรงไฟฟ้าเสมือน (VPP) สำเร็จ ระบบนี้รวมแหล่งพลังงานหมุนเวียนเล็กๆ เช่น โซลาร์บนหลังคาบ้าน ให้ทำงานเหมือนโรงไฟฟ้าเดียว ร่างแผน PDP ตั้งเป้า VPP 14,000 เมกะวัตต์ภายในกลางศตวรรษนี้",
-   "en": "Homes with rooftop solar could one day be paid to shift power use at peak hours.",
+   "title": "Heavy rain forecast through Oct 25",
+   "th": "กรมอุตุฯ เตือนฝนตกหนักถึงหนักมากทั่วไทยถึง 25 ต.ค. ช่วงแรกหนักทางใต้และตะวันออก จากนั้นฝนจะเพิ่มขึ้นในภาคกลางรวมถึงกรุงเทพฯ ระวังน้ำท่วมฉับพลันและเลี่ยงเส้นทางน้ำท่วมขัง",
+   "en": "Bangkok and nearby provinces should expect more heavy rain later this week.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/business/general/3338609/egat-prepares-for-virtual-power-plant-scheme"
+   "url": "https://www.bangkokpost.com/thailand/general/3339253/widespread-rain-forecast-through-oct-25"
   },
   {
-   "title": "Recycling estates planned for old solar panels and EV batteries",
-   "th": "กระทรวงอุตสาหกรรมเดินหน้าตั้งนิคมอุตสาหกรรมรีไซเคิลสำหรับแผงโซลาร์และแบตเตอรี่รถ EV ที่หมดอายุ พร้อมคุมเข้มการทิ้งกากอุตสาหกรรมอันตรายแบบผิดกฎหมาย",
-   "en": "Old solar panels will soon be classed as 'waste' that needs proper handling.",
+   "title": "Flood victims queue for hours for compensation",
+   "th": "ผู้ประสบอุทกภัยในกรุงเทพฯ ต่อคิวตั้งแต่ก่อนรุ่งสางที่เขตสายไหมและลาดกระบังเพื่อยื่นขอเงินเยียวยา หลายคนเจอปัญหาแอปทางรัฐ รัฐบาลเตรียมเสนอ ครม. อังคารนี้ขออีก 10,508 ล้านบาท ครอบคลุมราว 1.48 ล้านครัวเรือน",
+   "en": "The cabinet is expected to consider an extra 10.5 billion baht on Tuesday.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3338998/ministry-eyes-illegal-dumping"
+   "url": "https://www.bangkokpost.com/thailand/general/3339274/flood-victims-face-delays"
   }
  ],
  "world": [
   {
-   "title": "Istanbul hit by its worst flash floods since 1942",
-   "th": "น้ำท่วมฉับพลันครั้งรุนแรงที่สุดในอิสตันบูลนับตั้งแต่ปี 1942 มีผู้เสียชีวิต 4 ราย สูญหาย 3 ราย พื้นที่หนักสุดคือย่านซารึเยร์",
-   "en": "Turkey's interior minister called it the city's worst flood in more than 80 years.",
-   "source": "Xinhua",
-   "url": "https://english.news.cn/20261017/dd6796462e84487f83e5ac3219802a5b/c.html"
+   "title": "Cost-of-living protests turn violent in France",
+   "th": "การประท้วงค่าครองชีพทั่วฝรั่งเศสลุกลามเป็นจลาจลและการปล้นสะดม มีผู้ถูกจับราว 1,800 คน และยอดแหลมของศาลาว่าการเก่าแก่ในเมืองลีมอฌถล่มจากเพลิงไหม้ ขณะที่โปรตุเกสก็มีการประท้วงเรื่องค่าครองชีพและที่อยู่อาศัย",
+   "en": "Protests over living costs and housing are spreading across Europe.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-evening"
   },
   {
-   "title": "Iran says a supertanker hit a mine in the Strait of Hormuz",
-   "th": "IRGC ของอิหร่านอ้างว่าเรือบรรทุกน้ำมันขนาดใหญ่ชนทุ่นระเบิดในช่องแคบฮอร์มุซ ขณะที่กองบัญชาการ CENTCOM ของสหรัฐฯ ระบุว่าช่องแคบยังเปิดเดินเรือได้",
-   "en": "Any trouble in Hormuz tends to push oil prices, and fuel costs, higher.",
-   "source": "World Brief Now",
-   "url": "https://worldbriefnow.com/editions/2026-10-17/0600/"
+   "title": "Pope Leo returns to the Vatican after surgery",
+   "th": "สมเด็จพระสันตะปาปาลีโอที่ 14 เสด็จออกจากโรงพยาบาลเจเมลลีในกรุงโรมและกลับสู่วาติกัน เพียง 4 วันหลังการผ่าตัดมะเร็งปอด โดยทรงดำเนินไปขึ้นรถได้เอง",
+   "en": "He walked unaided to his car, four days after lung-cancer surgery.",
+   "source": "Reuters via Devdiscourse",
+   "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
   },
   {
-   "title": "Amazon deforestation in Brazil falls to a record low",
-   "th": "การตัดไม้ทำลายป่าแอมะซอนในบราซิลลดลงต่ำสุดเท่าที่เคยมีการบันทึก เป็นข่าวดีด้านสิ่งแวดล้อมท่ามกลางข่าวหนักๆ สัปดาห์นี้",
-   "en": "A rare piece of good climate news this week.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record"
+   "title": "Trump waives new Russia sanctions package",
+   "th": "ประธานาธิบดีทรัมป์ลงนามคำสั่งพักการใช้มาตรการคว่ำบาตรรัสเซียชุดใหม่ที่สภาคองเกรสผ่านไว้ ทั้งพรรครีพับลิกันและเดโมแครตออกมาวิจารณ์ ส่วนประธานาธิบดีเซเลนสกีของยูเครนเรียกว่าเป็นเรื่องน่าเสียดาย",
+   "en": "Lawmakers from both parties criticised the decision.",
+   "source": "Axios",
+   "url": "https://www.axios.com/world/2026/10/18"
   }
  ],
  "social": [
   {
-   "title": "Facebook lets users tune 'Your Algorithm'",
-   "th": "Facebook เปิดให้ผู้ใช้ปรับแต่งฟีดเองผ่าน 'Your Algorithm' ส่วน YouTube ทดลองโบนัส Shorts สำหรับช่องที่ได้รับเชิญ และ X ก็ทดลองโบนัสวิดีโอคล้ายกัน",
-   "why": "ถ้าคนเลือกฟีดเองได้มากขึ้น เพจลูกค้าต้องพึ่งคอนเทนต์ที่คนอยากเห็นจริงๆ มากกว่าการหวังพึ่งอัลกอริทึมดันให้",
+   "title": "X pilots a $3,000 Video Kickstart Bonus",
+   "th": "X ทดลองโบนัสให้ครีเอเตอร์ที่ได้รับเชิญ สูงสุด 3,000 ดอลลาร์ ถ้าโพสต์วิดีโอแนวตั้งสั้นกว่า 3 นาทีอย่างน้อย 15 คลิปใน 15 วัน คลิปที่เคยลงที่อื่นใช้ได้ถ้าไม่มีลายน้ำ",
+   "why": "แพลตฟอร์มกำลังแย่งครีเอเตอร์วิดีโอสั้น ถ้าจะเสนอลูกค้าลงวิดีโอบน X ควรใช้ไฟล์ต้นฉบับไม่มีลายน้ำ TikTok",
    "source": "Creator Weekly (Peggy K)",
    "url": "https://www.peggyktc.com/2026/10/creator-weekly-youtube-shorts-bonuses.html"
   },
   {
-   "title": "YouTube Shorts now favours original content",
-   "th": "YouTube ปรับระบบแนะนำ Shorts ช่องที่รีอัปโหลดคอนเทนต์คนอื่นโดยไม่เพิ่มคุณค่า เช่น คอมเมนต์ การเล่าเรื่อง หรือการตัดต่อใหม่ จะถูกลดการมองเห็น",
-   "why": "คลิปรีโพสต์หรือรีคัตจาก TVC เดิมของลูกค้าอาจเข้าถึงคนน้อยลง ควรตัดต่อหรือเล่าใหม่ให้เป็นของ Shorts จริงๆ",
-   "source": "We Are Social",
-   "url": "https://wearesocial.com/us/blog/2026/10/we-are-socials-monday-mashup-795/"
+   "title": "X's video carousel now drops copycat clips",
+   "th": "โค้ดอัลกอริทึมที่ X เปิดเผย (17 ต.ค.) เปิดให้กรองคลิปซ้ำหรือคล้ายกัน และไม่ให้ครีเอเตอร์คนเดียวกินพื้นที่หลายคลิปในแถบวิดีโอแนะนำ",
+   "why": "โพสต์คลิปเดิมซ้ำหลายรอบจะได้ผลน้อยลง คลิปต้นฉบับที่แข็งแรงคลิปเดียวคุ้มกว่า (เป็นค่าเริ่มต้นในโค้ด X ยังปรับจริงได้)",
+   "source": "Data Empower",
+   "url": "https://dataempower.net/hot-news/x-algorithm-video-carousel-dedupe-oct-2026/"
   },
   {
-   "title": "Instagram tests a Reels-first Home feed",
-   "th": "Instagram ทดลองให้ผู้ใช้เลือกเห็น Reels ในหน้า Home โดยตรง เสียงเล่นอัตโนมัติ ยังปัดกลับไปฟีดปกติหรือปิดฟีเจอร์ได้ และตอนนี้บูสต์ไลฟ์สตรีมได้แล้วด้วย",
-   "why": "ถ้าเปิดใช้วงกว้าง Reels จะยิ่งเป็นหน้าร้านหลักของแบรนด์ 3 วินาทีแรกและเสียงต้องดึงคนให้อยู่ต่อ",
+   "title": "Threads introduces 'Gems' badges",
+   "th": "Threads เปิดตัว Gems ป้ายดิจิทัลที่ระบบอัตโนมัติมอบให้โพสต์ที่มีมุมมองแปลกใหม่และชวนคุยต่อ เจ้าของโพสต์เลือกเอาป้ายออกได้",
+   "why": "Threads ให้รางวัลกับโพสต์ที่ชวนคุยจริงๆ คอนเทนต์ถามความเห็นหรือมุมมองแบรนด์แบบมีของน่าจะได้เปรียบ",
    "source": "PR Daily",
    "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-62/"
   },
   {
-   "title": "Punthai turns customers into co-creators with Bananoei",
-   "th": "พันธุ์ไทยต่อยอดแคมเปญ D.I.Y. ที่ทำให้เกิด UGC บนโซเชียล โดยเปิดตัวคุณเนย (@bananoeii) เป็น 'Friend of Punthai' คนแรก ร่วมคิด 5 เมนูมัทฉะเอกซ์คลูซีฟที่ทยอยออกทั้งปี",
-   "why": "ไอเดียให้ลูกค้าเป็นคนร่วมสร้าง แล้วดึงครีเอเตอร์ที่ทำไวรัลอยู่แล้วมาเป็นเพื่อนแบรนด์ ใช้กับกิจกรรมออนไลน์ของลูกค้าได้",
-   "source": "Together Driven",
-   "url": "http://www.togetherdriven.com/when-consumers-become-co-creators-phan-thai-builds-on-d-i-y-success/"
+   "title": "Meta Accounts unify Facebook, Instagram and more",
+   "th": "Meta เริ่มทยอยเปิดใช้ Meta Accounts บัญชีเดียวสำหรับทุกแอปของ Meta รวม Facebook และ Instagram ไปจนถึงอุปกรณ์ของ Meta",
+   "why": "การจัดการสิทธิ์แอดมินเพจลูกค้าและบัญชีทีมอาจเปลี่ยน ควรเช็กว่าใครล็อกอินบัญชีไหนดูแลเพจอะไร",
+   "source": "Creator Weekly (Peggy K)",
+   "url": "https://www.peggyktc.com/2026/10/creator-weekly-youtube-shorts-bonuses.html"
   },
   {
-   "title": "True5G x YouTube's 21-hour 'ทรู ดู MARATHON'",
-   "th": "True5G ชวน 5 ยูทูบเบอร์ไทยทำคลิปยาวเชื่อมกันรวม 21 ชั่วโมง ฉลอง YouTube ไทยครบ 21 ปี มีซ่อน Easter Egg ให้ตามหา ได้ยอดดูกว่า 3 ล้านวิว รวม 734,000 ชั่วโมง เกือบ 5 เท่าของค่าเฉลี่ย",
-   "why": "หลักฐานว่าคลิปยาวยังได้ผล ถ้าออกแบบให้คนมีส่วนร่วมและกลับมาดูซ้ำ น่าใช้อ้างอิงเวลาเสนอแคมเปญครีเอเตอร์",
-   "source": "Brand Inside",
-   "url": "https://brandinside.asia/true5g-youtube-marathon/"
-  },
-  {
-   "title": "Spotify Thailand's 'Only Spotify People Know'",
-   "th": "Spotify ไทยกับ BBDO Bangkok เล่นกับ 'ภาษาลับ' ของแฟนเพลง Gen Z ผ่านฟีเจอร์ Blend และ Jam มี YOUNGOHM, BILLKIN, ตูน บอดี้สแลม และ guncharlie พร้อมบิลบอร์ดที่โชว์ว่าคนแปลกหน้ากำลังฟังเพลงเดียวกัน",
-   "why": "ตัวอย่างการขายฟีเจอร์ด้วยมุก inside joke ของกลุ่มเป้าหมาย แทนการอธิบายฟีเจอร์ตรงๆ",
-   "source": "Marketing-Interactive",
-   "url": "https://www.marketing-interactive.com/spotify-has-a-secret-language-and-thai-music-fans-are-in-on-it"
+   "title": "TikTok adds AI shopping and lead tools for advertisers",
+   "th": "TikTok ประกาศอัปเดตโฆษณาที่ใช้ AI เช่น Buy Direct, Shopping Assistant, Agentic Leads และขยายระบบอัตโนมัติ Smart+",
+   "why": "ฟอร์มเก็บลีดแบบ AI อาจใช้กับแคมเปญจองทดลองขับรถได้ น่าลองเสนอเป็นไอเดียให้ GWM",
+   "source": "TikTok Newsroom",
+   "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en"
   }
  ],
  "lifestyle": {
-  "title": "A slow Sunday reset",
-  "body": "อาทิตย์นี้ลองใช้เวลา 20 นาทีเตรียมสัปดาห์ใหม่แบบเบาๆ จดงานสำคัญ 3 อย่างของวันจันทร์ จัดโต๊ะนิดหน่อย แล้วที่เหลือของวันก็พักให้เต็มที่ เริ่มสัปดาห์แบบไม่ต้องรีบตั้งตัว",
+  "title": "A rainy-week checklist",
+  "body": "สัปดาห์นี้ฝนยังหนัก ลองเตรียมร่มพับในกระเป๋า เช็กเส้นทางก่อนออกจากบ้าน ชาร์จพาวเวอร์แบงก์ให้เต็ม และเผื่อเวลาเดินทางเพิ่มสัก 20 นาที จะได้ไม่ต้องรีบจนเครียด",
   "note": "Evergreen tip · not news"
  },
  "word": {
-  "word": "original",
-  "pos": "adj.",
-  "ipa": "/əˈrɪdʒənl/",
-  "th": "ต้นฉบับ, ที่คิดขึ้นเอง",
-  "def": "made or created new, not copied from something else.",
-  "ex": "YouTube now pushes original Shorts over re-uploads."
+  "word": "relief",
+  "pos": "n.",
+  "ipa": "/rɪˈliːf/",
+  "th": "ความช่วยเหลือ, ความโล่งใจ",
+  "def": "help given to people in need, or the good feeling when worry ends.",
+  "ex": "Flood relief payments will go to eligible households."
  },
  "english": {
-  "title": "Planning a lazy Sunday brunch",
+  "title": "Monday morning in the rain",
   "dialogue": [
    [
     "Joe",
-    "Morning! Any plans for today?"
+    "It's pouring outside. Are you heading to the office?"
    ],
    [
     "Nadda",
-    "Not really. I just want to take it easy."
+    "Yes, but I'll leave a bit earlier to beat the traffic."
    ],
    [
     "Joe",
-    "How about a late brunch somewhere quiet?"
+    "Good idea. Don't forget your umbrella."
    ],
    [
     "Nadda",
-    "That sounds perfect. Somewhere with good coffee?"
+    "Already packed. Can you drop me at the station?"
    ],
    [
     "Joe",
-    "I know a little café nearby. Shall we go around eleven?"
+    "Sure, give me five minutes."
    ],
    [
     "Nadda",
-    "Deal. Let me sleep in a bit first!"
+    "Thanks! You're a lifesaver."
    ]
   ],
   "vocab": [
    [
-    "any plans",
-    "มีแผนอะไรไหม"
+    "pouring",
+    "ฝนตกหนักมาก"
    ],
    [
-    "take it easy",
-    "ทำตัวสบายๆ"
+    "heading to",
+    "กำลังไปที่"
    ],
    [
-    "late brunch",
-    "มื้อสายๆ"
+    "beat the traffic",
+    "ออกก่อนรถติด"
    ],
    [
-    "somewhere quiet",
-    "ที่เงียบๆ"
+    "drop me at",
+    "ไปส่งฉันที่"
    ],
    [
-    "shall we",
-    "ไป...กันไหม (ชวน)"
+    "give me five minutes",
+    "ขอเวลา 5 นาที"
    ],
    [
-    "sleep in",
-    "นอนตื่นสาย"
+    "lifesaver",
+    "ผู้ช่วยชีวิต (ช่วยได้มาก)"
    ]
   ],
   "tip": {
-   "instead": "I want to rest today.",
-   "better": "I just want to take it easy today.",
-   "why": "take it easy ฟังเป็นธรรมชาติและอบอุ่นกว่า ใช้บอกว่าอยากใช้วันแบบไม่เร่งรีบ"
+   "instead": "It is raining very much.",
+   "better": "It's pouring.",
+   "why": "pouring เป็นคำที่เจ้าของภาษาใช้บอกว่าฝนตกหนักมาก สั้นและเป็นธรรมชาติกว่า"
   }
  },
  "know": [
   {
-   "title": "What is a virtual power plant?",
-   "body": "โรงไฟฟ้าเสมือน (VPP) ไม่ใช่โรงไฟฟ้าจริง แต่เป็นระบบดิจิทัลที่รวมโซลาร์บนหลังคา แบตเตอรี่ และอุปกรณ์จำนวนมากให้ทำงานร่วมกันเหมือนโรงไฟฟ้าเดียว ช่วยรักษาสมดุลไฟช่วงคนใช้เยอะ"
+   "title": "What is a monsoon trough?",
+   "body": "ร่องมรสุมคือแนวความกดอากาศต่ำที่ลมสองทิศมาบรรจบกัน ทำให้อากาศลอยตัวขึ้นและเกิดเมฆฝน เมื่อร่องนี้พาดผ่านบริเวณไหน ที่นั่นมักมีฝนตกหนักต่อเนื่องหลายวัน"
   },
   {
-   "title": "What is UGC?",
-   "body": "UGC (User-Generated Content) คือคอนเทนต์ที่ลูกค้าหรือผู้ใช้ทำเองเกี่ยวกับแบรนด์ เช่น รีวิว คลิปสูตรเมนู มักน่าเชื่อถือกว่าโฆษณาที่แบรนด์ทำเอง"
+   "title": "What is deduplication?",
+   "body": "Deduplication (dedupe) คือการกรองของที่ซ้ำกันออก ในโซเชียลหมายถึงอัลกอริทึมไม่โชว์คลิปเดิมหรือคลิปที่หน้าตาเหมือนกันซ้ำๆ ให้คนเห็นหลายครั้ง"
   }
  ],
  "on_this_day": [
   {
-   "year": "1867",
-   "text": "The United States formally took possession of Alaska from Russia, now celebrated as Alaska Day."
+   "year": "1781",
+   "text": "British forces under Lord Cornwallis surrendered at Yorktown, effectively ending major fighting in the American Revolutionary War."
   },
   {
-   "year": "1922",
-   "text": "The British Broadcasting Company, later the BBC, was founded in London."
+   "year": "1987",
+   "text": "Black Monday: stock markets around the world crashed, and the Dow Jones fell about 22.6% in a single day."
   }
  ],
  "three_things": [
-  "Write down the top 3 tasks for Monday",
-  "Note one co-creator idea like Punthai's for a client",
-  "Take it easy and sleep in a little"
+  "Pack an umbrella and leave 20 minutes early",
+  "Try one original video idea instead of a repost",
+  "Check who manages each client page under the new Meta Accounts"
  ],
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "weather": {
   "max": 32,
-  "min": 25,
-  "rain": 87,
+  "min": 24,
+  "rain": 94,
   "uv": 8,
   "cond": "Thunderstorms",
-  "humidity": 99,
+  "humidity": 98,
   "source": "Open-Meteo",
-  "fetched": "06:23"
+  "fetched": "06:22"
  },
  "wordsearch": {
   "grid": [
-   "IOLRNSYODH",
-   "AWCGBHLRIM",
-   "PWDUEOEILA",
-   "APBNSRYGST",
-   "KMBOHTMIUC",
-   "DRRCSSENNH",
-   "FEUUWOLADA",
-   "AENIVULLAH",
-   "KLCFEGAAYI",
-   "WSHWOCIORV"
+   "RMRTHREADS",
+   "LOIYBONUST",
+   "PNHYWVBCDV",
+   "TDUMBRELLA",
+   "LADSGEMSYR",
+   "IYIICLJKDJ",
+   "BABFAIRAIN",
+   "LELFGECCBP",
+   "VIDEOFTFAT",
+   "WYLOMYDECS"
   ],
   "words": [
    {
-    "word": "ORIGINAL",
-    "cells": [
-     [
-      0,
-      7
-     ],
-     [
-      1,
-      7
-     ],
-     [
-      2,
-      7
-     ],
-     [
-      3,
-      7
-     ],
-     [
-      4,
-      7
-     ],
-     [
-      5,
-      7
-     ],
-     [
-      6,
-      7
-     ],
-     [
-      7,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "SUNDAY",
+    "word": "UMBRELLA",
     "cells": [
      [
       3,
-      8
-     ],
-     [
-      4,
-      8
-     ],
-     [
-      5,
-      8
-     ],
-     [
-      6,
-      8
-     ],
-     [
-      7,
-      8
-     ],
-     [
-      8,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "BRUNCH",
-    "cells": [
-     [
-      4,
       2
-     ],
-     [
-      5,
-      2
-     ],
-     [
-      6,
-      2
-     ],
-     [
-      7,
-      2
-     ],
-     [
-      8,
-      2
-     ],
-     [
-      9,
-      2
-     ]
-    ]
-   },
-   {
-    "word": "SHORTS",
-    "cells": [
-     [
-      0,
-      5
-     ],
-     [
-      1,
-      5
-     ],
-     [
-      2,
-      5
      ],
      [
       3,
-      5
-     ],
-     [
-      4,
-      5
-     ],
-     [
-      5,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "MATCHA",
-    "cells": [
-     [
-      1,
-      9
-     ],
-     [
-      2,
-      9
+      3
      ],
      [
       3,
-      9
-     ],
-     [
-      4,
-      9
-     ],
-     [
-      5,
-      9
-     ],
-     [
-      6,
-      9
-     ]
-    ]
-   },
-   {
-    "word": "REELS",
-    "cells": [
-     [
-      5,
-      1
-     ],
-     [
-      6,
-      1
-     ],
-     [
-      7,
-      1
-     ],
-     [
-      8,
-      1
-     ],
-     [
-      9,
-      1
-     ]
-    ]
-   },
-   {
-    "word": "SOLAR",
-    "cells": [
-     [
-      5,
       4
      ],
      [
+      3,
+      5
+     ],
+     [
+      3,
+      6
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      3,
+      8
+     ],
+     [
+      3,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "THREADS",
+    "cells": [
+     [
+      0,
+      3
+     ],
+     [
+      0,
+      4
+     ],
+     [
+      0,
+      5
+     ],
+     [
+      0,
+      6
+     ],
+     [
+      0,
+      7
+     ],
+     [
+      0,
+      8
+     ],
+     [
+      0,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "MONDAY",
+    "cells": [
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ],
+     [
+      3,
+      1
+     ],
+     [
+      4,
+      1
+     ],
+     [
+      5,
+      1
+     ]
+    ]
+   },
+   {
+    "word": "RELIEF",
+    "cells": [
+     [
+      3,
+      5
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      5,
+      5
+     ],
+     [
       6,
       5
      ],
      [
       7,
-      6
+      5
      ],
      [
       8,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "VIDEO",
+    "cells": [
+     [
+      8,
+      0
+     ],
+     [
+      8,
+      1
+     ],
+     [
+      8,
+      2
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "BONUS",
+    "cells": [
+     [
+      1,
+      4
+     ],
+     [
+      1,
+      5
+     ],
+     [
+      1,
+      6
+     ],
+     [
+      1,
       7
      ],
      [
-      9,
+      1,
       8
      ]
     ]
    },
    {
-    "word": "UGC",
+    "word": "RAIN",
     "cells": [
      [
-      7,
+      6,
+      6
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      6,
+      8
+     ],
+     [
+      6,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "GEMS",
+    "cells": [
+     [
+      4,
+      4
+     ],
+     [
+      4,
       5
      ],
      [
-      8,
-      5
+      4,
+      6
      ],
      [
-      9,
-      5
+      4,
+      7
      ]
     ]
    }
@@ -440,101 +433,101 @@
  "sudoku": {
   "puzzle": [
    [
-    2,
-    4,
-    3,
+    0,
+    0,
+    1,
     0,
     0,
     0
    ],
    [
+    0,
     6,
-    0,
-    0,
     2,
-    4,
-    3
-   ],
-   [
-    0,
-    1,
     0,
     4,
-    0,
     0
    ],
    [
-    0,
-    3,
-    6,
+    2,
     5,
-    1,
-    2
-   ],
-   [
-    3,
-    6,
     0,
     1,
-    2,
-    0
-   ],
-   [
-    0,
-    0,
-    4,
-    3,
-    0,
-    5
-   ]
-  ],
-  "solution": [
-   [
-    2,
-    4,
-    3,
-    6,
-    5,
-    1
-   ],
-   [
-    6,
-    5,
-    1,
-    2,
-    4,
-    3
-   ],
-   [
-    5,
-    1,
-    2,
-    4,
     3,
     6
    ],
    [
+    1,
+    3,
+    0,
+    2,
+    5,
+    0
+   ],
+   [
+    6,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    6,
+    0,
+    0
+   ]
+  ],
+  "solution": [
+   [
+    5,
     4,
+    1,
     3,
     6,
-    5,
-    1,
     2
    ],
    [
     3,
     6,
-    5,
-    1,
     2,
-    4
+    5,
+    4,
+    1
+   ],
+   [
+    2,
+    5,
+    4,
+    1,
+    3,
+    6
    ],
    [
     1,
-    2,
-    4,
     3,
     6,
+    2,
+    5,
+    4
+   ],
+   [
+    6,
+    2,
+    5,
+    4,
+    1,
+    3
+   ],
+   [
+    4,
+    1,
+    3,
+    6,
+    2,
     5
    ]
   ]
