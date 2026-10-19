@@ -1,0 +1,46 @@
+{
+ "issue_no": 8,
+ "tagline": "อังคารสบายๆ · An easy Tuesday",
+ "thailand": [
+  {"lead": true, "title": "Flooding remains in Bangkok and 22 provinces", "th": "Bangkok Post รายงาน (19 ต.ค.) ว่าน้ำท่วมยังไม่หมดไป ทั้งในกรุงเทพฯ และอีก 22 จังหวัด ใครต้องเดินทางเช็กเส้นทางก่อนออกจากบ้านนะ", "en": "Floodwater is still lingering in the capital and 22 provinces.", "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3339719/flooding-remains-in-bangkok-and-22-provinces"},
+  {"title": "Thai and Korean police bust Bangkok scam centres", "th": "ตำรวจตรวจคนเข้าเมืองไทยร่วมกับตำรวจเกาหลีใต้บุกค้น 3 บ้านเช่าในกรุงเทพฯ (ลาดพร้าว-ห้วยขวาง, วัชรพล, รัชดา-พระราม 9) จับชาวจีน 2 คนและชาวเกาหลีใต้ 8 คน ต้องหาตั้งแก๊งคอลเซ็นเตอร์หลอกคนเกาหลีไปกว่า 100 ล้านบาท", "en": "Ten suspects were arrested and 13 computers and 21 phones were seized.", "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3339788/thai-s-korean-police-bust-scam-centres-in-bangkok"},
+  {"title": "PM orders a review of illegal foreign land ownership", "th": "นายกฯ สั่งให้ตรวจสอบการถือครองที่ดินโดยชาวต่างชาติที่ผิดกฎหมายทั่วประเทศ ให้เสร็จภายในสิ้นเดือนธันวาคมนี้", "en": "The nationwide review is due by the end of December.", "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3339753/pm-orders-nationwide-review-of-illegal-foreign-land-ownership-by-end-of-december"}
+ ],
+ "world": [
+  {"title": "France protest arrests pass 2,000", "th": "ตำรวจฝรั่งเศสใช้แก๊สน้ำตาและรถฉีดน้ำสลายผู้ชุมนุมกลางปารีสเมื่อวันอาทิตย์ หนึ่งวันหลังการประท้วงค่าครองชีพทั่วประเทศที่มีผู้ถูกจับกว่า 2,000 คน และเจ้าหน้าที่บาดเจ็บกว่า 600 นาย", "en": "Macron said prefects may now ban some demonstrations.", "source": "Anadolu Agency", "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-19-2026/4093015"},
+  {"title": "Big drone and missile strikes between Ukraine and Russia", "th": "ยูเครนส่งโดรนกว่า 1,000 ลำโจมตี 15 แคว้นของรัสเซีย ส่วนรัสเซียตอบโต้ด้วยการโจมตีเคียฟครั้งใหญ่ ทำให้บ้านกว่าครึ่งล้านหลังคาเรือนไฟดับ และโรงงานพลังงานเสียหายกว่า 10 แห่ง", "en": "More than half a million Kyiv households lost power.", "source": "Democracy Now!", "url": "https://www.democracynow.org/2026/10/19/headlines"},
+  {"title": "Lula and Flávio Bolsonaro face off before Brazil's runoff", "th": "ประธานาธิบดีลูลาและวุฒิสมาชิกฟลาวิโอ โบลโซนาโร ลูกชายอดีตประธานาธิบดี ดีเบตกันครั้งแรกและครั้งเดียว หนึ่งสัปดาห์ก่อนการเลือกตั้งรอบชิงของบราซิล", "en": "Polls have narrowed ahead of the runoff next week.", "source": "Democracy Now!", "url": "https://www.democracynow.org/2026/10/19/headlines"}
+ ],
+ "social": [
+  {"title": "Instagram drops Reels series linking on Oct 28", "th": "Instagram จะยกเลิกฟีเจอร์ลิงก์ Reels เป็นซีรีส์ตั้งแต่ 28 ต.ค. แล้วเพิ่มปุ่ม 'use as reference' ให้เปิด Reel ที่ยาวไม่เกิน 90 วิ ซ้อนเป็นหน้าต่างเล็กตอนอัดคลิปตอบ (ตอนนี้มีแค่ iOS)", "why": "ถ้าแผนคอนเทนต์ลูกค้าใช้ Reels แบบซีรีส์ ต้องเปลี่ยนวิธีร้อยเรื่องก่อน 28 ต.ค. เช่นใช้ปกเลข EP หรือคลิปรีแอคต่อเนื่องแทน", "source": "Net Influencer", "url": "https://www.netinfluencer.com/meta-adds-audio-links-trending-insights-and-reference-reels-to-edits-drops-series-linking/"},
+  {"title": "Edits adds tappable audio links, Trending insights and Kits", "th": "แอป Edits ของ Meta ให้คนดูกดลิงก์ไปที่เพลงหรือเสียงที่ใช้ใน Reel ได้ เพิ่มอินไซต์ 'Trending' (เฉพาะครีเอเตอร์ 10,000 ฟอลขึ้นไป) และ 'Kits' สำหรับเซฟสไตล์ภาพไว้ใช้ซ้ำ", "why": "Kits ช่วยล็อกโทนภาพแบรนด์ให้ทุกคลิปเหมือนกัน และลิงก์เสียงทำให้ sound ของแคมเปญถูกหยิบไปใช้ต่อง่ายขึ้น", "source": "Net Influencer", "url": "https://www.netinfluencer.com/meta-adds-audio-links-trending-insights-and-reference-reels-to-edits-drops-series-linking/"},
+  {"title": "Viral hippo-feeding fail becomes a real zoo attraction", "th": "คลิป TikTok ของ @salindamungkhon ที่สาวโยนผลไม้ให้ฮิปโปที่ฟาร์มจระเข้สมุทรปราการพลาด 4 ครั้งติด ใกล้แตะ 2 ล้านวิว จนสวนสัตว์รีบทำรูปปั้นฮิปโปอ้าปากให้คนมาฝึกโยนจริง", "why": "ตัวอย่างชัดของการหยิบกระแสไวรัลมาทำเป็นประสบการณ์ออฟไลน์ภายในไม่กี่วัน ใช้เป็นเคสเสนอลูกค้าเรื่องความเร็วในการเล่นกระแสได้", "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3339823/zoo-turns-viral-hippo-feeding-fail-into-visitor-attraction"},
+  {"title": "BYD x Netflix turn test drives into series worlds", "th": "BYD จับมือ Netflix จัดเทสต์ไดรฟ์แบบพาเข้าโลก 3 ซีรีส์ดัง (Squid Game, Stranger Things, Money Heist) โดยไทยเป็นประเทศแรกและประเทศเดียว ณ วันสัมภาษณ์ที่จัดรูปแบบนี้", "why": "เป็นคู่แข่งกลุ่มรถ EV จีนเหมือน GWM ไอเดียทำเทสต์ไดรฟ์ให้เป็นคอนเทนต์และอีเวนต์ น่าเก็บไว้เทียบตอนวางแผน ORA", "source": "Marketing Oops!", "url": "https://www.marketingoops.com/campaigns/local-campaigns/byd-netflix/"},
+  {"title": "NBA and TikTok sign up 500 creators for the new season", "th": "NBA ร่วมกับ TikTok คัดครีเอเตอร์ 500 คน ให้สตอรีไลน์ คลิปไฮไลต์ และรางวัลเป็นสิทธิ์เข้าอีเวนต์ ทุกโพสต์ของครีเอเตอร์จะมีปุ่ม 'Tap to Watch' พาไปดูเกมสด", "why": "โมเดลจ่ายครีเอเตอร์ด้วย access แทนเงินล้วน และผูกโพสต์กับปุ่ม action ตรง น่าเอาไปปรับกับแคมเปญ KOL ของลูกค้า", "source": "Sports Video Group", "url": "https://www.sportsvideo.org/2026/10/19/nba-expands-content-creator-relationships-x-tiktok-offer-dedicated-nba-experience-for-new-season/"}
+ ],
+ "lifestyle": {"title": "A five-minute desk reset", "body": "ก่อนเริ่มงานวันนี้ ลองใช้ 5 นาทีเก็บโต๊ะ ปิดแท็บที่ไม่ใช้ แล้วเขียนงานสำคัญที่สุด 1 อย่างไว้บนโพสต์อิท สมองจะโฟกัสง่ายขึ้นทั้งวัน", "note": "Evergreen tip · not news"},
+ "word": {"word": "reference", "pos": "n.", "ipa": "/ˈrefərəns/", "th": "สิ่งที่ใช้อ้างอิง, ต้นแบบ", "def": "something you look at or use to guide what you make or say.", "ex": "She used an old Reel as a reference for her new video."},
+ "english": {
+  "title": "Asking for feedback at work",
+  "dialogue": [
+   ["Nadda", "Do you have a minute? I'd love your feedback on this draft."],
+   ["Joe", "Sure. What kind of feedback are you after?"],
+   ["Nadda", "Mainly the layout. Does it feel balanced to you?"],
+   ["Joe", "Mostly, but the headline feels a bit crowded."],
+   ["Nadda", "Good catch. I'll give it more breathing room."],
+   ["Joe", "Send it over again when you're done."]
+  ],
+  "vocab": [["do you have a minute?", "ว่างสักครู่ไหม"], ["what are you after?", "อยากได้แบบไหน"], ["balanced", "สมดุล"], ["crowded", "แน่น อัดเกินไป"], ["good catch", "เห็นจุดนี้ดีมาก"], ["breathing room", "พื้นที่ว่างให้หายใจ"]],
+  "tip": {"instead": "Please give me comment.", "better": "I'd love your feedback on this.", "why": "I'd love your feedback ฟังสุภาพและเป็นธรรมชาติกว่า และ feedback ไม่ต้องเติม s"}
+ },
+ "know": [
+  {"title": "What is a runoff election?", "body": "การเลือกตั้งรอบชิง (runoff) เกิดเมื่อไม่มีผู้สมัครคนไหนได้คะแนนเกินครึ่งในรอบแรก ก็จะเอาสองอันดับแรกมาแข่งกันอีกรอบให้ได้ผู้ชนะที่มีเสียงข้างมากจริงๆ"},
+  {"title": "What is a reference Reel?", "body": "คือการเปิดคลิปของคนอื่นหรือของเราเองซ้อนเป็นจอเล็กระหว่างอัดคลิปใหม่ เพื่อทำท่าตาม ตอบกลับ หรือรีแอคให้จังหวะตรงกัน คล้าย Duet แต่ทำในกล้องของ Instagram"}
+ ],
+ "on_this_day": [
+  {"year": "1968", "text": "Jacqueline Kennedy, widow of US President John F. Kennedy, married Greek shipping magnate Aristotle Onassis."},
+  {"year": "1973", "text": "Queen Elizabeth II officially opened the Sydney Opera House."}
+ ],
+ "three_things": ["Plan a replacement for any Reels series before Oct 28", "Clear your desk and pick one top task", "Check flood routes before you leave"],
+ "wordsearch_words": ["TUESDAY", "HIPPO", "REELS", "KITS", "SERIES", "CREATOR", "DRIVE", "FOCUS"]
+}
