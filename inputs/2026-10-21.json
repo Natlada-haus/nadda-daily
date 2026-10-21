@@ -1,0 +1,46 @@
+{
+ "issue_no": 9,
+ "tagline": "พุธกลางสัปดาห์ · A midweek breather",
+ "thailand": [
+  {"lead": true, "title": "Samsung Wallet now taps you onto Bangkok trains and boats", "th": "Samsung เปิดบริการ All-In-One Transit ตั้งแต่ 20 ต.ค. ผู้ใช้ Galaxy ที่รองรับเพิ่มบัตร Rabbit เสมือนใน Samsung Wallet แล้วแตะขึ้น BTS สายสุขุมวิท สีลม สายสีทอง MRT สายสีเหลือง-ชมพู BRT และเรือด่วนเจ้าพระยาได้ ช่วง 1 พ.ย.–31 ธ.ค. มีโปรค่าโดยสาร 20 บาทตลอดสายสำหรับ 10,000 บัตรแรกที่ลงทะเบียน", "en": "Samsung plans to add the MRT Blue and Purple lines, SRT Red Line, Airport Rail Link and BMTA buses by December.", "source": "Bangkok Post", "url": "https://www.bangkokpost.com/business/general/3340559/samsung-wallet-targets-commuters"},
+  {"title": "Bangkok council sets up committee on tangled cables", "th": "สภากรุงเทพมหานครอนุมัติตั้งคณะกรรมการวิสามัญ 11 คน ศึกษาการจัดระเบียบสายสื่อสารรกรุงรัง รวมถึงการนำสายลงดินบนถนนที่เหมาะสม มีเวลาศึกษา 90 วัน", "en": "Councillors cited safety risks from low-hanging cables and overloaded poles.", "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3340274/bangkok-council-seeks-cable-solutions"},
+  {"title": "Chinese students say condo agent took about 10 million baht", "th": "นักศึกษาจีนกลุ่มหนึ่งแจ้งความที่กองบังคับการปราบปรามเมื่อวันอังคาร ว่าถูกเอเยนต์คอนโดแถวรัชดาฯ หลอกเก็บเงินค่าเช่าและเงินมัดจำ ทนายระบุว่ามีผู้เสียหายราว 70 คน รวมราว 10 ล้านบาท ตั้งแต่ปี 2024", "en": "One student had prepaid 156,000 baht in rent but was later told to leave.", "source": "Bangkok Post", "url": "https://www.bangkokpost.com/learning/easy/3340895/chinese-students-ripped-off-by-condo-agents"}
+ ],
+ "world": [
+  {"title": "Curfews in Paris and other French cities after riots", "th": "ฝรั่งเศสประกาศเคอร์ฟิวบางส่วนของกลางกรุงปารีสและอีกหลายเมือง หลังการประท้วงช่วงสุดสัปดาห์ลุกลามเป็นจลาจลและปล้นร้านค้า รัฐมนตรีมหาดไทยยอมรับว่าตำรวจ 'คุมสถานการณ์ไม่อยู่' ในบางเมือง", "en": "In Marseille, shop owners reported more than 600 premises looted.", "source": "BBC News", "url": "https://www.bbc.com/news/world"},
+  {"title": "Japan launches its mission to bring back a piece of a Mars moon", "th": "JAXA ส่งยาน MMX ขึ้นด้วยจรวด H3 เที่ยวที่ 10 สำเร็จเมื่อ 20 ต.ค. ยานจะไปถึงดาวอังคารราวสิงหาคม 2027 แล้วโคจรรอบดวงจันทร์โฟบอส เพื่อเก็บตัวอย่างดินกลับมาโลก", "en": "The spacecraft separated from the rocket about 71 minutes after liftoff.", "source": "JAXA", "url": "https://global.jaxa.jp/press/2026/10/20261020-1_e.html"},
+  {"title": "Alberta votes to stay in Canada, projections show", "th": "ผลคาดการณ์ของ CBC จากประชามติแบบไม่ผูกมัดในรัฐแอลเบอร์ตา ประเทศแคนาดา ชี้ว่าเสียงส่วนใหญ่เลือกอยู่กับแคนาดาต่อ โดยผลเบื้องต้นราว 76% หนุนให้อยู่ต่อ", "en": "Preliminary figures were based on about a quarter of polling stations.", "source": "Anadolu Agency", "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-20-2026/4094091"}
+ ],
+ "social": [
+  {"title": "Facebook lets users steer the feed in plain language", "th": "Facebook ขยาย 'Your Algorithm' ให้ผู้ใช้เพิ่ม/ลบหัวข้อที่อยากเห็นใน Feed และ Reels พิมพ์บอกเป็นภาษาธรรมดาได้ และหลังกด Interested / Not interested ระบบอาจถามต่อว่าชอบหรือไม่ชอบอะไร แล้วปรับฟีดทันทีในเซสชันเดียวกัน", "why": "สัญญาณ 'Not interested' จะแรงและเจาะจงขึ้น คอนเทนต์ขายของแบบยัดเยียดเสี่ยงโดนกรองทั้งหัวข้อ ต้องดูยอด hide/negative feedback ของเพจให้บ่อยขึ้น", "source": "Social Media Today via Yahoo Tech", "url": "https://tech.yahoo.com/social-media/articles/facebook-adds-plain-language-algorithm-200431050.html"},
+  {"title": "Meta walks back AI-training wording in its business terms", "th": "Meta ปรับข้อตกลงการใช้งานเชิงพาณิชย์ (มีผล 30 ต.ค.) ที่เคยเขียนว่าใช้คอนเทนต์จากเว็บของบัญชีธุรกิจไป 'train' ได้ หลังโดนวิจารณ์ก็ตัดถ้อยคำนั้นออก และย้ำว่าการ crawl ใช้กับผลิตภัณฑ์โฆษณาและธุรกิจเท่านั้น", "why": "ลูกค้าที่ผูกเว็บไซต์กับ Business account ควรรู้ไว้ก่อน 30 ต.ค. ถ้าถูกถามเรื่องข้อมูลแบรนด์จะได้ตอบได้ตรงประเด็น", "source": "TechCrunch", "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"},
+  {"title": "Thai meme 'ท่าวิ่งที่ทุกคนขอ' reaches Juventus and Liverpool", "th": "มีมวิ่งอยู่กับที่แบบสโลว์โมชันของ ZON (@zonzon010) จากคลิป 5 ก.ย. กลายเป็นฟอร์แมตที่ครีเอเตอร์และศิลปินเล่นตาม จนบัญชี TikTok ทางการของ Juventus และ Liverpool เอาไปเล่นต่อ ส่วน Canva Thailand และ Netflix ก็เข้ามาร่วมมุก", "why": "ฟอร์แมต 'คราวนี้วิ่งไปถึงไหน' เปิดให้แบรนด์เป็นปลายทางของเรื่องได้ง่าย เช่นวิ่งมาถึงโชว์รูม แต่ต้องรีบเล่นก่อนมุกหมดอายุ", "source": "Marketing Oops!", "url": "https://www.marketingoops.com/news/viral-update/zon-running-meme/"},
+  {"title": "Spotify Thailand turns Gen Z inside jokes into a campaign", "th": "แคมเปญ 'Only Spotify People Know' โดย BBDO Bangkok และ Juice Singapore เล่าฟีเจอร์ Jam และ Blend ผ่านมุกวงในของ Gen Z ไทย มีหนังโฆษณากับตูน บอดี้สแลม และ guncharlie และป้ายบิลบอร์ดอินเทอร์แอคทีฟในกรุงเทพฯ เชียงใหม่ ชลบุรี", "why": "ตัวอย่างดีของการขายฟีเจอร์ผ่านพฤติกรรมจริงของคน แทนการอธิบายสเปก เอาไปปรับกับการเล่าฟีเจอร์รถให้ดูเป็นไลฟ์สไตล์ได้", "source": "Branding in Asia", "url": "https://www.brandinginasia.com/the-school-was-vibing-until-the-jam-took-a-depressing-turn-in-spotify-thailand-ad/"},
+  {"title": "Ask YouTube chat-style search arrives on phones (US first)", "th": "YouTube ขยาย Ask YouTube การค้นหาแบบถามตอบด้วย AI ไปบนแอปมือถือ Android และ iOS ในสหรัฐฯ นอกจากเว็บและทีวี ถามคำถามซับซ้อนและถามต่อได้ ผลลัพธ์แสดงแบบอินเทอร์แอคทีฟ", "why": "ยังไม่มาไทย แต่บอกทิศทางว่าการค้นหาบน YouTube จะเน้นตอบคำถาม ชื่อคลิป คำอธิบาย และ chapter ที่ตอบคำถามชัดๆ จะยิ่งสำคัญ", "source": "9to5Google", "url": "https://9to5google.com/2026/10/13/ask-youtube-rolls-out-on-mobile/"}
+ ],
+ "lifestyle": {"title": "The midweek water check", "body": "วันพุธมักเป็นวันที่ลืมดื่มน้ำเพราะงานยุ่ง ลองวางขวดน้ำไว้ข้างคีย์บอร์ด แล้วจิบทุกครั้งที่กดส่งงานหรือปิดประชุม เป็นสัญญาณง่ายๆ ที่ไม่ต้องตั้งนาฬิกา", "note": "Evergreen tip · not news"},
+ "word": {"word": "steer", "pos": "v.", "ipa": "/stɪə(r)/", "th": "บังคับทิศทาง, ชี้นำ", "def": "to control the direction of something, like a car or a conversation.", "ex": "You can now steer your Facebook feed by typing what you want to see."},
+ "english": {
+  "title": "Joining a trend without missing the moment",
+  "dialogue": [
+   ["Nadda", "Have you seen the 'running pose everyone asked for' meme?"],
+   ["Joe", "Seen it? I can't stop seeing it."],
+   ["Nadda", "Should we jump on it for the brand, or is it too late?"],
+   ["Joe", "It's still hot, but we need to move fast."],
+   ["Nadda", "Okay, I'll sketch an idea and run it by you after lunch."],
+   ["Joe", "Perfect. Keep it short and on-brand."]
+  ],
+  "vocab": [["jump on (a trend)", "รีบเล่นตามกระแส"], ["too late", "ช้าเกินไป"], ["still hot", "ยังแรงอยู่"], ["move fast", "ต้องเร็ว"], ["run it by you", "เอามาให้ดูก่อน"], ["on-brand", "เข้ากับตัวตนแบรนด์"]],
+  "tip": {"instead": "I will send you check.", "better": "I'll run it by you first.", "why": "run it by someone แปลว่าเอาไปให้ดู/ขอความเห็นก่อน เป็นสำนวนที่ใช้ในที่ทำงานบ่อยมาก"}
+ },
+ "know": [
+  {"title": "What is Phobos?", "body": "โฟบอส (Phobos) เป็นดวงจันทร์ที่ใหญ่กว่าในสองดวงของดาวอังคาร รูปร่างเหมือนมันฝรั่ง กว้างราว 27 กม. และโคจรใกล้ดาวอังคารมาก จนรอบดาวอังคารได้ประมาณวันละ 3 รอบ"},
+  {"title": "What is a fake run?", "body": "Fake run หรือ glitch run คือท่าที่ขยับขาและตัวให้ดูเหมือนวิ่ง แต่แทบไม่เคลื่อนจากที่เดิม คล้ายตัวละครเกมค้าง เคยเป็นไวรัลบน TikTok ต่างประเทศตั้งแต่ปี 2021"}
+ ],
+ "on_this_day": [
+  {"year": "1805", "text": "Britain's navy under Admiral Horatio Nelson defeated a French-Spanish fleet at the Battle of Trafalgar; Nelson was killed in the battle."},
+  {"year": "1959", "text": "The Solomon R. Guggenheim Museum, designed by Frank Lloyd Wright, opened in New York City."}
+ ],
+ "three_things": ["Try the new 'Your algorithm' menu on one Facebook post", "Pick one trend to test before it fades", "Keep a water bottle by your keyboard"],
+ "wordsearch_words": ["WEDNESDAY", "WALLET", "RABBIT", "STEER", "MEME", "PHOBOS", "TREND", "FEED"]
+}

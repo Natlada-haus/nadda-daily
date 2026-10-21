@@ -61,5 +61,5 @@ def sudoku6():
 
 data.update(date=date, weather=weather(), wordsearch=wordsearch(data.pop("wordsearch_words")), sudoku=sudoku6())
 out = json.dumps(data, ensure_ascii=False, indent=1)
-(ROOT / f"content/{date}.json").write_text(out); (ROOT / "content/latest.json").write_text(out)
+(ROOT / f"content/{date}.json").write_text(out); (ROOT / "content/latest.json").write_text(out); (ROOT / "latest.json").write_text(out)
 print("wrote content/%s.json" % date)
