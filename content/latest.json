@@ -1,298 +1,300 @@
 {
- "issue_no": 10,
- "tagline": "พฤหัสฯ ใกล้สุดสัปดาห์ · Almost Friday, keep it light",
+ "issue_no": 11,
+ "tagline": "ศุกร์วันปิยมหาราช · Happy Friday, slow down a little",
  "thailand": [
   {
    "lead": true,
-   "title": "Floods still cover parts of Bangkok and 19 provinces",
-   "th": "ปภ. รายงาน (21 ต.ค.) น้ำท่วมยังคงอยู่ใน 71 อำเภอ กระทบ 402,637 ครัวเรือน หรือราว 1.22 ล้านคน ส่วนกรุงเทพฯ ยังท่วมที่ลาดกระบังและหนองจอก กระทบ 168,203 ครัวเรือน ยอดเสียชีวิตตั้งแต่ 16 ก.ย. รวม 82 ราย",
-   "en": "Most of the flooding is in the Central Plains, with Ayutthaya, Prachin Buri and Suphan Buri among the hardest hit.",
+   "title": "Thailand rushes to patch PHP flaws on state websites",
+   "th": "สคส. (PDPC) และ อว. เร่งให้หน่วยงานอัปเดตเว็บไซต์และระบบที่ใช้ PHP หลังพบช่องโหว่ร้ายแรงที่ AI ตรวจเจอ ให้มหาวิทยาลัยและโรงเรียนแพทย์ดูแลข้อมูลคนไข้และนักศึกษาก่อน ส่วน ThaiCERT ออกประกาศเตือนเมื่อเช้า 22 ต.ค.",
+   "en": "Officials say there is no confirmed data breach in Thailand yet; the public should ignore 'update' links from untrusted sources.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3340964/parts-of-bangkok-and-19-provinces-remain-flooded"
+   "url": "https://www.bangkokpost.com/thailand/general/3341629/thailand-races-to-protect-data-after-php-alert"
   },
   {
-   "title": "New drug bills would treat all possession as trafficking",
-   "th": "นายกฯ อนุทิน ยื่นร่างแก้ไขประมวลกฎหมายยาเสพติดต่อประธานสภาฯ (21 ต.ค.) ขยายเวลาควบคุมตัวผู้ต้องสงสัยจาก 3 เป็น 7 วัน และให้ผู้ครอบครองยาเสพติดทุกรายถือเป็นผู้ค้า",
-   "en": "Today, people found with small amounts count as users and can choose rehab instead of prison.",
+   "title": "Minister calms the holy basil (kaphrao) rights row",
+   "th": "รมว.เกษตรฯ สุริยะ ยืนยันว่าการคุ้มครองพันธุ์กะเพรา 4 สายพันธุ์ 'แก้วจุรี 01–04' ของ CPRAM ไม่ห้ามคนทั่วไปปลูกกินเอง และกะเพราพันธุ์พื้นบ้านปลูกและขายได้ตามปกติ แต่การปลูกพันธุ์ที่คุ้มครองเพื่อการค้าต้องขออนุญาต",
+   "en": "The protection runs for 12 years, from 2024 to 2036; the group BioThai still worries about future seed-saving rules.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3341000/pms-new-narcotics-bill-equates-possession-with-trafficking"
+   "url": "https://www.bangkokpost.com/thailand/general/3341595/heat-turned-down-on-holy-basil-controversy"
   },
   {
-   "title": "Uthenthawai college move will go ahead",
-   "th": "รมว.อว. ยศชนัน วงศ์สวัสดิ์ ยืนยันย้ายวิทยาลัยอุเทนถวายออกจากที่ดินจุฬาฯ ใจกลางกรุงเทพฯ แม้นักศึกษาประท้วง โดยจะช่วยดูแลช่วงเปลี่ยนผ่าน 90 วัน",
-   "en": "The Supreme Administrative Court ordered the move in late 2023.",
+   "title": "Pattaya bike taxis go back to orange vests after five days",
+   "th": "ผู้ว่าฯ ชลบุรี ยกเลิกคำสั่งให้วินมอเตอร์ไซค์บางละมุงใส่เสื้อวินสีน้ำเงินเข้ม หลังใช้ได้แค่ 5 วัน เพราะห่วงเรื่องมองเห็นยากตอนกลางคืน ราคาเสื้อตัวละ 550 บาท และประเด็นสีการเมือง",
+   "en": "It's still unclear who will repay drivers who already bought the blue vests.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3340679/bangkok-college-move-to-go-ahead-says-minister"
+   "url": "https://www.bangkokpost.com/thailand/general/3341685/pattaya-bike-taxis-switch-back-to-orange-after-just-five-days-in-blue"
   },
   {
-   "title": "Norwegian fugitive arrested in Samut Prakan",
-   "th": "ตม. จับชายชาวนอร์เวย์อายุ 19 ปี ตามหมายแดงอินเตอร์โพลคดีพยายามฆ่า ที่คอนโดในบางพลี เตรียมส่งตัวกลับประเทศ",
-   "en": "Norway has revoked his passport and Thai immigration cancelled his visa.",
+   "title": "12 hurt as tourist boat hits Sathorn pier",
+   "th": "เรือท่องเที่ยวสองชั้น Riva Express 2 ชนโป๊ะท่าเรือสาทร ใกล้ BTS สะพานตากสิน บ่าย 22 ต.ค. บาดเจ็บ 12 ราย รวมนักท่องเที่ยวต่างชาติ 5 คน คนขับบอกว่าเรือมีปัญหาเครื่องจนบังคับทิศไม่ได้",
+   "en": "Most injuries were scrapes; seven people were taken to hospital.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3341044/norwegian-fugitive-wanted-for-attempted-murder-arrested"
+   "url": "https://www.bangkokpost.com/thailand/general/3341690/12-injured-after-tourist-boat-hits-sathorn-pier-pontoon"
   }
  ],
  "world": [
   {
-   "title": "Russia says it's ready to restart Ukraine talks",
-   "th": "หลังปูตินพบทูตพิเศษสหรัฐฯ สตีฟ วิตคอฟฟ์ เครมลินระบุพร้อมกลับมาเจรจาสามฝ่าย สหรัฐฯ–รัสเซีย–ยูเครน ตั้งแต่กลาง พ.ย. และปล่อยตัวชาวอเมริกันที่ถูกคุมขัง",
-   "en": "Moscow said it would consider US economic proposals but make no political concessions.",
+   "title": "Oil tops $113 after ship attacks near Hormuz",
+   "th": "อิหร่านอ้างว่าโจมตีเรือ 7 ลำใกล้ช่องแคบฮอร์มุซ (สหรัฐฯ โต้ว่าไม่จริง) บวกกับการโจมตีของฮูตีในซาอุฯ ดันน้ำมันดิบเบรนต์ขึ้นเหนือ 113 ดอลลาร์ สูงสุดตั้งแต่ พ.ค. ตลาดหุ้นทั่วโลกร่วง ฮั่งเส็งลงเกือบ 4%",
+   "en": "Higher crude prices feed into fuel and transport costs for households everywhere.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-21/"
+   "url": "https://oneturn.news/day/2026-10-22/"
   },
   {
-   "title": "Oil hovers near $110 as Hormuz stays mined",
-   "th": "น้ำมันดิบเบรนต์ขึ้นไปราว 109.65 ดอลลาร์/บาร์เรล เพิ่มขึ้น 10.5% ในเดือนนี้ จากการที่อิหร่านวางทุ่นระเบิดในช่องแคบฮอร์มุซ",
-   "en": "High fuel costs are pushing up inflation in several countries.",
+   "title": "Russia strikes Kyiv hours after agreeing to talks",
+   "th": "รัสเซียยิงขีปนาวุธและโดรนถล่มเคียฟ ไม่กี่ชั่วโมงหลังปูตินบอกทูตสหรัฐฯ ว่าพร้อมกลับมาเจรจา มีผู้เสียชีวิตอย่างน้อย 7 ราย เซเลนสกีบอกว่าท่าทีรัสเซียไม่ได้เปลี่ยนจริง",
+   "en": "Putin said talks could resume on or after November 10.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-21/"
+   "url": "https://oneturn.news/day/2026-10-22/"
   },
   {
-   "title": "Nigeria confirms its first Ebola case in over a decade",
-   "th": "ไนจีเรียยืนยันผู้ป่วยอีโบลารายแรกในรอบกว่า 10 ปี ท่ามกลางการระบาดที่เจ้าหน้าที่ระบุว่าแพร่เร็วที่สุดเท่าที่เคยบันทึกไว้",
-   "en": "Health officials worry misinformation and funding gaps could fuel further spread.",
+   "title": "WMO warns El Niño could be the strongest on record",
+   "th": "องค์การอุตุนิยมวิทยาโลกเตือนว่าอุณหภูมิผิวน้ำแปซิฟิกเขตร้อนอาจสูงกว่าปกติถึง 3.8°C ช่วง พ.ย. 2026–ม.ค. 2027 เสี่ยงทั้งน้ำท่วม ภัยแล้ง และไฟป่า",
+   "en": "The UN released $50 million for 11 frontline countries.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-21/"
+   "url": "https://oneturn.news/day/2026-10-22/"
   },
   {
-   "title": "The Amazon burns despite record-low deforestation",
-   "th": "ไฟป่าในแอมะซอนของบราซิลเพิ่มขึ้นช่วงเอลนีโญ ทั้งที่การตัดไม้ทำลายป่าลดลงต่ำสุดในรอบเกือบ 40 ปี และตรงกับช่วงใกล้เลือกตั้งรอบสอง",
-   "en": "Brazil holds a tight presidential runoff in the coming days.",
-   "source": "EL PAÍS",
-   "url": "https://english.elpais.com/archive/2026-10-21/"
+   "title": "Perseverance sets a record for the longest drive on another world",
+   "th": "ยานโรเวอร์ Perseverance ของ NASA วิ่งบนดาวอังคารได้เกิน 45.22 กม. แซงสถิติของ Opportunity โดยใช้เวลาแค่ราว 5 ปีครึ่ง เพราะมีระบบขับเคลื่อนอัตโนมัติ",
+   "en": "Opportunity needed almost 15 years to set the old record.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-22/"
   }
  ],
  "social": [
   {
-   "title": "LINE 'Posts' replaces VOOM for all accounts from Oct 21",
-   "th": "LINE เริ่มทยอยเปิดฟีเจอร์ใหม่ 'โพสต์' (Posts) แทน LINE VOOM ที่จะปิดตัว ให้ทุกบัญชีใช้ได้ตั้งแต่ 21 ต.ค. (บัญชีรับรองได้ใช้ก่อนตั้งแต่ 16 ก.ย.) โพสต์ข้อความ รูป วิดีโอ และแสดงในหน้า Home",
-   "why": "แผน LINE OA ของลูกค้าที่เคยลง VOOM ต้องย้ายมาวางคอนเทนต์ใน 'โพสต์' แทน เช็กฟอร์แมตและการแสดงผลก่อนสร้างแผนเดือนหน้า",
-   "source": "Comnico (JP)",
-   "url": "https://www.comnico.jp/we-love-social/sns-news"
+   "title": "YouTube: 61% of video posters want to put themselves into AI content",
+   "th": "รายงาน Culture & Trends ของ YouTube (สำรวจคนอายุ 14–44 ในสหรัฐฯ 694 คน) พบ 72% ใช้ AI กับวิดีโอหรือรูป และ 61% อยากใช้ AI ใส่ตัวเองลงในคอนเทนต์ เช่นเทรนด์ 'hug your younger self' และเปลี่ยนชุดเป็นอาชีพต่างๆ",
+   "why": "ไอเดียแคมเปญให้แฟน 'ใส่ตัวเองลงในโลกของแบรนด์' ด้วย AI มาแรง แต่ต้องวางกติกาเรื่องการติดป้าย AI และการอนุมัติให้ชัด",
+   "source": "YouTube Blog",
+   "url": "https://blog.youtube/culture-and-trends/youtube-generative-ai-video-creativity-report/"
   },
   {
-   "title": "TikTok adds voice comments and comment polls",
-   "th": "TikTok เพิ่มคอมเมนต์เสียงยาวสูงสุด 60 วินาที (เฉพาะ 18+), โพลในคอมเมนต์ใต้คลิปตัวเองได้ถึง 5 ตัวเลือก, แนบรูปได้ 9 รูปต่อคอมเมนต์ และ Live Photo ในคอมเมนต์ บางฟีเจอร์ยังทยอยปล่อย",
-   "why": "ใช้โพลในคอมเมนต์ถามความเห็นแฟนเพจแบบไม่ต้องทำคลิปใหม่ เช่น ให้เลือกสีรถหรือกิจกรรมถัดไป",
-   "source": "HonestFred",
-   "url": "https://www.honestfred.com/social-marketing/tiktok-voice-comments-polls-instagram-ai-profile-labels/"
-  },
-  {
-   "title": "Instagram renames its AI label to 'AI-generated profile'",
-   "th": "Instagram เปลี่ยนป้าย 'AI creator' เป็น 'AI-generated profile' และจะจำกัดการมองเห็นบัญชีที่ใช้ตัวละคร AI แต่ไม่ติดป้าย พร้อมให้ดึงโพสต์ที่ถูกแท็กขึ้นกริดหลักได้",
-   "why": "ถ้าแคมเปญใช้ virtual influencer หรือมาสคอต AI ต้องติดป้ายให้ถูก ไม่งั้นรีชอาจถูกกด",
-   "source": "HonestFred",
-   "url": "https://www.honestfred.com/social-marketing/tiktok-voice-comments-polls-instagram-ai-profile-labels/"
-  },
-  {
-   "title": "Meta details Edits Plus, a paid tier for creators",
-   "th": "Meta เผยรายละเอียด Edits Plus แพ็กเกจเสียเงินของแอปตัดต่อ Edits ได้พื้นที่คลาวด์ 200GB และใช้ AI ได้มากขึ้น สมัครผ่านบัญชี Instagram จะเริ่มทดสอบแบบจำกัดเร็วๆ นี้ ยังไม่ประกาศราคา",
-   "why": "ทีมที่ตัด Reels ใน Edits หลายเครื่องจะ sync โปรเจกต์ได้ แต่ควรรอดูราคาก่อนผูกขั้นตอนงานกับแอปนี้",
+   "title": "YouTube Shopping adds AliExpress as an affiliate partner",
+   "th": "ครีเอเตอร์ YouTube ในสหรัฐฯ บราซิล อังกฤษ และเยอรมนี แท็กสินค้า AliExpress ได้ทั้งในวิดีโอยาว Shorts และไลฟ์ แล้วรับค่าคอมมิชชั่น YouTube ตั้งเป้าขยายโปรแกรม affiliate ไป 35 ตลาดภายในสิ้นปี 2026",
+   "why": "affiliate บน YouTube กำลังขยายเร็ว ถ้ามาถึงไทย จะเป็นอีกช่องให้แบรนด์จับมือครีเอเตอร์แบบจ่ายตามยอดขาย นอกจาก TikTok Shop",
    "source": "Social Media Today",
-   "url": "https://www.socialmediatoday.com/news/meta-shares-more-information-on-edits-plus-subscriptions/833646/"
+   "url": "https://www.socialmediatoday.com/news/youtube-inks-affiliate-deal-with-aliexpress/833542/"
   },
   {
-   "title": "Meta tests 'Ads Super Burst' for TV-like reach",
-   "th": "Meta เปิดตัวโฆษณาแบบ Ads Super Burst ให้เลือกช่วง 3–24 ชั่วโมงเพื่อยิงแบบสเกลใหญ่คล้ายทีวี และทดสอบ First Impression Ads ที่ขึ้นเป็นอันดับแรกตอนเปิดแอป",
-   "why": "เหมาะกับวันเปิดตัวรถหรือวันไลฟ์ใหญ่ที่ต้องการเสียงดังในช่วงสั้น ลองเสนอเป็นตัวเลือกในแผนสื่อ",
-   "source": "PR Daily",
-   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-63/"
+   "title": "Snap makes Robert Downey Jr. 'Chief Customer Experience Officer' for Specs",
+   "th": "Snap ตั้ง Robert Downey Jr. เป็น CCEO กิตติมศักดิ์ของแว่น AR 'Specs' พร้อมปล่อยซีรีส์คลิปสั้นทดลองใช้แว่นจริง (ตีกอล์ฟ วาดรูป ดูโชว์) และมีฉากทิ้งกล่อง 'AI glasses' ลงถังขยะ แซะคู่แข่งแบบเนียนๆ",
+   "why": "ตัวอย่างการใช้ดาราแบบ 'มีตำแหน่ง' และทำคอนเทนต์เป็นซีรีส์ เล่าการใช้งานจริง แทนพรีเซนเตอร์ถือสินค้าเฉยๆ เอาไปปรับใช้กับการเปิดตัวรถได้",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr"
   },
   {
-   "title": "Lay's 'Do Us a Flavor' takes off on TikTok",
-   "th": "แคมเปญ 'Do Us a Flavor' ของเลย์ ชวนครีเอเตอร์เสนอรสชาติใหม่บน TikTok เพื่อลุ้นวางขายจริง เปิดมาไม่กี่สัปดาห์ก็มีครีเอเตอร์ร่วมต่อเนื่อง",
-   "why": "ตัวอย่าง co-creation ที่ให้คนดูเป็นเจ้าของไอเดีย ลองดัดแปลงเป็นกิจกรรมให้แฟนช่วยตั้งชื่อหรือออกแบบได้",
-   "source": "MarketPlus",
-   "url": "https://www.marketplus.in.th/content/detail.php?id=44804"
+   "title": "Meta ordered to pay $25 billion over Facebook user data",
+   "th": "ศาลรัฐนิวเม็กซิโกสั่ง Meta จ่าย 25,000 ล้านดอลลาร์ หลังคณะลูกขุนตัดสินว่าบริษัททำให้ผู้ใช้เข้าใจผิดเรื่องการเข้าถึงข้อมูล (เชื่อมกับคดี Cambridge Analytica) ขณะเดียวกันหุ้น Meta ร่วงราว 6% เพราะค่าใช้จ่ายด้าน AI สูงจนกระแสเงินสดอิสระติดลบ",
+   "why": "แรงกดดันเรื่องข้อมูลส่วนบุคคลกับแพลตฟอร์มเพิ่มขึ้นเรื่อยๆ แคมเปญที่เก็บข้อมูลลูกค้า (ฟอร์มลงทะเบียน ลุ้นรางวัล) ต้องเขียน consent ให้ชัดตาม PDPA",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-22/"
+  },
+  {
+   "title": "HEYTEA turns the 'Lisa effect' into a global collab",
+   "th": "HEYTEA เปิดตัวความร่วมมือระดับโลกกับลิซ่าเมื่อ 15 ต.ค. ด้วยเมนู Mango Coconut Sticky Rice แพ็กเกจลิมิเต็ดลายวาดลิซ่า และของสะสม ต่อยอดจากกระแสแก้วมัทฉะในโพสต์ IG ของลิซ่าปี 2568 ที่ได้ไลก์กว่า 6.7 ล้าน",
+   "why": "เคสชัดของการเปลี่ยน earned media จากคนดังให้เป็นแคมเปญจริง ถ้าเห็นดาราใช้สินค้าลูกค้าเองแบบออร์แกนิก ให้รีบเก็บข้อมูลไว้ต่อยอด",
+   "source": "ผู้จัดการออนไลน์",
+   "url": "https://mgronline.com/business/detail/9690000100074"
   }
  ],
  "lifestyle": {
-  "title": "The Thursday tidy-up list",
-  "body": "วันพฤหัสฯ ลองเขียนรายการงานที่ต้องปิดให้ได้ก่อนเย็นวันศุกร์ไว้ 3 ข้อ แล้วทำข้อที่ยากที่สุดก่อนเที่ยง พอถึงวันศุกร์จะเหลือแต่งานเบาๆ และเลิกงานได้สบายใจ",
+  "title": "A gentle holiday Friday",
+  "body": "วันนี้วันปิยมหาราช หลายคนได้หยุดยาวต่อเนื่องถึงเสาร์–อาทิตย์ ลองตั้งใจพักให้เต็มที่หนึ่งวัน ปิดแจ้งเตือนงานสักครึ่งวัน แล้วทำอะไรเล็กๆ ที่ชอบ เช่น ทำกะเพราจานโปรดกินเองที่บ้าน",
   "note": "Evergreen tip · not news"
  },
  "word": {
-  "word": "disclose",
-  "pos": "v.",
-  "ipa": "/dɪsˈkləʊz/",
-  "th": "เปิดเผย, แจ้งให้ทราบ",
-  "def": "to make information known, especially something that was hidden or not obvious.",
-  "ex": "If a campaign uses an AI character, we should disclose it clearly."
+  "word": "patch",
+  "pos": "n./v.",
+  "ipa": "/pætʃ/",
+  "th": "แพตช์ (ชุดแก้ไขโปรแกรม), แก้ไขช่องโหว่",
+  "def": "a small piece of software that fixes a problem or security weakness; to fix something with such an update.",
+  "ex": "Please patch the campaign website before we launch the registration form."
  },
  "english": {
-  "title": "Checking in on a colleague affected by floods",
+  "title": "Asking IT about a website security update",
   "dialogue": [
    [
     "Nadda",
-    "Hey Mint, I saw the flood news about Lat Krabang. Isn't that near your place?"
+    "Hi Ton, quick question. Did you see the news about the PHP security flaw?"
    ],
    [
-    "Mint",
-    "Yeah, the water is right at the end of my street."
-   ],
-   [
-    "Nadda",
-    "Oh no. Are you and your family okay?"
-   ],
-   [
-    "Mint",
-    "We're fine, just tired. Getting to the office is a real challenge."
+    "Ton",
+    "Yes, we're checking all our sites this morning."
    ],
    [
     "Nadda",
-    "Please don't worry about coming in. Work from home until it's safe."
+    "Great. Our campaign microsite collects names and phone numbers. Is it affected?"
    ],
    [
-    "Mint",
-    "Thanks, that really helps. I'll still join the 10 am call online."
+    "Ton",
+    "It runs on PHP, so we'll patch it first, just to be safe."
    ],
    [
     "Nadda",
-    "Perfect. And if you need anything, just let me know."
+    "Thanks. Should we pause the registration form until it's done?"
    ],
    [
-    "Mint",
-    "I appreciate it, Nadda. Really."
+    "Ton",
+    "Good idea. Give me about two hours."
+   ],
+   [
+    "Nadda",
+    "No problem. I'll post a short note saying the form is under maintenance."
+   ],
+   [
+    "Ton",
+    "Perfect. I'll let you know as soon as it's back up."
    ]
   ],
   "vocab": [
    [
-    "right at the end of",
-    "อยู่ตรงปลาย…พอดี"
+    "quick question",
+    "ขอถามนิดนึง"
    ],
    [
-    "a real challenge",
-    "เรื่องที่ยากจริงๆ"
+    "security flaw",
+    "ช่องโหว่ด้านความปลอดภัย"
    ],
    [
-    "don't worry about…",
-    "ไม่ต้องกังวลเรื่อง…"
+    "just to be safe",
+    "เพื่อความชัวร์ / กันไว้ก่อน"
    ],
    [
-    "until it's safe",
-    "จนกว่าจะปลอดภัย"
+    "pause the form",
+    "ปิดฟอร์มชั่วคราว"
    ],
    [
-    "join the call online",
-    "เข้าประชุมออนไลน์"
+    "under maintenance",
+    "อยู่ระหว่างปรับปรุง"
    ],
    [
-    "let me know",
-    "บอกได้เลยนะ"
+    "as soon as",
+    "ทันทีที่"
    ],
    [
-    "I appreciate it",
-    "ขอบคุณมากนะ (ซึ้งใจ)"
+    "back up",
+    "กลับมาใช้งานได้"
    ]
   ],
   "tip": {
-   "instead": "Can you still come to work?",
-   "better": "Are you okay? Please work from home until it's safe.",
-   "why": "ถามถึงความปลอดภัยก่อนเรื่องงาน ทำให้เพื่อนร่วมงานรู้สึกว่าเราใส่ใจเขาจริงๆ"
+   "instead": "Is our website hacked?",
+   "better": "Is our site affected by the PHP flaw?",
+   "why": "ถามแบบเจาะจงและไม่ตื่นตระหนก ทีม IT ตอบได้ตรงและเร็วกว่า"
   }
  },
  "know": [
   {
-   "title": "What replaced LINE VOOM?",
-   "body": "LINE VOOM คือฟีดวิดีโอและโพสต์ใน LINE ที่กำลังจะปิดตัว LINE จึงเปิดฟีเจอร์ 'โพสต์' มาแทน ให้บัญชีต่างๆ ลงข้อความ รูป และวิดีโอได้เหมือนเดิม"
+   "title": "Why is 23 October a holiday?",
+   "body": "วันปิยมหาราชเป็นวันรำลึกถึงพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว (รัชกาลที่ 5) ซึ่งสวรรคตเมื่อ 23 ต.ค. 2453 พระองค์ทรงเลิกทาส และวางรากฐานการปฏิรูปประเทศหลายด้าน"
   },
   {
-   "title": "Why is the Strait of Hormuz so important?",
-   "body": "ช่องแคบฮอร์มุซเป็นทางเรือแคบๆ ระหว่างอิหร่านกับโอมาน น้ำมันจากอ่าวเปอร์เซียส่วนใหญ่ต้องผ่านที่นี่ ถ้าเรือผ่านไม่ได้ ราคาน้ำมันทั่วโลกจึงพุ่งขึ้นทันที"
+   "title": "What is PHP?",
+   "body": "PHP เป็นภาษาโปรแกรมที่ใช้สร้างเว็บไซต์จำนวนมากในโลก ถ้ามีช่องโหว่และยังไม่อัปเดต คนร้ายอาจเข้าควบคุมเซิร์ฟเวอร์จากระยะไกลได้ จึงต้องรีบลง 'แพตช์' แก้ไข"
   }
  ],
  "on_this_day": [
   {
-   "year": "1797",
-   "text": "André-Jacques Garnerin made the first recorded parachute jump from a balloon, high above Paris."
+   "year": "1910",
+   "text": "King Chulalongkorn (Rama V) of Siam died; Thailand remembers him every year on Chulalongkorn Day."
   },
   {
-   "year": "1962",
-   "text": "US President John F. Kennedy announced a naval 'quarantine' of Cuba during the Cuban Missile Crisis."
+   "year": "2001",
+   "text": "Apple introduced the first iPod, promising '1,000 songs in your pocket'."
   }
  ],
  "three_things": [
-  "Check on friends in flood areas before asking about work",
-  "Try a comment poll on one TikTok post",
-  "Pick your hardest Friday task and do it today"
+  "Take a real break today, it's a holiday",
+  "Ask IT if any campaign sites use PHP",
+  "Save one AI 'put yourself in it' idea for a future campaign"
  ],
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "weather": {
-  "max": 32,
-  "min": 25,
-  "rain": 69,
+  "max": 34,
+  "min": 26,
+  "rain": 71,
   "uv": 8,
-  "cond": "Heavy drizzle",
+  "cond": "Showers",
   "humidity": 91,
   "source": "Open-Meteo",
-  "fetched": "06:27"
+  "fetched": "06:22"
  },
  "wordsearch": {
   "grid": [
-   "FDFOLYPPJM",
-   "HILIVVYOET",
-   "ISOLVOLMIH",
-   "DCOLVLIVSE",
-   "TLDKOKPCUD",
-   "MOUPHMSSEI",
-   "VSISGTYUUT",
-   "VEWESGSPKS",
-   "UTUOGLINEA",
-   "GTPESBYTWV"
+   "AWTHRYVNHO",
+   "CHEOOSUIDO",
+   "RVILOGLIVC",
+   "THBIJILBEP",
+   "SDADOHISSA",
+   "VMSAVDYPTT",
+   "YCIYEVUELC",
+   "YULAWGMCEH",
+   "ONSAPTOSUF",
+   "YPDIMARSAH"
   ],
   "words": [
    {
-    "word": "DISCLOSE",
+    "word": "HOLIDAY",
     "cells": [
      [
       0,
-      1
+      3
      ],
      [
       1,
-      1
+      3
      ],
      [
       2,
-      1
+      3
      ],
      [
       3,
-      1
+      3
      ],
      [
       4,
-      1
+      3
      ],
      [
       5,
-      1
+      3
      ],
      [
       6,
-      1
-     ],
-     [
-      7,
-      1
+      3
      ]
     ]
    },
    {
-    "word": "FLOOD",
+    "word": "PATCH",
     "cells": [
      [
-      0,
-      2
+      3,
+      9
      ],
      [
-      1,
-      2
+      4,
+      9
      ],
      [
-      2,
-      2
+      5,
+      9
      ],
+     [
+      6,
+      9
+     ],
+     [
+      7,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "BASIL",
+    "cells": [
      [
       3,
       2
@@ -300,123 +302,85 @@
      [
       4,
       2
+     ],
+     [
+      5,
+      2
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      2
      ]
     ]
    },
    {
-    "word": "POSTS",
+    "word": "SPECS",
+    "cells": [
+     [
+      4,
+      7
+     ],
+     [
+      5,
+      7
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      7,
+      7
+     ],
+     [
+      8,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "VEST",
+    "cells": [
+     [
+      2,
+      8
+     ],
+     [
+      3,
+      8
+     ],
+     [
+      4,
+      8
+     ],
+     [
+      5,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "MARS",
     "cells": [
      [
       9,
-      2
-     ],
-     [
-      8,
-      3
-     ],
-     [
-      7,
       4
      ],
      [
-      6,
+      9,
       5
      ],
      [
-      5,
-      6
-     ]
-    ]
-   },
-   {
-    "word": "VOICE",
-    "cells": [
-     [
-      1,
-      4
-     ],
-     [
-      2,
-      5
-     ],
-     [
-      3,
+      9,
       6
      ],
      [
-      4,
+      9,
       7
-     ],
-     [
-      5,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "EDITS",
-    "cells": [
-     [
-      3,
-      9
-     ],
-     [
-      4,
-      9
-     ],
-     [
-      5,
-      9
-     ],
-     [
-      6,
-      9
-     ],
-     [
-      7,
-      9
-     ]
-    ]
-   },
-   {
-    "word": "POLL",
-    "cells": [
-     [
-      5,
-      3
-     ],
-     [
-      4,
-      4
-     ],
-     [
-      3,
-      5
-     ],
-     [
-      2,
-      6
-     ]
-    ]
-   },
-   {
-    "word": "LINE",
-    "cells": [
-     [
-      8,
-      5
-     ],
-     [
-      8,
-      6
-     ],
-     [
-      8,
-      7
-     ],
-     [
-      8,
-      8
      ]
     ]
    },
@@ -424,15 +388,28 @@
     "word": "OIL",
     "cells": [
      [
-      0,
-      3
+      4,
+      4
      ],
      [
-      1,
-      3
+      3,
+      5
      ],
      [
       2,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "AI",
+    "cells": [
+     [
+      8,
+      3
+     ],
+     [
+      9,
       3
      ]
     ]
@@ -443,101 +420,101 @@
   "puzzle": [
    [
     0,
-    1,
-    6,
-    0,
+    4,
     5,
+    2,
+    1,
     3
    ],
    [
     0,
     0,
     3,
-    2,
     0,
+    4,
     0
    ],
    [
     0,
-    4,
+    2,
+    1,
     0,
     0,
+    4
+   ],
+   [
+    3,
+    6,
+    0,
+    5,
     2,
     1
    ],
    [
-    3,
-    0,
     1,
-    6,
     0,
-    0
+    0,
+    4,
+    5,
+    2
    ],
    [
+    4,
+    0,
+    0,
     1,
-    6,
-    0,
-    5,
     3,
-    0
-   ],
-   [
-    5,
-    0,
-    0,
-    0,
-    6,
     0
    ]
   ],
   "solution": [
    [
-    2,
-    1,
     6,
     4,
     5,
+    2,
+    1,
     3
    ],
    [
-    4,
-    5,
-    3,
     2,
     1,
-    6
-   ],
-   [
-    6,
-    4,
-    5,
     3,
-    2,
-    1
-   ],
-   [
-    3,
-    2,
-    1,
     6,
     4,
     5
    ],
    [
+    5,
+    2,
     1,
+    3,
+    6,
+    4
+   ],
+   [
+    3,
     6,
     4,
     5,
+    2,
+    1
+   ],
+   [
+    1,
     3,
+    6,
+    4,
+    5,
     2
    ],
    [
+    4,
     5,
-    3,
     2,
     1,
-    6,
-    4
+    3,
+    6
    ]
   ]
  }
