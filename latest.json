@@ -1,386 +1,392 @@
 {
- "issue_no": 11,
- "tagline": "ศุกร์วันปิยมหาราช · Happy Friday, slow down a little",
+ "issue_no": 12,
+ "tagline": "เสาร์สบายๆ · Happy Saturday, take it slow",
  "thailand": [
   {
    "lead": true,
-   "title": "Thailand rushes to patch PHP flaws on state websites",
-   "th": "สคส. (PDPC) และ อว. เร่งให้หน่วยงานอัปเดตเว็บไซต์และระบบที่ใช้ PHP หลังพบช่องโหว่ร้ายแรงที่ AI ตรวจเจอ ให้มหาวิทยาลัยและโรงเรียนแพทย์ดูแลข้อมูลคนไข้และนักศึกษาก่อน ส่วน ThaiCERT ออกประกาศเตือนเมื่อเช้า 22 ต.ค.",
-   "en": "Officials say there is no confirmed data breach in Thailand yet; the public should ignore 'update' links from untrusted sources.",
+   "title": "Floods persist in 16 provinces and two Bangkok districts",
+   "th": "ปภ. รายงานว่ายังมีน้ำท่วมใน 16 จังหวัด และ 2 เขตของกรุงเทพฯ กระทบ 375,726 ครัวเรือน หรือราว 1.13 ล้านคน มีผู้เสียชีวิตแล้ว 64 ราย",
+   "en": "If you travel this weekend, check local flood updates before you leave.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3341629/thailand-races-to-protect-data-after-php-alert"
+   "url": "https://www.bangkokpost.com/thailand/general/3342343/floods-persist-in-16-provinces-two-districts-of-bangkok"
   },
   {
-   "title": "Minister calms the holy basil (kaphrao) rights row",
-   "th": "รมว.เกษตรฯ สุริยะ ยืนยันว่าการคุ้มครองพันธุ์กะเพรา 4 สายพันธุ์ 'แก้วจุรี 01–04' ของ CPRAM ไม่ห้ามคนทั่วไปปลูกกินเอง และกะเพราพันธุ์พื้นบ้านปลูกและขายได้ตามปกติ แต่การปลูกพันธุ์ที่คุ้มครองเพื่อการค้าต้องขออนุญาต",
-   "en": "The protection runs for 12 years, from 2024 to 2036; the group BioThai still worries about future seed-saving rules.",
+   "title": "Typhoon Champi: Thai Airways cancels Taiwan flights",
+   "th": "การบินไทยงดบินเที่ยวบินไป-กลับไต้หวันทั้งหมดเมื่อวันศุกร์ เพราะพายุไต้ฝุ่นจำปีกำลังเข้าใกล้เกาะ",
+   "en": "Anyone with a Taiwan trip soon should check their airline's notices.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3341595/heat-turned-down-on-holy-basil-controversy"
+   "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights"
   },
   {
-   "title": "Pattaya bike taxis go back to orange vests after five days",
-   "th": "ผู้ว่าฯ ชลบุรี ยกเลิกคำสั่งให้วินมอเตอร์ไซค์บางละมุงใส่เสื้อวินสีน้ำเงินเข้ม หลังใช้ได้แค่ 5 วัน เพราะห่วงเรื่องมองเห็นยากตอนกลางคืน ราคาเสื้อตัวละ 550 บาท และประเด็นสีการเมือง",
-   "en": "It's still unclear who will repay drivers who already bought the blue vests.",
+   "title": "50 teams sent to check factories over toxic e-waste",
+   "th": "รมว.อุตสาหกรรม วราวุธ ศิลปอาชา ส่ง 50 ทีมตรวจโรงงาน 1,500 แห่ง หลังมีความกังวลเรื่องการลักลอบทิ้งขยะอิเล็กทรอนิกส์ที่เป็นพิษ",
+   "en": "E-waste dumping can pollute soil and water near communities.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3341685/pattaya-bike-taxis-switch-back-to-orange-after-just-five-days-in-blue"
+   "url": "https://www.bangkokpost.com/thailand/general/3341839/50-teams-deployed-to-probe-toxic-ewaste-sites"
   },
   {
-   "title": "12 hurt as tourist boat hits Sathorn pier",
-   "th": "เรือท่องเที่ยวสองชั้น Riva Express 2 ชนโป๊ะท่าเรือสาทร ใกล้ BTS สะพานตากสิน บ่าย 22 ต.ค. บาดเจ็บ 12 ราย รวมนักท่องเที่ยวต่างชาติ 5 คน คนขับบอกว่าเรือมีปัญหาเครื่องจนบังคับทิศไม่ได้",
-   "en": "Most injuries were scrapes; seven people were taken to hospital.",
+   "title": "People's Party pushes changes to Thai PBS funding law",
+   "th": "พรรคประชาชนจะเสนอแก้กฎหมายสื่อสาธารณะ ควบคู่กับร่างของพรรคภูมิใจไทย เพื่อคุ้มครองความเป็นอิสระด้านข่าวของ Thai PBS และเพิ่มความรับผิดชอบตรวจสอบได้",
+   "en": "The debate is about how a public broadcaster is funded and kept independent.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3341690/12-injured-after-tourist-boat-hits-sathorn-pier-pontoon"
+   "url": "https://www.bangkokpost.com/thailand/general/3341914/pp-pushes-reforms-to-thai-pbs-funding"
   }
  ],
  "world": [
   {
-   "title": "Oil tops $113 after ship attacks near Hormuz",
-   "th": "อิหร่านอ้างว่าโจมตีเรือ 7 ลำใกล้ช่องแคบฮอร์มุซ (สหรัฐฯ โต้ว่าไม่จริง) บวกกับการโจมตีของฮูตีในซาอุฯ ดันน้ำมันดิบเบรนต์ขึ้นเหนือ 113 ดอลลาร์ สูงสุดตั้งแต่ พ.ค. ตลาดหุ้นทั่วโลกร่วง ฮั่งเส็งลงเกือบ 4%",
-   "en": "Higher crude prices feed into fuel and transport costs for households everywhere.",
+   "title": "Brent crude briefly passes $117",
+   "th": "น้ำมันดิบเบรนต์ขึ้นราว 3.5% แตะเหนือ 117 ดอลลาร์ต่อบาร์เรลชั่วขณะ สูงสุดตั้งแต่ เม.ย. หลังอิหร่านขู่ตอบโต้โรงกลั่นในอ่าวเปอร์เซียหากถูกโจมตีอีก",
+   "en": "Higher crude prices feed into fuel, transport and airfare costs.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-22/"
+   "url": "https://oneturn.news/day/2026-10-23/"
   },
   {
-   "title": "Russia strikes Kyiv hours after agreeing to talks",
-   "th": "รัสเซียยิงขีปนาวุธและโดรนถล่มเคียฟ ไม่กี่ชั่วโมงหลังปูตินบอกทูตสหรัฐฯ ว่าพร้อมกลับมาเจรจา มีผู้เสียชีวิตอย่างน้อย 7 ราย เซเลนสกีบอกว่าท่าทีรัสเซียไม่ได้เปลี่ยนจริง",
-   "en": "Putin said talks could resume on or after November 10.",
+   "title": "Russia, Ukraine and US to meet in Abu Dhabi in November",
+   "th": "เซเลนสกีและโฆษกเครมลินยืนยันว่าการเจรจาระดับเทคนิคระหว่างยูเครน รัสเซีย และสหรัฐฯ จะกลับมาที่อาบูดาบีในครึ่งแรกของเดือน พ.ย.",
+   "en": "Strikes continued meanwhile; the UN reported at least 14 civilians killed overnight into Thursday.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-22/"
+   "url": "https://oneturn.news/day/2026-10-23/"
   },
   {
-   "title": "WMO warns El Niño could be the strongest on record",
-   "th": "องค์การอุตุนิยมวิทยาโลกเตือนว่าอุณหภูมิผิวน้ำแปซิฟิกเขตร้อนอาจสูงกว่าปกติถึง 3.8°C ช่วง พ.ย. 2026–ม.ค. 2027 เสี่ยงทั้งน้ำท่วม ภัยแล้ง และไฟป่า",
-   "en": "The UN released $50 million for 11 frontline countries.",
+   "title": "Personalized mRNA vaccine cuts melanoma return risk in trial",
+   "th": "วัคซีน mRNA เฉพาะบุคคล 'intismeran' ของ Moderna และ Merck ที่ทำจากเนื้องอกของคนไข้แต่ละคน ลดความเสี่ยงมะเร็งผิวหนังเมลาโนมากลับมาหรือเสียชีวิตภายใน 2 ปีหลังผ่าตัดได้อย่างมีนัยสำคัญ",
+   "en": "It supports using the patient's own immune system against cancer.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-22/"
+   "url": "https://oneturn.news/day/2026-10-23/"
   },
   {
-   "title": "Perseverance sets a record for the longest drive on another world",
-   "th": "ยานโรเวอร์ Perseverance ของ NASA วิ่งบนดาวอังคารได้เกิน 45.22 กม. แซงสถิติของ Opportunity โดยใช้เวลาแค่ราว 5 ปีครึ่ง เพราะมีระบบขับเคลื่อนอัตโนมัติ",
-   "en": "Opportunity needed almost 15 years to set the old record.",
+   "title": "Brazil votes in a tight presidential runoff on Sunday",
+   "th": "บราซิลเลือกตั้งประธานาธิบดีรอบชี้ขาดวันอาทิตย์ระหว่างลูลา กับ ส.ว. ฟลาวิโอ โบลโซนารู โพลสูสีแบบเสมอกันทางสถิติ ขณะที่ศาลเลือกตั้งต้องรับมือคลิปดีปเฟกจำนวนมาก",
+   "en": "The result will shape policy in Latin America's largest economy, including on the Amazon.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-22/"
+   "url": "https://oneturn.news/day/2026-10-23/"
   }
  ],
  "social": [
   {
-   "title": "YouTube: 61% of video posters want to put themselves into AI content",
-   "th": "รายงาน Culture & Trends ของ YouTube (สำรวจคนอายุ 14–44 ในสหรัฐฯ 694 คน) พบ 72% ใช้ AI กับวิดีโอหรือรูป และ 61% อยากใช้ AI ใส่ตัวเองลงในคอนเทนต์ เช่นเทรนด์ 'hug your younger self' และเปลี่ยนชุดเป็นอาชีพต่างๆ",
-   "why": "ไอเดียแคมเปญให้แฟน 'ใส่ตัวเองลงในโลกของแบรนด์' ด้วย AI มาแรง แต่ต้องวางกติกาเรื่องการติดป้าย AI และการอนุมัติให้ชัด",
-   "source": "YouTube Blog",
-   "url": "https://blog.youtube/culture-and-trends/youtube-generative-ai-video-creativity-report/"
+   "title": "Meta's AI app Muse passes 10M users, and shopping is the top use",
+   "th": "Meta เผยในการแถลงผลประกอบการไตรมาส 3 ว่าแอป AI 'Muse' มีผู้ใช้เกิน 10 ล้านคน ราว 25% ของคนที่ตั้งค่าแล้วใช้ทุกวัน และกว่าหนึ่งในสี่ของผู้ใช้ที่ช้อปผ่าน AI มียอดซื้อเฉลี่ยเกิน 200 ดอลลาร์",
+   "why": "การช้อปผ่านผู้ช่วย AI กำลังเป็นช่องทางใหม่ แบรนด์ต้องเริ่มคิดว่าข้อมูลสินค้าและรีวิวของเราจะโผล่ในคำแนะนำของ AI ยังไง",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
   },
   {
-   "title": "YouTube Shopping adds AliExpress as an affiliate partner",
-   "th": "ครีเอเตอร์ YouTube ในสหรัฐฯ บราซิล อังกฤษ และเยอรมนี แท็กสินค้า AliExpress ได้ทั้งในวิดีโอยาว Shorts และไลฟ์ แล้วรับค่าคอมมิชชั่น YouTube ตั้งเป้าขยายโปรแกรม affiliate ไป 35 ตลาดภายในสิ้นปี 2026",
-   "why": "affiliate บน YouTube กำลังขยายเร็ว ถ้ามาถึงไทย จะเป็นอีกช่องให้แบรนด์จับมือครีเอเตอร์แบบจ่ายตามยอดขาย นอกจาก TikTok Shop",
+   "title": "Meta adds creative-level targeting for ads",
+   "th": "Meta เพิ่มฟีเจอร์ให้แพลตฟอร์มภายนอกกำหนดช่วงอายุและเพศแยกตามชิ้นงานโฆษณาแต่ละชิ้นในแคมเปญเดียวกันได้",
+   "why": "ทำครีเอทีฟหลายเวอร์ชันให้ตรงกลุ่มอายุ/เพศได้ละเอียดขึ้นในแคมเปญเดียว เหมาะกับการเปิดตัวรถที่มีหลายกลุ่มเป้าหมาย",
    "source": "Social Media Today",
-   "url": "https://www.socialmediatoday.com/news/youtube-inks-affiliate-deal-with-aliexpress/833542/"
+   "url": "https://www.socialmediatoday.com/news/meta-offers-creative-targeting-for-ads/833672/"
   },
   {
-   "title": "Snap makes Robert Downey Jr. 'Chief Customer Experience Officer' for Specs",
-   "th": "Snap ตั้ง Robert Downey Jr. เป็น CCEO กิตติมศักดิ์ของแว่น AR 'Specs' พร้อมปล่อยซีรีส์คลิปสั้นทดลองใช้แว่นจริง (ตีกอล์ฟ วาดรูป ดูโชว์) และมีฉากทิ้งกล่อง 'AI glasses' ลงถังขยะ แซะคู่แข่งแบบเนียนๆ",
-   "why": "ตัวอย่างการใช้ดาราแบบ 'มีตำแหน่ง' และทำคอนเทนต์เป็นซีรีส์ เล่าการใช้งานจริง แทนพรีเซนเตอร์ถือสินค้าเฉยๆ เอาไปปรับใช้กับการเปิดตัวรถได้",
+   "title": "Meta Q3: revenue up 26%, costs up 68%",
+   "th": "รายได้ Meta ไตรมาส 3 โต 26% เมื่อเทียบปีก่อน แตะเกือบ 65,000 ล้านดอลลาร์ แต่ค่าใช้จ่ายพุ่ง 68% จากการลงทุนด้าน AI",
+   "why": "Meta ลงทุน AI หนักมาก คาดได้ว่าเครื่องมือโฆษณาแบบ AI อัตโนมัติจะถูกดันออกมาเร็วขึ้นอีก",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/meta-adds-users-and-revenue-as-ai-costs-climb/833671/"
+  },
+  {
+   "title": "Google may use Gmail and Photos data to target ads",
+   "th": "เงื่อนไขใหม่ของ Google ระบุว่าถ้าผู้ใช้แชร์ข้อมูลเพื่อให้ AI แนะนำได้ดีขึ้น ข้อมูลนั้นก็อาจถูกใช้ทำโฆษณาแบบเฉพาะบุคคลด้วย รวมถึงข้อมูลจาก Gmail และ Google Photos",
+   "why": "เรื่องความเป็นส่วนตัวกับโฆษณากำลังร้อน แคมเปญที่ใช้ข้อมูลลูกค้าควรสื่อสารเรื่อง consent ให้โปร่งใส",
    "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr"
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
   },
   {
-   "title": "Meta ordered to pay $25 billion over Facebook user data",
-   "th": "ศาลรัฐนิวเม็กซิโกสั่ง Meta จ่าย 25,000 ล้านดอลลาร์ หลังคณะลูกขุนตัดสินว่าบริษัททำให้ผู้ใช้เข้าใจผิดเรื่องการเข้าถึงข้อมูล (เชื่อมกับคดี Cambridge Analytica) ขณะเดียวกันหุ้น Meta ร่วงราว 6% เพราะค่าใช้จ่ายด้าน AI สูงจนกระแสเงินสดอิสระติดลบ",
-   "why": "แรงกดดันเรื่องข้อมูลส่วนบุคคลกับแพลตฟอร์มเพิ่มขึ้นเรื่อยๆ แคมเปญที่เก็บข้อมูลลูกค้า (ฟอร์มลงทะเบียน ลุ้นรางวัล) ต้องเขียน consent ให้ชัดตาม PDPA",
-   "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-22/"
+   "title": "YouTube adds a temporary pause for hacked channels",
+   "th": "YouTube เพิ่มฟีเจอร์ความปลอดภัยที่หยุดช่องชั่วคราวเมื่อถูกแฮก กันไม่ให้คนร้ายอัปโหลดคลิปหรือเปิดไลฟ์",
+   "why": "ช่องแบรนด์ที่ถูกแฮกแล้วโดนไลฟ์หลอกลวงเป็นความเสี่ยงจริง ควรเช็กสิทธิ์แอดมินและการยืนยันตัวตนสองชั้นของช่องลูกค้า",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/youtube-adds-temporary-pause-for-hacked-accounts/833651/"
   },
   {
-   "title": "HEYTEA turns the 'Lisa effect' into a global collab",
-   "th": "HEYTEA เปิดตัวความร่วมมือระดับโลกกับลิซ่าเมื่อ 15 ต.ค. ด้วยเมนู Mango Coconut Sticky Rice แพ็กเกจลิมิเต็ดลายวาดลิซ่า และของสะสม ต่อยอดจากกระแสแก้วมัทฉะในโพสต์ IG ของลิซ่าปี 2568 ที่ได้ไลก์กว่า 6.7 ล้าน",
-   "why": "เคสชัดของการเปลี่ยน earned media จากคนดังให้เป็นแคมเปญจริง ถ้าเห็นดาราใช้สินค้าลูกค้าเองแบบออร์แกนิก ให้รีบเก็บข้อมูลไว้ต่อยอด",
-   "source": "ผู้จัดการออนไลน์",
-   "url": "https://mgronline.com/business/detail/9690000100074"
+   "title": "Google adds brand management tools to Gemini",
+   "th": "Gemini ได้หน้าแรกใหม่ รองรับแอปภายนอก และเพิ่มความสามารถสร้างภาพ พร้อมเครื่องมือดูแลแบรนด์",
+   "why": "อาจช่วยให้ทีมทำภาพร่างคอนเทนต์ที่คุมโทนแบรนด์ได้เร็วขึ้น น่าลองเทียบกับเครื่องมือที่ใช้อยู่",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/google-adds-brand-management-tools-to-gemini/833790/"
   }
  ],
  "lifestyle": {
-  "title": "A gentle holiday Friday",
-  "body": "วันนี้วันปิยมหาราช หลายคนได้หยุดยาวต่อเนื่องถึงเสาร์–อาทิตย์ ลองตั้งใจพักให้เต็มที่หนึ่งวัน ปิดแจ้งเตือนงานสักครึ่งวัน แล้วทำอะไรเล็กๆ ที่ชอบ เช่น ทำกะเพราจานโปรดกินเองที่บ้าน",
+  "title": "A slow Saturday reset",
+  "body": "เช้าวันเสาร์ลองทำอะไรช้าๆ สักอย่าง เช่น ชงเครื่องดื่มอุ่นๆ แล้วนั่งดื่มโดยไม่จับโทรศัพท์ 10 นาที จากนั้นค่อยจดสามเรื่องที่อยากทำให้เสร็จในวันหยุดนี้",
   "note": "Evergreen tip · not news"
  },
  "word": {
-  "word": "patch",
-  "pos": "n./v.",
-  "ipa": "/pætʃ/",
-  "th": "แพตช์ (ชุดแก้ไขโปรแกรม), แก้ไขช่องโหว่",
-  "def": "a small piece of software that fixes a problem or security weakness; to fix something with such an update.",
-  "ex": "Please patch the campaign website before we launch the registration form."
+  "word": "targeting",
+  "pos": "n.",
+  "ipa": "/ˈtɑːrɡɪtɪŋ/",
+  "th": "การกำหนดกลุ่มเป้าหมาย",
+  "def": "choosing which group of people will see an ad or message.",
+  "ex": "Let's use different targeting for each video version."
  },
  "english": {
-  "title": "Asking IT about a website security update",
+  "title": "Planning weekend errands with a friend",
   "dialogue": [
    [
     "Nadda",
-    "Hi Ton, quick question. Did you see the news about the PHP security flaw?"
+    "Hey Mint, are you free this afternoon?"
    ],
    [
-    "Ton",
-    "Yes, we're checking all our sites this morning."
-   ],
-   [
-    "Nadda",
-    "Great. Our campaign microsite collects names and phone numbers. Is it affected?"
-   ],
-   [
-    "Ton",
-    "It runs on PHP, so we'll patch it first, just to be safe."
+    "Mint",
+    "After two, yes. What's up?"
    ],
    [
     "Nadda",
-    "Thanks. Should we pause the registration form until it's done?"
+    "I need to run a few errands. Want to come along?"
    ],
    [
-    "Ton",
-    "Good idea. Give me about two hours."
+    "Mint",
+    "Sure. Where are we going?"
    ],
    [
     "Nadda",
-    "No problem. I'll post a short note saying the form is under maintenance."
+    "The post office, then a café to get some work done."
    ],
    [
-    "Ton",
-    "Perfect. I'll let you know as soon as it's back up."
+    "Mint",
+    "Sounds good. Let's check the weather first, it might rain."
+   ],
+   [
+    "Nadda",
+    "Good call. I'll bring an umbrella just in case."
+   ],
+   [
+    "Mint",
+    "Great, see you at two!"
    ]
   ],
   "vocab": [
    [
-    "quick question",
-    "ขอถามนิดนึง"
+    "Are you free?",
+    "ว่างไหม"
    ],
    [
-    "security flaw",
-    "ช่องโหว่ด้านความปลอดภัย"
+    "What's up?",
+    "มีอะไรเหรอ"
    ],
    [
-    "just to be safe",
-    "เพื่อความชัวร์ / กันไว้ก่อน"
+    "run errands",
+    "ไปทำธุระ"
    ],
    [
-    "pause the form",
-    "ปิดฟอร์มชั่วคราว"
+    "come along",
+    "ไปด้วยกัน"
    ],
    [
-    "under maintenance",
-    "อยู่ระหว่างปรับปรุง"
+    "get some work done",
+    "ทำงานให้เสร็จบ้าง"
    ],
    [
-    "as soon as",
-    "ทันทีที่"
+    "Good call.",
+    "คิดดีมาก / เข้าท่า"
    ],
    [
-    "back up",
-    "กลับมาใช้งานได้"
+    "just in case",
+    "เผื่อไว้"
    ]
   ],
   "tip": {
-   "instead": "Is our website hacked?",
-   "better": "Is our site affected by the PHP flaw?",
-   "why": "ถามแบบเจาะจงและไม่ตื่นตระหนก ทีม IT ตอบได้ตรงและเร็วกว่า"
+   "instead": "I go to do business.",
+   "better": "I need to run a few errands.",
+   "why": "'run errands' คือไปทำธุระเล็กๆ ส่วน 'do business' ฟังเหมือนไปทำการค้า"
   }
  },
  "know": [
   {
-   "title": "Why is 23 October a holiday?",
-   "body": "วันปิยมหาราชเป็นวันรำลึกถึงพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว (รัชกาลที่ 5) ซึ่งสวรรคตเมื่อ 23 ต.ค. 2453 พระองค์ทรงเลิกทาส และวางรากฐานการปฏิรูปประเทศหลายด้าน"
+   "title": "Why is 24 October United Nations Day?",
+   "body": "กฎบัตรสหประชาชาติมีผลบังคับใช้เมื่อ 24 ต.ค. 1945 จึงถือเป็นวันก่อตั้งสหประชาชาติ และทุกปีวันนี้เป็นวันสหประชาชาติ"
   },
   {
-   "title": "What is PHP?",
-   "body": "PHP เป็นภาษาโปรแกรมที่ใช้สร้างเว็บไซต์จำนวนมากในโลก ถ้ามีช่องโหว่และยังไม่อัปเดต คนร้ายอาจเข้าควบคุมเซิร์ฟเวอร์จากระยะไกลได้ จึงต้องรีบลง 'แพตช์' แก้ไข"
+   "title": "What is Brent crude?",
+   "body": "เบรนต์ (Brent) คือราคาอ้างอิงหลักของน้ำมันดิบในตลาดโลก เมื่อราคาเบรนต์ขึ้น ราคาน้ำมันหน้าปั๊มและค่าขนส่งก็มักขยับตาม"
   }
  ],
  "on_this_day": [
   {
-   "year": "1910",
-   "text": "King Chulalongkorn (Rama V) of Siam died; Thailand remembers him every year on Chulalongkorn Day."
+   "year": "1945",
+   "text": "The United Nations Charter came into force, so 24 October is now United Nations Day."
   },
   {
-   "year": "2001",
-   "text": "Apple introduced the first iPod, promising '1,000 songs in your pocket'."
+   "year": "1929",
+   "text": "'Black Thursday' hit the New York Stock Exchange, an early day of the crash that led into the Great Depression."
   }
  ],
  "three_things": [
-  "Take a real break today, it's a holiday",
-  "Ask IT if any campaign sites use PHP",
-  "Save one AI 'put yourself in it' idea for a future campaign"
+  "Check flood news if you're travelling this weekend",
+  "Make sure client YouTube channels use two-step verification",
+  "Take 10 slow, phone-free minutes with a warm drink"
  ],
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "weather": {
-  "max": 34,
-  "min": 26,
-  "rain": 71,
+  "max": 32,
+  "min": 25,
+  "rain": 76,
   "uv": 8,
-  "cond": "Showers",
-  "humidity": 91,
+  "cond": "Thunderstorms",
+  "humidity": 96,
   "source": "Open-Meteo",
-  "fetched": "06:22"
+  "fetched": "06:19"
  },
  "wordsearch": {
   "grid": [
-   "AWTHRYVNHO",
-   "CHEOOSUIDO",
-   "RVILOGLIVC",
-   "THBIJILBEP",
-   "SDADOHISSA",
-   "VMSAVDYPTT",
-   "YCIYEVUELC",
-   "YULAWGMCEH",
-   "ONSAPTOSUF",
-   "YPDIMARSAH"
+   "DHPFIADFFB",
+   "TYPHOONLLF",
+   "MCISKVBOLU",
+   "UWWAHTOOVN",
+   "SARTORNDAG",
+   "EDWUUIJCCF",
+   "FSORUOLBCF",
+   "GAWDLABEIC",
+   "LMNAAEFJNA",
+   "MTFYGOHTEI"
   ],
   "words": [
    {
-    "word": "HOLIDAY",
+    "word": "SATURDAY",
     "cells": [
      [
-      0,
+      2,
       3
+     ],
+     [
+      3,
+      3
+     ],
+     [
+      4,
+      3
+     ],
+     [
+      5,
+      3
+     ],
+     [
+      6,
+      3
+     ],
+     [
+      7,
+      3
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      9,
+      3
+     ]
+    ]
+   },
+   {
+    "word": "TYPHOON",
+    "cells": [
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      1,
+      2
      ],
      [
       1,
       3
      ],
      [
-      2,
-      3
-     ],
-     [
-      3,
-      3
-     ],
-     [
-      4,
-      3
-     ],
-     [
-      5,
-      3
-     ],
-     [
-      6,
-      3
-     ]
-    ]
-   },
-   {
-    "word": "PATCH",
-    "cells": [
-     [
-      3,
-      9
-     ],
-     [
-      4,
-      9
-     ],
-     [
-      5,
-      9
-     ],
-     [
-      6,
-      9
-     ],
-     [
-      7,
-      9
-     ]
-    ]
-   },
-   {
-    "word": "BASIL",
-    "cells": [
-     [
-      3,
-      2
-     ],
-     [
-      4,
-      2
-     ],
-     [
-      5,
-      2
-     ],
-     [
-      6,
-      2
-     ],
-     [
-      7,
-      2
-     ]
-    ]
-   },
-   {
-    "word": "SPECS",
-    "cells": [
-     [
-      4,
-      7
-     ],
-     [
-      5,
-      7
-     ],
-     [
-      6,
-      7
-     ],
-     [
-      7,
-      7
-     ],
-     [
-      8,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "VEST",
-    "cells": [
-     [
-      2,
-      8
-     ],
-     [
-      3,
-      8
-     ],
-     [
-      4,
-      8
-     ],
-     [
-      5,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "MARS",
-    "cells": [
-     [
-      9,
+      1,
       4
      ],
      [
-      9,
+      1,
       5
      ],
      [
-      9,
+      1,
       6
+     ]
+    ]
+   },
+   {
+    "word": "VACCINE",
+    "cells": [
+     [
+      3,
+      8
+     ],
+     [
+      4,
+      8
+     ],
+     [
+      5,
+      8
+     ],
+     [
+      6,
+      8
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      8,
+      8
      ],
      [
       9,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "FLOOD",
+    "cells": [
+     [
+      0,
       7
+     ],
+     [
+      1,
+      7
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      4,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "MUSE",
+    "cells": [
+     [
+      2,
+      0
+     ],
+     [
+      3,
+      0
+     ],
+     [
+      4,
+      0
+     ],
+     [
+      5,
+      0
      ]
     ]
    },
@@ -392,25 +398,42 @@
       4
      ],
      [
-      3,
+      5,
       5
      ],
      [
-      2,
+      6,
       6
      ]
     ]
    },
    {
-    "word": "AI",
+    "word": "ADS",
     "cells": [
      [
-      8,
-      3
+      4,
+      1
      ],
      [
-      9,
-      3
+      5,
+      1
+     ],
+     [
+      6,
+      1
+     ]
+    ]
+   },
+   {
+    "word": "UN",
+    "cells": [
+     [
+      2,
+      9
+     ],
+     [
+      3,
+      9
      ]
     ]
    }
@@ -420,101 +443,101 @@
   "puzzle": [
    [
     0,
-    4,
-    5,
-    2,
-    1,
-    3
-   ],
-   [
     0,
-    0,
-    3,
     0,
     4,
+    0,
     0
    ],
    [
     0,
+    0,
+    6,
     2,
-    1,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    2,
     0,
     0,
     4
    ],
    [
-    3,
+    0,
+    5,
+    4,
+    0,
+    6,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
     6,
     0,
-    5,
+    0
+   ],
+   [
+    0,
     2,
-    1
-   ],
-   [
-    1,
     0,
-    0,
-    4,
     5,
-    2
-   ],
-   [
     4,
-    0,
-    0,
-    1,
-    3,
     0
    ]
   ],
   "solution": [
    [
-    6,
-    4,
-    5,
     2,
     1,
-    3
+    5,
+    4,
+    3,
+    6
    ],
    [
-    2,
-    1,
+    4,
     3,
     6,
-    4,
+    2,
+    1,
     5
    ],
    [
-    5,
-    2,
-    1,
     3,
     6,
+    2,
+    1,
+    5,
     4
    ],
    [
+    1,
+    5,
+    4,
     3,
     6,
-    4,
+    2
+   ],
+   [
     5,
+    4,
+    3,
+    6,
     2,
     1
    ],
    [
-    1,
-    3,
     6,
-    4,
-    5,
-    2
-   ],
-   [
-    4,
-    5,
     2,
     1,
-    3,
-    6
+    5,
+    4,
+    3
    ]
   ]
  }
