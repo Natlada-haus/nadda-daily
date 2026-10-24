@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>The Nadda Daily</title>
+  <rect width="64" height="64" rx="12" fill="#1d1c1a"/>
+  <g fill="#faf8f3">
+    <rect x="16" y="12" width="4" height="40"/>
+    <rect x="10" y="48" width="16" height="4"/>
+    <rect x="10" y="12" width="10" height="4"/>
+    <polygon points="16,12 28,12 48,52 36,52"/>
+    <rect x="44" y="12" width="4" height="40"/>
+    <rect x="38" y="12" width="16" height="4"/>
+  </g>
+</svg>
