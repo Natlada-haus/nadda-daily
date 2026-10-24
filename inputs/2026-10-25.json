@@ -1,0 +1,89 @@
+{
+ "issue_no": 13,
+ "tagline": "อาทิตย์สบายๆ · Happy Sunday, recharge for the week",
+ "thailand": [
+  {"lead": true, "title": "PM says GDP growth will beat the 2.1% forecast",
+   "th": "นายกฯ อนุทิน มั่นใจ GDP ไทยปีนี้โตเกิน 2.1% สั่งสภาพัฒน์ทบทวนตัวเลข โดยอ้างว่าเงินลงทุนต่างชาติครึ่งปีแรกสูงกว่าทั้งปี 2025 ราว 30% และการส่งออกโตกว่า 20%",
+   "en": "A higher official forecast can lift investor confidence and lower financing costs.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3342925/gdp-will-beat-21-forecast-pm-says"},
+  {"title": "Agriculture department to review holy basil registration",
+   "th": "รมว.เกษตรฯ สั่งกรมวิชาการเกษตรตรวจสอบภายใน 7 วัน กรณี CPRAM จดคุ้มครองพันธุ์กะเพรา 4 สายพันธุ์ ยืนยันว่าเกษตรกรยังปลูกและขายกะเพราพันธุ์พื้นเมืองได้ตามปกติ",
+   "en": "Local holy basil varieties can still be grown, sold and cooked freely.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3342965/agriculture-dept-to-review-holy-basil-registration-bid"},
+  {"title": "Foreign minister welcomes 'progress' on Suu Kyi",
+   "th": "รมว.ต่างประเทศ สีหศักดิ์ ชื่นชมที่เมียนมาให้ออง ซาน ซูจี ได้คุยโทรศัพท์กับลูกชายเป็นครั้งแรกในรอบกว่า 5 ปี และมองว่าเป็นสัญญาณที่ดีขึ้น",
+   "en": "Thailand hopes Myanmar can return to fuller participation in Asean.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3342970/fm-praises-progress-on-suu-kyi"},
+  {"title": "First phase of Chanthaburi border fence finished",
+   "th": "รั้วความมั่นคงชายแดนไทย-กัมพูชาที่จันทบุรีเฟสแรก 1.3 กม. เสร็จแล้ว เฟส 2 คืบหน้าราว 70% และเฟส 3 กำลังก่อสร้าง รวมทั้งหมดราว 8.4 กม.",
+   "en": "Officials say the fence aims to curb illegal crossings and smuggling.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3342910/chanthaburi-border-fence-phase-one-done"}
+ ],
+ "world": [
+  {"title": "Brazil votes today in a tied presidential runoff",
+   "th": "บราซิลเลือกตั้งรอบชี้ขาดวันนี้ ระหว่างลูลา กับ ฟลาวิโอ โบลโซนารู โพล Datafolha ล่าสุดได้คนละ 50% มีผู้มีสิทธิ์ราว 159 ล้านคน",
+   "en": "The winner will shape policy in Latin America's largest economy, including the Amazon.",
+   "source": "One Turn", "url": "https://oneturn.news/day/2026-10-24/"},
+  {"title": "Over 400,000 march in France over schools and living costs",
+   "th": "กระทรวงมหาดไทยฝรั่งเศสนับผู้ชุมนุมราว 410,000 คนทั่วประเทศ ประท้วงเรื่องสภาพโรงเรียนและค่าครองชีพ มีผู้ถูกจับเกือบ 1,000 คน",
+   "en": "The protests add pressure on Macron's government and push up France's borrowing costs.",
+   "source": "One Turn", "url": "https://oneturn.news/day/2026-10-24/"},
+  {"title": "Oil rises to $111.70 on Gulf war fears",
+   "th": "น้ำมันดิบเบรนต์ขึ้น 2.8% แตะ 111.70 ดอลลาร์ต่อบาร์เรล หลังอิหร่านขู่สงครามและกลุ่มฮูตีอ้างโจมตีแหล่งน้ำมันซาอุฯ",
+   "en": "Higher crude prices feed into fuel, flight and shipping costs.",
+   "source": "One Turn", "url": "https://oneturn.news/day/2026-10-24/"},
+  {"title": "Shigeru Miyamoto to receive Japan's Order of Culture",
+   "th": "ชิเงรุ มิยาโมโตะ ผู้สร้างมาริโอของ Nintendo จะได้รับเครื่องราชฯ Order of Culture ของญี่ปุ่น เป็นคนจากวงการวิดีโอเกมคนแรกที่ได้รับ พิธีวันที่ 3 พ.ย.",
+   "en": "It's a big sign that games are now treated as serious culture in Japan.",
+   "source": "One Turn", "url": "https://oneturn.news/day/2026-10-24/"}
+ ],
+ "social": [
+  {"title": "Meta ordered to pay New Mexico $25 billion over privacy",
+   "th": "ศาลนิวเม็กซิโกสั่ง Meta จ่าย 25,000 ล้านดอลลาร์ หลังคณะลูกขุนพบว่าบริษัทให้ข้อมูลผู้ใช้ Facebook เรื่องความเป็นส่วนตัวแบบชวนเข้าใจผิด (คดีต่อเนื่องจาก Cambridge Analytica) Meta จะอุทธรณ์",
+   "why": "แรงกดดันเรื่องข้อมูลผู้ใช้หนักขึ้นเรื่อยๆ แคมเปญที่เก็บข้อมูลลูกค้า เช่น ฟอร์มลงทะเบียนทดลองขับ ควรเขียนเรื่องการใช้ข้อมูลให้ชัด",
+   "source": "AP News", "url": "https://apnews.com/article/facebook-penalty-cambridge-analytica-new-mexico-b329f82c3d3db3758a159405acbd4d0e"},
+  {"title": "TikTok adds comment polls, voice and photo comments",
+   "th": "TikTok เพิ่มโพลในคอมเมนต์ (สูงสุด 5 ตัวเลือก ใช้ได้ทั่วโลกแล้ว) คอมเมนต์เสียงยาวถึง 60 วินาที และคอมเมนต์แบบภาพสไลด์ได้ถึง 9 รูป ที่ทยอยปล่อยในเดือนหน้า",
+   "why": "ใช้โพลใต้คลิปถามความเห็นแฟนๆ ได้เลย เช่น ให้โหวตสีรถหรือฟีเจอร์ที่ชอบ เป็นเอนเกจเมนต์ง่ายๆ ที่ไม่ต้องทำโพสต์ใหม่",
+   "source": "Finn Partners", "url": "https://www.finnpartners.com/news-insights/boom-scroll-october-2026-social-media-updates/"},
+  {"title": "Greece bans social media for under-15s from 2027",
+   "th": "รัฐสภากรีซผ่านกฎหมายห้ามเด็กอายุต่ำกว่า 15 ปีใช้โซเชียลมีเดียตั้งแต่ 1 ม.ค. 2027 แพลตฟอร์มต้องยืนยันอายุผู้ใช้ และกรีซเป็นหนึ่งใน 7 ประเทศ EU ที่ผลักดันระบบตรวจอายุ",
+   "why": "กระแสคุมอายุผู้ใช้กำลังลามหลายประเทศ แบรนด์ที่จับกลุ่มวัยรุ่นควรเตรียมว่าฐานผู้ชมอายุน้อยอาจเล็กลง",
+   "source": "One Turn", "url": "https://oneturn.news/day/2026-10-24/"},
+  {"title": "Instagram lets creators record Reels against a reference clip",
+   "th": "Instagram เพิ่มปุ่ม 'Use as reference' เปิดรีลที่ยาวไม่เกิน 90 วินาทีเป็นหน้าต่างเล็กในกล้องระหว่างถ่าย พร้อมนับถอยหลังให้ซิงก์ ส่วนแอป Edits ได้ลิงก์เพลงที่กดฟังได้และ Kits เก็บสไตล์ไว้ใช้ซ้ำ",
+   "why": "ทำคลิปตอบเทรนด์หรือรีแอคคลิปได้ง่ายขึ้น และ Kits ช่วยคุมสไตล์ภาพของแบรนด์ให้เหมือนกันทุกคลิป",
+   "source": "Social Media Today", "url": "https://www.socialmediatoday.com/news/meta-adds-audio-links-and-reference-reels-to-edits/833192/"},
+  {"title": "Platforms hand feed control to users",
+   "th": "TikTok, Instagram, Facebook และ YouTube ต่างมีเครื่องมือให้ผู้ใช้ปรับฟีดเองแล้ว เช่น 'Your Algorithm' ของ Instagram ที่ให้เพิ่มหรือลบหัวข้อที่สนใจ และ TikTok ที่ให้ลดคอนเทนต์ AI ในฟีดได้",
+   "why": "ความสนใจที่ผู้ใช้ตั้งเองกลายเป็นสัญญาณจัดอันดับ คอนเทนต์ที่ตรงหัวข้อของเพจจะได้เปรียบกว่าโพสต์ที่หลุดธีม",
+   "source": "FutureTweets", "url": "https://futuretweets.com/social-media-feed-control-features-2026/"}
+ ],
+ "lifestyle": {"title": "A gentle Sunday plan for the week", "body": "ช่วงเย็นวันอาทิตย์ ลองใช้เวลา 15 นาทีดูปฏิทินสัปดาห์หน้า เลือกงานสำคัญที่สุดสามอย่าง แล้วเตรียมของที่ต้องใช้พรุ่งนี้ไว้ล่วงหน้า เช้าวันจันทร์จะได้ไม่ต้องรีบ", "note": "Evergreen tip · not news"},
+ "word": {"word": "engagement", "pos": "n.", "ipa": "/ɪnˈɡeɪdʒmənt/", "th": "การมีส่วนร่วม (ไลก์ คอมเมนต์ แชร์)", "def": "how much people interact with a post, for example by liking, commenting or sharing.", "ex": "A comment poll is an easy way to boost engagement."},
+ "english": {
+  "title": "Brunch plans on a Sunday",
+  "dialogue": [
+   ["Nadda", "Morning, Joe! Do you feel like brunch today?"],
+   ["Joe", "Sounds great. Where do you have in mind?"],
+   ["Nadda", "That new café near the park. I heard their pancakes are amazing."],
+   ["Joe", "I'm in. What time works for you?"],
+   ["Nadda", "How about ten thirty? It gets crowded after eleven."],
+   ["Joe", "Perfect. Should we book a table?"],
+   ["Nadda", "They don't take bookings, so let's just get there early."],
+   ["Joe", "Deal. I'll grab my jacket."]
+  ],
+  "vocab": [["Do you feel like ...?", "อยาก...ไหม"], ["Where do you have in mind?", "คิดไว้ว่าที่ไหน"], ["I'm in.", "เอาด้วย"], ["What time works for you?", "สะดวกกี่โมง"], ["It gets crowded", "คนจะเยอะ"], ["book a table", "จองโต๊ะ"], ["Deal.", "ตกลง"]],
+  "tip": {"instead": "Do you want to eat brunch?", "better": "Do you feel like brunch?", "why": "'feel like + noun' ฟังเป็นกันเองและนุ่มนวลกว่าเวลาชวนเพื่อน"}
+ },
+ "know": [
+  {"title": "What is plant variety protection?", "body": "เป็นสิทธิ์ที่ให้ผู้พัฒนาพันธุ์พืชใหม่ควบคุมการขยายพันธุ์เพื่อขายได้ช่วงหนึ่ง แต่ไม่ได้ครอบคลุมพันธุ์พื้นเมืองที่มีอยู่เดิม ในไทยใช้ พ.ร.บ.คุ้มครองพันธุ์พืช 2542"},
+  {"title": "What is a runoff election?", "body": "การเลือกตั้งรอบสองที่ให้ผู้สมัครสองอันดับแรกแข่งกันอีกครั้ง เมื่อรอบแรกยังไม่มีใครได้เสียงเกินครึ่ง แบบที่บราซิลจัดวันนี้"}
+ ],
+ "on_this_day": [
+  {"year": "1415", "text": "The Battle of Agincourt was fought in northern France during the Hundred Years' War."},
+  {"year": "1971", "text": "The UN General Assembly voted to give China's UN seat to the People's Republic of China."}
+ ],
+ "three_things": ["Try a comment poll under your next TikTok post", "Plan your top three tasks for Monday", "Enjoy a slow Sunday brunch"],
+ "wordsearch_words": ["BRAZIL", "BASIL", "POLLS", "SUNDAY", "FENCE", "GDP", "OIL", "META"]
+}
