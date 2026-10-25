@@ -1,412 +1,378 @@
 {
- "issue_no": 13,
- "tagline": "อาทิตย์สบายๆ · Happy Sunday, recharge for the week",
+ "issue_no": 14,
+ "tagline": "วันจันทร์สดใส · Fresh Monday, one small win at a time",
  "thailand": [
   {
    "lead": true,
-   "title": "PM says GDP growth will beat the 2.1% forecast",
-   "th": "นายกฯ อนุทิน มั่นใจ GDP ไทยปีนี้โตเกิน 2.1% สั่งสภาพัฒน์ทบทวนตัวเลข โดยอ้างว่าเงินลงทุนต่างชาติครึ่งปีแรกสูงกว่าทั้งปี 2025 ราว 30% และการส่งออกโตกว่า 20%",
-   "en": "A higher official forecast can lift investor confidence and lower financing costs.",
+   "title": "Excise tax on imported EVs set to rise from 1 Jan 2027",
+   "th": "กระทรวงการคลังเตรียมขึ้นภาษีสรรพสามิตรถ EV นำเข้าทั้งคัน (CBU) ของค่ายที่ยังไม่มีฐานผลิตในไทย จากปัจจุบัน 10% เริ่ม 1 ม.ค. 2027 พร้อมโครงสร้างภาษีใหม่ 3 ขั้น ให้อัตราต่ำสุดกับค่ายที่ผลิตในไทยตามเกณฑ์ Made in Thailand",
+   "en": "Carmakers without a Thai factory may raise EV prices next year, while locally built EVs keep the best tax rate.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3342925/gdp-will-beat-21-forecast-pm-says"
+   "url": "https://www.bangkokpost.com/business/motoring/3343710/ev-import-taxes-set-to-rise-in-january"
   },
   {
-   "title": "Agriculture department to review holy basil registration",
-   "th": "รมว.เกษตรฯ สั่งกรมวิชาการเกษตรตรวจสอบภายใน 7 วัน กรณี CPRAM จดคุ้มครองพันธุ์กะเพรา 4 สายพันธุ์ ยืนยันว่าเกษตรกรยังปลูกและขายกะเพราพันธุ์พื้นเมืองได้ตามปกติ",
-   "en": "Local holy basil varieties can still be grown, sold and cooked freely.",
+   "title": "Democrats to sue BMA over Bangkok flood handling",
+   "th": "พรรคประชาธิปัตย์เตรียมยื่นฟ้องศาลปกครอง กทม. และหน่วยงานรัฐ ฐานละเลยการรับมือน้ำท่วมกรุงเทพฯ ช่วงปลาย ก.ย. ขอให้ชดเชยผู้เสียหายเต็มจำนวน โดยมองว่าเงินเยียวยา 5,000–9,000 บาทไม่เพียงพอ",
+   "en": "The case could push for bigger compensation and better flood warnings in Bangkok.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3342965/agriculture-dept-to-review-holy-basil-registration-bid"
+   "url": "https://www.bangkokpost.com/thailand/politics/3343485/democrats-prepare-lawsuit-over-bangkok-flood-claims"
   },
   {
-   "title": "Foreign minister welcomes 'progress' on Suu Kyi",
-   "th": "รมว.ต่างประเทศ สีหศักดิ์ ชื่นชมที่เมียนมาให้ออง ซาน ซูจี ได้คุยโทรศัพท์กับลูกชายเป็นครั้งแรกในรอบกว่า 5 ปี และมองว่าเป็นสัญญาณที่ดีขึ้น",
-   "en": "Thailand hopes Myanmar can return to fuller participation in Asean.",
+   "title": "Opposition meets Wednesday on censure debate timetable",
+   "th": "ฝ่ายค้านนัดประชุมวันพุธนี้ เพื่อกำหนดกรอบเวลาอภิปรายไม่ไว้วางใจรัฐบาล ฝ่ายค้านขอ 5 วัน ส่วนรัฐบาลอยากจำกัดไว้ 3 วัน",
+   "en": "How long the debate runs will shape how hard the government gets questioned.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3342970/fm-praises-progress-on-suu-kyi"
+   "url": "https://www.bangkokpost.com/thailand/politics/3343360/opposition-to-discuss-censure-plan"
   },
   {
-   "title": "First phase of Chanthaburi border fence finished",
-   "th": "รั้วความมั่นคงชายแดนไทย-กัมพูชาที่จันทบุรีเฟสแรก 1.3 กม. เสร็จแล้ว เฟส 2 คืบหน้าราว 70% และเฟส 3 กำลังก่อสร้าง รวมทั้งหมดราว 8.4 กม.",
-   "en": "Officials say the fence aims to curb illegal crossings and smuggling.",
+   "title": "TAT targets visitors from fast-growing Asian economies",
+   "th": "ททท. เตรียมเร่งดึงนักท่องเที่ยวจากไต้หวัน มาเลเซีย เวียดนาม อินโดนีเซีย และสิงคโปร์ ซึ่ง IMF คาดว่าเศรษฐกิจโตแรง โดยไต้หวันมาไทยแล้ว 845,757 คน หรือ 83.7% ของเป้า 1 ล้านคนปีนี้",
+   "en": "Expect more campaigns aimed at nearby Asian travellers rather than only long-haul markets.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3342910/chanthaburi-border-fence-phase-one-done"
+   "url": "https://www.bangkokpost.com/business/general/3343590/tourism-officials-eager-to-tap-asias-stars"
   }
  ],
  "world": [
   {
-   "title": "Brazil votes today in a tied presidential runoff",
-   "th": "บราซิลเลือกตั้งรอบชี้ขาดวันนี้ ระหว่างลูลา กับ ฟลาวิโอ โบลโซนารู โพล Datafolha ล่าสุดได้คนละ 50% มีผู้มีสิทธิ์ราว 159 ล้านคน",
-   "en": "The winner will shape policy in Latin America's largest economy, including the Amazon.",
+   "title": "Brazil's runoff extended by two hours in a tight race",
+   "th": "ศาลสูงบราซิลขยายเวลาลงคะแนนรอบชี้ขาดอีก 2 ชั่วโมง เพราะฝนตกและรถบัสไม่พอ ผลนับเบื้องต้นไม่ถึง 1% ลูลาได้ราว 57% ฟลาวิโอ โบลโซนารูราว 42% ก่อนที่ กกต. จะพักการรายงานผล",
+   "en": "The final result will decide who leads Latin America's largest economy.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-24/"
+   "url": "https://oneturn.news/day/2026-10-25/"
   },
   {
-   "title": "Over 400,000 march in France over schools and living costs",
-   "th": "กระทรวงมหาดไทยฝรั่งเศสนับผู้ชุมนุมราว 410,000 คนทั่วประเทศ ประท้วงเรื่องสภาพโรงเรียนและค่าครองชีพ มีผู้ถูกจับเกือบ 1,000 คน",
-   "en": "The protests add pressure on Macron's government and push up France's borrowing costs.",
+   "title": "Serbia's Vučić concedes to student-led movement",
+   "th": "ประธานาธิบดีวูชิชของเซอร์เบียยอมรับความพ่ายแพ้ในการเลือกตั้งสภา โดยประมาณการให้ Student List ได้ 138 ที่นั่ง เกินเสียงข้างมาก 126 ที่นั่ง ผู้มาใช้สิทธิ์ราว 70% สูงสุดตั้งแต่ปี 1992",
+   "en": "It ends more than a decade of one-party rule in an EU candidate country.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-24/"
+   "url": "https://oneturn.news/day/2026-10-25/"
   },
   {
-   "title": "Oil rises to $111.70 on Gulf war fears",
-   "th": "น้ำมันดิบเบรนต์ขึ้น 2.8% แตะ 111.70 ดอลลาร์ต่อบาร์เรล หลังอิหร่านขู่สงครามและกลุ่มฮูตีอ้างโจมตีแหล่งน้ำมันซาอุฯ",
-   "en": "Higher crude prices feed into fuel, flight and shipping costs.",
+   "title": "Machado returns to Venezuela after nearly a year abroad",
+   "th": "มาเรีย โกรินา มาชาโด ผู้นำฝ่ายค้านเวเนซุเอลาและเจ้าของรางวัลโนเบลสันติภาพ กลับบ้านเกิดได้สำเร็จหลังพยายามมาอย่างน้อย 7 ครั้ง และไปร่วมพิธีมิสซาที่เมืองบาร์กิซิเมโต",
+   "en": "Her return adds pressure for Venezuela to hold elections.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-24/"
+   "url": "https://oneturn.news/day/2026-10-25/"
   },
   {
-   "title": "Shigeru Miyamoto to receive Japan's Order of Culture",
-   "th": "ชิเงรุ มิยาโมโตะ ผู้สร้างมาริโอของ Nintendo จะได้รับเครื่องราชฯ Order of Culture ของญี่ปุ่น เป็นคนจากวงการวิดีโอเกมคนแรกที่ได้รับ พิธีวันที่ 3 พ.ย.",
-   "en": "It's a big sign that games are now treated as serious culture in Japan.",
+   "title": "China's Communist Party opens key plenum today",
+   "th": "พรรคคอมมิวนิสต์จีนเปิดประชุมใหญ่ครั้งที่ 5 ของคณะกรรมการกลางวันนี้ (จันทร์) แบบปิด ก่อนสมัชชาพรรคปีหน้าที่คาดว่าสี จิ้นผิงจะได้เป็นผู้นำสมัยที่ 4",
+   "en": "Decisions here can shape policy for the world's second-largest economy.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-24/"
+   "url": "https://oneturn.news/day/2026-10-25/"
   }
  ],
  "social": [
   {
-   "title": "Meta ordered to pay New Mexico $25 billion over privacy",
-   "th": "ศาลนิวเม็กซิโกสั่ง Meta จ่าย 25,000 ล้านดอลลาร์ หลังคณะลูกขุนพบว่าบริษัทให้ข้อมูลผู้ใช้ Facebook เรื่องความเป็นส่วนตัวแบบชวนเข้าใจผิด (คดีต่อเนื่องจาก Cambridge Analytica) Meta จะอุทธรณ์",
-   "why": "แรงกดดันเรื่องข้อมูลผู้ใช้หนักขึ้นเรื่อยๆ แคมเปญที่เก็บข้อมูลลูกค้า เช่น ฟอร์มลงทะเบียนทดลองขับ ควรเขียนเรื่องการใช้ข้อมูลให้ชัด",
-   "source": "AP News",
-   "url": "https://apnews.com/article/facebook-penalty-cambridge-analytica-new-mexico-b329f82c3d3db3758a159405acbd4d0e"
+   "title": "Meta's new terms let it scrape business accounts' websites from 30 Oct",
+   "th": "ข้อกำหนดใหม่ของ Meta ที่มีผล 30 ต.ค. ระบุว่าการใช้ฟีเจอร์ธุรกิจถือว่ายินยอมให้ Meta เก็บข้อมูลจากเว็บไซต์ของแบรนด์ และนำไปเทรน AI ได้ ตอนนี้ยังไม่มีทางเลือกปฏิเสธ (opt-out)",
+   "why": "ควรแจ้งลูกค้าที่ใช้ Business account ให้รู้ก่อน 30 ต.ค. เผื่อมีข้อมูลบนเว็บที่ไม่อยากให้ถูกเก็บ",
+   "source": "PR Daily",
+   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-63/"
   },
   {
-   "title": "TikTok adds comment polls, voice and photo comments",
-   "th": "TikTok เพิ่มโพลในคอมเมนต์ (สูงสุด 5 ตัวเลือก ใช้ได้ทั่วโลกแล้ว) คอมเมนต์เสียงยาวถึง 60 วินาที และคอมเมนต์แบบภาพสไลด์ได้ถึง 9 รูป ที่ทยอยปล่อยในเดือนหน้า",
-   "why": "ใช้โพลใต้คลิปถามความเห็นแฟนๆ ได้เลย เช่น ให้โหวตสีรถหรือฟีเจอร์ที่ชอบ เป็นเอนเกจเมนต์ง่ายๆ ที่ไม่ต้องทำโพสต์ใหม่",
-   "source": "Finn Partners",
-   "url": "https://www.finnpartners.com/news-insights/boom-scroll-october-2026-social-media-updates/"
+   "title": "Meta tests Ads Super Burst, First Impression Ads and Reels Trending Ads",
+   "th": "Meta เปิดโฆษณาแบบใหม่ Ads Super Burst ให้เลือกช่วง 3–24 ชั่วโมงเพื่อเข้าถึงคนจำนวนมากแบบทีวี พร้อมทดสอบ First Impression Ads ที่โผล่เป็นอย่างแรกตอนเปิดแอป และ Reels Trending Ads ที่วางคู่กับคอนเทนต์ฮิตแบบเรียลไทม์",
+   "why": "เหมาะกับวันเปิดตัวหรือไลฟ์สำคัญ เช่น วันงานเปิดตัวรถ ที่อยากให้คนเห็นเยอะในช่วงเวลาสั้นๆ",
+   "source": "PR Daily",
+   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-63/"
   },
   {
-   "title": "Greece bans social media for under-15s from 2027",
-   "th": "รัฐสภากรีซผ่านกฎหมายห้ามเด็กอายุต่ำกว่า 15 ปีใช้โซเชียลมีเดียตั้งแต่ 1 ม.ค. 2027 แพลตฟอร์มต้องยืนยันอายุผู้ใช้ และกรีซเป็นหนึ่งใน 7 ประเทศ EU ที่ผลักดันระบบตรวจอายุ",
-   "why": "กระแสคุมอายุผู้ใช้กำลังลามหลายประเทศ แบรนด์ที่จับกลุ่มวัยรุ่นควรเตรียมว่าฐานผู้ชมอายุน้อยอาจเล็กลง",
-   "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-24/"
+   "title": "Facebook Reels with up to 90s of licensed music no longer lose earnings",
+   "th": "ครีเอเตอร์ในโปรแกรม Facebook Content Monetization ใส่เพลงลิขสิทธิ์ในรีลได้ไม่เกิน 90 วินาที โดยรายได้ไม่ถูกหักแล้ว ส่วนเพลง Royalty-free ใช้ได้ไม่จำกัดความยาว",
+   "why": "ทั้งแบรนด์และครีเอเตอร์ที่ร่วมงานเลือกเพลงฮิตใส่รีลได้มั่นใจขึ้น ไม่ต้องหลบเพลงดังเพราะกลัวเสียรายได้",
+   "source": "Meta Business Help Center",
+   "url": "https://www.facebook.com/business/help/821453195885988"
   },
   {
-   "title": "Instagram lets creators record Reels against a reference clip",
-   "th": "Instagram เพิ่มปุ่ม 'Use as reference' เปิดรีลที่ยาวไม่เกิน 90 วินาทีเป็นหน้าต่างเล็กในกล้องระหว่างถ่าย พร้อมนับถอยหลังให้ซิงก์ ส่วนแอป Edits ได้ลิงก์เพลงที่กดฟังได้และ Kits เก็บสไตล์ไว้ใช้ซ้ำ",
-   "why": "ทำคลิปตอบเทรนด์หรือรีแอคคลิปได้ง่ายขึ้น และ Kits ช่วยคุมสไตล์ภาพของแบรนด์ให้เหมือนกันทุกคลิป",
-   "source": "Social Media Today",
-   "url": "https://www.socialmediatoday.com/news/meta-adds-audio-links-and-reference-reels-to-edits/833192/"
+   "title": "YouTube redesigns mobile Home tab and pauses hijacked channels",
+   "th": "YouTube ปรับหน้า Home บนมือถือให้มีฟีดแบบกำหนดเองและแท็บ Subs, Live, Music, Movies & TV และจะระงับฟีเจอร์อัปโหลด/ไลฟ์ชั่วคราวทันทีเมื่อพบความเคลื่อนไหวที่น่าสงสัยว่าช่องถูกแฮก",
+   "why": "ช่องแบรนด์ควรเช็กสิทธิ์ผู้ดูแลและเปิด 2FA ให้ครบ ถ้าถูกระงับจะเสียเวลาตรวจสอบราว 24 ชั่วโมง",
+   "source": "Creator Weekly",
+   "url": "https://peggyktc.beehiiv.com/p/creator-weekly-youtube-home-tab-twitch-stream-recaps-facebook-reels-music"
   },
   {
-   "title": "Platforms hand feed control to users",
-   "th": "TikTok, Instagram, Facebook และ YouTube ต่างมีเครื่องมือให้ผู้ใช้ปรับฟีดเองแล้ว เช่น 'Your Algorithm' ของ Instagram ที่ให้เพิ่มหรือลบหัวข้อที่สนใจ และ TikTok ที่ให้ลดคอนเทนต์ AI ในฟีดได้",
-   "why": "ความสนใจที่ผู้ใช้ตั้งเองกลายเป็นสัญญาณจัดอันดับ คอนเทนต์ที่ตรงหัวข้อของเพจจะได้เปรียบกว่าโพสต์ที่หลุดธีม",
-   "source": "FutureTweets",
-   "url": "https://futuretweets.com/social-media-feed-control-features-2026/"
+   "title": "Meta's partnership ads pass a $15B run rate",
+   "th": "Meta เผยในการประกาศผลไตรมาส 3 ว่าโฆษณาแบบ partnership ads กับครีเอเตอร์โตกว่า 97% เทียบปีก่อน แตะรายได้ต่อปีเกิน 15,000 ล้านดอลลาร์ และ Creator Marketing Hub เปิดให้ผู้ลงโฆษณาทุกรายทั่วโลกแล้ว",
+   "why": "งบที่ผูกกับครีเอเตอร์กำลังโตเร็ว ลองเสนอลูกค้าให้บูสต์โพสต์ KOL ผ่าน partnership ads แทนการบูสต์โพสต์เพจอย่างเดียว",
+   "source": "Advertain",
+   "url": "https://www.advertain.com/blog/social-media-marketing-news-23-october-2026"
   }
  ],
  "lifestyle": {
-  "title": "A gentle Sunday plan for the week",
-  "body": "ช่วงเย็นวันอาทิตย์ ลองใช้เวลา 15 นาทีดูปฏิทินสัปดาห์หน้า เลือกงานสำคัญที่สุดสามอย่าง แล้วเตรียมของที่ต้องใช้พรุ่งนี้ไว้ล่วงหน้า เช้าวันจันทร์จะได้ไม่ต้องรีบ",
+  "title": "A calm start to the week",
+  "body": "เช้าวันจันทร์ ลองเริ่มจากงานเล็กๆ ที่เสร็จได้ใน 10 นาทีก่อน เช่น ตอบอีเมลค้างหรือจัดโต๊ะ ความรู้สึกว่าได้ทำอะไรเสร็จหนึ่งอย่างจะช่วยให้มีแรงไปต่องานใหญ่",
   "note": "Evergreen tip · not news"
  },
  "word": {
-  "word": "engagement",
+  "word": "deadline",
   "pos": "n.",
-  "ipa": "/ɪnˈɡeɪdʒmənt/",
-  "th": "การมีส่วนร่วม (ไลก์ คอมเมนต์ แชร์)",
-  "def": "how much people interact with a post, for example by liking, commenting or sharing.",
-  "ex": "A comment poll is an easy way to boost engagement."
+  "ipa": "/ˈdedlaɪn/",
+  "th": "กำหนดส่ง เส้นตาย",
+  "def": "the latest time or date by which something must be finished.",
+  "ex": "Meta's new terms take effect on 30 October, so that's our deadline to tell clients."
  },
  "english": {
-  "title": "Brunch plans on a Sunday",
+  "title": "Monday morning catch-up at work",
   "dialogue": [
    [
     "Nadda",
-    "Morning, Joe! Do you feel like brunch today?"
+    "Morning! How was your weekend?"
    ],
    [
-    "Joe",
-    "Sounds great. Where do you have in mind?"
-   ],
-   [
-    "Nadda",
-    "That new café near the park. I heard their pancakes are amazing."
-   ],
-   [
-    "Joe",
-    "I'm in. What time works for you?"
+    "Colleague",
+    "Pretty relaxing, thanks. Yours?"
    ],
    [
     "Nadda",
-    "How about ten thirty? It gets crowded after eleven."
+    "Lovely. So, what's on our plate this week?"
    ],
    [
-    "Joe",
-    "Perfect. Should we book a table?"
+    "Colleague",
+    "The client wants the new captions by Wednesday."
    ],
    [
     "Nadda",
-    "They don't take bookings, so let's just get there early."
+    "Okay, that's doable. Can we touch base tomorrow afternoon?"
    ],
    [
-    "Joe",
-    "Deal. I'll grab my jacket."
+    "Colleague",
+    "Sure. Should I loop in the designer too?"
+   ],
+   [
+    "Nadda",
+    "Yes, please. Let's keep everyone on the same page."
+   ],
+   [
+    "Colleague",
+    "Got it. I'll send an invite."
    ]
   ],
   "vocab": [
    [
-    "Do you feel like ...?",
-    "อยาก...ไหม"
+    "What's on our plate?",
+    "มีงานอะไรบ้าง"
    ],
    [
-    "Where do you have in mind?",
-    "คิดไว้ว่าที่ไหน"
+    "by Wednesday",
+    "ภายในวันพุธ"
    ],
    [
-    "I'm in.",
-    "เอาด้วย"
+    "doable",
+    "ทำได้ ไม่เกินไป"
    ],
    [
-    "What time works for you?",
-    "สะดวกกี่โมง"
+    "touch base",
+    "คุยอัปเดตกันสั้นๆ"
    ],
    [
-    "It gets crowded",
-    "คนจะเยอะ"
+    "loop in",
+    "ดึงเข้ามาร่วมด้วย"
    ],
    [
-    "book a table",
-    "จองโต๊ะ"
+    "on the same page",
+    "เข้าใจตรงกัน"
    ],
    [
-    "Deal.",
-    "ตกลง"
+    "Got it.",
+    "เข้าใจแล้ว"
    ]
   ],
   "tip": {
-   "instead": "Do you want to eat brunch?",
-   "better": "Do you feel like brunch?",
-   "why": "'feel like + noun' ฟังเป็นกันเองและนุ่มนวลกว่าเวลาชวนเพื่อน"
+   "instead": "We will talk again tomorrow.",
+   "better": "Let's touch base tomorrow.",
+   "why": "'touch base' เป็นสำนวนที่ใช้บ่อยในออฟฟิศ ฟังเป็นธรรมชาติและกระชับกว่า"
   }
  },
  "know": [
   {
-   "title": "What is plant variety protection?",
-   "body": "เป็นสิทธิ์ที่ให้ผู้พัฒนาพันธุ์พืชใหม่ควบคุมการขยายพันธุ์เพื่อขายได้ช่วงหนึ่ง แต่ไม่ได้ครอบคลุมพันธุ์พื้นเมืองที่มีอยู่เดิม ในไทยใช้ พ.ร.บ.คุ้มครองพันธุ์พืช 2542"
+   "title": "What is a CBU car?",
+   "body": "CBU (Completely Built Up) คือรถที่ประกอบเสร็จทั้งคันจากต่างประเทศแล้วนำเข้ามาขาย ต่างจาก CKD ที่นำชิ้นส่วนมาประกอบในประเทศ ภาษีสองแบบนี้จึงมักต่างกัน"
   },
   {
-   "title": "What is a runoff election?",
-   "body": "การเลือกตั้งรอบสองที่ให้ผู้สมัครสองอันดับแรกแข่งกันอีกครั้ง เมื่อรอบแรกยังไม่มีใครได้เสียงเกินครึ่ง แบบที่บราซิลจัดวันนี้"
+   "title": "What is a 'monkey cheek' reservoir?",
+   "body": "แก้มลิง เป็นแนวคิดตามพระราชดำริของในหลวงรัชกาลที่ 9 คือพักน้ำส่วนเกินไว้ในบึงหรือคลองชั่วคราว แล้วค่อยระบายออกเมื่อระดับน้ำในคลองลดลง"
   }
  ],
  "on_this_day": [
   {
-   "year": "1415",
-   "text": "The Battle of Agincourt was fought in northern France during the Hundred Years' War."
+   "year": "1881",
+   "text": "The Gunfight at the O.K. Corral took place in Tombstone, Arizona."
   },
   {
-   "year": "1971",
-   "text": "The UN General Assembly voted to give China's UN seat to the People's Republic of China."
+   "year": "1955",
+   "text": "Austria declared its permanent neutrality, now celebrated as its National Day."
   }
  ],
  "three_things": [
-  "Try a comment poll under your next TikTok post",
-  "Plan your top three tasks for Monday",
-  "Enjoy a slow Sunday brunch"
+  "Remind Business-account clients about Meta's 30 Oct terms",
+  "Finish one 10-minute task first thing",
+  "Try 'touch base' in a work chat today"
  ],
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "weather": {
-  "max": 33,
-  "min": 26,
-  "rain": 78,
+  "max": 34,
+  "min": 25,
+  "rain": 76,
   "uv": 8,
-  "cond": "Thunderstorms",
-  "humidity": 90,
+  "cond": "Drizzle",
+  "humidity": 98,
   "source": "Open-Meteo",
-  "fetched": "06:21"
+  "fetched": "06:20"
  },
  "wordsearch": {
   "grid": [
-   "GRSKESFFCT",
-   "FENCEMETAC",
-   "BBSUNDAYOH",
-   "DAWRCILTID",
-   "EPSBRAZILC",
-   "OOYIJLGNBJ",
-   "MLTWLNMDGM",
-   "PLYTDBMOPT",
-   "ISAFRTSKAT",
-   "MSKEIOAHID"
+   "CCKPMREELS",
+   "NWBLBAMRCK",
+   "OTDRIEERFH",
+   "NABBAYVNLY",
+   "AXRPAZCVOI",
+   "KECDKIIROD",
+   "SSNISUOLDT",
+   "COUUDENSSE",
+   "MVMSGMFTIB",
+   "NNWUTDCPGL"
   ],
   "words": [
+   {
+    "word": "SERBIA",
+    "cells": [
+     [
+      6,
+      0
+     ],
+     [
+      5,
+      1
+     ],
+     [
+      4,
+      2
+     ],
+     [
+      3,
+      3
+     ],
+     [
+      2,
+      4
+     ],
+     [
+      1,
+      5
+     ]
+    ]
+   },
    {
     "word": "BRAZIL",
     "cells": [
      [
-      4,
-      3
-     ],
-     [
-      4,
-      4
-     ],
-     [
-      4,
-      5
-     ],
-     [
-      4,
-      6
-     ],
-     [
-      4,
-      7
-     ],
-     [
-      4,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "SUNDAY",
-    "cells": [
-     [
-      2,
+      1,
       2
      ],
      [
       2,
       3
-     ],
-     [
-      2,
-      4
-     ],
-     [
-      2,
-      5
-     ],
-     [
-      2,
-      6
-     ],
-     [
-      2,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "BASIL",
-    "cells": [
-     [
-      2,
-      0
      ],
      [
       3,
-      1
+      4
      ],
      [
       4,
-      2
+      5
      ],
      [
       5,
-      3
+      6
      ],
      [
       6,
-      4
+      7
      ]
     ]
    },
    {
-    "word": "POLLS",
+    "word": "MONDAY",
     "cells": [
-     [
-      4,
-      1
-     ],
-     [
-      5,
-      1
-     ],
-     [
-      6,
-      1
-     ],
-     [
-      7,
-      1
-     ],
      [
       8,
-      1
-     ]
-    ]
-   },
-   {
-    "word": "FENCE",
-    "cells": [
-     [
-      1,
       0
      ],
      [
-      1,
+      7,
       1
      ],
      [
-      1,
+      6,
       2
      ],
      [
-      1,
+      5,
       3
      ],
      [
-      1,
+      4,
       4
+     ],
+     [
+      3,
+      5
      ]
     ]
    },
    {
-    "word": "META",
+    "word": "REELS",
     "cells": [
      [
-      1,
+      0,
       5
      ],
      [
-      1,
+      0,
       6
      ],
      [
-      1,
+      0,
       7
      ],
      [
-      1,
+      0,
       8
+     ],
+     [
+      0,
+      9
      ]
     ]
    },
    {
-    "word": "GDP",
+    "word": "MUSIC",
     "cells": [
      [
-      5,
-      6
-     ],
-     [
-      6,
-      7
+      8,
+      2
      ],
      [
       7,
-      8
+      3
+     ],
+     [
+      6,
+      4
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      4,
+      6
      ]
     ]
    },
    {
-    "word": "OIL",
+    "word": "FLOOD",
     "cells": [
      [
       2,
@@ -419,6 +385,52 @@
      [
       4,
       8
+     ],
+     [
+      5,
+      8
+     ],
+     [
+      6,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "TAXES",
+    "cells": [
+     [
+      2,
+      1
+     ],
+     [
+      3,
+      1
+     ],
+     [
+      4,
+      1
+     ],
+     [
+      5,
+      1
+     ],
+     [
+      6,
+      1
+     ]
+    ]
+   },
+   {
+    "word": "EV",
+    "cells": [
+     [
+      2,
+      6
+     ],
+     [
+      3,
+      6
      ]
     ]
    }
@@ -428,101 +440,101 @@
   "puzzle": [
    [
     0,
-    0,
-    0,
+    4,
+    1,
     0,
     0,
     0
    ],
    [
-    0,
     2,
     0,
-    0,
-    0,
-    0
-   ],
-   [
-    1,
-    0,
     3,
-    2,
     0,
-    0
-   ],
-   [
     0,
-    5,
-    0,
-    1,
-    0,
-    3
-   ],
-   [
-    0,
-    6,
-    1,
-    0,
-    3,
-    2
+    1
    ],
    [
     4,
     0,
     0,
-    5,
-    6,
-    1
+    0,
+    3,
+    5
+   ],
+   [
+    0,
+    3,
+    0,
+    4,
+    1,
+    2
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    2,
+    0,
+    0,
+    0,
+    4
    ]
   ],
   "solution": [
    [
-    6,
-    1,
-    4,
-    3,
-    2,
-    5
-   ],
-   [
-    3,
-    2,
     5,
-    6,
-    1,
-    4
-   ],
-   [
-    1,
     4,
-    3,
-    2,
-    5,
-    6
-   ],
-   [
-    2,
-    5,
-    6,
     1,
-    4,
+    2,
+    6,
     3
    ],
    [
-    5,
+    2,
     6,
-    1,
-    4,
     3,
-    2
+    5,
+    4,
+    1
    ],
    [
     4,
-    3,
+    1,
     2,
-    5,
     6,
-    1
+    3,
+    5
+   ],
+   [
+    6,
+    3,
+    5,
+    4,
+    1,
+    2
+   ],
+   [
+    3,
+    5,
+    4,
+    1,
+    2,
+    6
+   ],
+   [
+    1,
+    2,
+    6,
+    3,
+    5,
+    4
    ]
   ]
  }
