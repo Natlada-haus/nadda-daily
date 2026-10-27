@@ -7,7 +7,7 @@
     "deploy": "wrangler deploy",
     "migrate:local": "wrangler d1 migrations apply nadda-daily --local",
     "migrate:remote": "wrangler d1 migrations apply nadda-daily --remote",
-    "test": "node --test test/worker.test.mjs",
+    "test": "node --test test/*.test.mjs",
     "sync-dist": "node --input-type=module -e \"import fs from 'node:fs'; fs.copyFileSync('src/worker.js','dist/worker.js')\""
   },
   "devDependencies": {
