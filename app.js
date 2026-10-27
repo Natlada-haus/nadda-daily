@@ -1,7 +1,8 @@
 const $ = (h) => { const t = document.createElement('template'); t.innerHTML = h.trim(); return t.content; };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const today = new Date().toLocaleDateString('en-CA', {timeZone:'Asia/Bangkok'});
-const qd = new URLSearchParams(location.search).get('date');
+const pathDate = (location.pathname.match(/\/issue\/(\d{4}-\d{2}-\d{2})\/?$/) || [])[1];
+const qd = new URLSearchParams(location.search).get('date') || pathDate;
 
 async function load(){
   for (const f of [qd || today, 'latest']) {
