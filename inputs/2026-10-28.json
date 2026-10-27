@@ -1,0 +1,85 @@
+{
+ "issue_no": 16,
+ "tagline": "วันพุธกลางสัปดาห์ · Wednesday, halfway there",
+ "thailand": [
+  {"lead": true, "title": "E20 and B20 drop to 33.50 baht a litre from today",
+   "th": "ครม. อนุมัติลดภาษีสรรพสามิต E20 ลิตรละ 5.60 บาท และ B20 ลิตรละ 5.50 บาท นาน 3 เดือน กบน. จึงประกาศราคาขายปลีกทั้งสองชนิดเหลือ 33.50 บาท/ลิตร มีผลวันนี้ (28 ต.ค.) ถูกกว่าดีเซล B7 ราว 10 บาท และถูกกว่าแก๊สโซฮอล์ 95 ราว 8.5 บาท ก่อนเติมควรเช็กคู่มือว่ารถรองรับหรือไม่",
+   "en": "If your car can take E20, a full tank could save a few hundred baht for the next three months.",
+   "source": "Thai Post / Bangkok Post", "url": "https://www.thaipost.net/economy-news/1096501/"},
+  {"title": "Government launches 'People's Solar' rooftop scheme",
+   "th": "นายกฯ อนุทินเปิดโครงการ \"People's Solar\" โซลาร์บนหลังคา ตั้งเป้า 1 ล้านครัวเรือน อุดหนุนครัวเรือนละ 50,000 บาท และให้ขายไฟส่วนเกินคืนเข้าระบบได้",
+   "en": "A home solar subsidy could cut electricity bills and add a small extra income.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/general/3344628/cabinet-approves-cheaper-fuel-prices-for-3-months"},
+  {"title": "Censure debate 'unlikely before December', PM says",
+   "th": "นายกฯ อนุทินบอกว่าการอภิปรายไม่ไว้วางใจน่าจะเกิดได้เร็วสุดต้นเดือน ธ.ค. เพราะเดือน พ.ย. รัฐมนตรีติดภารกิจอาเซียน เอเปก และการเยือนของนายกฯ จีน ครม. พร้อมตั้งแต่ 6 ธ.ค. และต้องจบก่อนปิดสมัยประชุม 22 ธ.ค.",
+   "en": "The opposition's big moment in parliament now looks set for December.",
+   "source": "Bangkok Post", "url": "https://www.bangkokpost.com/thailand/politics/3344613/censure-debate-unlikely-before-dec-pm"}
+ ],
+ "world": [
+  {"title": "Israel votes with the highest turnout in decades",
+   "th": "อิสราเอลเลือกตั้งครั้งแรกนับจากเหตุ 7 ต.ค. 2023 ผู้มาใช้สิทธิ์สูงสุดในรอบหลายสิบปี ผลอย่างเป็นทางการจะออก 4 พ.ย. และการตั้งรัฐบาลอาจใช้เวลาหลายสัปดาห์",
+   "en": "The result will shape Israel's wars with Iran and in Gaza.",
+   "source": "One Turn", "url": "https://oneturn.news/day/2026-10-27/"},
+  {"title": "Harry Kane wins the Ballon d'Or; Putellas takes her third",
+   "th": "แฮร์รี เคน คว้าบัลลงดอร์ เป็นชาวอังกฤษคนแรกนับจากไมเคิล โอเว่น ปี 2001 ส่วนฝั่งหญิง อเล็กเซีย ปูเตยาส ได้รางวัลเป็นครั้งที่ 3",
+   "en": "England waited 25 years for this one.",
+   "source": "One Turn", "url": "https://oneturn.news/day/2026-10-27/"},
+  {"title": "Microsoft offers buyouts to 60,000 staff",
+   "th": "ไมโครซอฟท์เสนอโครงการสมัครใจลาออกให้พนักงานกว่า 60,000 คน หรือมากกว่า 1 ใน 4 ของทั้งบริษัท เพื่อถ่วงดุลกับเงินที่ทุ่มลงทุน AI",
+   "en": "Another sign of how AI is reshaping jobs, even at the biggest tech firms.",
+   "source": "One Turn", "url": "https://oneturn.news/day/2026-10-27/"},
+  {"title": "Ebola cases pass 10,000 in DR Congo outbreak",
+   "th": "ผู้ป่วยอีโบลาที่ยืนยันแล้วทะลุ 10,000 ราย ส่วนใหญ่ในคองโก เสียชีวิตแล้ว 4,887 ราย และเริ่มลามไปประเทศอื่นในแอฟริกา สายพันธุ์ Bundibugyo ยังไม่มีวัคซีนที่ได้รับอนุมัติแพร่หลาย",
+   "en": "The outbreak is spreading beyond Congo's borders.",
+   "source": "One Turn", "url": "https://oneturn.news/day/2026-10-27/"}
+ ],
+ "social": [
+  {"title": "Instagram reboots Live: streams can now reach non-followers",
+   "th": "Instagram ปรับ Live ใหม่ ให้ไลฟ์ขึ้นในระบบแนะนำและเผยแพร่ถึงคนที่ไม่ได้ติดตามได้ หลังปี 2025 เคยจำกัดให้ไลฟ์ได้เฉพาะบัญชีสาธารณะที่มีผู้ติดตาม 1,000 คนขึ้นไป",
+   "why": "ไลฟ์เปิดตัวรถหรือไลฟ์กับ KOL มีโอกาสเจอคนใหม่ที่ยังไม่ได้ฟอลโลว์เพจ ไม่ใช่แค่แฟนเดิม",
+   "source": "eMarketer", "url": "https://www.emarketer.com/content/instagram-takes-aim-youtube-with-longer-videos-more-room-brand-storytelling"},
+  {"title": "Instagram 'Series' targets episodic microdramas",
+   "th": "นอกจาก Features (วิดีโอแนวนอนยาว 90 นาที) Instagram ยังทดสอบ Series ฮับบนโปรไฟล์สำหรับรีลแบบเป็นตอนๆ เพื่อแข่งกับไมโครดราม่าของ TikTok",
+   "why": "ลองคิดคอนเทนต์แบรนด์เป็นมินิซีรีส์หลายตอน ให้คนดูตามต่อ แทนการทำรีลเดี่ยวจบในตัว",
+   "source": "TechCrunch", "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"},
+  {"title": "Meta ads can now target a demographic per creative",
+   "th": "ผู้ลงโฆษณาบน Meta เลือกกลุ่มเป้าหมายตามประชากรศาสตร์แยกต่อชิ้นงานโฆษณาได้แล้ว เช่น ให้ชิ้นงานหนึ่งเห็นเฉพาะผู้หญิง หรือเฉพาะคนอายุ 50+",
+   "why": "แคมเปญเดียวทำครีเอทีฟคนละแบบให้คนละกลุ่มได้ง่ายขึ้น เช่น ชิ้นสำหรับครอบครัวกับชิ้นสำหรับคนรุ่นใหม่",
+   "source": "PR Daily", "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-64/"},
+  {"title": "YouTube pays bonuses for highly engaged Shorts",
+   "th": "YouTube ทดลองให้โบนัสครีเอเตอร์บางภูมิภาคที่ Shorts มี engagement สูง แบบเชิญเท่านั้น จ่าย 2 ระดับ ตามความถี่การอัปโหลดและยอดวิวที่มีส่วนร่วม",
+   "why": "ครีเอเตอร์จะยิ่งทุ่มกับ Shorts ทำให้การแข่งขันวิดีโอสั้นบน YouTube ดุขึ้นสำหรับแบรนด์",
+   "source": "PR Daily", "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-64/"},
+  {"title": "Meta's Edits app tests a paid 'Edits Plus' tier",
+   "th": "แอปตัดต่อ Edits ของ Meta ทดสอบแพ็กเกจเสียเงิน Edits Plus ตอนนี้ประโยชน์ที่ระบุมีแค่พื้นที่คลาวด์ 200 GB ยังไม่ประกาศราคา",
+   "why": "ถ้าทีมใช้ Edits ตัดรีลอยู่ ควรรู้ไว้ว่าฟีเจอร์บางส่วนอาจย้ายไปอยู่ในแพ็กเกจเสียเงิน",
+   "source": "PR Daily", "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-64/"}
+ ],
+ "lifestyle": {"title": "Fill up smart this week", "body": "ก่อนเติม E20 ให้เปิดดูฝาถังน้ำมันหรือคู่มือรถว่ารองรับไหม ถ้ารองรับ เติมเต็มถัง 45 ลิตรประหยัดได้ราว 380 บาทเทียบกับแก๊สโซฮอล์ 95 (ตัวเลขจาก กบน.)", "note": "Based on today's fuel news"},
+ "word": {"word": "momentum", "pos": "n.", "ipa": "/məˈmentəm/", "th": "แรงส่ง แรงผลักดันที่ทำให้เดินหน้าต่อ", "def": "the force that keeps something moving or growing.", "ex": "Instagram hopes long videos will give creators more momentum."},
+ "english": {
+  "title": "Giving feedback on a draft, kindly",
+  "dialogue": [
+   ["Nadda", "Thanks for the draft. I really like the opening hook."],
+   ["Designer", "Glad to hear it! Anything you'd change?"],
+   ["Nadda", "Could we make the logo a bit bigger on the last frame?"],
+   ["Designer", "Sure. Anything else?"],
+   ["Nadda", "The caption feels a little long. Maybe trim it to two lines?"],
+   ["Designer", "Got it. I'll tighten it up."],
+   ["Nadda", "Great. Overall it's on the right track."],
+   ["Designer", "Thanks! I'll send v2 this afternoon."]
+  ],
+  "vocab": [["opening hook", "ช่วงเปิดที่ดึงคนดู"], ["Could we ...?", "...ได้ไหม (ขอแบบนุ่มนวล)"], ["a bit / a little", "นิดหน่อย (ช่วยให้คำติดูเบาลง)"], ["trim", "ตัดให้สั้นลง"], ["tighten it up", "เกลาให้กระชับ"], ["on the right track", "มาถูกทางแล้ว"]],
+  "tip": {"instead": "The caption is too long.", "better": "The caption feels a little long. Maybe trim it?", "why": "ใช้ feels + a little + เสนอทางแก้ ทำให้คำติฟังเป็นมิตรและอีกฝ่ายรู้ว่าต้องทำอะไรต่อ"}
+ },
+ "know": [
+  {"title": "What do E20 and B20 mean?", "body": "ตัวเลขคือสัดส่วนเชื้อเพลิงชีวภาพ E20 มีเอทานอล (จากอ้อย มันสำปะหลัง) 20% ส่วน B20 มีไบโอดีเซลจากน้ำมันปาล์ม 20% ยิ่งใช้มาก ความต้องการพืชผลเกษตรในประเทศก็ยิ่งเพิ่ม"},
+  {"title": "What is the Ballon d'Or?", "body": "บัลลงดอร์ (ลูกบอลทองคำ) เป็นรางวัลนักฟุตบอลยอดเยี่ยมประจำปี เริ่มโดยนิตยสาร France Football ตั้งแต่ปี 1956"}
+ ],
+ "on_this_day": [
+  {"year": "1886", "text": "The Statue of Liberty was dedicated in New York Harbor."},
+  {"year": "1955", "text": "Bill Gates, co-founder of Microsoft, was born."}
+ ],
+ "three_things": ["Check if your car can take E20 before filling up", "Share the Instagram Live change with the team", "Try 'on the right track' when giving feedback"],
+ "wordsearch_words": ["SOLAR", "FUEL", "KANE", "LIVE", "SERIES", "SHORTS", "VOTE", "WEDNESDAY"]
+}
