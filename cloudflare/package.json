@@ -1,0 +1,16 @@
+{
+  "name": "nadda-daily-cloudflare",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --local",
+    "deploy": "wrangler deploy",
+    "migrate:local": "wrangler d1 migrations apply nadda-daily --local",
+    "migrate:remote": "wrangler d1 migrations apply nadda-daily --remote",
+    "test": "node --test test/worker.test.mjs",
+    "sync-dist": "node --input-type=module -e \"import fs from 'node:fs'; fs.copyFileSync('src/worker.js','dist/worker.js')\""
+  },
+  "devDependencies": {
+    "wrangler": "^4.153.0"
+  }
+}

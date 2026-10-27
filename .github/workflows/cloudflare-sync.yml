@@ -1,0 +1,32 @@
+name: Sync D1 archive
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+      - "latest.json"
+  workflow_dispatch:
+
+concurrency:
+  group: nadda-daily-cloudflare-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Ingest issues into D1
+        env:
+          SYNC_URL: ${{ vars.SYNC_URL }}
+          SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
+        run: bash cloudflare/sync.sh

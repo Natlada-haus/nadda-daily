@@ -1,0 +1,40 @@
+# Reference config for The Nadda Daily Worker.
+# Local dev uses the database_id below as a placeholder. GitHub Actions
+# replaces the all-zero id with the CLOUDFLARE_D1_DATABASE_ID secret before deploy.
+# The custom domain is attached outside this file (first deploy via the API)
+# so later deploys do not need zone route permissions.
+
+name = "nadda-daily"
+main = "src/worker.js"
+compatibility_date = "2026-10-27"
+workers_dev = false
+
+[observability]
+enabled = true
+
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+
+[observability.traces]
+enabled = true
+head_sampling_rate = 1
+
+[secrets]
+required = ["ADMIN_PASSWORD", "SYNC_TOKEN", "VISITOR_SALT"]
+
+[vars]
+ORIGIN_BASE = "https://natlada-haus.github.io/nadda-daily"
+GITHUB_REPO = "natlada-haus/nadda-daily"
+GITHUB_REF = "main"
+GITHUB_API = "https://api.github.com"
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "nadda-daily"
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"
+
+[triggers]
+crons = ["30 23 * * *", "0 0 * * *", "0 6 * * *"]
