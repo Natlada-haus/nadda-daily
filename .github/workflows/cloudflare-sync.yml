@@ -25,7 +25,7 @@ jobs:
         with:
           node-version: 22
 
-      - name: Ingest issues into D1
+      - name: Push issue JSON from this checkout into D1
         env:
           SYNC_URL: ${{ vars.SYNC_URL }}
           SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}

@@ -2,19 +2,20 @@
  * The Nadda Daily — single-file ES module Worker.
  *
  * Bindings: D1 `DB`
- * Secrets: ADMIN_PASSWORD, SYNC_TOKEN, VISITOR_SALT (optional GITHUB_TOKEN)
- * Vars: ORIGIN_BASE, GITHUB_REPO, GITHUB_REF, GITHUB_API, GITHUB_RAW_BASE
+ * Secrets: ADMIN_PASSWORD, SYNC_TOKEN, VISITOR_SALT
+ * Vars: ORIGIN_BASE, GITHUB_REPO, GITHUB_REF, GITHUB_RAW_BASE
  *
  * Serves the GitHub Pages site, keeps every issue in D1 (upsert by date),
- * and records privacy-friendly page views. Upload this file as-is; it has
- * no imports and no build step.
+ * and records privacy-friendly page views. Sync reads GitHub Pages and raw
+ * files, or a JSON body posted by GitHub Actions. It does not call the
+ * GitHub API. Upload this file as-is; it has no imports and no build step.
  */
 
 const DEFAULT_ORIGIN = "https://natlada-haus.github.io/nadda-daily";
 const DEFAULT_REPO = "natlada-haus/nadda-daily";
 const DEFAULT_REF = "main";
-const DEFAULT_API = "https://api.github.com";
 const DEFAULT_RAW = "https://raw.githubusercontent.com";
+const DIRECT_PUSH_WINDOW_MS = 20 * 60 * 1000;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const SESSION_TTL_SEC = 60 * 60 * 24 * 14;
 const BOT_RE = /bot|crawl|spider|slurp|facebookexternalhit|whatsapp|telegram|preview|wget|curl\/|python-requests|axios|headless|lighthouse|pagespeed|pingdom|uptime|monitor|semrush|ahrefs|petalbot|bytespider|gptbot|claudebot|amazonbot|applebot|bingbot|duckduckbot|yandex|baiduspider|sogou|ia_archiver|embedly|slackbot|discordbot|twitterbot|linkedinbot/i;
@@ -53,8 +54,9 @@ export default {
         unchanged: result.unchanged || 0,
         remaining: result.remaining || 0,
         errors: (result.errors || []).length,
+        throttled: Boolean(result.throttled),
       }));
-      if (result.error) throw new Error(result.error);
+      if (result.error && !result.throttled) throw new Error(result.error);
     } catch (error) {
       console.error(JSON.stringify({
         message: "cron sync failed",
@@ -104,7 +106,7 @@ function isSafeAssetPath(pathname) {
 
 async function homePage(request, env, ctx, url) {
   refreshInBackground(env, ctx);
-  const response = await renderSite(env, false);
+  const response = await renderSite(env, "/");
   if (response.status === 200) noteView(ctx, env, request, url);
   return response;
 }
@@ -113,12 +115,12 @@ async function issuePage(request, env, ctx, url) {
   const match = url.pathname.match(/^\/issue\/(\d{4}-\d{2}-\d{2})\/?$/);
   if (!match) return htmlResponse(errorPage("ไม่พบฉบับนี้", 404), 404);
   refreshInBackground(env, ctx);
-  const response = await renderSite(env, true);
+  const response = await renderSite(env, `/issue/${match[1]}`);
   if (response.status === 200) noteView(ctx, env, request, url);
   return response;
 }
 
-async function renderSite(env, issueRoute) {
+async function renderSite(env, canonicalPath) {
   let upstream;
   try {
     upstream = await originFetch(env, "/index.html", "");
@@ -132,11 +134,21 @@ async function renderSite(env, issueRoute) {
   if (!upstream.ok) {
     return htmlResponse(errorPage("The edition is temporarily unavailable.", 502), 502);
   }
-  const html = decorateHtml(await upstream.text(), issueRoute);
+  const html = decorateHtml(await upstream.text(), canonicalPath);
   return htmlResponse(html, 200, "no-cache");
 }
 
-function decorateHtml(html, issueRoute) {
+function decorateHtml(html, canonicalPath) {
+  const canonical = `https://daily.natlada.com${canonicalPath}`;
+  if (/<link\b[^>]*\brel=["']canonical["'][^>]*>/i.test(html)) {
+    html = html.replace(
+      /<link\b[^>]*\brel=["']canonical["'][^>]*>/i,
+      `<link rel="canonical" href="${canonical}">`,
+    );
+  } else {
+    html = html.replace(/<head[^>]*>/i, (tag) => `${tag}<link rel="canonical" href="${canonical}">`);
+  }
+  const issueRoute = canonicalPath.startsWith("/issue/");
   if (!/<base\s/i.test(html)) {
     html = html.replace(/<head[^>]*>/i, (tag) => `${tag}<base href="/">`);
   }
@@ -213,7 +225,7 @@ async function archivePage(request, env, ctx, url) {
     <div class="dateline"><span>${rows.length} issues</span><span lang="th">เก็บไว้ในคลัง แม้ไฟล์ต้นฉบับจะเปลี่ยนภายหลัง</span></div>
     ${items ? `<ul class="archive-list">${items}</ul>` : `<p class="loading">ยังไม่มีฉบับในคลัง ระบบจะดึงให้อัตโนมัติในอีกสักครู่</p>`}
     <footer>The Nadda Daily · Archive</footer>`;
-  const response = htmlResponse(shell("คลังฉบับ · The Nadda Daily", body, false), 200, "no-store");
+  const response = htmlResponse(shell("คลังฉบับ · The Nadda Daily", body, false, "/archive"), 200, "no-store");
   if (response.status === 200) noteView(ctx, env, request, url);
   return response;
 }
@@ -326,7 +338,13 @@ function logout(request) {
 
 async function syncEndpoint(request, env) {
   if (!(await canSync(request, env))) return json({ ok: false, error: "Unauthorized" }, 401);
-  const result = await runSync(env);
+  let pushed = null;
+  try {
+    pushed = await readPushedIssues(request);
+  } catch (error) {
+    return json({ ok: false, error: error instanceof Error ? error.message : String(error) }, 400);
+  }
+  const result = pushed ? await runDirectSync(env, pushed) : await runSync(env);
   const accept = request.headers.get("Accept") || "";
   const auth = request.headers.get("Authorization") || request.headers.get("X-Sync-Token");
   if (auth || accept.includes("application/json")) {
@@ -460,10 +478,11 @@ function track(promise) {
 function asSyncError(error) {
   const message = error instanceof Error ? error.message : String(error);
   console.error(JSON.stringify({ message: "sync failed", error: message }));
-  return { ok: false, error: message, inserted: 0, updated: 0, unchanged: 0, remaining: null, checked: 0, errors: [] };
+  return { ok: false, mode: "origin", error: message, inserted: 0, updated: 0, unchanged: 0, remaining: null, checked: 0, errors: [] };
 }
 
 async function isFresh(env) {
+  if (await backoffActive(env)) return true;
   const now = Date.now();
   const success = Date.parse((await getMeta(env, "last_sync_at")) || "");
   const attempt = Date.parse((await getMeta(env, "last_sync_attempt")) || "");
@@ -478,52 +497,213 @@ async function isFresh(env) {
   return false;
 }
 
-async function syncIssues(env) {
-  const started = new Date().toISOString();
-  await setMeta(env, "last_sync_attempt", started);
-  const listed = await listIssueFiles(env);
-  const existing = await env.DB.prepare("SELECT date, source_sha, content_hash, ingested_at FROM issues").all();
-  const byDate = new Map((existing.results || []).map((row) => [row.date, row]));
-  const pending = listed.filter((file) => {
-    const prev = byDate.get(file.date);
-    return !prev || prev.source_sha !== file.sha;
+async function readPushedIssues(request) {
+  const type = (request.headers.get("content-type") || "").toLowerCase();
+  if (!type.includes("application/json")) return null;
+  const raw = await request.text();
+  if (!raw.trim()) return null;
+  if (raw.length > 2_000_000) throw new Error("sync body is too large");
+  let parsed;
+  try {
+    parsed = JSON.parse(raw);
+  } catch {
+    throw new Error("sync body is not JSON");
+  }
+  if (!parsed || typeof parsed !== "object" || Array.isArray(parsed) || !Array.isArray(parsed.issues)) {
+    throw new Error("sync body needs an issues array");
+  }
+  if (parsed.issues.length > 40) throw new Error("sync at most 40 issues at once");
+  return parsed.issues;
+}
+
+async function runDirectSync(env, issues) {
+  if (syncInFlight) await syncInFlight.catch(() => {});
+  if (syncInFlight) await syncInFlight.catch(() => {});
+  const job = ingestPushed(env, issues).catch((error) => {
+    const result = asSyncError(error);
+    result.mode = "push";
+    return result;
   });
-  const unchanged = listed.length - pending.length;
-  const limit = batchLimit(env);
+  return track(job);
+}
+
+async function ingestPushed(env, issues) {
+  const existing = await env.DB.prepare("SELECT date, content_hash, ingested_at FROM issues").all();
+  const byDate = new Map((existing.results || []).map((row) => [row.date, row]));
   let inserted = 0;
   let updated = 0;
-  let same = 0;
-  let remaining = 0;
+  let unchanged = 0;
   const errors = [];
-  let fetched = 0;
-  for (const file of pending) {
-    if (fetched >= limit) {
-      remaining++;
-      continue;
-    }
-    fetched++;
+  for (const item of issues) {
+    let date = "";
     try {
-      const outcome = await upsertIssue(env, file, byDate.get(file.date));
+      const pushed = normalizePushed(item);
+      date = pushed.date;
+      const outcome = await upsertBody(env, pushed.date, pushed.body, byDate.get(pushed.date), "push");
       if (outcome === "inserted") inserted++;
       else if (outcome === "updated") updated++;
-      else same++;
+      else unchanged++;
     } catch (error) {
-      remaining++;
       errors.push({
-        date: file.date,
+        date: date || String(item && item.date || ""),
         error: error instanceof Error ? error.message : String(error),
       });
     }
   }
   const finished = new Date().toISOString();
-  await setMeta(env, "last_sync_at", finished);
-  await setMeta(env, "sync_remaining", String(remaining));
+  if (inserted + updated + unchanged > 0) {
+    await setMeta(env, "last_direct_sync_at", finished);
+    await setMeta(env, "last_sync_at", finished);
+    await setMeta(env, "sync_remaining", "0");
+    await clearBackoff(env);
+  }
   const result = {
     ok: errors.length === 0,
-    checked: listed.length,
+    mode: "push",
+    checked: issues.length,
     inserted,
     updated,
-    unchanged: unchanged + same,
+    unchanged,
+    remaining: 0,
+    errors,
+  };
+  console.log(JSON.stringify({
+    message: "push sync complete",
+    checked: result.checked,
+    inserted,
+    updated,
+    unchanged,
+    errors: errors.length,
+  }));
+  return result;
+}
+
+function normalizePushed(item) {
+  if (!item || typeof item !== "object") throw new Error("issue entry is invalid");
+  const date = String(item.date || "");
+  if (!DATE_RE.test(date)) throw new Error("issue date is invalid");
+  let body = item.body;
+  if (typeof body !== "string") {
+    if (item.content && typeof item.content === "object" && !Array.isArray(item.content)) {
+      body = JSON.stringify(item.content);
+    } else {
+      throw new Error("issue body is missing");
+    }
+  }
+  if (body.length > 500_000) throw new Error("issue body is too large");
+  body = stripBom(body);
+  let parsed;
+  try {
+    parsed = JSON.parse(body);
+  } catch {
+    throw new Error("issue JSON is invalid");
+  }
+  if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) throw new Error("issue JSON is not an object");
+  if (parsed.date && parsed.date !== date) throw new Error("issue date does not match body");
+  return { date, body };
+}
+
+async function syncIssues(env) {
+  if (await backoffActive(env)) {
+    return skippedSync("backoff");
+  }
+  await setMeta(env, "last_sync_attempt", new Date().toISOString());
+  if (await recentDirectPush(env)) {
+    await setMeta(env, "last_sync_at", new Date().toISOString());
+    await setMeta(env, "sync_remaining", "0");
+    return skippedSync("direct-push-window");
+  }
+  let discovered;
+  try {
+    discovered = await discoverDates(env);
+  } catch (error) {
+    if (error && error.throttled) {
+      await bumpBackoff(env);
+      return {
+        ok: false,
+        throttled: true,
+        mode: "origin",
+        error: error.message,
+        inserted: 0,
+        updated: 0,
+        unchanged: 0,
+        remaining: null,
+        checked: 0,
+        errors: [],
+      };
+    }
+    throw error;
+  }
+  const existing = await env.DB.prepare("SELECT date, content_hash, ingested_at FROM issues").all();
+  const byDate = new Map((existing.results || []).map((row) => [row.date, row]));
+  const dates = discovered.dates;
+  let seen = parseSeen(await getMeta(env, "sync_seen")).filter((date) => dates.includes(date));
+  let queue = dates.filter((date) => !seen.includes(date));
+  if (queue.length === 0) {
+    seen = [];
+    queue = dates.slice();
+  }
+  const batch = queue.slice(0, batchLimit(env));
+  let inserted = 0;
+  let updated = 0;
+  let same = 0;
+  const errors = [];
+  const processed = [];
+  let throttled = null;
+  for (const date of batch) {
+    try {
+      const loaded = await loadIssueText(env, date, discovered.fallback.get(date));
+      if (!loaded) {
+        processed.push(date);
+        same++;
+        continue;
+      }
+      const outcome = await upsertBody(env, date, loaded.text, byDate.get(date), loaded.source);
+      processed.push(date);
+      if (outcome === "inserted") inserted++;
+      else if (outcome === "updated") updated++;
+      else same++;
+    } catch (error) {
+      if (error && error.throttled) {
+        throttled = error;
+        break;
+      }
+      errors.push({
+        date,
+        error: error instanceof Error ? error.message : String(error),
+      });
+      processed.push(date);
+    }
+  }
+  seen = seen.concat(processed);
+  const remaining = queue.filter((date) => !processed.includes(date)).length;
+  await setMeta(env, "sync_seen", seen.join(","));
+  await setMeta(env, "sync_remaining", String(remaining));
+  if (throttled) {
+    await bumpBackoff(env);
+    return {
+      ok: false,
+      throttled: true,
+      mode: "origin",
+      error: throttled.message,
+      checked: dates.length,
+      inserted,
+      updated,
+      unchanged: same,
+      remaining,
+      errors,
+    };
+  }
+  const finished = new Date().toISOString();
+  await setMeta(env, "last_sync_at", finished);
+  await clearBackoff(env);
+  const result = {
+    ok: errors.length === 0,
+    mode: "origin",
+    checked: dates.length,
+    inserted,
+    updated,
+    unchanged: same + Math.max(0, dates.length - queue.length),
     remaining,
     errors,
   };
@@ -542,44 +722,128 @@ async function syncIssues(env) {
   return result;
 }
 
-async function listIssueFiles(env) {
-  const api = trimSlash(env.GITHUB_API || DEFAULT_API);
-  const repo = repoOf(env);
-  const ref = refOf(env);
-  const treeUrl = `${api}/repos/${repo}/git/trees/${encodeURIComponent(ref)}?recursive=1`;
-  const payload = await getJson(env, treeUrl);
-  let files = [];
-  if (payload && Array.isArray(payload.tree) && !payload.truncated) {
-    files = payload.tree.filter((item) => item.type === "blob" && /^content\/\d{4}-\d{2}-\d{2}\.json$/.test(item.path));
-  } else {
-    const listingUrl = `${api}/repos/${repo}/contents/content?ref=${encodeURIComponent(ref)}`;
-    const listing = await getJson(env, listingUrl);
-    if (!Array.isArray(listing)) throw new Error("GitHub content listing was not a directory");
-    files = listing
-      .filter((item) => item.type === "file" && DATE_RE.test(String(item.name || "").replace(/\.json$/, "")))
-      .map((item) => ({ path: `content/${item.name}`, sha: item.sha }));
-  }
-  return files
-    .map((item) => ({
-      path: item.path,
-      sha: String(item.sha || ""),
-      date: item.path.slice("content/".length, -".json".length),
-    }))
-    .filter((item) => DATE_RE.test(item.date) && item.sha)
-    .sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
+function skippedSync(reason) {
+  return {
+    ok: true,
+    skipped: true,
+    mode: "origin",
+    reason,
+    inserted: 0,
+    updated: 0,
+    unchanged: 0,
+    remaining: 0,
+    checked: 0,
+    errors: [],
+  };
 }
 
-async function upsertIssue(env, file, prev) {
-  const body = stripBom(await fetchIssueBody(env, file));
+async function discoverDates(env) {
+  const dates = new Set();
+  const rows = await env.DB.prepare("SELECT date FROM issues").all();
+  for (const row of rows.results || []) {
+    if (DATE_RE.test(row.date)) dates.add(row.date);
+  }
+  const fallback = new Map();
+  const latest = await loadPublic(env, "/content/latest.json");
+  if (latest) {
+    try {
+      const parsed = JSON.parse(stripBom(latest.text));
+      if (parsed && DATE_RE.test(String(parsed.date || ""))) {
+        dates.add(parsed.date);
+        fallback.set(parsed.date, stripBom(latest.text));
+      }
+    } catch (error) {
+      console.log(JSON.stringify({
+        message: "latest.json was not an issue",
+        error: error instanceof Error ? error.message : String(error),
+      }));
+    }
+  }
+  const manifest = await loadPublic(env, "/content/manifest.json", false);
+  if (manifest) {
+    try {
+      const parsed = JSON.parse(stripBom(manifest.text));
+      const list = Array.isArray(parsed) ? parsed : parsed && parsed.dates;
+      if (Array.isArray(list)) {
+        for (const date of list) {
+          if (DATE_RE.test(String(date))) dates.add(String(date));
+        }
+      }
+    } catch (error) {
+      console.log(JSON.stringify({
+        message: "manifest.json ignored",
+        error: error instanceof Error ? error.message : String(error),
+      }));
+    }
+  }
+  return {
+    dates: [...dates].sort((a, b) => (a < b ? 1 : a > b ? -1 : 0)),
+    fallback,
+  };
+}
+
+async function loadIssueText(env, date, fallback) {
+  const loaded = await loadPublic(env, `/content/${date}.json`);
+  if (loaded) return loaded;
+  if (typeof fallback === "string") return { text: fallback, source: "pages" };
+  return null;
+}
+
+async function loadPublic(env, pathname, allowRaw = true) {
+  const pages = await fetchStatus(() => originFetch(env, pathname, ""));
+  if (pages.throttled) throw pages.error;
+  if (pages.ok) return { text: pages.text, source: "pages" };
+  if (!allowRaw) return null;
+  const raw = await fetchStatus(() => upstreamFetch(rawUrlFor(env, pathname.replace(/^\/+/, "")), plainHeaders()));
+  if (raw.throttled) throw raw.error;
+  if (raw.ok) return { text: raw.text, source: "raw" };
+  return null;
+}
+
+async function fetchStatus(run) {
+  let response;
+  try {
+    response = await run();
+  } catch (error) {
+    const wrapped = new Error(error instanceof Error ? error.message : String(error));
+    wrapped.throttled = true;
+    return { throttled: true, error: wrapped };
+  }
+  if (response.status === 404 || response.status === 410) {
+    await discard(response);
+    return { ok: false };
+  }
+  if (response.status === 429 || response.status === 403 || response.status >= 500) {
+    const detail = (await response.text()).slice(0, 160);
+    const error = new Error(`upstream ${response.status} ${detail}`.trim());
+    error.throttled = true;
+    return { throttled: true, error };
+  }
+  if (!response.ok) {
+    await discard(response);
+    return { ok: false };
+  }
+  return { ok: true, text: await response.text() };
+}
+
+async function discard(response) {
+  try {
+    if (response.body && typeof response.body.cancel === "function") await response.body.cancel();
+    else await response.arrayBuffer();
+  } catch {
+    // The status is already known; a failed cancel should not turn a 404 into a retry storm.
+  }
+}
+
+async function upsertBody(env, date, body, prev, source) {
+  body = stripBom(body);
   let parsed;
   try {
     parsed = JSON.parse(body);
   } catch {
     throw new Error("issue JSON is invalid");
   }
-  if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
-    throw new Error("issue JSON is not an object");
-  }
+  if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) throw new Error("issue JSON is not an object");
   const hash = await sha256Hex(body);
   const now = new Date().toISOString();
   const headline = headlineOf(parsed).slice(0, 500);
@@ -599,41 +863,43 @@ async function upsertIssue(env, file, prev) {
          WHEN issues.content_hash != excluded.content_hash THEN excluded.updated_at
          ELSE issues.updated_at
        END`
-  ).bind(file.date, issueNo, headline, tagline, body, hash, file.sha, now, now).run();
+  ).bind(date, issueNo, headline, tagline, body, hash, source, now, now).run();
   if (!prev) return "inserted";
   if (prev.content_hash !== hash) return "updated";
   return "unchanged";
 }
 
-async function fetchIssueBody(env, file) {
-  const rawUrl = rawUrlFor(env, file.path);
-  try {
-    const text = await getText(env, rawUrl, false);
-    if ((await gitBlobSha1(text)) === file.sha) return text;
-  } catch (error) {
-    console.log(JSON.stringify({
-      message: "raw issue fetch failed",
-      date: file.date,
-      error: error instanceof Error ? error.message : String(error),
-    }));
-  }
-  const text = await getText(env, contentsUrl(env, file.path), true);
-  if ((await gitBlobSha1(text)) !== file.sha) {
-    throw new Error("downloaded content did not match git blob sha");
-  }
-  return text;
+async function recentDirectPush(env) {
+  const at = Date.parse((await getMeta(env, "last_direct_sync_at")) || "");
+  return Number.isFinite(at) && Date.now() - at < DIRECT_PUSH_WINDOW_MS;
+}
+
+async function backoffActive(env) {
+  const until = Date.parse((await getMeta(env, "sync_backoff_until")) || "");
+  return Number.isFinite(until) && until > Date.now();
+}
+
+async function bumpBackoff(env) {
+  const count = Math.min(num(await getMeta(env, "sync_fail_count")) + 1, 8);
+  const delay = Math.min(60 * 60 * 1000, 30 * 1000 * 2 ** (count - 1));
+  await setMeta(env, "sync_fail_count", String(count));
+  await setMeta(env, "sync_backoff_until", new Date(Date.now() + delay).toISOString());
+}
+
+async function clearBackoff(env) {
+  await setMeta(env, "sync_fail_count", "0");
+  await setMeta(env, "sync_backoff_until", "");
+}
+
+function parseSeen(value) {
+  if (!value) return [];
+  return String(value).split(",").map((date) => date.trim()).filter((date) => DATE_RE.test(date));
 }
 
 function rawUrlFor(env, path) {
   const raw = trimSlash(env.GITHUB_RAW_BASE || DEFAULT_RAW);
   const encoded = path.split("/").map(encodeURIComponent).join("/");
   return `${raw}/${repoOf(env)}/${encodeURIComponent(refOf(env))}/${encoded}`;
-}
-
-function contentsUrl(env, path) {
-  const api = trimSlash(env.GITHUB_API || DEFAULT_API);
-  const encoded = path.split("/").map(encodeURIComponent).join("/");
-  return `${api}/repos/${repoOf(env)}/contents/${encoded}?ref=${encodeURIComponent(refOf(env))}`;
 }
 
 async function proxyAsset(env, pathname, search) {
@@ -682,14 +948,6 @@ function plainHeaders() {
   };
 }
 
-function githubHeaders(env, accept) {
-  const headers = plainHeaders();
-  headers.Accept = accept;
-  if (env.GITHUB_TOKEN) headers.Authorization = `Bearer ${env.GITHUB_TOKEN}`;
-  headers["X-GitHub-Api-Version"] = "2022-11-28";
-  return headers;
-}
-
 async function upstreamFetch(url, headers) {
   return fetch(url, {
     method: "GET",
@@ -697,21 +955,6 @@ async function upstreamFetch(url, headers) {
     cache: "no-store",
     headers,
   });
-}
-
-async function getText(env, url, api) {
-  const response = await upstreamFetch(url, api ? githubHeaders(env, "application/vnd.github.raw") : plainHeaders());
-  if (!response.ok) throw new Error(`upstream ${response.status}`);
-  return response.text();
-}
-
-async function getJson(env, url) {
-  const response = await upstreamFetch(url, githubHeaders(env, "application/vnd.github+json"));
-  if (!response.ok) {
-    const detail = (await response.text()).slice(0, 180);
-    throw new Error(`GitHub ${response.status} ${detail}`);
-  }
-  return response.json();
 }
 
 function noteView(ctx, env, request, url) {
@@ -870,15 +1113,6 @@ async function fixedEqual(provided, expected) {
 async function sha256Hex(text) {
   const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
   return toHex(digest);
-}
-
-async function gitBlobSha1(text) {
-  const bytes = new TextEncoder().encode(text);
-  const prefix = new TextEncoder().encode(`blob ${bytes.byteLength}\0`);
-  const joined = new Uint8Array(prefix.length + bytes.length);
-  joined.set(prefix, 0);
-  joined.set(bytes, prefix.length);
-  return toHex(await crypto.subtle.digest("SHA-1", joined));
 }
 
 function toHex(buffer) {
@@ -1068,10 +1302,14 @@ function errorPage(message, status) {
   return shell("The Nadda Daily", `<p class="loading">${esc(message)}</p><p class="center"><a href="/">หน้าแรก</a></p>`, status >= 500);
 }
 
-function shell(title, body, admin) {
+function shell(title, body, admin, canonicalPath) {
+  const canonical = canonicalPath
+    ? `<link rel="canonical" href="https://daily.natlada.com${canonicalPath}">`
+    : "";
   return `<!doctype html><html lang="th"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}</title>
+${canonical}
 ${admin ? '<meta name="robots" content="noindex">' : ""}
 <link rel="icon" href="/favicon-32.png">
 <base href="/">

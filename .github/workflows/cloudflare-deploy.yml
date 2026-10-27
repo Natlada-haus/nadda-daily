@@ -61,7 +61,7 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: npx wrangler deploy
 
-      - name: Ingest issues
+      - name: Push issue JSON from this checkout into D1
         env:
           SYNC_URL: ${{ vars.SYNC_URL }}
           SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}

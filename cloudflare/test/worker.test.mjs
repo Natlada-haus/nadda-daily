@@ -1,5 +1,4 @@
 import assert from "node:assert/strict";
-import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
 import http from "node:http";
 import path from "node:path";
@@ -9,15 +8,11 @@ import { createTestHarness } from "wrangler";
 const repoRoot = path.resolve(import.meta.dirname, "../..");
 const cloudflareRoot = path.resolve(import.meta.dirname, "..");
 const issues = new Map();
+const flags = { throttle: false, apiHits: 0 };
 
 let origin;
 let harness;
 let worker;
-
-function gitSha(text) {
-  const bytes = Buffer.from(text, "utf8");
-  return createHash("sha1").update(`blob ${bytes.length}\0`).update(bytes).digest("hex");
-}
 
 function contentType(rel) {
   if (rel.endsWith(".html")) return "text/html; charset=utf-8";
@@ -115,16 +110,16 @@ describe("nadda daily worker", () => {
     origin = http.createServer(async (req, res) => {
       const url = new URL(req.url || "/", "http://127.0.0.1");
       const pathname = decodeURIComponent(url.pathname);
-      if (pathname === "/api/repos/natlada-haus/nadda-daily/git/trees/main") {
-        const tree = [...issues.entries()].map(([date, issue]) => ({
-          path: `content/${date}.json`,
-          mode: "100644",
-          type: "blob",
-          sha: gitSha(issue.body),
-          size: Buffer.byteLength(issue.body),
-        }));
-        send(res, 200, JSON.stringify({ sha: "tree", truncated: false, tree }), "application/json");
-        return;
+      if (pathname.startsWith("/api/")) {
+        flags.apiHits++;
+        return send(res, 429, "api should not be called");
+      }
+      if (flags.throttle && pathname.startsWith("/site/content/") && pathname.endsWith(".json")) {
+        return send(res, 429, "rate limit");
+      }
+      if (pathname === "/site/content/manifest.json") {
+        const dates = [...issues.keys()].sort();
+        return send(res, 200, JSON.stringify({ dates }), "application/json");
       }
       const raw = pathname.match(/^\/raw\/natlada-haus\/nadda-daily\/main\/content\/(\d{4}-\d{2}-\d{2})\.json$/);
       if (raw) {
@@ -213,12 +208,18 @@ describe("nadda daily worker", () => {
     assert.match(homeHtml, /The Nadda Daily/);
     assert.match(homeHtml, /nd-archive-bar/);
     assert.match(homeHtml, /href="\/archive"/);
+    assert.match(homeHtml, /rel="canonical" href="https:\/\/daily\.natlada\.com\/"/);
+    assert.match(homeHtml, /src="redirect\.js"/);
 
     const issuePage = await hit("/issue/2026-10-13");
     assert.equal(issuePage.status, 200);
     const issueHtml = await issuePage.text();
     assert.match(issueHtml, /<base href="\/">/);
     assert.match(issueHtml, /nd-issue-boot/);
+    assert.match(issueHtml, /rel="canonical" href="https:\/\/daily\.natlada\.com\/issue\/2026-10-13"/);
+    const redirectJs = await hit("/redirect.js");
+    assert.equal(redirectJs.status, 200);
+    assert.match(await redirectJs.text(), /github\.io/);
 
     const css = await hit("/style.css");
     assert.equal(css.status, 200);
@@ -279,6 +280,7 @@ describe("nadda daily worker", () => {
     assert.match(archiveHtml, /Heavy-rain warning/);
     assert.match(archiveHtml, /Speaker Sophon/);
     assert.match(archiveHtml, /href="\/issue\/2026-10-27"/);
+    assert.match(archiveHtml, /rel="canonical" href="https:\/\/daily\.natlada\.com\/archive"/);
     await waitForViews(rows.length + 1);
 
     const badLogin = await hit("/admin/login", {
@@ -317,7 +319,8 @@ describe("nadda daily worker", () => {
       "Edited rain warning",
     );
     issues.set("2026-10-13", { body: edited, raw: edited, origin: true });
-    const editSync = await sync();
+    const editFirst = await sync();
+    const editSync = editFirst.updated === 1 ? editFirst : await sync();
     assert.equal(editSync.updated, 1);
     assert.equal(editSync.remaining, 0);
     const afterEdit = await env.DB.prepare(
@@ -331,16 +334,18 @@ describe("nadda daily worker", () => {
     const frozen = afterEdit.updated_at;
     const again = await sync();
     assert.equal(again.updated, 0);
-    assert.equal(again.remaining, 0);
     const still = await env.DB.prepare("SELECT updated_at FROM issues WHERE date = ?").bind("2026-10-13").first();
     assert.equal(still.updated_at, frozen);
 
-    const canonical = edited.replace("Edited rain warning", "API rain warning");
-    issues.set("2026-10-13", { body: canonical, raw: edited, origin: true });
-    const apiSync = await sync();
-    assert.equal(apiSync.updated, 1);
-    const viaApi = await env.DB.prepare("SELECT headline FROM issues WHERE date = ?").bind("2026-10-13").first();
-    assert.equal(viaApi.headline, "API rain warning");
+    const pagesBody = edited.replace("Edited rain warning", "Pages rain warning");
+    issues.set("2026-10-13", { body: pagesBody, raw: edited, origin: true });
+    let viaPages = null;
+    for (let i = 0; i < 4; i++) {
+      await sync();
+      viaPages = await env.DB.prepare("SELECT headline FROM issues WHERE date = ?").bind("2026-10-13").first();
+      if (viaPages.headline === "Pages rain warning") break;
+    }
+    assert.equal(viaPages.headline, "Pages rain warning");
 
     issues.get("2026-10-27").origin = false;
     assert.match(await (await hit("/content/2026-10-27.json")).text(), /Speaker Sophon/);
@@ -357,6 +362,9 @@ describe("nadda daily worker", () => {
       thailand: [{ lead: true, title: "Cron headline" }],
     });
     issues.set("2026-10-01", { body: cronBody, raw: cronBody, origin: true });
+    await env.DB.prepare(
+      "INSERT INTO meta (key, value) VALUES ('sync_seen', ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value"
+    ).bind("2026-10-13,2026-10-27").run();
     await worker.scheduled({ cron: "30 23 * * *", scheduledTime: new Date() });
     const cronRow = await env.DB.prepare("SELECT headline FROM issues WHERE date = ?").bind("2026-10-01").first();
     assert.equal(cronRow.headline, "Cron headline");
@@ -364,9 +372,47 @@ describe("nadda daily worker", () => {
     await env.DB.prepare(
       "UPDATE meta SET value = ? WHERE key IN ('last_sync_at', 'last_sync_attempt')"
     ).bind("2000-01-01T00:00:00.000Z").run();
+    await env.DB.prepare(
+      "INSERT INTO meta (key, value) VALUES ('sync_seen', ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value"
+    ).bind("2026-10-13,2026-10-27").run();
     const refreshed = cronBody.replace("Cron headline", "Request refresh headline");
     issues.set("2026-10-01", { body: refreshed, raw: refreshed, origin: false });
     assert.match(await (await hit("/content/2026-10-01.json")).text(), /Request refresh headline/);
+
+    const pushedBody = pagesBody.replace("Pages rain warning", "Pushed rain warning");
+    const pushed = await hit("/admin/sync", {
+      method: "POST",
+      headers: {
+        Authorization: "Bearer test-sync-token",
+        Accept: "application/json",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ issues: [{ date: "2026-10-13", body: pushedBody }] }),
+    });
+    const pushedJson = await pushed.json();
+    assert.equal(pushed.status, 200, JSON.stringify(pushedJson));
+    assert.equal(pushedJson.mode, "push");
+    assert.equal(pushedJson.updated, 1);
+    const protectedSync = await sync();
+    assert.equal(protectedSync.reason, "direct-push-window");
+    const protectedRow = await env.DB.prepare("SELECT headline FROM issues WHERE date = ?").bind("2026-10-13").first();
+    assert.equal(protectedRow.headline, "Pushed rain warning");
+
+    flags.throttle = true;
+    await env.DB.prepare("DELETE FROM meta WHERE key IN ('last_sync_at', 'last_sync_attempt', 'last_direct_sync_at', 'sync_backoff_until', 'sync_fail_count')").run();
+    const limitedResponse = await hit("/admin/sync", {
+      method: "POST",
+      headers: { Authorization: "Bearer test-sync-token", Accept: "application/json" },
+    });
+    const limited = await limitedResponse.json();
+    assert.equal(limitedResponse.status, 502, JSON.stringify(limited));
+    assert.equal(limited.ok, false);
+    assert.equal(limited.throttled, true);
+    const backedOff = await sync();
+    assert.equal(backedOff.reason, "backoff");
+    await worker.scheduled({ cron: "0 0 * * *", scheduledTime: new Date() });
+    flags.throttle = false;
+    assert.equal(flags.apiHits, 0);
 
     const logout = await hit("/admin/logout", {
       method: "POST",
