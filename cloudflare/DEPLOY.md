@@ -34,7 +34,7 @@ Each run reads the git tree and upserts issues whose blob SHA changed (`updated_
 ## First deploy (API)
 
 1. Create D1 database `nadda-daily`. Copy its UUID.
-2. Apply `cloudflare/schema.sql`. The D1 console accepts the whole file. The query API accepts one statement at a time; the file is four `CREATE TABLE` / `CREATE INDEX` statements, all `IF NOT EXISTS`.
+2. Apply `cloudflare/schema.sql`. The D1 console accepts the whole file. The query API accepts one statement at a time; the file is six statements (three `CREATE TABLE`, three `CREATE INDEX`), all `IF NOT EXISTS`.
 3. Upload `cloudflare/dist/worker.js` as an ES module Worker named `nadda-daily`, with the binding, vars, secrets, compatibility date, and crons above.
 4. Attach custom domain `daily.natlada.com` (zone on this account; Cloudflare creates the DNS record).
 5. Backfill until `remaining` is 0:
