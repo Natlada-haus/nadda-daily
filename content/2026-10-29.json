@@ -1,0 +1,549 @@
+{
+ "issue_no": 17,
+ "tagline": "วันพฤหัสฯ ใกล้สุดสัปดาห์แล้ว · Thursday, almost there",
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Thai FDA steps up Listeria checks on imported enoki mushrooms",
+   "th": "อย. เพิ่มการสุ่มเก็บตัวอย่างเห็ดเข็มทองนำเข้าที่วางขายในตลาดไปตรวจหาเชื้อลิสทีเรีย หลัง อย. สหรัฐฯ ออกประกาศเตือน (Import Alert 99-35) เรื่องเห็ดเข็มทองจากผู้ผลิตบางรายในจีนปนเปื้อน ผลตรวจสอบข้อมูลนำเข้าเบื้องต้นไม่พบการนำเข้าจากผู้ผลิตรายที่ถูกเตือน อย. ย้ำว่ายังกินได้ถ้าปรุงสุกด้วยความร้อนเกิน 70°C โดยเฉพาะชาบู สุกี้ หมูกระทะ ห้ามกินดิบหรือลวกแค่ผ่านๆ",
+   "en": "Enoki is still fine for your next shabu night, just make sure it's fully cooked.",
+   "source": "Nation Thailand",
+   "url": "https://www.nationthailand.com/health-wellness/40072844"
+  },
+  {
+   "title": "Patong mayor blames mudslide on hill encroachment",
+   "th": "นายกเทศมนตรีเมืองป่าตอง ลลิตา มณีศรี ระบุว่าการบุกรุกและปรับแต่งพื้นที่บน \"เขา 50 ปี\" โดยผู้พัฒนาอสังหาฯ ทำให้ดินไม่มั่นคง เมื่อฝนตกหนักสะสม 117 มม. ตั้งแต่คืนวันอาทิตย์ ดิน หิน และต้นไม้จึงไหลลงสู่โรงแรม ร้านค้า และชุมชนเมื่อตี 2 วันจันทร์ กระทบอย่างน้อย 100 ครัวเรือน เทศบาลกำลังดำเนินคดีกับผู้กระทำผิด",
+   "en": "A popular Phuket viewpoint and check-in spot turned into a landslide risk.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3345214/phuket-mayor-blames-mudslide-on-hill-encroachment"
+  },
+  {
+   "title": "Phuket flood victims to get payouts",
+   "th": "รมช.มหาดไทย วรสิทธิ์ เลียงประสิทธิ์ ระบุว่าผู้ที่บ้านเสียหายจากน้ำป่าและดินถล่มในภูเก็ตมีสิทธิ์ได้รับเงินเยียวยา แม้น้ำจะท่วมไม่ถึง 7 วัน จังหวัดจะประกาศเขตประสบภัยเพื่อให้ยื่นขอรับเงินได้ และประกาศย้อนหลังได้ด้วย ขณะที่การเก็บกวาดคืบหน้าราว 80% และถนนส่วนใหญ่เปิดใช้แล้ว",
+   "en": "Help is coming for Phuket families, though officials admit it won't cover every loss.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3344753/flood-victims-in-phuket-to-get-payouts"
+  }
+ ],
+ "world": [
+  {
+   "title": "High-speed train crash in Spain kills at least 68",
+   "th": "รถไฟความเร็วสูงของ Renfe ชนท้ายขบวนของ Iryo ที่จอดอยู่ใกล้เมืองโตเลโด ประเทศสเปน มีผู้เสียชีวิตอย่างน้อย 68 ราย บนขบวนมีผู้โดยสารกว่า 500 คน รัฐบาลประกาศไว้ทุกข์ 3 วัน",
+   "en": "It is Spain's second deadly high-speed rail collision this year.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-28/"
+  },
+  {
+   "title": "Israel's election ends in deadlock",
+   "th": "นับคะแนนเสร็จแล้ว ฝ่ายเนทันยาฮูได้ 53 ที่นั่ง ฝ่ายกาดี ไอเซนคอตได้ 48 ที่นั่ง จาก 120 ที่นั่ง ไม่มีฝ่ายใดถึง 61 ที่นั่งที่ต้องใช้ตั้งรัฐบาล ประธานาธิบดีเฮอร์ซอกจะเริ่มหารือกับพรรคต่างๆ สัปดาห์หน้า",
+   "en": "Weeks of coalition talks, or even a new election, could follow.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-28/"
+  },
+  {
+   "title": "Iran rejects Qatar's peace plan; Brent hits $112",
+   "th": "อิหร่านปฏิเสธข้อเสนอของกาตาร์เพื่อยุติสงครามกับสหรัฐฯ ว่า \"รับไม่ได้\" ประกอบกับกลุ่มฮูตีโจมตีซาอุดีอาระเบีย ราคาน้ำมันดิบเบรนต์จึงขึ้น 2.4% เป็น 112 ดอลลาร์ต่อบาร์เรล",
+   "en": "Stalled talks keep oil, and fuel prices worldwide, high.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-28/"
+  },
+  {
+   "title": "Fourth-tier Fleetwood knock Arsenal out of the League Cup",
+   "th": "ฟลีตวูดทีมจากลีกระดับ 4 ของอังกฤษ ชนะอาร์เซนอลแชมป์อังกฤษด้วยการดวลจุดโทษ เขี่ยตกรอบลีกคัพ",
+   "en": "One of the biggest cup upsets in years.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-28/"
+  }
+ ],
+ "social": [
+  {
+   "title": "Instagram ends Reels series linking from Oct 28",
+   "th": "Instagram ยกเลิกฟีเจอร์ลิงก์รีลเป็นซีรีส์ (Reels series linking) ตั้งแต่วันที่ 28 ต.ค. 2026 เพื่อให้ประสบการณ์การดูเรียบง่ายขึ้น",
+   "why": "ถ้าเพจเคยร้อยรีลเป็นตอนๆ ด้วยฟีเจอร์นี้ ต้องหาทางพาคนดูไปตอนต่อไปแบบอื่น เช่น ปักหมุดหรือใส่ในแคปชัน",
+   "source": "ClickInsights",
+   "url": "https://www.clickinsights.asia/post/social-media-buzz-weekly-roundup-of-social-media-updates-204"
+  },
+  {
+   "title": "Edits adds trend insights, style Kits and 'Use as reference'",
+   "th": "แอป Edits ของ Meta เพิ่มลิงก์เสียงที่กดได้ ข้อมูลเทรนด์ของผู้ชม (สำหรับครีเอเตอร์ที่มีผู้ติดตามเกิน 10,000) ชุดสไตล์ Kits ที่ใช้ซ้ำได้ และเอฟเฟกต์ใหม่ ส่วน Instagram บน iOS มีปุ่ม \"Use as reference\" ให้เปิดดูรีลอื่นไปพร้อมกับถ่ายรีลตอบกลับ",
+   "why": "Kits ช่วยให้รีลของแบรนด์หน้าตาสม่ำเสมอ ส่วนข้อมูลเทรนด์ช่วยเลือกหัวข้อที่คนกำลังสนใจ",
+   "source": "ClickInsights",
+   "url": "https://www.clickinsights.asia/post/social-media-buzz-weekly-roundup-of-social-media-updates-204"
+  },
+  {
+   "title": "Edits gets bulk caption editing and beat-synced effects",
+   "th": "Edits อัปเดตเมื่อ 27 ต.ค. เพิ่มการแก้แคปชันทีละหลายบรรทัด (bulk caption editing) แอนิเมชันตัวอักษรใหม่ สไตล์แคปชันเพิ่ม เอฟเฟกต์ที่ซิงก์ตามจังหวะเพลง ปรับสีอัตโนมัติ และแก้ไขคารูเซลบน Android",
+   "why": "แก้ซับรีลที่ทำไว้แล้วได้เร็วขึ้น และคุมฟอนต์/สไตล์แคปชันให้ตรงแบรนด์ได้ง่ายขึ้น",
+   "source": "Michelle Zunich (Substack)",
+   "url": "https://michellezunich.substack.com/p/wednesday-social-media-ai-update"
+  },
+  {
+   "title": "TikTok signs microdrama deal with Made By Us Studios",
+   "th": "TikTok จับมือ Made By Us Studios แบบหลายปี ร่วมผลิตซีรีส์แนวตั้งสั้นที่นำโดยครีเอเตอร์ สำหรับ TikTok และแอป PineDrama เรื่องแรกคือ Player นำแสดงโดย Hannah Stocking และ The Knock ต่อยอดจากดีลกับ HOORAE ของ Issa Rae ที่ซีรีส์ Screen Time มียอดวิวเกือบ 580 ล้าน",
+   "why": "ไมโครดราม่ากำลังมาแรง แบรนด์ลองทำคอนเทนต์เป็นตอนๆ ร่วมกับครีเอเตอร์ได้",
+   "source": "ClickInsights",
+   "url": "https://www.clickinsights.asia/post/social-media-buzz-weekly-roundup-of-social-media-updates-204"
+  },
+  {
+   "title": "TikTok launches 'Must Eat' restaurant guides",
+   "th": "TikTok เปิดฟีเจอร์ \"Must Eat\" รวมร้านอาหารที่กำลังดังจากโพสต์และคอมเมนต์กว่า 40 ล้านรายการ กรองตามประเภทอาหาร ราคา เรตติ้ง และทำเล แบ่งเป็น Everyday Eats กับ Elevated Dining บางร้านจองผ่าน OpenTable ได้ เริ่มที่นิวยอร์ก ลอสแอนเจลิส และซานฟรานซิสโก",
+   "why": "TikTok กำลังกลายเป็นเครื่องมือค้นหาร้านแข่งกับ Google Maps คอนเทนต์รีวิวและโลเคชันจึงยิ่งสำคัญ",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/"
+  },
+  {
+   "title": "TikTok opens Content Suite API; ShopMy turns creator posts into Spark Ads",
+   "th": "TikTok เปิด Content Suite API ให้พาร์ตเนอร์ โดย ShopMy เป็นรายแรก แบรนด์มองหาวิดีโอครีเอเตอร์ที่ขายสินค้าได้จริงผ่าน ShopMy ขออนุญาตครีเอเตอร์ แล้วนำไปยิงเป็น Spark Ads ได้เลยโดยไม่ต้องทำใหม่",
+   "why": "คอนเทนต์ครีเอเตอร์ที่พิสูจน์แล้วว่าขายได้ นำไปทำโฆษณาต่อได้ง่ายขึ้น ควรตกลงสิทธิ์การใช้งานไว้ในบรีฟตั้งแต่แรก",
+   "source": "Odience",
+   "url": "https://odience.io/social-media-industry-news-oct-26/"
+  }
+ ],
+ "lifestyle": {
+  "title": "Enoki, the safe way",
+  "body": "มื้อชาบูหรือหมูกระทะคืนนี้ ต้มเห็ดเข็มทองให้สุกทั่ว (ความร้อนเกิน 70°C) แยกเขียงและตะเกียบของดิบกับของสุก และเก็บของสดในตู้เย็นต่ำกว่า 4°C ตามคำแนะนำของ อย.",
+  "note": "Based on today's enoki news"
+ },
+ "word": {
+  "word": "encroachment",
+  "pos": "n.",
+  "ipa": "/ɪnˈkrəʊtʃmənt/",
+  "th": "การบุกรุก การรุกล้ำพื้นที่",
+  "def": "gradually taking over land or space that is not yours.",
+  "ex": "The mayor blamed hill encroachment for the mudslide in Patong."
+ },
+ "english": {
+  "title": "Pitching a content series idea",
+  "dialogue": [
+   [
+    "Nadda",
+    "Do you have a minute? I'd love to run an idea by you."
+   ],
+   [
+    "Manager",
+    "Sure, go ahead."
+   ],
+   [
+    "Nadda",
+    "What if we turned our launch into a three-part mini-series?"
+   ],
+   [
+    "Manager",
+    "Interesting. Why a series?"
+   ],
+   [
+    "Nadda",
+    "Microdramas are taking off, and episodes give people a reason to come back."
+   ],
+   [
+    "Manager",
+    "Makes sense. What would you need?"
+   ],
+   [
+    "Nadda",
+    "One creator and two shoot days. I can share a rough plan by Friday."
+   ],
+   [
+    "Manager",
+    "Sounds good. Let's take a look then."
+   ]
+  ],
+  "vocab": [
+   [
+    "run an idea by you",
+    "ขอเล่าไอเดียให้ฟัง/ขอความเห็น"
+   ],
+   [
+    "What if we ...?",
+    "ถ้าเรา...ล่ะ (เสนอแบบนุ่มนวล)"
+   ],
+   [
+    "taking off",
+    "กำลังมาแรง"
+   ],
+   [
+    "a reason to come back",
+    "เหตุผลให้กลับมาดูอีก"
+   ],
+   [
+    "rough plan",
+    "แผนคร่าวๆ"
+   ],
+   [
+    "Let's take a look",
+    "เดี๋ยวมาดูกัน"
+   ]
+  ],
+  "tip": {
+   "instead": "We should make a series.",
+   "better": "What if we turned it into a three-part series?",
+   "why": "ใช้ What if we...? ทำให้ฟังเป็นการชวนคิดด้วยกัน ไม่ใช่การสั่ง และเปิดให้อีกฝ่ายถามต่อ"
+  }
+ },
+ "know": [
+  {
+   "title": "What is Listeria?",
+   "body": "ลิสทีเรีย (Listeria monocytogenes) เป็นแบคทีเรียที่พบได้ทั่วไปในดิน น้ำ และมูลสัตว์ โตได้ดีแม้ในตู้เย็น กลุ่มเสี่ยงคือหญิงตั้งครรภ์ ทารกแรกเกิด ผู้สูงอายุ 65 ปีขึ้นไป และคนภูมิคุ้มกันต่ำ แต่ความร้อนจากการปรุงสุกฆ่าเชื้อได้"
+  },
+  {
+   "title": "What is a microdrama?",
+   "body": "ไมโครดราม่าคือซีรีส์แนวตั้งตอนสั้นๆ ดูจบในไม่กี่นาที มักจบแต่ละตอนแบบค้างคาให้อยากดูต่อ กำลังเป็นสนามแข่งใหม่ของ TikTok, Instagram และ Snapchat"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1929",
+   "text": "'Black Tuesday': the Wall Street stock market crashed, starting the Great Depression."
+  },
+  {
+   "year": "1969",
+   "text": "The first message was sent over ARPANET, the forerunner of the internet."
+  }
+ ],
+ "three_things": [
+  "Cook enoki fully at your next shabu or mu kratha",
+  "Check whether any Reels series links on the page need a new path",
+  "Try 'What if we...?' when pitching an idea"
+ ],
+ "date": "2026-10-29",
+ "weather": {
+  "max": 32,
+  "min": 25,
+  "rain": 69,
+  "uv": 7,
+  "cond": "Showers",
+  "humidity": 91,
+  "source": "Open-Meteo",
+  "fetched": "06:27"
+ },
+ "wordsearch": {
+  "grid": [
+   "AMMFNKPBKB",
+   "TVSNADEKYC",
+   "HFBEFDRAMA",
+   "UEJPNSCPEJ",
+   "RDOHAOUNWB",
+   "SIYYGTKNKR",
+   "DTYEOUOICE",
+   "ASTFHIHNHN",
+   "YOISPMUVGT",
+   "VDPINTRAIN"
+  ],
+  "words": [
+   {
+    "word": "THURSDAY",
+    "cells": [
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      3,
+      0
+     ],
+     [
+      4,
+      0
+     ],
+     [
+      5,
+      0
+     ],
+     [
+      6,
+      0
+     ],
+     [
+      7,
+      0
+     ],
+     [
+      8,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "PATONG",
+    "cells": [
+     [
+      3,
+      3
+     ],
+     [
+      4,
+      4
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      6,
+      6
+     ],
+     [
+      7,
+      7
+     ],
+     [
+      8,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "ENOKI",
+    "cells": [
+     [
+      2,
+      3
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      6,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "TRAIN",
+    "cells": [
+     [
+      9,
+      5
+     ],
+     [
+      9,
+      6
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      8
+     ],
+     [
+      9,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "BRENT",
+    "cells": [
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      6,
+      9
+     ],
+     [
+      7,
+      9
+     ],
+     [
+      8,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "EDITS",
+    "cells": [
+     [
+      3,
+      1
+     ],
+     [
+      4,
+      1
+     ],
+     [
+      5,
+      1
+     ],
+     [
+      6,
+      1
+     ],
+     [
+      7,
+      1
+     ]
+    ]
+   },
+   {
+    "word": "DRAMA",
+    "cells": [
+     [
+      2,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      2,
+      8
+     ],
+     [
+      2,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "VOTE",
+    "cells": [
+     [
+      9,
+      0
+     ],
+     [
+      8,
+      1
+     ],
+     [
+      7,
+      2
+     ],
+     [
+      6,
+      3
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    0,
+    1,
+    4,
+    2,
+    0,
+    5
+   ],
+   [
+    0,
+    6,
+    5,
+    3,
+    1,
+    0
+   ],
+   [
+    4,
+    0,
+    0,
+    5,
+    0,
+    1
+   ],
+   [
+    5,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    6,
+    5,
+    0,
+    1,
+    0,
+    2
+   ],
+   [
+    0,
+    0,
+    2,
+    6,
+    5,
+    3
+   ]
+  ],
+  "solution": [
+   [
+    3,
+    1,
+    4,
+    2,
+    6,
+    5
+   ],
+   [
+    2,
+    6,
+    5,
+    3,
+    1,
+    4
+   ],
+   [
+    4,
+    2,
+    6,
+    5,
+    3,
+    1
+   ],
+   [
+    5,
+    3,
+    1,
+    4,
+    2,
+    6
+   ],
+   [
+    6,
+    5,
+    3,
+    1,
+    4,
+    2
+   ],
+   [
+    1,
+    4,
+    2,
+    6,
+    5,
+    3
+   ]
+  ]
+ }
+}

@@ -1,337 +1,315 @@
 {
- "issue_no": 16,
- "tagline": "วันพุธกลางสัปดาห์ · Wednesday, halfway there",
+ "issue_no": 17,
+ "tagline": "วันพฤหัสฯ ใกล้สุดสัปดาห์แล้ว · Thursday, almost there",
  "thailand": [
   {
    "lead": true,
-   "title": "E20 and B20 drop to 33.50 baht a litre from today",
-   "th": "ครม. อนุมัติลดภาษีสรรพสามิต E20 ลิตรละ 5.60 บาท และ B20 ลิตรละ 5.50 บาท นาน 3 เดือน กบน. จึงประกาศราคาขายปลีกทั้งสองชนิดเหลือ 33.50 บาท/ลิตร มีผลวันนี้ (28 ต.ค.) ถูกกว่าดีเซล B7 ราว 10 บาท และถูกกว่าแก๊สโซฮอล์ 95 ราว 8.5 บาท ก่อนเติมควรเช็กคู่มือว่ารถรองรับหรือไม่",
-   "en": "If your car can take E20, a full tank could save a few hundred baht for the next three months.",
-   "source": "Thai Post / Bangkok Post",
-   "url": "https://www.thaipost.net/economy-news/1096501/"
+   "title": "Thai FDA steps up Listeria checks on imported enoki mushrooms",
+   "th": "อย. เพิ่มการสุ่มเก็บตัวอย่างเห็ดเข็มทองนำเข้าที่วางขายในตลาดไปตรวจหาเชื้อลิสทีเรีย หลัง อย. สหรัฐฯ ออกประกาศเตือน (Import Alert 99-35) เรื่องเห็ดเข็มทองจากผู้ผลิตบางรายในจีนปนเปื้อน ผลตรวจสอบข้อมูลนำเข้าเบื้องต้นไม่พบการนำเข้าจากผู้ผลิตรายที่ถูกเตือน อย. ย้ำว่ายังกินได้ถ้าปรุงสุกด้วยความร้อนเกิน 70°C โดยเฉพาะชาบู สุกี้ หมูกระทะ ห้ามกินดิบหรือลวกแค่ผ่านๆ",
+   "en": "Enoki is still fine for your next shabu night, just make sure it's fully cooked.",
+   "source": "Nation Thailand",
+   "url": "https://www.nationthailand.com/health-wellness/40072844"
   },
   {
-   "title": "Government launches 'People's Solar' rooftop scheme",
-   "th": "นายกฯ อนุทินเปิดโครงการ \"People's Solar\" โซลาร์บนหลังคา ตั้งเป้า 1 ล้านครัวเรือน อุดหนุนครัวเรือนละ 50,000 บาท และให้ขายไฟส่วนเกินคืนเข้าระบบได้",
-   "en": "A home solar subsidy could cut electricity bills and add a small extra income.",
+   "title": "Patong mayor blames mudslide on hill encroachment",
+   "th": "นายกเทศมนตรีเมืองป่าตอง ลลิตา มณีศรี ระบุว่าการบุกรุกและปรับแต่งพื้นที่บน \"เขา 50 ปี\" โดยผู้พัฒนาอสังหาฯ ทำให้ดินไม่มั่นคง เมื่อฝนตกหนักสะสม 117 มม. ตั้งแต่คืนวันอาทิตย์ ดิน หิน และต้นไม้จึงไหลลงสู่โรงแรม ร้านค้า และชุมชนเมื่อตี 2 วันจันทร์ กระทบอย่างน้อย 100 ครัวเรือน เทศบาลกำลังดำเนินคดีกับผู้กระทำผิด",
+   "en": "A popular Phuket viewpoint and check-in spot turned into a landslide risk.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3344628/cabinet-approves-cheaper-fuel-prices-for-3-months"
+   "url": "https://www.bangkokpost.com/thailand/general/3345214/phuket-mayor-blames-mudslide-on-hill-encroachment"
   },
   {
-   "title": "Censure debate 'unlikely before December', PM says",
-   "th": "นายกฯ อนุทินบอกว่าการอภิปรายไม่ไว้วางใจน่าจะเกิดได้เร็วสุดต้นเดือน ธ.ค. เพราะเดือน พ.ย. รัฐมนตรีติดภารกิจอาเซียน เอเปก และการเยือนของนายกฯ จีน ครม. พร้อมตั้งแต่ 6 ธ.ค. และต้องจบก่อนปิดสมัยประชุม 22 ธ.ค.",
-   "en": "The opposition's big moment in parliament now looks set for December.",
+   "title": "Phuket flood victims to get payouts",
+   "th": "รมช.มหาดไทย วรสิทธิ์ เลียงประสิทธิ์ ระบุว่าผู้ที่บ้านเสียหายจากน้ำป่าและดินถล่มในภูเก็ตมีสิทธิ์ได้รับเงินเยียวยา แม้น้ำจะท่วมไม่ถึง 7 วัน จังหวัดจะประกาศเขตประสบภัยเพื่อให้ยื่นขอรับเงินได้ และประกาศย้อนหลังได้ด้วย ขณะที่การเก็บกวาดคืบหน้าราว 80% และถนนส่วนใหญ่เปิดใช้แล้ว",
+   "en": "Help is coming for Phuket families, though officials admit it won't cover every loss.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/politics/3344613/censure-debate-unlikely-before-dec-pm"
+   "url": "https://www.bangkokpost.com/thailand/general/3344753/flood-victims-in-phuket-to-get-payouts"
   }
  ],
  "world": [
   {
-   "title": "Israel votes with the highest turnout in decades",
-   "th": "อิสราเอลเลือกตั้งครั้งแรกนับจากเหตุ 7 ต.ค. 2023 ผู้มาใช้สิทธิ์สูงสุดในรอบหลายสิบปี ผลอย่างเป็นทางการจะออก 4 พ.ย. และการตั้งรัฐบาลอาจใช้เวลาหลายสัปดาห์",
-   "en": "The result will shape Israel's wars with Iran and in Gaza.",
+   "title": "High-speed train crash in Spain kills at least 68",
+   "th": "รถไฟความเร็วสูงของ Renfe ชนท้ายขบวนของ Iryo ที่จอดอยู่ใกล้เมืองโตเลโด ประเทศสเปน มีผู้เสียชีวิตอย่างน้อย 68 ราย บนขบวนมีผู้โดยสารกว่า 500 คน รัฐบาลประกาศไว้ทุกข์ 3 วัน",
+   "en": "It is Spain's second deadly high-speed rail collision this year.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-27/"
+   "url": "https://oneturn.news/day/2026-10-28/"
   },
   {
-   "title": "Harry Kane wins the Ballon d'Or; Putellas takes her third",
-   "th": "แฮร์รี เคน คว้าบัลลงดอร์ เป็นชาวอังกฤษคนแรกนับจากไมเคิล โอเว่น ปี 2001 ส่วนฝั่งหญิง อเล็กเซีย ปูเตยาส ได้รางวัลเป็นครั้งที่ 3",
-   "en": "England waited 25 years for this one.",
+   "title": "Israel's election ends in deadlock",
+   "th": "นับคะแนนเสร็จแล้ว ฝ่ายเนทันยาฮูได้ 53 ที่นั่ง ฝ่ายกาดี ไอเซนคอตได้ 48 ที่นั่ง จาก 120 ที่นั่ง ไม่มีฝ่ายใดถึง 61 ที่นั่งที่ต้องใช้ตั้งรัฐบาล ประธานาธิบดีเฮอร์ซอกจะเริ่มหารือกับพรรคต่างๆ สัปดาห์หน้า",
+   "en": "Weeks of coalition talks, or even a new election, could follow.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-27/"
+   "url": "https://oneturn.news/day/2026-10-28/"
   },
   {
-   "title": "Microsoft offers buyouts to 60,000 staff",
-   "th": "ไมโครซอฟท์เสนอโครงการสมัครใจลาออกให้พนักงานกว่า 60,000 คน หรือมากกว่า 1 ใน 4 ของทั้งบริษัท เพื่อถ่วงดุลกับเงินที่ทุ่มลงทุน AI",
-   "en": "Another sign of how AI is reshaping jobs, even at the biggest tech firms.",
+   "title": "Iran rejects Qatar's peace plan; Brent hits $112",
+   "th": "อิหร่านปฏิเสธข้อเสนอของกาตาร์เพื่อยุติสงครามกับสหรัฐฯ ว่า \"รับไม่ได้\" ประกอบกับกลุ่มฮูตีโจมตีซาอุดีอาระเบีย ราคาน้ำมันดิบเบรนต์จึงขึ้น 2.4% เป็น 112 ดอลลาร์ต่อบาร์เรล",
+   "en": "Stalled talks keep oil, and fuel prices worldwide, high.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-27/"
+   "url": "https://oneturn.news/day/2026-10-28/"
   },
   {
-   "title": "Ebola cases pass 10,000 in DR Congo outbreak",
-   "th": "ผู้ป่วยอีโบลาที่ยืนยันแล้วทะลุ 10,000 ราย ส่วนใหญ่ในคองโก เสียชีวิตแล้ว 4,887 ราย และเริ่มลามไปประเทศอื่นในแอฟริกา สายพันธุ์ Bundibugyo ยังไม่มีวัคซีนที่ได้รับอนุมัติแพร่หลาย",
-   "en": "The outbreak is spreading beyond Congo's borders.",
+   "title": "Fourth-tier Fleetwood knock Arsenal out of the League Cup",
+   "th": "ฟลีตวูดทีมจากลีกระดับ 4 ของอังกฤษ ชนะอาร์เซนอลแชมป์อังกฤษด้วยการดวลจุดโทษ เขี่ยตกรอบลีกคัพ",
+   "en": "One of the biggest cup upsets in years.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-27/"
+   "url": "https://oneturn.news/day/2026-10-28/"
   }
  ],
  "social": [
   {
-   "title": "Instagram reboots Live: streams can now reach non-followers",
-   "th": "Instagram ปรับ Live ใหม่ ให้ไลฟ์ขึ้นในระบบแนะนำและเผยแพร่ถึงคนที่ไม่ได้ติดตามได้ หลังปี 2025 เคยจำกัดให้ไลฟ์ได้เฉพาะบัญชีสาธารณะที่มีผู้ติดตาม 1,000 คนขึ้นไป",
-   "why": "ไลฟ์เปิดตัวรถหรือไลฟ์กับ KOL มีโอกาสเจอคนใหม่ที่ยังไม่ได้ฟอลโลว์เพจ ไม่ใช่แค่แฟนเดิม",
-   "source": "eMarketer",
-   "url": "https://www.emarketer.com/content/instagram-takes-aim-youtube-with-longer-videos-more-room-brand-storytelling"
+   "title": "Instagram ends Reels series linking from Oct 28",
+   "th": "Instagram ยกเลิกฟีเจอร์ลิงก์รีลเป็นซีรีส์ (Reels series linking) ตั้งแต่วันที่ 28 ต.ค. 2026 เพื่อให้ประสบการณ์การดูเรียบง่ายขึ้น",
+   "why": "ถ้าเพจเคยร้อยรีลเป็นตอนๆ ด้วยฟีเจอร์นี้ ต้องหาทางพาคนดูไปตอนต่อไปแบบอื่น เช่น ปักหมุดหรือใส่ในแคปชัน",
+   "source": "ClickInsights",
+   "url": "https://www.clickinsights.asia/post/social-media-buzz-weekly-roundup-of-social-media-updates-204"
   },
   {
-   "title": "Instagram 'Series' targets episodic microdramas",
-   "th": "นอกจาก Features (วิดีโอแนวนอนยาว 90 นาที) Instagram ยังทดสอบ Series ฮับบนโปรไฟล์สำหรับรีลแบบเป็นตอนๆ เพื่อแข่งกับไมโครดราม่าของ TikTok",
-   "why": "ลองคิดคอนเทนต์แบรนด์เป็นมินิซีรีส์หลายตอน ให้คนดูตามต่อ แทนการทำรีลเดี่ยวจบในตัว",
+   "title": "Edits adds trend insights, style Kits and 'Use as reference'",
+   "th": "แอป Edits ของ Meta เพิ่มลิงก์เสียงที่กดได้ ข้อมูลเทรนด์ของผู้ชม (สำหรับครีเอเตอร์ที่มีผู้ติดตามเกิน 10,000) ชุดสไตล์ Kits ที่ใช้ซ้ำได้ และเอฟเฟกต์ใหม่ ส่วน Instagram บน iOS มีปุ่ม \"Use as reference\" ให้เปิดดูรีลอื่นไปพร้อมกับถ่ายรีลตอบกลับ",
+   "why": "Kits ช่วยให้รีลของแบรนด์หน้าตาสม่ำเสมอ ส่วนข้อมูลเทรนด์ช่วยเลือกหัวข้อที่คนกำลังสนใจ",
+   "source": "ClickInsights",
+   "url": "https://www.clickinsights.asia/post/social-media-buzz-weekly-roundup-of-social-media-updates-204"
+  },
+  {
+   "title": "Edits gets bulk caption editing and beat-synced effects",
+   "th": "Edits อัปเดตเมื่อ 27 ต.ค. เพิ่มการแก้แคปชันทีละหลายบรรทัด (bulk caption editing) แอนิเมชันตัวอักษรใหม่ สไตล์แคปชันเพิ่ม เอฟเฟกต์ที่ซิงก์ตามจังหวะเพลง ปรับสีอัตโนมัติ และแก้ไขคารูเซลบน Android",
+   "why": "แก้ซับรีลที่ทำไว้แล้วได้เร็วขึ้น และคุมฟอนต์/สไตล์แคปชันให้ตรงแบรนด์ได้ง่ายขึ้น",
+   "source": "Michelle Zunich (Substack)",
+   "url": "https://michellezunich.substack.com/p/wednesday-social-media-ai-update"
+  },
+  {
+   "title": "TikTok signs microdrama deal with Made By Us Studios",
+   "th": "TikTok จับมือ Made By Us Studios แบบหลายปี ร่วมผลิตซีรีส์แนวตั้งสั้นที่นำโดยครีเอเตอร์ สำหรับ TikTok และแอป PineDrama เรื่องแรกคือ Player นำแสดงโดย Hannah Stocking และ The Knock ต่อยอดจากดีลกับ HOORAE ของ Issa Rae ที่ซีรีส์ Screen Time มียอดวิวเกือบ 580 ล้าน",
+   "why": "ไมโครดราม่ากำลังมาแรง แบรนด์ลองทำคอนเทนต์เป็นตอนๆ ร่วมกับครีเอเตอร์ได้",
+   "source": "ClickInsights",
+   "url": "https://www.clickinsights.asia/post/social-media-buzz-weekly-roundup-of-social-media-updates-204"
+  },
+  {
+   "title": "TikTok launches 'Must Eat' restaurant guides",
+   "th": "TikTok เปิดฟีเจอร์ \"Must Eat\" รวมร้านอาหารที่กำลังดังจากโพสต์และคอมเมนต์กว่า 40 ล้านรายการ กรองตามประเภทอาหาร ราคา เรตติ้ง และทำเล แบ่งเป็น Everyday Eats กับ Elevated Dining บางร้านจองผ่าน OpenTable ได้ เริ่มที่นิวยอร์ก ลอสแอนเจลิส และซานฟรานซิสโก",
+   "why": "TikTok กำลังกลายเป็นเครื่องมือค้นหาร้านแข่งกับ Google Maps คอนเทนต์รีวิวและโลเคชันจึงยิ่งสำคัญ",
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
+   "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/"
   },
   {
-   "title": "Meta ads can now target a demographic per creative",
-   "th": "ผู้ลงโฆษณาบน Meta เลือกกลุ่มเป้าหมายตามประชากรศาสตร์แยกต่อชิ้นงานโฆษณาได้แล้ว เช่น ให้ชิ้นงานหนึ่งเห็นเฉพาะผู้หญิง หรือเฉพาะคนอายุ 50+",
-   "why": "แคมเปญเดียวทำครีเอทีฟคนละแบบให้คนละกลุ่มได้ง่ายขึ้น เช่น ชิ้นสำหรับครอบครัวกับชิ้นสำหรับคนรุ่นใหม่",
-   "source": "PR Daily",
-   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-64/"
-  },
-  {
-   "title": "YouTube pays bonuses for highly engaged Shorts",
-   "th": "YouTube ทดลองให้โบนัสครีเอเตอร์บางภูมิภาคที่ Shorts มี engagement สูง แบบเชิญเท่านั้น จ่าย 2 ระดับ ตามความถี่การอัปโหลดและยอดวิวที่มีส่วนร่วม",
-   "why": "ครีเอเตอร์จะยิ่งทุ่มกับ Shorts ทำให้การแข่งขันวิดีโอสั้นบน YouTube ดุขึ้นสำหรับแบรนด์",
-   "source": "PR Daily",
-   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-64/"
-  },
-  {
-   "title": "Meta's Edits app tests a paid 'Edits Plus' tier",
-   "th": "แอปตัดต่อ Edits ของ Meta ทดสอบแพ็กเกจเสียเงิน Edits Plus ตอนนี้ประโยชน์ที่ระบุมีแค่พื้นที่คลาวด์ 200 GB ยังไม่ประกาศราคา",
-   "why": "ถ้าทีมใช้ Edits ตัดรีลอยู่ ควรรู้ไว้ว่าฟีเจอร์บางส่วนอาจย้ายไปอยู่ในแพ็กเกจเสียเงิน",
-   "source": "PR Daily",
-   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-64/"
+   "title": "TikTok opens Content Suite API; ShopMy turns creator posts into Spark Ads",
+   "th": "TikTok เปิด Content Suite API ให้พาร์ตเนอร์ โดย ShopMy เป็นรายแรก แบรนด์มองหาวิดีโอครีเอเตอร์ที่ขายสินค้าได้จริงผ่าน ShopMy ขออนุญาตครีเอเตอร์ แล้วนำไปยิงเป็น Spark Ads ได้เลยโดยไม่ต้องทำใหม่",
+   "why": "คอนเทนต์ครีเอเตอร์ที่พิสูจน์แล้วว่าขายได้ นำไปทำโฆษณาต่อได้ง่ายขึ้น ควรตกลงสิทธิ์การใช้งานไว้ในบรีฟตั้งแต่แรก",
+   "source": "Odience",
+   "url": "https://odience.io/social-media-industry-news-oct-26/"
   }
  ],
  "lifestyle": {
-  "title": "Fill up smart this week",
-  "body": "ก่อนเติม E20 ให้เปิดดูฝาถังน้ำมันหรือคู่มือรถว่ารองรับไหม ถ้ารองรับ เติมเต็มถัง 45 ลิตรประหยัดได้ราว 380 บาทเทียบกับแก๊สโซฮอล์ 95 (ตัวเลขจาก กบน.)",
-  "note": "Based on today's fuel news"
+  "title": "Enoki, the safe way",
+  "body": "มื้อชาบูหรือหมูกระทะคืนนี้ ต้มเห็ดเข็มทองให้สุกทั่ว (ความร้อนเกิน 70°C) แยกเขียงและตะเกียบของดิบกับของสุก และเก็บของสดในตู้เย็นต่ำกว่า 4°C ตามคำแนะนำของ อย.",
+  "note": "Based on today's enoki news"
  },
  "word": {
-  "word": "momentum",
+  "word": "encroachment",
   "pos": "n.",
-  "ipa": "/məˈmentəm/",
-  "th": "แรงส่ง แรงผลักดันที่ทำให้เดินหน้าต่อ",
-  "def": "the force that keeps something moving or growing.",
-  "ex": "Instagram hopes long videos will give creators more momentum."
+  "ipa": "/ɪnˈkrəʊtʃmənt/",
+  "th": "การบุกรุก การรุกล้ำพื้นที่",
+  "def": "gradually taking over land or space that is not yours.",
+  "ex": "The mayor blamed hill encroachment for the mudslide in Patong."
  },
  "english": {
-  "title": "Giving feedback on a draft, kindly",
+  "title": "Pitching a content series idea",
   "dialogue": [
    [
     "Nadda",
-    "Thanks for the draft. I really like the opening hook."
+    "Do you have a minute? I'd love to run an idea by you."
    ],
    [
-    "Designer",
-    "Glad to hear it! Anything you'd change?"
-   ],
-   [
-    "Nadda",
-    "Could we make the logo a bit bigger on the last frame?"
-   ],
-   [
-    "Designer",
-    "Sure. Anything else?"
+    "Manager",
+    "Sure, go ahead."
    ],
    [
     "Nadda",
-    "The caption feels a little long. Maybe trim it to two lines?"
+    "What if we turned our launch into a three-part mini-series?"
    ],
    [
-    "Designer",
-    "Got it. I'll tighten it up."
+    "Manager",
+    "Interesting. Why a series?"
    ],
    [
     "Nadda",
-    "Great. Overall it's on the right track."
+    "Microdramas are taking off, and episodes give people a reason to come back."
    ],
    [
-    "Designer",
-    "Thanks! I'll send v2 this afternoon."
+    "Manager",
+    "Makes sense. What would you need?"
+   ],
+   [
+    "Nadda",
+    "One creator and two shoot days. I can share a rough plan by Friday."
+   ],
+   [
+    "Manager",
+    "Sounds good. Let's take a look then."
    ]
   ],
   "vocab": [
    [
-    "opening hook",
-    "ช่วงเปิดที่ดึงคนดู"
+    "run an idea by you",
+    "ขอเล่าไอเดียให้ฟัง/ขอความเห็น"
    ],
    [
-    "Could we ...?",
-    "...ได้ไหม (ขอแบบนุ่มนวล)"
+    "What if we ...?",
+    "ถ้าเรา...ล่ะ (เสนอแบบนุ่มนวล)"
    ],
    [
-    "a bit / a little",
-    "นิดหน่อย (ช่วยให้คำติดูเบาลง)"
+    "taking off",
+    "กำลังมาแรง"
    ],
    [
-    "trim",
-    "ตัดให้สั้นลง"
+    "a reason to come back",
+    "เหตุผลให้กลับมาดูอีก"
    ],
    [
-    "tighten it up",
-    "เกลาให้กระชับ"
+    "rough plan",
+    "แผนคร่าวๆ"
    ],
    [
-    "on the right track",
-    "มาถูกทางแล้ว"
+    "Let's take a look",
+    "เดี๋ยวมาดูกัน"
    ]
   ],
   "tip": {
-   "instead": "The caption is too long.",
-   "better": "The caption feels a little long. Maybe trim it?",
-   "why": "ใช้ feels + a little + เสนอทางแก้ ทำให้คำติฟังเป็นมิตรและอีกฝ่ายรู้ว่าต้องทำอะไรต่อ"
+   "instead": "We should make a series.",
+   "better": "What if we turned it into a three-part series?",
+   "why": "ใช้ What if we...? ทำให้ฟังเป็นการชวนคิดด้วยกัน ไม่ใช่การสั่ง และเปิดให้อีกฝ่ายถามต่อ"
   }
  },
  "know": [
   {
-   "title": "What do E20 and B20 mean?",
-   "body": "ตัวเลขคือสัดส่วนเชื้อเพลิงชีวภาพ E20 มีเอทานอล (จากอ้อย มันสำปะหลัง) 20% ส่วน B20 มีไบโอดีเซลจากน้ำมันปาล์ม 20% ยิ่งใช้มาก ความต้องการพืชผลเกษตรในประเทศก็ยิ่งเพิ่ม"
+   "title": "What is Listeria?",
+   "body": "ลิสทีเรีย (Listeria monocytogenes) เป็นแบคทีเรียที่พบได้ทั่วไปในดิน น้ำ และมูลสัตว์ โตได้ดีแม้ในตู้เย็น กลุ่มเสี่ยงคือหญิงตั้งครรภ์ ทารกแรกเกิด ผู้สูงอายุ 65 ปีขึ้นไป และคนภูมิคุ้มกันต่ำ แต่ความร้อนจากการปรุงสุกฆ่าเชื้อได้"
   },
   {
-   "title": "What is the Ballon d'Or?",
-   "body": "บัลลงดอร์ (ลูกบอลทองคำ) เป็นรางวัลนักฟุตบอลยอดเยี่ยมประจำปี เริ่มโดยนิตยสาร France Football ตั้งแต่ปี 1956"
+   "title": "What is a microdrama?",
+   "body": "ไมโครดราม่าคือซีรีส์แนวตั้งตอนสั้นๆ ดูจบในไม่กี่นาที มักจบแต่ละตอนแบบค้างคาให้อยากดูต่อ กำลังเป็นสนามแข่งใหม่ของ TikTok, Instagram และ Snapchat"
   }
  ],
  "on_this_day": [
   {
-   "year": "1886",
-   "text": "The Statue of Liberty was dedicated in New York Harbor."
+   "year": "1929",
+   "text": "'Black Tuesday': the Wall Street stock market crashed, starting the Great Depression."
   },
   {
-   "year": "1955",
-   "text": "Bill Gates, co-founder of Microsoft, was born."
+   "year": "1969",
+   "text": "The first message was sent over ARPANET, the forerunner of the internet."
   }
  ],
  "three_things": [
-  "Check if your car can take E20 before filling up",
-  "Share the Instagram Live change with the team",
-  "Try 'on the right track' when giving feedback"
+  "Cook enoki fully at your next shabu or mu kratha",
+  "Check whether any Reels series links on the page need a new path",
+  "Try 'What if we...?' when pitching an idea"
  ],
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "weather": {
-  "max": 33,
+  "max": 32,
   "min": 25,
-  "rain": 75,
-  "uv": 8,
-  "cond": "Thunderstorms",
-  "humidity": 90,
+  "rain": 69,
+  "uv": 7,
+  "cond": "Showers",
+  "humidity": 91,
   "source": "Open-Meteo",
-  "fetched": "06:24"
+  "fetched": "06:27"
  },
  "wordsearch": {
   "grid": [
-   "IPAFUELUPL",
-   "VMDLUIIYJS",
-   "SHORTSFDPK",
-   "WWEDNESDAY",
-   "RURNTMOVVK",
-   "LBVOMDLYKO",
-   "JRVWBSAWCK",
-   "EPCODKRLWA",
-   "MNLSERIESN",
-   "LIVESWFIPE"
+   "AMMFNKPBKB",
+   "TVSNADEKYC",
+   "HFBEFDRAMA",
+   "UEJPNSCPEJ",
+   "RDOHAOUNWB",
+   "SIYYGTKNKR",
+   "DTYEOUOICE",
+   "ASTFHIHNHN",
+   "YOISPMUVGT",
+   "VDPINTRAIN"
   ],
   "words": [
    {
-    "word": "WEDNESDAY",
+    "word": "THURSDAY",
     "cells": [
      [
-      3,
-      1
+      1,
+      0
      ],
-     [
-      3,
-      2
-     ],
-     [
-      3,
-      3
-     ],
-     [
-      3,
-      4
-     ],
-     [
-      3,
-      5
-     ],
-     [
-      3,
-      6
-     ],
-     [
-      3,
-      7
-     ],
-     [
-      3,
-      8
-     ],
-     [
-      3,
-      9
-     ]
-    ]
-   },
-   {
-    "word": "SERIES",
-    "cells": [
-     [
-      8,
-      3
-     ],
-     [
-      8,
-      4
-     ],
-     [
-      8,
-      5
-     ],
-     [
-      8,
-      6
-     ],
-     [
-      8,
-      7
-     ],
-     [
-      8,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "SHORTS",
-    "cells": [
      [
       2,
       0
      ],
      [
-      2,
-      1
+      3,
+      0
      ],
      [
-      2,
-      2
+      4,
+      0
      ],
+     [
+      5,
+      0
+     ],
+     [
+      6,
+      0
+     ],
+     [
+      7,
+      0
+     ],
+     [
+      8,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "PATONG",
+    "cells": [
+     [
+      3,
+      3
+     ],
+     [
+      4,
+      4
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      6,
+      6
+     ],
+     [
+      7,
+      7
+     ],
+     [
+      8,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "ENOKI",
+    "cells": [
      [
       2,
       3
      ],
      [
-      2,
+      3,
       4
      ],
      [
-      2,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "SOLAR",
-    "cells": [
-     [
-      3,
-      6
-     ],
-     [
       4,
-      6
+      5
      ],
      [
       5,
@@ -339,38 +317,46 @@
      ],
      [
       6,
-      6
-     ],
-     [
-      7,
-      6
+      7
      ]
     ]
    },
    {
-    "word": "FUEL",
+    "word": "TRAIN",
     "cells": [
      [
-      0,
-      3
-     ],
-     [
-      0,
-      4
-     ],
-     [
-      0,
+      9,
       5
      ],
      [
-      0,
+      9,
       6
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      8
+     ],
+     [
+      9,
+      9
      ]
     ]
    },
    {
-    "word": "KANE",
+    "word": "BRENT",
     "cells": [
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
      [
       6,
       9
@@ -382,31 +368,56 @@
      [
       8,
       9
-     ],
-     [
-      9,
-      9
      ]
     ]
    },
    {
-    "word": "LIVE",
+    "word": "EDITS",
     "cells": [
      [
-      9,
-      0
-     ],
-     [
-      9,
+      3,
       1
      ],
      [
-      9,
-      2
+      4,
+      1
      ],
      [
-      9,
-      3
+      5,
+      1
+     ],
+     [
+      6,
+      1
+     ],
+     [
+      7,
+      1
+     ]
+    ]
+   },
+   {
+    "word": "DRAMA",
+    "cells": [
+     [
+      2,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      2,
+      8
+     ],
+     [
+      2,
+      9
      ]
     ]
    },
@@ -414,20 +425,20 @@
     "word": "VOTE",
     "cells": [
      [
-      6,
+      9,
+      0
+     ],
+     [
+      8,
+      1
+     ],
+     [
+      7,
       2
      ],
      [
-      5,
+      6,
       3
-     ],
-     [
-      4,
-      4
-     ],
-     [
-      3,
-      5
      ]
     ]
    }
@@ -436,102 +447,102 @@
  "sudoku": {
   "puzzle": [
    [
-    1,
-    3,
-    0,
-    4,
-    5,
-    2
-   ],
-   [
-    4,
-    5,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    6,
-    4,
-    0,
-    2,
-    0,
-    0
-   ],
-   [
     0,
     1,
+    4,
+    2,
+    0,
+    5
+   ],
+   [
     0,
     6,
-    4,
+    5,
+    3,
+    1,
     0
    ],
    [
-    3,
-    6,
+    4,
     0,
     0,
-    2,
+    5,
+    0,
     1
    ],
    [
     5,
     0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    6,
+    5,
+    0,
     1,
     0,
+    2
+   ],
+   [
+    0,
+    0,
+    2,
     6,
-    4
+    5,
+    3
    ]
   ],
   "solution": [
    [
-    1,
     3,
-    6,
-    4,
-    5,
-    2
-   ],
-   [
-    4,
-    5,
-    2,
     1,
-    3,
-    6
-   ],
-   [
-    6,
     4,
-    5,
     2,
-    1,
-    3
-   ],
-   [
-    2,
-    1,
-    3,
     6,
-    4,
     5
    ],
    [
-    3,
-    6,
-    4,
-    5,
     2,
+    6,
+    5,
+    3,
+    1,
+    4
+   ],
+   [
+    4,
+    2,
+    6,
+    5,
+    3,
     1
    ],
    [
     5,
-    2,
-    1,
     3,
+    1,
+    4,
+    2,
+    6
+   ],
+   [
     6,
-    4
+    5,
+    3,
+    1,
+    4,
+    2
+   ],
+   [
+    1,
+    4,
+    2,
+    6,
+    5,
+    3
    ]
   ]
  }
