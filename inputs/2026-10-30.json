@@ -1,0 +1,218 @@
+{
+ "issue_no": 18,
+ "tagline": "ศุกร์แล้ว! ฮัลโหลวีกเอนด์ · Happy Friday",
+ "lifestyle": {
+  "title": "Friday fuel check",
+  "body": "ก่อนเติมน้ำมันรอบหน้า ดูคู่มือรถหรือฝาถังว่ารองรับ E20 หรือไม่ ถ้ารองรับ ช่วง 3 เดือนนี้จะได้ราคาที่ถูกลงจากภาษีที่ลด ถ้าไม่แน่ใจให้ถามศูนย์บริการก่อน",
+  "note": "Based on today's fuel tax news"
+ },
+ "word": {
+  "word": "subsidence",
+  "pos": "n.",
+  "ipa": "/səbˈsaɪdəns/",
+  "th": "การทรุดตัวของพื้นดิน",
+  "def": "the gradual sinking of land or a surface.",
+  "ex": "The airport blamed subsidence after heavy rain for the runway damage."
+ },
+ "english": {
+  "title": "Wrapping up the week with your team",
+  "dialogue": [
+   [
+    "Nadda",
+    "Before we log off, quick recap of the week?"
+   ],
+   [
+    "Teammate",
+    "Sure. The carousel went live and the client loved it."
+   ],
+   [
+    "Nadda",
+    "Great. Anything still pending?"
+   ],
+   [
+    "Teammate",
+    "Just the captions for next week. I'll have them ready by Monday noon."
+   ],
+   [
+    "Nadda",
+    "Perfect. Let's keep an eye on Instagram's new long video test too."
+   ],
+   [
+    "Teammate",
+    "Good call. I'll drop a few links in the chat."
+   ],
+   [
+    "Nadda",
+    "Thanks! Have a lovely weekend."
+   ],
+   [
+    "Teammate",
+    "You too. See you Monday!"
+   ]
+  ],
+  "vocab": [
+   [
+    "log off",
+    "เลิกงาน/ออกจากระบบ"
+   ],
+   [
+    "quick recap",
+    "สรุปสั้นๆ"
+   ],
+   [
+    "went live",
+    "ปล่อยออนไลน์แล้ว"
+   ],
+   [
+    "still pending",
+    "ยังค้างอยู่"
+   ],
+   [
+    "keep an eye on",
+    "จับตาดู"
+   ],
+   [
+    "Good call.",
+    "คิดดีมาก/ตัดสินใจถูก"
+   ]
+  ],
+  "tip": {
+   "instead": "Is everything finished?",
+   "better": "Anything still pending before the weekend?",
+   "why": "ถามแบบนี้ฟังเป็นมิตรกว่า และชวนให้ทีมบอกงานที่ค้างโดยไม่รู้สึกถูกตรวจ"
+  }
+ },
+ "know": [
+  {
+   "title": "Why does land subside?",
+   "body": "พื้นดินทรุดได้เมื่อดินอ่อนรับน้ำหนักไม่ไหว น้ำใต้ดินเปลี่ยนระดับ หรือดินอิ่มน้ำจากฝนหนัก กรุงเทพฯ ตั้งอยู่บนชั้นดินเหนียวอ่อน การทรุดตัวจึงเป็นเรื่องที่ต้องเฝ้าดูมานาน"
+  },
+  {
+   "title": "What is E20?",
+   "body": "E20 คือน้ำมันเบนซินผสมเอทานอล 20% เอทานอลผลิตจากพืชอย่างอ้อยและมันสำปะหลัง ควรเช็กกับคู่มือรถก่อนเติม"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1938",
+   "text": "Orson Welles's radio play 'The War of the Worlds' aired in the US, and some listeners thought it was real news."
+  },
+  {
+   "year": "1974",
+   "text": "Muhammad Ali beat George Foreman in 'The Rumble in the Jungle' in Kinshasa, Zaire."
+  }
+ ],
+ "three_things": [
+  "Check if your car takes E20 before the next fill-up",
+  "Sketch one brand idea as a long video plus short teaser Reels",
+  "Try 'Anything still pending?' at today's wrap-up"
+ ],
+ "wordsearch_words": [
+  "RUNWAY",
+  "FRIDAY",
+  "REELS",
+  "SERIES",
+  "APPLE",
+  "FUEL",
+  "LIVE",
+  "MAC"
+ ],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Plane's landing gear sinks into Suvarnabhumi runway",
+   "th": "ล้อเครื่องบิน Boeing 737-800 ของ China Airlines เที่ยวบิน CI840 (ไปเกาสง) ทรุดจมลงไปในผิวรันเวย์ 02R ที่สุวรรณภูมิเมื่อคืนวันพุธ ราว 19.20 น. ผู้โดยสาร 116 คนและลูกเรือ 8 คนอพยพออกมาได้ ใช้เวลาราว 5 ชั่วโมงกว่าจะย้ายเครื่องออก มี 5 เที่ยวบินล่าช้า สนามบินระบุว่าเกิดจากฝนตกหนัก น้ำขัง และระดับน้ำใต้ดินสูงขึ้น ซ่อมชั่วคราวและตรวจความปลอดภัยแล้ว กระทรวงคมนาคมกำลังตรวจสอบว่าน้ำท่วมฝั่งตะวันออกของกรุงเทพฯ เกี่ยวข้องหรือไม่",
+   "en": "If you're flying soon, the airport says overall operations aren't affected.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3345765/suvarnabhumi-runway-subsidence-probed-after-plane-gets-stuck"
+  },
+  {
+   "title": "Excise cuts on E20 and B20 fuel for three months",
+   "th": "ครม. อนุมัติลดภาษีสรรพสามิต 3 เดือน แก๊สโซฮอล์ E20 ลด 5.60 บาท/ลิตร และไบโอดีเซล B20 ลด 5.50 บาท/ลิตร เพื่อลดต้นทุนเกษตรกร ผู้ประกอบการขนส่ง และผู้บริโภค รมว.พลังงาน อัครนัย พรหมพันธุ์ ตอบโต้พรรคประชาธิปัตย์ที่ว่าได้ประโยชน์น้อย",
+   "en": "Worth checking if your car can take E20 before your next fill-up.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3345335/energy-minister-defends-fuel-tax-cuts"
+  },
+  {
+   "title": "Bank of Thailand lifts 2026 growth forecast to 2.4%",
+   "th": "ธนาคารแห่งประเทศไทยปรับคาดการณ์ GDP ปี 2026 ขึ้นเป็น 2.4% (จาก 2.3%) และปี 2027 เป็น 2.1% (จาก 1.8%) จากการส่งออกและการลงทุนที่เกี่ยวกับ AI ส่วน กนง. คงดอกเบี้ยนโยบายที่ 1% และคาดเงินเฟ้อไตรมาส 4 อาจเกิน 3%",
+   "en": "Growth looks a bit better on paper, but prices are rising too.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/business/general/3345445/bot-upgrades-thai-gdp-growth-for-2026"
+  }
+ ],
+ "world": [
+  {
+   "title": "Spain's train crash toll rises to 69",
+   "th": "ยอดผู้เสียชีวิตจากรถไฟความเร็วสูงชนกันใกล้โตเลโดเพิ่มเป็น 69 ราย สเปนไว้ทุกข์ 3 วัน คลิปเสียงที่หลุดออกมาบ่งชี้ว่าศูนย์ควบคุมอนุญาตให้ขบวนหนึ่งวิ่งต่อขณะที่อีกขบวนจอดเสียอยู่ข้างหน้า",
+   "en": "Europe's deadliest rail crash since 2013.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-29/"
+  },
+  {
+   "title": "Apple finally puts a touchscreen on a Mac laptop",
+   "th": "Apple เปิดตัวแล็ปท็อป Mac ที่มีจอสัมผัส กลับลำจากจุดยืนเดิมที่ไม่ใส่ทัชสกรีนใน Mac มานาน",
+   "en": "Tap-to-edit on a MacBook is no longer a dream.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-29/"
+  },
+  {
+   "title": "DoorDash to buy Instacart for $17 billion",
+   "th": "DoorDash ประกาศซื้อ Instacart มูลค่า 17,000 ล้านดอลลาร์ ขยายธุรกิจส่งของชำ คาดปิดดีลปลายปี 2027",
+   "en": "Delivery apps keep merging into fewer, bigger players.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-29/"
+  },
+  {
+   "title": "Milwaukee Brewers win their first World Series",
+   "th": "มิลวอกี บรูเวอร์ส ชนะแทมปาเบย์ใน 5 เกม คว้าแชมป์เวิลด์ซีรีส์ครั้งแรกในประวัติศาสตร์ทีม ทั้งที่เป็นทีมจากตลาดเล็กที่สุดในลีก",
+   "en": "A feel-good underdog story to end the week.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-29/"
+  }
+ ],
+ "social": [
+  {
+   "title": "Instagram tests 'Features': horizontal videos up to 90 minutes",
+   "th": "Instagram เริ่มทดสอบ Features วิดีโอแนวนอนยาวสูงสุด 90 นาที สำหรับพอดแคสต์ วล็อก สัมภาษณ์ กับครีเอเตอร์กลุ่มเล็กในสหรัฐฯ และบราซิล พร้อม Clips as Reels (ลิงก์รีลได้ถึง 8 คลิปกลับไปที่วิดีโอยาว) และ Series ที่รวมรีลเป็นตอนๆ บนโปรไฟล์",
+   "why": "รีลกำลังถูกวางให้เป็นทางเข้าสู่คอนเทนต์ยาว ลองคิดคอนเทนต์แบรนด์เป็นตอนยาว พร้อมตัดรีลชวนดูไว้ล่วงหน้า",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/instagram-rolls-out-limited-features-test-in-the-us/872825/"
+  },
+  {
+   "title": "Instagram Live will reach non-followers in the Reels tab",
+   "th": "Instagram กำลังปรับ Live ให้คนที่ไม่ได้ติดตามเห็นได้ในแท็บ Reels เร็วๆ นี้ และเปิดให้ดู Reels, Features, Series บน Apple TV ในสหรัฐฯ แล้ว",
+   "why": "ไลฟ์เปิดตัวสินค้าอาจเข้าถึงคนนอกเพจได้มากขึ้น น่าวางช่วงแรกของไลฟ์ให้ดึงคนใหม่",
+   "source": "Variety",
+   "url": "https://variety.com/2026/digital/news/instagram-videos-90-minutes-apple-tv-not-paying-creators-1236931293/"
+  },
+  {
+   "title": "Edits for desktop coming next month, with Trial Reels",
+   "th": "Instagram เตรียมปล่อยแอป Edits เวอร์ชันเดสก์ท็อปเดือนหน้า มีคีย์ลัดและ Trial Reels และมีพื้นที่คลาวด์ 3 ระดับ (200GB ถึง 6TB) ไว้ซิงก์โปรเจกต์ข้ามเครื่อง",
+   "why": "ทีมตัดต่อทำรีลบนคอมแล้วลองปล่อยแบบ Trial Reels ก่อนได้ สะดวกขึ้นสำหรับงานลูกค้า",
+   "source": "Shareable TL;DR by SocialBee",
+   "url": "https://shareabletldr.substack.com/p/october-29-the-latest-social-media"
+  },
+  {
+   "title": "Meta Ads adds creative-element breakdowns",
+   "th": "Meta ให้ผู้ลงโฆษณาดูผลลัพธ์แยกตามองค์ประกอบของครีเอทีฟแต่ละชิ้นผ่านเครื่องมือ Breakdown (ยังมีข้อจำกัดบางอย่าง)",
+   "why": "ใช้เป็นข้อมูลเวลาเสนอลูกค้าว่าภาพหรือข้อความแบบไหนเวิร์ก แทนการเดา",
+   "source": "Shareable TL;DR by SocialBee",
+   "url": "https://shareabletldr.substack.com/p/october-29-the-latest-social-media"
+  },
+  {
+   "title": "TikTok lets users add a profile background",
+   "th": "TikTok เพิ่มตัวเลือก Add Background ให้ตกแต่งพื้นหลังโปรไฟล์ได้",
+   "why": "อีกพื้นที่หนึ่งให้แบรนด์ใส่ key visual หรือแคมเปญปัจจุบันบนหน้าโปรไฟล์",
+   "source": "Shareable TL;DR by SocialBee",
+   "url": "https://shareabletldr.substack.com/p/october-29-the-latest-social-media"
+  },
+  {
+   "title": "Brands drop Mbappé after Mao remark; Real Madrid apologizes to China",
+   "th": "เรอัล มาดริด ขอโทษจีนหลังคีลียัน เอ็มบัปเป้ เรียกเหมา เจ๋อตงว่าเผด็จการ แบรนด์หลายรายยุติดีลกับเขา และ Sanrio ก็ตัดความร่วมมือกับละครญี่ปุ่นเรื่องหนึ่งหลังถูกวิจารณ์จากจีน",
+   "why": "เตือนให้เช็กความเสี่ยงของพรีเซนเตอร์และ KOL ในตลาดที่อ่อนไหว ก่อนเซ็นดีลและก่อนโพสต์",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-29/"
+  }
+ ]
+}
