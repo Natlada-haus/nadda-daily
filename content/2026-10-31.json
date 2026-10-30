@@ -1,0 +1,535 @@
+{
+ "issue_no": 19,
+ "tagline": "เสาร์ฮาโลวีน 🎃 · Happy Halloween Saturday",
+ "lifestyle": {
+  "title": "A slow Halloween Saturday",
+  "body": "วันเสาร์นี้ลองพักสายตาจากจอสักชั่วโมง ถ้าออกไปเที่ยวย่านข้าวสารคืนนี้ ร้านส่วนใหญ่ยังต้องปิดเที่ยงคืนตามกติกาเดิม เพราะแผน Sandbox ยังอยู่ในขั้นศึกษา วางแผนเดินทางกลับให้ดี",
+  "note": "Based on today's Khao San sandbox news"
+ },
+ "word": {
+  "word": "sandbox",
+  "pos": "n.",
+  "ipa": "/ˈsændbɒks/",
+  "th": "พื้นที่ทดลอง (ผ่อนกติกาเพื่อลองของใหม่)",
+  "def": "a controlled area where new rules or ideas can be tested safely before being used more widely.",
+  "ex": "Khao San Road may become a sandbox for later nightlife hours."
+ },
+ "english": {
+  "title": "Talking about Halloween plans",
+  "dialogue": [
+   [
+    "Friend",
+    "Any plans for Halloween tonight?"
+   ],
+   [
+    "Nadda",
+    "Nothing big. Maybe a cosy movie night at home."
+   ],
+   [
+    "Friend",
+    "Something scary?"
+   ],
+   [
+    "Nadda",
+    "Spooky, but not too scary. I'm a bit of a scaredy-cat."
+   ],
+   [
+    "Friend",
+    "Ha! Same here. Want me to bring snacks?"
+   ],
+   [
+    "Nadda",
+    "Yes please, that sounds like a treat."
+   ],
+   [
+    "Friend",
+    "Great, see you around seven?"
+   ],
+   [
+    "Nadda",
+    "Perfect. No tricks, just treats!"
+   ]
+  ],
+  "vocab": [
+   [
+    "cosy movie night",
+    "คืนดูหนังสบายๆ ที่บ้าน"
+   ],
+   [
+    "spooky",
+    "หลอนๆ น่าขนลุกนิดๆ"
+   ],
+   [
+    "scaredy-cat",
+    "คนขี้กลัว"
+   ],
+   [
+    "that sounds like a treat",
+    "ฟังดูน่าสนุก/น่าชื่นใจ"
+   ],
+   [
+    "see you around seven",
+    "เจอกันราวทุ่มนึง"
+   ],
+   [
+    "no tricks, just treats",
+    "ไม่แกล้ง มีแต่ของดี"
+   ]
+  ],
+  "tip": {
+   "instead": "I am afraid of ghosts movie.",
+   "better": "I'm not great with scary movies.",
+   "why": "พูดแบบนี้เป็นธรรมชาติและนุ่มนวลกว่า และไม่ต้องแปลตรงตัวจากภาษาไทย"
+  }
+ },
+ "know": [
+  {
+   "title": "Why pumpkins for Halloween?",
+   "body": "ประเพณีแกะสลักโคมเริ่มจากไอร์แลนด์ซึ่งเดิมใช้หัวผักกาด (turnip) เมื่อผู้อพยพไปอเมริกาพบว่าฟักทองแกะง่ายและใหญ่กว่า จึงกลายเป็น jack-o'-lantern แบบที่เห็นทุกวันนี้"
+  },
+  {
+   "title": "What is a 'sandbox' in policy?",
+   "body": "Regulatory sandbox คือการเปิดพื้นที่หรือช่วงเวลาให้ทดลองกติกาใหม่แบบมีขอบเขต เพื่อดูผลจริงก่อนจะแก้กฎหมายถาวร ใช้กันทั้งในฟินเทคและการจัดการเมือง"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1517",
+   "text": "Martin Luther is traditionally said to have posted his 95 Theses, sparking the Protestant Reformation."
+  },
+  {
+   "year": "1941",
+   "text": "Work on Mount Rushmore in South Dakota was completed after 14 years."
+  }
+ ],
+ "three_things": [
+  "Pick one spooky-but-cute idea your brand could post today",
+  "Check Threads for the new custom like button test",
+  "Use 'I'm not great with...' once in English today"
+ ],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Khao San and Rambuttri picked as a nightlife 'sandbox'",
+   "th": "รมต.ประจำสำนักนายกฯ ภราดร ปริศนานันทกุล ประชุมกับ บช.น. กทม. ป.ป.ท. มหาดไทย และกรมสรรพสามิต เมื่อ 30 ต.ค. ตั้งย่านข้าวสาร-รามบุตรีเป็นพื้นที่ทดลอง ทบทวน พ.ร.ฎ.เขตพื้นที่สถานบริการ พ.ศ. 2545 เพราะย่านนี้อยู่นอกโซนสถานบริการ ร้านจึงต้องจดเป็นร้านอาหารและปิดเที่ยงคืน ห้ามดนตรีสด แผนนี้อาจเปิดให้ร้านเปิดเกินเที่ยงคืนได้ภายใต้มาตรฐานความปลอดภัย พร้อมปราบการเรียกรับสินบน ขั้นแรกจะทำทะเบียนร้านทั้งหมดและรับฟังผู้ประกอบการกับชาวบ้าน",
+   "en": "Nothing changes yet: it's a pilot being studied, not a new rule.",
+   "source": "Thai Post",
+   "url": "https://www.thaipost.net/criminality-news/1098631/"
+  },
+  {
+   "title": "Lifetime driving licences are not being cancelled",
+   "th": "อธิบดีกรมการขนส่งทางบก สรพงศ์ ไพฑูรย์พงษ์ ชี้แจงเมื่อ 30 ต.ค. ว่าข่าวที่แชร์กันว่าจะยกเลิกหรือยึดคืนใบขับขี่ตลอดชีพไม่เป็นความจริง ผู้ถือใบขับขี่ตลอดชีพยังใช้ได้ตามกฎหมาย ระเบียบใหม่ใช้กับผู้ขอใบขับขี่ใหม่ที่อายุ 55 ปีขึ้นไปเท่านั้น ซึ่งต้องทดสอบสมรรถภาพร่างกาย",
+   "en": "A good one to forward to the family group chat.",
+   "source": "Thai PBS",
+   "url": "https://www.thaipbs.or.th/news/content/571884"
+  }
+ ],
+ "world": [
+  {
+   "title": "Tankers on fire in the Strait of Hormuz; oil near $114",
+   "th": "กองกำลังพิทักษ์การปฏิวัติอิหร่านรายงานว่ามีเรือบรรทุกน้ำมันเกิดไฟไหม้หรือถูกหยุดในช่องแคบฮอร์มุซ ขณะที่คนกลางจากกาตาร์เดินทางถึงเตหะรานเพื่อผลักดันข้อตกลงหยุดยิง ราคาน้ำมันเบรนต์ขึ้นไปราว 114 ดอลลาร์",
+   "en": "About a fifth of the world's oil passes here, so fuel prices may stay high.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-30/"
+  },
+  {
+   "title": "Binance hit by a $6.3 billion hack, the largest crypto theft",
+   "th": "Binance ระบุว่าถูกเจาะระบบกระทบสินทรัพย์ราว 6,300 ล้านดอลลาร์ อายัดไว้ได้ราว 3,000 ล้าน และจะชดเชยความเสียหาย บริษัทวิเคราะห์สองรายโยงกับแฮกเกอร์เกาหลีเหนือ TraderTraitor ขณะนี้ระงับการถอนเงิน",
+   "en": "If you hold crypto there, check official Binance channels only.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-30/"
+  },
+  {
+   "title": "Tech stocks slide after Alphabet's record $500 billion drop",
+   "th": "Alphabet มูลค่าหายไป 500,000 ล้านดอลลาร์หลังบอกว่า AI search กระทบรายได้โฆษณา Intel ร่วง 21% และ Amazon ต่ำกว่าคาด S&P 500 ลง 1.56%",
+   "en": "AI search eating ad clicks is a story every marketer should watch.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-30/"
+  },
+  {
+   "title": "Patrick Stewart dies at 86",
+   "th": "แพทริก สจ๊วร์ต นักแสดงจาก Star Trek และ X-Men เสียชีวิตเมื่อวันพุธ อายุ 86 ปี ครอบครัวชวนให้บริจาคเพื่อการวิจัยโรคอัลไซเมอร์",
+   "en": "Goodbye, Captain Picard and Professor X.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-30/"
+  }
+ ],
+ "social": [
+  {
+   "title": "Threads tests custom like buttons",
+   "th": "Threads ทดสอบให้ผู้ใช้ตั้งภาพ สติกเกอร์ หรือ GIF ที่จะเด้งขึ้นเมื่อมีคนกดไลก์โพสต์ ตั้งได้ระดับโปรไฟล์ (ไม่ใช่รายโพสต์) ทดสอบในเกาหลีใต้ บราซิล และอินโดนีเซีย",
+   "why": "ถ้ามาไทย แบรนด์เปลี่ยนปุ่มไลก์ตามแคมเปญหรือสินค้าใหม่ได้ เป็นจุดเล็กๆ ที่ช่วยเพิ่ม engagement",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/threads-launches-custom-like-buttons/873267/"
+  },
+  {
+   "title": "Threads Friends: post to a list of up to 50 people",
+   "th": "Threads ทดสอบ Threads Friends คล้าย Close Friends ของ IG เลือกคนได้สูงสุด 50 คน แล้วโพสต์ให้เฉพาะกลุ่มนี้เห็น ทดสอบในไอร์แลนด์ อิตาลี และญี่ปุ่น",
+   "why": "ตอกย้ำเทรนด์คนย้ายจากโพสต์สาธารณะไปแชร์ในกลุ่มเล็ก แบรนด์อาจใช้ทำคอมมูนิตี้ VIP หรือแฟนตัวจริงได้",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/"
+  },
+  {
+   "title": "YouTube lets creators organise Shorts into seasons and episodes",
+   "th": "YouTube เปิดให้จัด Shorts เป็นซีซันและตอน และกำลังทดสอบลดเกณฑ์จ่ายเงินครีเอเตอร์จาก 100 เหลือ 20 ดอลลาร์ในสหรัฐฯ อินเดีย และอินโดนีเซีย",
+   "why": "คอนเทนต์สั้นแบบเป็นตอนกำลังมาทุกแพลตฟอร์ม (IG Series ก็เช่นกัน) วางคอนเทนต์ลูกค้าเป็นซีรีส์จะได้เปรียบ",
+   "source": "Shareable TL;DR by SocialBee",
+   "url": "https://shareabletldr.substack.com/p/october-29-the-latest-social-media"
+  },
+  {
+   "title": "Simple Halloween trendjacks beat big campaigns",
+   "th": "Sprout Social สรุปว่าฮาโลวีนปีนี้แบรนด์ที่เวิร์กคือการเล่นตามฟอร์แมตง่ายๆ เช่น LEGO เปลี่ยนหัวมินิฟิกเป็นฟักทอง (80k+ engagements) ริงโทนฮาโลวีนของ Discord (500k+ บน TikTok) และ Rivian จับมือ Ghostbusters (100k+) แบรนด์ส่วนใหญ่เริ่มโพสต์จริงจังแค่ราว 1-2 สัปดาห์ก่อนวันงาน",
+   "why": "ไอเดียเล็ก ทำไว แชร์ง่าย ได้ผลกว่าแคมเปญใหญ่ ใช้เป็นเหตุผลเสนอลูกค้าทำโพสต์ตามเทศกาลแบบเบาๆ",
+   "source": "Sprout Social",
+   "url": "https://sproutsocial.substack.com/p/spooky-seasons-biggest-brand-wins"
+  },
+  {
+   "title": "Cup Noodles hands its socials to a 'vampire' creator",
+   "th": "Cup Noodles ออกรส Vampire Noodles ที่น้ำซุปกลายเป็นสีแดง และให้ครีเอเตอร์สายแวมไพร์ Vladison Dedmon ยึดบัญชีโซเชียลช่วงฮาโลวีน ทำคลิปทดสอบกระเทียม ร้องเพลง และกินโชว์ ส่วน Pringles ทำแคมเปญ Once You Drop กับ Dan the Funeral Man",
+   "why": "รูปแบบ creator takeover ที่เล่นเป็นคาแรกเตอร์ทำให้แบรนด์ดูมีชีวิต ลองปรับใช้กับแคมเปญรถหรือเปิดตัวสินค้าได้",
+   "source": "PR Week",
+   "url": "https://www.prweek.com/article/1973037/brand-fang-tastic-halloween-2026-campaign"
+  }
+ ],
+ "date": "2026-10-31",
+ "weather": {
+  "max": 35,
+  "min": 25,
+  "rain": 95,
+  "uv": 8,
+  "cond": "Thunderstorms",
+  "humidity": 92,
+  "source": "Open-Meteo",
+  "fetched": "06:25"
+ },
+ "wordsearch": {
+  "grid": [
+   "EJKAMHIPSI",
+   "TRICKNBPND",
+   "FDTHREADST",
+   "CPUMPKINVR",
+   "ADASTNBMJE",
+   "NORSBTEABA",
+   "DKOOUEMWCT",
+   "YHBATVUSIU",
+   "GSPOOKYNLE",
+   "DDDIGDYBBM"
+  ],
+  "words": [
+   {
+    "word": "PUMPKIN",
+    "cells": [
+     [
+      3,
+      1
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      3,
+      3
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      3,
+      5
+     ],
+     [
+      3,
+      6
+     ],
+     [
+      3,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "THREADS",
+    "cells": [
+     [
+      2,
+      2
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      2,
+      4
+     ],
+     [
+      2,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      2,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "SPOOKY",
+    "cells": [
+     [
+      8,
+      1
+     ],
+     [
+      8,
+      2
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "GHOST",
+    "cells": [
+     [
+      8,
+      0
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      5,
+      3
+     ],
+     [
+      4,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "TREAT",
+    "cells": [
+     [
+      2,
+      9
+     ],
+     [
+      3,
+      9
+     ],
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      6,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "TRICK",
+    "cells": [
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      1,
+      3
+     ],
+     [
+      1,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "CANDY",
+    "cells": [
+     [
+      3,
+      0
+     ],
+     [
+      4,
+      0
+     ],
+     [
+      5,
+      0
+     ],
+     [
+      6,
+      0
+     ],
+     [
+      7,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "BAT",
+    "cells": [
+     [
+      7,
+      2
+     ],
+     [
+      7,
+      3
+     ],
+     [
+      7,
+      4
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    6,
+    1,
+    0,
+    2,
+    3,
+    0
+   ],
+   [
+    2,
+    0,
+    0,
+    6,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    6,
+    1,
+    0,
+    2
+   ],
+   [
+    0,
+    5,
+    2,
+    0,
+    0,
+    6
+   ],
+   [
+    0,
+    2,
+    0,
+    4,
+    0,
+    0
+   ],
+   [
+    0,
+    6,
+    0,
+    5,
+    0,
+    0
+   ]
+  ],
+  "solution": [
+   [
+    6,
+    1,
+    5,
+    2,
+    3,
+    4
+   ],
+   [
+    2,
+    3,
+    4,
+    6,
+    1,
+    5
+   ],
+   [
+    3,
+    4,
+    6,
+    1,
+    5,
+    2
+   ],
+   [
+    1,
+    5,
+    2,
+    3,
+    4,
+    6
+   ],
+   [
+    5,
+    2,
+    3,
+    4,
+    6,
+    1
+   ],
+   [
+    4,
+    6,
+    1,
+    5,
+    2,
+    3
+   ]
+  ]
+ }
+}

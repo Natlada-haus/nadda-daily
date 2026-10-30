@@ -1,262 +1,321 @@
 {
- "issue_no": 18,
- "tagline": "ศุกร์แล้ว! ฮัลโหลวีกเอนด์ · Happy Friday",
+ "issue_no": 19,
+ "tagline": "เสาร์ฮาโลวีน 🎃 · Happy Halloween Saturday",
  "lifestyle": {
-  "title": "Friday fuel check",
-  "body": "ก่อนเติมน้ำมันรอบหน้า ดูคู่มือรถหรือฝาถังว่ารองรับ E20 หรือไม่ ถ้ารองรับ ช่วง 3 เดือนนี้จะได้ราคาที่ถูกลงจากภาษีที่ลด ถ้าไม่แน่ใจให้ถามศูนย์บริการก่อน",
-  "note": "Based on today's fuel tax news"
+  "title": "A slow Halloween Saturday",
+  "body": "วันเสาร์นี้ลองพักสายตาจากจอสักชั่วโมง ถ้าออกไปเที่ยวย่านข้าวสารคืนนี้ ร้านส่วนใหญ่ยังต้องปิดเที่ยงคืนตามกติกาเดิม เพราะแผน Sandbox ยังอยู่ในขั้นศึกษา วางแผนเดินทางกลับให้ดี",
+  "note": "Based on today's Khao San sandbox news"
  },
  "word": {
-  "word": "subsidence",
+  "word": "sandbox",
   "pos": "n.",
-  "ipa": "/səbˈsaɪdəns/",
-  "th": "การทรุดตัวของพื้นดิน",
-  "def": "the gradual sinking of land or a surface.",
-  "ex": "The airport blamed subsidence after heavy rain for the runway damage."
+  "ipa": "/ˈsændbɒks/",
+  "th": "พื้นที่ทดลอง (ผ่อนกติกาเพื่อลองของใหม่)",
+  "def": "a controlled area where new rules or ideas can be tested safely before being used more widely.",
+  "ex": "Khao San Road may become a sandbox for later nightlife hours."
  },
  "english": {
-  "title": "Wrapping up the week with your team",
+  "title": "Talking about Halloween plans",
   "dialogue": [
    [
-    "Nadda",
-    "Before we log off, quick recap of the week?"
-   ],
-   [
-    "Teammate",
-    "Sure. The carousel went live and the client loved it."
+    "Friend",
+    "Any plans for Halloween tonight?"
    ],
    [
     "Nadda",
-    "Great. Anything still pending?"
+    "Nothing big. Maybe a cosy movie night at home."
    ],
    [
-    "Teammate",
-    "Just the captions for next week. I'll have them ready by Monday noon."
-   ],
-   [
-    "Nadda",
-    "Perfect. Let's keep an eye on Instagram's new long video test too."
-   ],
-   [
-    "Teammate",
-    "Good call. I'll drop a few links in the chat."
+    "Friend",
+    "Something scary?"
    ],
    [
     "Nadda",
-    "Thanks! Have a lovely weekend."
+    "Spooky, but not too scary. I'm a bit of a scaredy-cat."
    ],
    [
-    "Teammate",
-    "You too. See you Monday!"
+    "Friend",
+    "Ha! Same here. Want me to bring snacks?"
+   ],
+   [
+    "Nadda",
+    "Yes please, that sounds like a treat."
+   ],
+   [
+    "Friend",
+    "Great, see you around seven?"
+   ],
+   [
+    "Nadda",
+    "Perfect. No tricks, just treats!"
    ]
   ],
   "vocab": [
    [
-    "log off",
-    "เลิกงาน/ออกจากระบบ"
+    "cosy movie night",
+    "คืนดูหนังสบายๆ ที่บ้าน"
    ],
    [
-    "quick recap",
-    "สรุปสั้นๆ"
+    "spooky",
+    "หลอนๆ น่าขนลุกนิดๆ"
    ],
    [
-    "went live",
-    "ปล่อยออนไลน์แล้ว"
+    "scaredy-cat",
+    "คนขี้กลัว"
    ],
    [
-    "still pending",
-    "ยังค้างอยู่"
+    "that sounds like a treat",
+    "ฟังดูน่าสนุก/น่าชื่นใจ"
    ],
    [
-    "keep an eye on",
-    "จับตาดู"
+    "see you around seven",
+    "เจอกันราวทุ่มนึง"
    ],
    [
-    "Good call.",
-    "คิดดีมาก/ตัดสินใจถูก"
+    "no tricks, just treats",
+    "ไม่แกล้ง มีแต่ของดี"
    ]
   ],
   "tip": {
-   "instead": "Is everything finished?",
-   "better": "Anything still pending before the weekend?",
-   "why": "ถามแบบนี้ฟังเป็นมิตรกว่า และชวนให้ทีมบอกงานที่ค้างโดยไม่รู้สึกถูกตรวจ"
+   "instead": "I am afraid of ghosts movie.",
+   "better": "I'm not great with scary movies.",
+   "why": "พูดแบบนี้เป็นธรรมชาติและนุ่มนวลกว่า และไม่ต้องแปลตรงตัวจากภาษาไทย"
   }
  },
  "know": [
   {
-   "title": "Why does land subside?",
-   "body": "พื้นดินทรุดได้เมื่อดินอ่อนรับน้ำหนักไม่ไหว น้ำใต้ดินเปลี่ยนระดับ หรือดินอิ่มน้ำจากฝนหนัก กรุงเทพฯ ตั้งอยู่บนชั้นดินเหนียวอ่อน การทรุดตัวจึงเป็นเรื่องที่ต้องเฝ้าดูมานาน"
+   "title": "Why pumpkins for Halloween?",
+   "body": "ประเพณีแกะสลักโคมเริ่มจากไอร์แลนด์ซึ่งเดิมใช้หัวผักกาด (turnip) เมื่อผู้อพยพไปอเมริกาพบว่าฟักทองแกะง่ายและใหญ่กว่า จึงกลายเป็น jack-o'-lantern แบบที่เห็นทุกวันนี้"
   },
   {
-   "title": "What is E20?",
-   "body": "E20 คือน้ำมันเบนซินผสมเอทานอล 20% เอทานอลผลิตจากพืชอย่างอ้อยและมันสำปะหลัง ควรเช็กกับคู่มือรถก่อนเติม"
+   "title": "What is a 'sandbox' in policy?",
+   "body": "Regulatory sandbox คือการเปิดพื้นที่หรือช่วงเวลาให้ทดลองกติกาใหม่แบบมีขอบเขต เพื่อดูผลจริงก่อนจะแก้กฎหมายถาวร ใช้กันทั้งในฟินเทคและการจัดการเมือง"
   }
  ],
  "on_this_day": [
   {
-   "year": "1938",
-   "text": "Orson Welles's radio play 'The War of the Worlds' aired in the US, and some listeners thought it was real news."
+   "year": "1517",
+   "text": "Martin Luther is traditionally said to have posted his 95 Theses, sparking the Protestant Reformation."
   },
   {
-   "year": "1974",
-   "text": "Muhammad Ali beat George Foreman in 'The Rumble in the Jungle' in Kinshasa, Zaire."
+   "year": "1941",
+   "text": "Work on Mount Rushmore in South Dakota was completed after 14 years."
   }
  ],
  "three_things": [
-  "Check if your car takes E20 before the next fill-up",
-  "Sketch one brand idea as a long video plus short teaser Reels",
-  "Try 'Anything still pending?' at today's wrap-up"
+  "Pick one spooky-but-cute idea your brand could post today",
+  "Check Threads for the new custom like button test",
+  "Use 'I'm not great with...' once in English today"
  ],
  "thailand": [
   {
    "lead": true,
-   "title": "Plane's landing gear sinks into Suvarnabhumi runway",
-   "th": "ล้อเครื่องบิน Boeing 737-800 ของ China Airlines เที่ยวบิน CI840 (ไปเกาสง) ทรุดจมลงไปในผิวรันเวย์ 02R ที่สุวรรณภูมิเมื่อคืนวันพุธ ราว 19.20 น. ผู้โดยสาร 116 คนและลูกเรือ 8 คนอพยพออกมาได้ ใช้เวลาราว 5 ชั่วโมงกว่าจะย้ายเครื่องออก มี 5 เที่ยวบินล่าช้า สนามบินระบุว่าเกิดจากฝนตกหนัก น้ำขัง และระดับน้ำใต้ดินสูงขึ้น ซ่อมชั่วคราวและตรวจความปลอดภัยแล้ว กระทรวงคมนาคมกำลังตรวจสอบว่าน้ำท่วมฝั่งตะวันออกของกรุงเทพฯ เกี่ยวข้องหรือไม่",
-   "en": "If you're flying soon, the airport says overall operations aren't affected.",
-   "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3345765/suvarnabhumi-runway-subsidence-probed-after-plane-gets-stuck"
+   "title": "Khao San and Rambuttri picked as a nightlife 'sandbox'",
+   "th": "รมต.ประจำสำนักนายกฯ ภราดร ปริศนานันทกุล ประชุมกับ บช.น. กทม. ป.ป.ท. มหาดไทย และกรมสรรพสามิต เมื่อ 30 ต.ค. ตั้งย่านข้าวสาร-รามบุตรีเป็นพื้นที่ทดลอง ทบทวน พ.ร.ฎ.เขตพื้นที่สถานบริการ พ.ศ. 2545 เพราะย่านนี้อยู่นอกโซนสถานบริการ ร้านจึงต้องจดเป็นร้านอาหารและปิดเที่ยงคืน ห้ามดนตรีสด แผนนี้อาจเปิดให้ร้านเปิดเกินเที่ยงคืนได้ภายใต้มาตรฐานความปลอดภัย พร้อมปราบการเรียกรับสินบน ขั้นแรกจะทำทะเบียนร้านทั้งหมดและรับฟังผู้ประกอบการกับชาวบ้าน",
+   "en": "Nothing changes yet: it's a pilot being studied, not a new rule.",
+   "source": "Thai Post",
+   "url": "https://www.thaipost.net/criminality-news/1098631/"
   },
   {
-   "title": "Excise cuts on E20 and B20 fuel for three months",
-   "th": "ครม. อนุมัติลดภาษีสรรพสามิต 3 เดือน แก๊สโซฮอล์ E20 ลด 5.60 บาท/ลิตร และไบโอดีเซล B20 ลด 5.50 บาท/ลิตร เพื่อลดต้นทุนเกษตรกร ผู้ประกอบการขนส่ง และผู้บริโภค รมว.พลังงาน อัครนัย พรหมพันธุ์ ตอบโต้พรรคประชาธิปัตย์ที่ว่าได้ประโยชน์น้อย",
-   "en": "Worth checking if your car can take E20 before your next fill-up.",
-   "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3345335/energy-minister-defends-fuel-tax-cuts"
-  },
-  {
-   "title": "Bank of Thailand lifts 2026 growth forecast to 2.4%",
-   "th": "ธนาคารแห่งประเทศไทยปรับคาดการณ์ GDP ปี 2026 ขึ้นเป็น 2.4% (จาก 2.3%) และปี 2027 เป็น 2.1% (จาก 1.8%) จากการส่งออกและการลงทุนที่เกี่ยวกับ AI ส่วน กนง. คงดอกเบี้ยนโยบายที่ 1% และคาดเงินเฟ้อไตรมาส 4 อาจเกิน 3%",
-   "en": "Growth looks a bit better on paper, but prices are rising too.",
-   "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/business/general/3345445/bot-upgrades-thai-gdp-growth-for-2026"
+   "title": "Lifetime driving licences are not being cancelled",
+   "th": "อธิบดีกรมการขนส่งทางบก สรพงศ์ ไพฑูรย์พงษ์ ชี้แจงเมื่อ 30 ต.ค. ว่าข่าวที่แชร์กันว่าจะยกเลิกหรือยึดคืนใบขับขี่ตลอดชีพไม่เป็นความจริง ผู้ถือใบขับขี่ตลอดชีพยังใช้ได้ตามกฎหมาย ระเบียบใหม่ใช้กับผู้ขอใบขับขี่ใหม่ที่อายุ 55 ปีขึ้นไปเท่านั้น ซึ่งต้องทดสอบสมรรถภาพร่างกาย",
+   "en": "A good one to forward to the family group chat.",
+   "source": "Thai PBS",
+   "url": "https://www.thaipbs.or.th/news/content/571884"
   }
  ],
  "world": [
   {
-   "title": "Spain's train crash toll rises to 69",
-   "th": "ยอดผู้เสียชีวิตจากรถไฟความเร็วสูงชนกันใกล้โตเลโดเพิ่มเป็น 69 ราย สเปนไว้ทุกข์ 3 วัน คลิปเสียงที่หลุดออกมาบ่งชี้ว่าศูนย์ควบคุมอนุญาตให้ขบวนหนึ่งวิ่งต่อขณะที่อีกขบวนจอดเสียอยู่ข้างหน้า",
-   "en": "Europe's deadliest rail crash since 2013.",
+   "title": "Tankers on fire in the Strait of Hormuz; oil near $114",
+   "th": "กองกำลังพิทักษ์การปฏิวัติอิหร่านรายงานว่ามีเรือบรรทุกน้ำมันเกิดไฟไหม้หรือถูกหยุดในช่องแคบฮอร์มุซ ขณะที่คนกลางจากกาตาร์เดินทางถึงเตหะรานเพื่อผลักดันข้อตกลงหยุดยิง ราคาน้ำมันเบรนต์ขึ้นไปราว 114 ดอลลาร์",
+   "en": "About a fifth of the world's oil passes here, so fuel prices may stay high.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-29/"
+   "url": "https://oneturn.news/day/2026-10-30/"
   },
   {
-   "title": "Apple finally puts a touchscreen on a Mac laptop",
-   "th": "Apple เปิดตัวแล็ปท็อป Mac ที่มีจอสัมผัส กลับลำจากจุดยืนเดิมที่ไม่ใส่ทัชสกรีนใน Mac มานาน",
-   "en": "Tap-to-edit on a MacBook is no longer a dream.",
+   "title": "Binance hit by a $6.3 billion hack, the largest crypto theft",
+   "th": "Binance ระบุว่าถูกเจาะระบบกระทบสินทรัพย์ราว 6,300 ล้านดอลลาร์ อายัดไว้ได้ราว 3,000 ล้าน และจะชดเชยความเสียหาย บริษัทวิเคราะห์สองรายโยงกับแฮกเกอร์เกาหลีเหนือ TraderTraitor ขณะนี้ระงับการถอนเงิน",
+   "en": "If you hold crypto there, check official Binance channels only.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-29/"
+   "url": "https://oneturn.news/day/2026-10-30/"
   },
   {
-   "title": "DoorDash to buy Instacart for $17 billion",
-   "th": "DoorDash ประกาศซื้อ Instacart มูลค่า 17,000 ล้านดอลลาร์ ขยายธุรกิจส่งของชำ คาดปิดดีลปลายปี 2027",
-   "en": "Delivery apps keep merging into fewer, bigger players.",
+   "title": "Tech stocks slide after Alphabet's record $500 billion drop",
+   "th": "Alphabet มูลค่าหายไป 500,000 ล้านดอลลาร์หลังบอกว่า AI search กระทบรายได้โฆษณา Intel ร่วง 21% และ Amazon ต่ำกว่าคาด S&P 500 ลง 1.56%",
+   "en": "AI search eating ad clicks is a story every marketer should watch.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-29/"
+   "url": "https://oneturn.news/day/2026-10-30/"
   },
   {
-   "title": "Milwaukee Brewers win their first World Series",
-   "th": "มิลวอกี บรูเวอร์ส ชนะแทมปาเบย์ใน 5 เกม คว้าแชมป์เวิลด์ซีรีส์ครั้งแรกในประวัติศาสตร์ทีม ทั้งที่เป็นทีมจากตลาดเล็กที่สุดในลีก",
-   "en": "A feel-good underdog story to end the week.",
+   "title": "Patrick Stewart dies at 86",
+   "th": "แพทริก สจ๊วร์ต นักแสดงจาก Star Trek และ X-Men เสียชีวิตเมื่อวันพุธ อายุ 86 ปี ครอบครัวชวนให้บริจาคเพื่อการวิจัยโรคอัลไซเมอร์",
+   "en": "Goodbye, Captain Picard and Professor X.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-29/"
+   "url": "https://oneturn.news/day/2026-10-30/"
   }
  ],
  "social": [
   {
-   "title": "Instagram tests 'Features': horizontal videos up to 90 minutes",
-   "th": "Instagram เริ่มทดสอบ Features วิดีโอแนวนอนยาวสูงสุด 90 นาที สำหรับพอดแคสต์ วล็อก สัมภาษณ์ กับครีเอเตอร์กลุ่มเล็กในสหรัฐฯ และบราซิล พร้อม Clips as Reels (ลิงก์รีลได้ถึง 8 คลิปกลับไปที่วิดีโอยาว) และ Series ที่รวมรีลเป็นตอนๆ บนโปรไฟล์",
-   "why": "รีลกำลังถูกวางให้เป็นทางเข้าสู่คอนเทนต์ยาว ลองคิดคอนเทนต์แบรนด์เป็นตอนยาว พร้อมตัดรีลชวนดูไว้ล่วงหน้า",
+   "title": "Threads tests custom like buttons",
+   "th": "Threads ทดสอบให้ผู้ใช้ตั้งภาพ สติกเกอร์ หรือ GIF ที่จะเด้งขึ้นเมื่อมีคนกดไลก์โพสต์ ตั้งได้ระดับโปรไฟล์ (ไม่ใช่รายโพสต์) ทดสอบในเกาหลีใต้ บราซิล และอินโดนีเซีย",
+   "why": "ถ้ามาไทย แบรนด์เปลี่ยนปุ่มไลก์ตามแคมเปญหรือสินค้าใหม่ได้ เป็นจุดเล็กๆ ที่ช่วยเพิ่ม engagement",
    "source": "Social Media Today",
-   "url": "https://www.socialmediatoday.com/news/instagram-rolls-out-limited-features-test-in-the-us/872825/"
+   "url": "https://www.socialmediatoday.com/news/threads-launches-custom-like-buttons/873267/"
   },
   {
-   "title": "Instagram Live will reach non-followers in the Reels tab",
-   "th": "Instagram กำลังปรับ Live ให้คนที่ไม่ได้ติดตามเห็นได้ในแท็บ Reels เร็วๆ นี้ และเปิดให้ดู Reels, Features, Series บน Apple TV ในสหรัฐฯ แล้ว",
-   "why": "ไลฟ์เปิดตัวสินค้าอาจเข้าถึงคนนอกเพจได้มากขึ้น น่าวางช่วงแรกของไลฟ์ให้ดึงคนใหม่",
-   "source": "Variety",
-   "url": "https://variety.com/2026/digital/news/instagram-videos-90-minutes-apple-tv-not-paying-creators-1236931293/"
+   "title": "Threads Friends: post to a list of up to 50 people",
+   "th": "Threads ทดสอบ Threads Friends คล้าย Close Friends ของ IG เลือกคนได้สูงสุด 50 คน แล้วโพสต์ให้เฉพาะกลุ่มนี้เห็น ทดสอบในไอร์แลนด์ อิตาลี และญี่ปุ่น",
+   "why": "ตอกย้ำเทรนด์คนย้ายจากโพสต์สาธารณะไปแชร์ในกลุ่มเล็ก แบรนด์อาจใช้ทำคอมมูนิตี้ VIP หรือแฟนตัวจริงได้",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/"
   },
   {
-   "title": "Edits for desktop coming next month, with Trial Reels",
-   "th": "Instagram เตรียมปล่อยแอป Edits เวอร์ชันเดสก์ท็อปเดือนหน้า มีคีย์ลัดและ Trial Reels และมีพื้นที่คลาวด์ 3 ระดับ (200GB ถึง 6TB) ไว้ซิงก์โปรเจกต์ข้ามเครื่อง",
-   "why": "ทีมตัดต่อทำรีลบนคอมแล้วลองปล่อยแบบ Trial Reels ก่อนได้ สะดวกขึ้นสำหรับงานลูกค้า",
+   "title": "YouTube lets creators organise Shorts into seasons and episodes",
+   "th": "YouTube เปิดให้จัด Shorts เป็นซีซันและตอน และกำลังทดสอบลดเกณฑ์จ่ายเงินครีเอเตอร์จาก 100 เหลือ 20 ดอลลาร์ในสหรัฐฯ อินเดีย และอินโดนีเซีย",
+   "why": "คอนเทนต์สั้นแบบเป็นตอนกำลังมาทุกแพลตฟอร์ม (IG Series ก็เช่นกัน) วางคอนเทนต์ลูกค้าเป็นซีรีส์จะได้เปรียบ",
    "source": "Shareable TL;DR by SocialBee",
    "url": "https://shareabletldr.substack.com/p/october-29-the-latest-social-media"
   },
   {
-   "title": "Meta Ads adds creative-element breakdowns",
-   "th": "Meta ให้ผู้ลงโฆษณาดูผลลัพธ์แยกตามองค์ประกอบของครีเอทีฟแต่ละชิ้นผ่านเครื่องมือ Breakdown (ยังมีข้อจำกัดบางอย่าง)",
-   "why": "ใช้เป็นข้อมูลเวลาเสนอลูกค้าว่าภาพหรือข้อความแบบไหนเวิร์ก แทนการเดา",
-   "source": "Shareable TL;DR by SocialBee",
-   "url": "https://shareabletldr.substack.com/p/october-29-the-latest-social-media"
+   "title": "Simple Halloween trendjacks beat big campaigns",
+   "th": "Sprout Social สรุปว่าฮาโลวีนปีนี้แบรนด์ที่เวิร์กคือการเล่นตามฟอร์แมตง่ายๆ เช่น LEGO เปลี่ยนหัวมินิฟิกเป็นฟักทอง (80k+ engagements) ริงโทนฮาโลวีนของ Discord (500k+ บน TikTok) และ Rivian จับมือ Ghostbusters (100k+) แบรนด์ส่วนใหญ่เริ่มโพสต์จริงจังแค่ราว 1-2 สัปดาห์ก่อนวันงาน",
+   "why": "ไอเดียเล็ก ทำไว แชร์ง่าย ได้ผลกว่าแคมเปญใหญ่ ใช้เป็นเหตุผลเสนอลูกค้าทำโพสต์ตามเทศกาลแบบเบาๆ",
+   "source": "Sprout Social",
+   "url": "https://sproutsocial.substack.com/p/spooky-seasons-biggest-brand-wins"
   },
   {
-   "title": "TikTok lets users add a profile background",
-   "th": "TikTok เพิ่มตัวเลือก Add Background ให้ตกแต่งพื้นหลังโปรไฟล์ได้",
-   "why": "อีกพื้นที่หนึ่งให้แบรนด์ใส่ key visual หรือแคมเปญปัจจุบันบนหน้าโปรไฟล์",
-   "source": "Shareable TL;DR by SocialBee",
-   "url": "https://shareabletldr.substack.com/p/october-29-the-latest-social-media"
-  },
-  {
-   "title": "Brands drop Mbappé after Mao remark; Real Madrid apologizes to China",
-   "th": "เรอัล มาดริด ขอโทษจีนหลังคีลียัน เอ็มบัปเป้ เรียกเหมา เจ๋อตงว่าเผด็จการ แบรนด์หลายรายยุติดีลกับเขา และ Sanrio ก็ตัดความร่วมมือกับละครญี่ปุ่นเรื่องหนึ่งหลังถูกวิจารณ์จากจีน",
-   "why": "เตือนให้เช็กความเสี่ยงของพรีเซนเตอร์และ KOL ในตลาดที่อ่อนไหว ก่อนเซ็นดีลและก่อนโพสต์",
-   "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-29/"
+   "title": "Cup Noodles hands its socials to a 'vampire' creator",
+   "th": "Cup Noodles ออกรส Vampire Noodles ที่น้ำซุปกลายเป็นสีแดง และให้ครีเอเตอร์สายแวมไพร์ Vladison Dedmon ยึดบัญชีโซเชียลช่วงฮาโลวีน ทำคลิปทดสอบกระเทียม ร้องเพลง และกินโชว์ ส่วน Pringles ทำแคมเปญ Once You Drop กับ Dan the Funeral Man",
+   "why": "รูปแบบ creator takeover ที่เล่นเป็นคาแรกเตอร์ทำให้แบรนด์ดูมีชีวิต ลองปรับใช้กับแคมเปญรถหรือเปิดตัวสินค้าได้",
+   "source": "PR Week",
+   "url": "https://www.prweek.com/article/1973037/brand-fang-tastic-halloween-2026-campaign"
   }
  ],
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "weather": {
-  "error": "HTTP Error 429: Too Many Requests"
+  "max": 35,
+  "min": 25,
+  "rain": 95,
+  "uv": 8,
+  "cond": "Thunderstorms",
+  "humidity": 92,
+  "source": "Open-Meteo",
+  "fetched": "06:25"
  },
  "wordsearch": {
   "grid": [
-   "MSERIESARD",
-   "SLRUNWAYLA",
-   "BICVISRFBP",
-   "LVGSLSKKTP",
-   "SEIEDFCSFL",
-   "JBEKOHVYDE",
-   "FRBMACNDVO",
-   "FRIDAYJHHK",
-   "DJFUELNRLD",
-   "HLOCGBGWWU"
+   "EJKAMHIPSI",
+   "TRICKNBPND",
+   "FDTHREADST",
+   "CPUMPKINVR",
+   "ADASTNBMJE",
+   "NORSBTEABA",
+   "DKOOUEMWCT",
+   "YHBATVUSIU",
+   "GSPOOKYNLE",
+   "DDDIGDYBBM"
   ],
   "words": [
    {
-    "word": "RUNWAY",
+    "word": "PUMPKIN",
     "cells": [
      [
-      1,
+      3,
+      1
+     ],
+     [
+      3,
       2
      ],
      [
-      1,
+      3,
       3
      ],
      [
-      1,
+      3,
       4
      ],
      [
-      1,
+      3,
       5
      ],
      [
-      1,
+      3,
       6
      ],
      [
-      1,
+      3,
       7
      ]
     ]
    },
    {
-    "word": "FRIDAY",
+    "word": "THREADS",
     "cells": [
      [
-      7,
+      2,
+      2
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      2,
+      4
+     ],
+     [
+      2,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      2,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "SPOOKY",
+    "cells": [
+     [
+      8,
+      1
+     ],
+     [
+      8,
+      2
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "GHOST",
+    "cells": [
+     [
+      8,
       0
      ],
      [
@@ -264,84 +323,22 @@
       1
      ],
      [
-      7,
-      2
-     ],
-     [
-      7,
-      3
-     ],
-     [
-      7,
-      4
-     ],
-     [
-      7,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "SERIES",
-    "cells": [
-     [
-      0,
-      1
-     ],
-     [
-      0,
-      2
-     ],
-     [
-      0,
-      3
-     ],
-     [
-      0,
-      4
-     ],
-     [
-      0,
-      5
-     ],
-     [
-      0,
-      6
-     ]
-    ]
-   },
-   {
-    "word": "REELS",
-    "cells": [
-     [
       6,
-      1
+      2
      ],
      [
       5,
-      2
-     ],
-     [
-      4,
       3
      ],
      [
-      3,
+      4,
       4
-     ],
-     [
-      2,
-      5
      ]
     ]
    },
    {
-    "word": "APPLE",
+    "word": "TREAT",
     "cells": [
-     [
-      1,
-      9
-     ],
      [
       2,
       9
@@ -357,65 +354,77 @@
      [
       5,
       9
+     ],
+     [
+      6,
+      9
      ]
     ]
    },
    {
-    "word": "FUEL",
+    "word": "TRICK",
     "cells": [
      [
-      8,
-      2
+      1,
+      0
      ],
-     [
-      8,
-      3
-     ],
-     [
-      8,
-      4
-     ],
-     [
-      8,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "LIVE",
-    "cells": [
      [
       1,
       1
      ],
      [
-      2,
-      1
+      1,
+      2
      ],
      [
-      3,
-      1
+      1,
+      3
      ],
      [
-      4,
-      1
+      1,
+      4
      ]
     ]
    },
    {
-    "word": "MAC",
+    "word": "CANDY",
     "cells": [
      [
+      3,
+      0
+     ],
+     [
+      4,
+      0
+     ],
+     [
+      5,
+      0
+     ],
+     [
       6,
+      0
+     ],
+     [
+      7,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "BAT",
+    "cells": [
+     [
+      7,
+      2
+     ],
+     [
+      7,
       3
      ],
      [
-      6,
+      7,
       4
-     ],
-     [
-      6,
-      5
      ]
     ]
    }
@@ -424,102 +433,102 @@
  "sudoku": {
   "puzzle": [
    [
-    3,
-    4,
-    5,
+    6,
     1,
+    0,
+    2,
+    3,
+    0
+   ],
+   [
+    2,
+    0,
+    0,
+    6,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    6,
+    1,
+    0,
+    2
+   ],
+   [
+    0,
+    5,
+    2,
+    0,
     0,
     6
    ],
    [
-    1,
-    0,
-    6,
-    3,
-    0,
-    0
-   ],
-   [
-    0,
-    3,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    5,
     0,
     2,
-    6,
-    0,
-    4
-   ],
-   [
-    0,
-    5,
-    0,
-    0,
-    6,
-    0
-   ],
-   [
-    0,
-    0,
     0,
     4,
     0,
-    1
+    0
+   ],
+   [
+    0,
+    6,
+    0,
+    5,
+    0,
+    0
    ]
   ],
   "solution": [
    [
-    3,
-    4,
-    5,
-    1,
-    2,
-    6
-   ],
-   [
-    1,
-    2,
     6,
-    3,
-    4,
-    5
-   ],
-   [
-    6,
-    3,
-    4,
-    5,
     1,
-    2
-   ],
-   [
     5,
-    1,
     2,
-    6,
     3,
     4
    ],
    [
-    4,
-    5,
-    1,
     2,
-    6,
-    3
-   ],
-   [
-    2,
-    6,
     3,
     4,
+    6,
+    1,
+    5
+   ],
+   [
+    3,
+    4,
+    6,
+    1,
     5,
+    2
+   ],
+   [
+    1,
+    5,
+    2,
+    3,
+    4,
+    6
+   ],
+   [
+    5,
+    2,
+    3,
+    4,
+    6,
     1
+   ],
+   [
+    4,
+    6,
+    1,
+    5,
+    2,
+    3
    ]
   ]
  }
