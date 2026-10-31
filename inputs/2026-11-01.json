@@ -1,0 +1,141 @@
+{
+ "issue_no": 20,
+ "tagline": "อาทิตย์แรกของพฤศจิกา 🍂 · Hello, November",
+ "lifestyle": {
+  "title": "A fresh-month Sunday reset",
+  "body": "วันแรกของเดือนใหม่ ลองใช้เวลา 15 นาทีเคลียร์รูปในมือถือ ลบสกรีนช็อตที่ไม่ใช้แล้ว แล้วจดเป้าหมายเล็กๆ ของพฤศจิกายนไว้ 3 ข้อ ถ้าอยากลองของใหม่ แอป Style Sketch ของ Meta ที่ช่วยจัดชุดจากเสื้อผ้าที่มีอยู่ก็เปิดในไทยแล้ว แต่อ่านเรื่องข้อมูลส่วนตัวก่อนเชื่อมกับ IG นะ",
+  "note": "Based on today's Style Sketch news"
+ },
+ "word": {
+  "word": "microdrama",
+  "pos": "n.",
+  "ipa": "/ˈmaɪkrəʊˌdrɑːmə/",
+  "th": "ละครสั้นแนวตั้งเป็นตอนๆ (ตอนละราวหนึ่งนาที)",
+  "def": "a very short, usually vertical video series told in many quick episodes, often with a cliffhanger at the end of each one.",
+  "ex": "Microdramas on YouTube passed 6.5 billion views in the first half of 2026."
+ },
+ "english": {
+  "title": "Setting goals for a new month",
+  "dialogue": [
+   ["Friend", "Happy November! Any goals for this month?"],
+   ["Nadda", "A few small ones. I want to get to bed before midnight."],
+   ["Friend", "That's a good one. Anything for work?"],
+   ["Nadda", "I'd like to try a short video series for a client."],
+   ["Friend", "Oh, like those mini dramas everyone's hooked on?"],
+   ["Nadda", "Exactly. Short episodes, a strong hook, and a cliffhanger."],
+   ["Friend", "Count me in as your first viewer."],
+   ["Nadda", "Deal! I'll hold you to that."]
+  ],
+  "vocab": [
+   ["get to bed before midnight", "เข้านอนก่อนเที่ยงคืน"],
+   ["hooked on", "ติดงอมแงม"],
+   ["a strong hook", "จุดดึงดูดช่วงแรกที่แรง"],
+   ["cliffhanger", "ฉากค้างให้อยากดูต่อ"],
+   ["count me in", "นับฉันด้วย / เอาด้วย"],
+   ["I'll hold you to that", "สัญญาแล้วนะ จะทวงนะ"]
+  ],
+  "tip": {
+   "instead": "This month I will try to sleep early.",
+   "better": "This month I'm trying to get to bed earlier.",
+   "why": "\"get to bed\" ฟังเป็นธรรมชาติกว่า และ I'm trying to... บอกว่ากำลังตั้งใจทำอยู่ ฟังนุ่มกว่า I will"
+  }
+ },
+ "know": [
+  {"title": "Why are microdramas so addictive?", "body": "ละครสั้นแนวตั้งเล่าเรื่องตอนละราว 60 วินาที เปิดด้วยอารมณ์แรงใน 15 วินาทีแรก และจบทุกตอนแบบค้างๆ YouTube บอกว่า 40% ของยอดวิวเกิดหลังลงคลิปไปแล้วกว่า 30 วัน เพราะคนที่เจอตอนแรกทีหลังจะไล่ดูย้อน"},
+  {"title": "What is 'photo resharing' on X?", "body": "X เพิ่มปุ่ม Post photo ให้กดค้างที่รูปของคนอื่นแล้วโพสต์ต่อได้ โดยรูปจะมีลิงก์เครดิตเจ้าของ แทนการเซฟรูปแล้วอัปโหลดใหม่ ซึ่งเป็นสิ่งที่ระบบรายได้ของ X ไม่นับให้"}
+ ],
+ "on_this_day": [
+  {"year": "1755", "text": "A huge earthquake, followed by a tsunami and fires, destroyed much of Lisbon, Portugal."},
+  {"year": "1993", "text": "The Maastricht Treaty took effect, formally creating the European Union."}
+ ],
+ "three_things": [
+  "Write down three small goals for November",
+  "Sketch a 3-episode microdrama idea for a client",
+  "Use 'I'm trying to...' once in English today"
+ ],
+ "wordsearch_words": ["NOVEMBER", "DRAMA", "EPISODE", "HOOK", "GOAL", "SUNDAY", "PHOTO", "EAT"],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Mae Sot border tightens goods crossings for 7 days",
+   "th": "กองกำลังนเรศวรสั่งระงับการผ่อนผันนำเข้า-ส่งออกสินค้าผ่านช่องทางอื่นนอกเหนือจากช่องทางที่อนุมัติ ในพื้นที่ อ.แม่สอด ถึง อ.พบพระ จ.ตาก ตั้งแต่ 30 ต.ค. ถึง 5 พ.ย. 2569 หรือจนกว่าสถานการณ์จะคลี่คลาย หลังการสู้รบในเมียวดีช่วง 25-29 ต.ค. ทำให้กระสุนตกฝั่งไทยและบ้านเรือนเสียหาย มาตรการนี้ไม่ได้หมายถึงการปิดด่านทั้งหมด",
+   "en": "Official crossings stay open; only informal routes are paused.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/332426"
+  },
+  {
+   "title": "PM Anutin's Bhutan visit wraps up today in Gelephu",
+   "th": "นายกฯ อนุทิน ชาญวีรกูล เยือนภูฏานอย่างเป็นทางการ 30 ต.ค.-1 พ.ย. ครั้งแรกในรอบ 8 ปี ตรงกับวาระ 37 ปีความสัมพันธ์ทางการทูต วันนี้มีกำหนดไปเมืองเกเลฟูร่วมโครงการสร้างสถูป 108 องค์ ส่วน FTA ไทย-ภูฏานมีกำหนดมีผล 1 ม.ค. 2570",
+   "en": "Gelephu 'Mindfulness City' could open doors for Thai businesses.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/332426"
+  },
+  {
+   "title": "Thai rice exports may miss the 7-million-tonne target",
+   "th": "สมาคมผู้ส่งออกข้าวไทยประเมินว่าปี 2569 อาจส่งออกไม่ถึงเป้า 7 ล้านตัน (ปีก่อน 7.9 ล้านตัน) เพราะความขัดแย้งในตะวันออกกลางกระทบตลาดอิรัก ซึ่งปีก่อนไทยส่งไปได้ราว 1 ล้านตัน แต่ 9 เดือนแรกปีนี้ส่งได้เพียงราว 9 หมื่นตัน",
+   "en": "The Gulf war is reaching Thai farmers' pockets too.",
+   "source": "AEC10NEWS via LINE TODAY",
+   "url": "https://today.line.me/th/v3/article/2D9jpGB"
+  }
+ ],
+ "world": [
+  {
+   "title": "Iran warns of a response 'without geographical limits'",
+   "th": "ผู้นำสูงสุดอิหร่าน โมจตาบา คาเมเนอี เตือนสหรัฐฯ และอิสราเอลว่าจะตอบโต้ทันทีโดยไม่จำกัดพื้นที่หากถูกโจมตีอีก ขณะที่รมว.ต่างประเทศสหรัฐฯ มาร์โก รูบิโอ บอกว่าทรัมป์ยังไม่ได้ตัดสินใจเรื่องโจมตีรอบใหม่ คณะเจรจาอิหร่านอยู่ที่โดฮากับคนกลางกาตาร์ น้ำมันเบรนต์ราว 113 ดอลลาร์",
+   "en": "Fuel prices are likely to stay high while this stays tense.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-31/"
+  },
+  {
+   "title": "Binance restores 90% of hacked assets, plans to reopen withdrawals today",
+   "th": "Binance บอกว่าคืนการค้ำประกันสินทรัพย์ที่ถูกแฮก 6,300 ล้านดอลลาร์ได้แล้ว 90% และวางแผนเปิดให้ถอนเงินอีกครั้งวันอาทิตย์นี้ หลังผ่านการตรวจความปลอดภัย",
+   "en": "Still: only trust Binance's official channels for updates.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-31/"
+  },
+  {
+   "title": "US midterms on Tuesday; over 50 million already voted",
+   "th": "ชาวอเมริกันกว่า 50 ล้านคนลงคะแนนล่วงหน้าแล้ว ก่อนเลือกตั้งกลางเทอม 3 พ.ย. ซึ่งเลือก ส.ส. ทั้ง 435 ที่นั่งและราวหนึ่งในสามของวุฒิสภา",
+   "en": "Results will land on Wednesday morning, Bangkok time.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-31/"
+  },
+  {
+   "title": "Harry Kane wins the Ballon d'Or",
+   "th": "แฮร์รี เคน คว้าบัลลงดอร์ฝ่ายชาย ชนะคีลิยัน เอ็มบัปเป ด้วยคะแนนห่างเพียง 28 แต้ม หนึ่งในการลุ้นที่สูสีที่สุดของรางวัลนี้",
+   "en": "Finally a big trophy for Kane!",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-10-31/"
+  }
+ ],
+ "social": [
+  {
+   "title": "Meta's Style Sketch AI outfit app launches in Thailand",
+   "th": "Meta เปิดแอป Style Sketch แบบเงียบๆ ใน อินโดนีเซีย สิงคโปร์ และไทย สร้างตู้เสื้อผ้าเสมือนจากรูปที่เคยโพสต์บน IG หรือถ่ายเพิ่มเอง แล้วแนะนำการจับคู่ชุด ลองบนนางแบบที่ปรับตามรูปร่างและสีผิว และวางแผนชุดสำหรับทริปตามสภาพอากาศได้",
+   "why": "ไทยเป็นตลาดทดลอง ลองโหลดมาดูเองได้เลย และเป็นสัญญาณว่า IG จะเชื่อมกับการช้อปและแฟชั่นลึกขึ้น",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+  },
+  {
+   "title": "YouTube pushes microdramas: 6.5B views and paid episodes coming",
+   "th": "YouTube เผยละครสั้นแนวตั้งมียอดวิวเกิน 6,500 ล้านในครึ่งแรกปี 2569 เวลาดูโต 50% และยอดวิวในเอเชียแปซิฟิกโตกว่า 70% เร็วๆ นี้จะให้คนดูสมัครสมาชิกช่องเพื่อดูตอนต่อไปได้ทันที พร้อมแนะนำสูตร hook แรงใน 15 วินาทีแรก",
+   "why": "คอนเทนต์แบรนด์แบบซีรีส์สั้นกำลังมา ใช้ข้อมูลนี้เสนอลูกค้าทำมินิดราม่าที่วางสินค้าในเรื่องได้",
+   "source": "YouTube Blog",
+   "url": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/"
+  },
+  {
+   "title": "TikTok launches 'Must Eat' restaurant guide",
+   "th": "TikTok เปิด Must Eat คู่มือร้านอาหารในแอปที่สร้างจากโพสต์และคอมเมนต์กว่า 40 ล้านรายการ แบ่งเป็น Everyday Eats กับ Elevated Dining กรองตามประเภทอาหาร ราคา และระยะทาง จองผ่าน OpenTable ได้ ร้านจ่ายเงินเพื่อขึ้นลิสต์ไม่ได้ เริ่มที่นิวยอร์ก แอลเอ และซานฟรานซิสโก",
+   "why": "TikTok กำลังเป็นเครื่องมือค้นหาร้านจริงจัง ถ้ามาไทย ร้านคาเฟ่และลูกค้าสาย F&B ต้องเน้นรีวิวจากคอมมูนิตี้มากกว่าโฆษณา",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp"
+  },
+  {
+   "title": "X adds photo resharing with credit to the original creator",
+   "th": "X เปิดฟีเจอร์ให้กดค้างที่รูปของคนอื่นแล้วเลือก Post photo รูปจะมีลิงก์เครดิตเจ้าของ และทั้งคนแชร์กับเจ้าของรูปได้ส่วนแบ่งจาก Original Content Rewards แทนการเซฟรูปแล้วโพสต์ใหม่",
+   "why": "ถ้าแบรนด์อยากแชร์งานแฟนหรือครีเอเตอร์บน X ใช้ปุ่มนี้แทนการรีโพสต์รูปเอง ได้ทั้งเครดิตและภาพลักษณ์ที่ดี",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/x-lets-users-share-credit-on-reposted-images/873100/"
+  }
+ ]
+}
