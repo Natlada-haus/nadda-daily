@@ -1,352 +1,396 @@
 {
- "issue_no": 20,
- "tagline": "อาทิตย์แรกของพฤศจิกา 🍂 · Hello, November",
+ "issue_no": 21,
+ "tagline": "จันทร์ใหม่ ต้นพฤศจิกา ☕ · Fresh week, fresh start",
  "lifestyle": {
-  "title": "A fresh-month Sunday reset",
-  "body": "วันแรกของเดือนใหม่ ลองใช้เวลา 15 นาทีเคลียร์รูปในมือถือ ลบสกรีนช็อตที่ไม่ใช้แล้ว แล้วจดเป้าหมายเล็กๆ ของพฤศจิกายนไว้ 3 ข้อ ถ้าอยากลองของใหม่ แอป Style Sketch ของ Meta ที่ช่วยจัดชุดจากเสื้อผ้าที่มีอยู่ก็เปิดในไทยแล้ว แต่อ่านเรื่องข้อมูลส่วนตัวก่อนเชื่อมกับ IG นะ",
-  "note": "Based on today's Style Sketch news"
+  "title": "A 10-minute Monday admin sweep",
+  "body": "เช้าวันจันทร์ลองตั้งเวลา 10 นาที เคลียร์งานจุกจิกที่ค้างจากสัปดาห์ก่อน ตอบอีเมลสั้นๆ จดสามเรื่องที่ต้องทำให้เสร็จในสัปดาห์นี้ และถ้าเจอสลิปโอนเงินหรือข่าวแปลกๆ ในโซเชียล ตรวจกับแอปธนาคารก่อนเชื่อเสมอ",
+  "note": "Based on today's fake-slip news"
  },
  "word": {
-  "word": "microdrama",
+  "word": "earned media",
   "pos": "n.",
-  "ipa": "/ˈmaɪkrəʊˌdrɑːmə/",
-  "th": "ละครสั้นแนวตั้งเป็นตอนๆ (ตอนละราวหนึ่งนาที)",
-  "def": "a very short, usually vertical video series told in many quick episodes, often with a cliffhanger at the end of each one.",
-  "ex": "Microdramas on YouTube passed 6.5 billion views in the first half of 2026."
+  "ipa": "/ɜːnd ˈmiːdiə/",
+  "th": "สื่อที่ได้มาฟรีจากการพูดถึงของคนอื่น (ไม่ได้ซื้อโฆษณา)",
+  "def": "publicity a brand gets for free when people, creators or the press share and talk about it, rather than through paid ads.",
+  "ex": "One celebrity photo with a matcha cup turned into months of earned media for the tea brand."
  },
  "english": {
-  "title": "Setting goals for a new month",
+  "title": "Kicking off the week with your team",
   "dialogue": [
    [
-    "Friend",
-    "Happy November! Any goals for this month?"
+    "Teammate",
+    "Morning! How was your weekend?"
    ],
    [
     "Nadda",
-    "A few small ones. I want to get to bed before midnight."
+    "Pretty chill, thanks. Ready to dive back in?"
    ],
    [
-    "Friend",
-    "That's a good one. Anything for work?"
-   ],
-   [
-    "Nadda",
-    "I'd like to try a short video series for a client."
-   ],
-   [
-    "Friend",
-    "Oh, like those mini dramas everyone's hooked on?"
+    "Teammate",
+    "Sort of. What's on our plate this week?"
    ],
    [
     "Nadda",
-    "Exactly. Short episodes, a strong hook, and a cliffhanger."
+    "Two client decks and the content calendar for December."
    ],
    [
-    "Friend",
-    "Count me in as your first viewer."
+    "Teammate",
+    "That's a lot. Where should we start?"
    ],
    [
     "Nadda",
-    "Deal! I'll hold you to that."
+    "Let's tackle the decks first, they're due Wednesday."
+   ],
+   [
+    "Teammate",
+    "Sounds good. I'll take the first draft."
+   ],
+   [
+    "Nadda",
+    "Perfect. Let's touch base after lunch."
    ]
   ],
   "vocab": [
    [
-    "get to bed before midnight",
-    "เข้านอนก่อนเที่ยงคืน"
+    "pretty chill",
+    "ชิลๆ สบายๆ"
    ],
    [
-    "hooked on",
-    "ติดงอมแงม"
+    "dive back in",
+    "กลับมาลุยงานต่อ"
    ],
    [
-    "a strong hook",
-    "จุดดึงดูดช่วงแรกที่แรง"
+    "on our plate",
+    "งานที่อยู่ในมือเรา"
    ],
    [
-    "cliffhanger",
-    "ฉากค้างให้อยากดูต่อ"
+    "tackle",
+    "ลงมือจัดการ"
    ],
    [
-    "count me in",
-    "นับฉันด้วย / เอาด้วย"
+    "due",
+    "ถึงกำหนดส่ง"
    ],
    [
-    "I'll hold you to that",
-    "สัญญาแล้วนะ จะทวงนะ"
+    "touch base",
+    "คุยอัปเดตกันสั้นๆ"
    ]
   ],
   "tip": {
-   "instead": "This month I will try to sleep early.",
-   "better": "This month I'm trying to get to bed earlier.",
-   "why": "\"get to bed\" ฟังเป็นธรรมชาติกว่า และ I'm trying to... บอกว่ากำลังตั้งใจทำอยู่ ฟังนุ่มกว่า I will"
+   "instead": "What work we have this week?",
+   "better": "What's on our plate this week?",
+   "why": "คำถามต้องสลับเป็น What do we have... หรือใช้สำนวน on our plate ที่คนทำงานพูดกันบ่อย ฟังเป็นธรรมชาติกว่า"
   }
  },
  "know": [
   {
-   "title": "Why are microdramas so addictive?",
-   "body": "ละครสั้นแนวตั้งเล่าเรื่องตอนละราว 60 วินาที เปิดด้วยอารมณ์แรงใน 15 วินาทีแรก และจบทุกตอนแบบค้างๆ YouTube บอกว่า 40% ของยอดวิวเกิดหลังลงคลิปไปแล้วกว่า 30 วัน เพราะคนที่เจอตอนแรกทีหลังจะไล่ดูย้อน"
+   "title": "Why does the US time change matter to Thailand?",
+   "body": "สหรัฐฯ เลิกใช้เวลาออมแสงเมื่อ 1 พ.ย. ทำให้เวลาห่างจากไทยเพิ่มอีก 1 ชั่วโมง เช่น นิวยอร์กตอนนี้ช้ากว่าไทย 12 ชั่วโมง ตลาดหุ้นสหรัฐฯ เลยเปิดราว 21:30 น. เวลาไทย ประชุมกับลูกค้าหรือทีมฝั่งอเมริกาต้องเช็กเวลาใหม่"
   },
   {
-   "title": "What is 'photo resharing' on X?",
-   "body": "X เพิ่มปุ่ม Post photo ให้กดค้างที่รูปของคนอื่นแล้วโพสต์ต่อได้ โดยรูปจะมีลิงก์เครดิตเจ้าของ แทนการเซฟรูปแล้วอัปโหลดใหม่ ซึ่งเป็นสิ่งที่ระบบรายได้ของ X ไม่นับให้"
+   "title": "What is a 'payout threshold'?",
+   "body": "คือยอดเงินขั้นต่ำที่ครีเอเตอร์ต้องสะสมให้ถึงก่อนแพลตฟอร์มจะโอนเงินให้ YouTube กำลังทดลองลดเกณฑ์นี้ให้ครีเอเตอร์บางส่วน ช่องเล็กๆ จะได้รับเงินเร็วขึ้น"
   }
  ],
  "on_this_day": [
   {
-   "year": "1755",
-   "text": "A huge earthquake, followed by a tsunami and fires, destroyed much of Lisbon, Portugal."
+   "year": "1936",
+   "text": "The BBC launched the world's first regular high-definition television service from Alexandra Palace in London."
   },
   {
-   "year": "1993",
-   "text": "The Maastricht Treaty took effect, formally creating the European Union."
+   "year": "1947",
+   "text": "Howard Hughes flew the giant 'Spruce Goose' flying boat for the first and only time."
   }
  ],
  "three_things": [
-  "Write down three small goals for November",
-  "Sketch a 3-episode microdrama idea for a client",
-  "Use 'I'm trying to...' once in English today"
+  "List the three must-finish tasks for this week",
+  "Note one Thai brand mascot idea you could pitch",
+  "Say 'What's on our plate?' in English today"
  ],
  "thailand": [
   {
    "lead": true,
-   "title": "Mae Sot border tightens goods crossings for 7 days",
-   "th": "กองกำลังนเรศวรสั่งระงับการผ่อนผันนำเข้า-ส่งออกสินค้าผ่านช่องทางอื่นนอกเหนือจากช่องทางที่อนุมัติ ในพื้นที่ อ.แม่สอด ถึง อ.พบพระ จ.ตาก ตั้งแต่ 30 ต.ค. ถึง 5 พ.ย. 2569 หรือจนกว่าสถานการณ์จะคลี่คลาย หลังการสู้รบในเมียวดีช่วง 25-29 ต.ค. ทำให้กระสุนตกฝั่งไทยและบ้านเรือนเสียหาย มาตรการนี้ไม่ได้หมายถึงการปิดด่านทั้งหมด",
-   "en": "Official crossings stay open; only informal routes are paused.",
+   "title": "Company registration goes 100% online from November 1",
+   "th": "กรมพัฒนาธุรกิจการค้า (DBD) ยกเลิกการจดทะเบียนห้างหุ้นส่วนและบริษัทแบบ Walk-In และเอกสารกระดาษ ตั้งแต่ 1 พ.ย. 2569 ทุกคำขอต้องยื่นผ่านระบบออนไลน์ DBD Biz Regist ที่ใช้ได้ 24 ชั่วโมงไม่เว้นวันหยุด ทั้งจดใหม่ แก้ไขข้อมูล ติดตามสถานะ และรับเอกสารอิเล็กทรอนิกส์",
+   "en": "Handy if the company idea goes ahead: no queue at the office anymore.",
    "source": "Siam Rath",
-   "url": "https://siamrath.co.th/politics/332426"
+   "url": "https://siamrath.co.th/politics/332550"
   },
   {
-   "title": "PM Anutin's Bhutan visit wraps up today in Gelephu",
-   "th": "นายกฯ อนุทิน ชาญวีรกูล เยือนภูฏานอย่างเป็นทางการ 30 ต.ค.-1 พ.ย. ครั้งแรกในรอบ 8 ปี ตรงกับวาระ 37 ปีความสัมพันธ์ทางการทูต วันนี้มีกำหนดไปเมืองเกเลฟูร่วมโครงการสร้างสถูป 108 องค์ ส่วน FTA ไทย-ภูฏานมีกำหนดมีผล 1 ม.ค. 2570",
-   "en": "Gelephu 'Mindfulness City' could open doors for Thai businesses.",
-   "source": "Siam Rath",
-   "url": "https://siamrath.co.th/politics/332426"
+   "title": "KBank files police report over a fake 7-million-baht transfer slip",
+   "th": "ธนาคารกสิกรไทยแจ้งความที่ สน.บางซื่อ เอาผิดผู้ปลอมสลิปโอนเงิน 7 ล้านบาทที่เผยแพร่บนโซเชียล ธนาคารยืนยันว่าสลิปนี้ไม่ได้ออกจากระบบของธนาคาร",
+   "en": "A reminder to verify slips in the bank app, not by screenshot.",
+   "source": "Ban Muang",
+   "url": "https://www.banmuang.co.th/news/politic/496284"
   },
   {
-   "title": "Thai rice exports may miss the 7-million-tonne target",
-   "th": "สมาคมผู้ส่งออกข้าวไทยประเมินว่าปี 2569 อาจส่งออกไม่ถึงเป้า 7 ล้านตัน (ปีก่อน 7.9 ล้านตัน) เพราะความขัดแย้งในตะวันออกกลางกระทบตลาดอิรัก ซึ่งปีก่อนไทยส่งไปได้ราว 1 ล้านตัน แต่ 9 เดือนแรกปีนี้ส่งได้เพียงราว 9 หมื่นตัน",
-   "en": "The Gulf war is reaching Thai farmers' pockets too.",
+   "title": "'Bew' Puripol wins 100m gold at the national championships",
+   "th": "บิว ภูริพล บุญสอน คว้าเหรียญทองวิ่ง 100 เมตรชาย ในกรีฑาชิงแชมป์ประเทศไทย ครั้งที่ 70 ด้วยเวลา 10.36 วินาที ทวงแชมป์กลับมาได้เป็นสมัยที่ 2",
+   "en": "Good news for Thai sprinting ahead of international meets.",
+   "source": "Ban Muang",
+   "url": "https://www.banmuang.co.th/news/politic/496284"
+  },
+  {
+   "title": "Gold drops 1,550 baht in a day",
+   "th": "สมาคมค้าทองคำประกาศราคาวันที่ 31 ต.ค. ทองคำแท่งรับซื้อบาทละ 62,000 ขายออก 62,200 บาท ลดลง 1,550 บาทจากวันก่อนหน้า ทองรูปพรรณขายออกบาทละ 63,000 บาท",
+   "en": "World gold also fell over 3% on Friday.",
    "source": "AEC10NEWS via LINE TODAY",
-   "url": "https://today.line.me/th/v3/article/2D9jpGB"
+   "url": "https://today.line.me/th/v3/article/PGzNKYV"
   }
  ],
  "world": [
   {
-   "title": "Iran warns of a response 'without geographical limits'",
-   "th": "ผู้นำสูงสุดอิหร่าน โมจตาบา คาเมเนอี เตือนสหรัฐฯ และอิสราเอลว่าจะตอบโต้ทันทีโดยไม่จำกัดพื้นที่หากถูกโจมตีอีก ขณะที่รมว.ต่างประเทศสหรัฐฯ มาร์โก รูบิโอ บอกว่าทรัมป์ยังไม่ได้ตัดสินใจเรื่องโจมตีรอบใหม่ คณะเจรจาอิหร่านอยู่ที่โดฮากับคนกลางกาตาร์ น้ำมันเบรนต์ราว 113 ดอลลาร์",
-   "en": "Fuel prices are likely to stay high while this stays tense.",
+   "title": "Gen Z cost-of-living protests turn violent in Germany",
+   "th": "การประท้วงค่าครองชีพที่นำโดยคนรุ่นใหม่ในราว 34 เมืองของเยอรมนีเกิดเหตุรุนแรงคืนวันเสาร์ ร้านค้าในแฟรงก์เฟิร์ตถูกปล้น ตำรวจบาดเจ็บกว่า 100 นาย ขณะที่ฝรั่งเศสมีผู้ประท้วงราว 320,000 คนเป็นสุดสัปดาห์ที่สาม",
+   "en": "Youth anger over prices is spreading across Europe.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-31/"
+   "url": "https://oneturn.news/day/2026-11-01/"
   },
   {
-   "title": "Binance restores 90% of hacked assets, plans to reopen withdrawals today",
-   "th": "Binance บอกว่าคืนการค้ำประกันสินทรัพย์ที่ถูกแฮก 6,300 ล้านดอลลาร์ได้แล้ว 90% และวางแผนเปิดให้ถอนเงินอีกครั้งวันอาทิตย์นี้ หลังผ่านการตรวจความปลอดภัย",
-   "en": "Still: only trust Binance's official channels for updates.",
+   "title": "FBI blames North Korea for the $6.3 billion Binance hack",
+   "th": "FBI ระบุว่ากลุ่ม TraderTraitor ของเกาหลีเหนืออยู่เบื้องหลังการขโมยจาก Binance ซึ่งถูกเรียกว่าการขโมยคริปโตครั้งใหญ่ที่สุดเท่าที่มีบันทึก Binance บอกว่าคืนการค้ำประกันสินทรัพย์ได้ 90% และเริ่มเปิดถอนเงินเป็นระยะ",
+   "en": "Withdrawals are reopening step by step.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-31/"
+   "url": "https://oneturn.news/day/2026-11-01/"
   },
   {
-   "title": "US midterms on Tuesday; over 50 million already voted",
-   "th": "ชาวอเมริกันกว่า 50 ล้านคนลงคะแนนล่วงหน้าแล้ว ก่อนเลือกตั้งกลางเทอม 3 พ.ย. ซึ่งเลือก ส.ส. ทั้ง 435 ที่นั่งและราวหนึ่งในสามของวุฒิสภา",
-   "en": "Results will land on Wednesday morning, Bangkok time.",
+   "title": "Oil climbs above $113 while stocks and gold fall",
+   "th": "น้ำมันเบรนต์ขึ้น 2.4% เป็น 113.43 ดอลลาร์ จากความกังวลว่าสหรัฐฯ กับอิหร่านจะกลับมาสู้กัน ขณะที่ความกังวลเรื่องหนี้ของธุรกิจ AI ทำให้ S&P 500 ลง 1.82% และทองคำลง 3.29%",
+   "en": "Expect fuel prices to stay high this week.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-31/"
+   "url": "https://oneturn.news/day/2026-11-01/"
   },
   {
-   "title": "Harry Kane wins the Ballon d'Or",
-   "th": "แฮร์รี เคน คว้าบัลลงดอร์ฝ่ายชาย ชนะคีลิยัน เอ็มบัปเป ด้วยคะแนนห่างเพียง 28 แต้ม หนึ่งในการลุ้นที่สูสีที่สุดของรางวัลนี้",
-   "en": "Finally a big trophy for Kane!",
+   "title": "Alcaraz wins Vienna; Almgren and Chepkirui win the NYC Marathon",
+   "th": "คาร์ลอส อัลคาราซ ชนะอเล็กซ์ เดอ มิโนร์ 2 เซตรวด คว้าแชมป์เวียนนา เป็นแชมป์ที่ 4 ของฤดูกาล ส่วนนิวยอร์กซิตี้มาราธอน อันเดรียส อัลม์เกรน จากสวีเดนชนะประเภทชายในการลงวิ่งครั้งแรก และชีลา เชปคีรุย จากเคนยาชนะประเภทหญิงเป็นครั้งที่สอง",
+   "en": "A big sports weekend all round.",
    "source": "One Turn",
-   "url": "https://oneturn.news/day/2026-10-31/"
+   "url": "https://oneturn.news/day/2026-11-01/"
   }
  ],
  "social": [
   {
-   "title": "Meta's Style Sketch AI outfit app launches in Thailand",
-   "th": "Meta เปิดแอป Style Sketch แบบเงียบๆ ใน อินโดนีเซีย สิงคโปร์ และไทย สร้างตู้เสื้อผ้าเสมือนจากรูปที่เคยโพสต์บน IG หรือถ่ายเพิ่มเอง แล้วแนะนำการจับคู่ชุด ลองบนนางแบบที่ปรับตามรูปร่างและสีผิว และวางแผนชุดสำหรับทริปตามสภาพอากาศได้",
-   "why": "ไทยเป็นตลาดทดลอง ลองโหลดมาดูเองได้เลย และเป็นสัญญาณว่า IG จะเชื่อมกับการช้อปและแฟชั่นลึกขึ้น",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+   "title": "YouTube tests a lower payout threshold for creators",
+   "th": "YouTube กำลังทดลองลดยอดเงินขั้นต่ำที่ครีเอเตอร์บางส่วนต้องสะสมก่อนได้รับเงิน เพื่อให้ช่องเล็กเข้าถึงรายได้เร็วขึ้น ตอนนี้ยังไม่เปิดให้ทุกคน",
+   "why": "ถ้าขยายมาไทย ครีเอเตอร์ไซซ์เล็กจะอยู่บน YouTube ง่ายขึ้น เป็นตัวเลือก micro-creator ที่น่าสนใจสำหรับแคมเปญลูกค้า",
+   "source": "Mediatrends",
+   "url": "https://www.mediatrends.it/social-buzz-le-notizie-della-settimana-che-forse-non-hai-letto-26-10-01-11-mediatrends/"
   },
   {
-   "title": "YouTube pushes microdramas: 6.5B views and paid episodes coming",
-   "th": "YouTube เผยละครสั้นแนวตั้งมียอดวิวเกิน 6,500 ล้านในครึ่งแรกปี 2569 เวลาดูโต 50% และยอดวิวในเอเชียแปซิฟิกโตกว่า 70% เร็วๆ นี้จะให้คนดูสมัครสมาชิกช่องเพื่อดูตอนต่อไปได้ทันที พร้อมแนะนำสูตร hook แรงใน 15 วินาทีแรก",
-   "why": "คอนเทนต์แบรนด์แบบซีรีส์สั้นกำลังมา ใช้ข้อมูลนี้เสนอลูกค้าทำมินิดราม่าที่วางสินค้าในเรื่องได้",
-   "source": "YouTube Blog",
-   "url": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/"
+   "title": "Meta delays new business terms after publisher pushback",
+   "th": "Meta เลื่อนเงื่อนไขทางธุรกิจใหม่ที่อาจอนุญาตให้ระบบอัตโนมัติเก็บเนื้อหาจากเว็บไซต์ที่ผูกกับบัญชีธุรกิจ จากเดิม 30 ต.ค. ไปเป็น 20 พ.ย. และจะปรึกษากลุ่มอุตสาหกรรมก่อน ถ้าการหารือยืดออกไปก็จะเลื่อนอีก ระหว่างนี้เงื่อนไขเดิมยังใช้อยู่",
+   "why": "แบรนด์ลูกค้าที่ผูกเว็บไซต์กับเพจธุรกิจควรรู้ไว้ ถ้าเงื่อนไขใหม่มีผล คอนเทนต์บนเว็บอาจถูกนำไปใช้ในผลิตภัณฑ์ของ Meta รวมถึง AI",
+   "source": "NeoTeo",
+   "url": "https://www.neoteo.com/en/meta-delays-proposed-business-terms-for-consultation"
   },
   {
-   "title": "TikTok launches 'Must Eat' restaurant guide",
-   "th": "TikTok เปิด Must Eat คู่มือร้านอาหารในแอปที่สร้างจากโพสต์และคอมเมนต์กว่า 40 ล้านรายการ แบ่งเป็น Everyday Eats กับ Elevated Dining กรองตามประเภทอาหาร ราคา และระยะทาง จองผ่าน OpenTable ได้ ร้านจ่ายเงินเพื่อขึ้นลิสต์ไม่ได้ เริ่มที่นิวยอร์ก แอลเอ และซานฟรานซิสโก",
-   "why": "TikTok กำลังเป็นเครื่องมือค้นหาร้านจริงจัง ถ้ามาไทย ร้านคาเฟ่และลูกค้าสาย F&B ต้องเน้นรีวิวจากคอมมูนิตี้มากกว่าโฆษณา",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp"
+   "title": "Meta, TikTok and X lose UK court fight over moderation data",
+   "th": "ศาลสูงลอนดอนตัดสินให้ Meta, TikTok และ X แพ้คดีที่ค้านคำขอข้อมูลของ Ofcom ตามกฎหมาย Online Safety Act แพลตฟอร์มต้องส่งข้อมูลละเอียด เช่น จำนวนโพสต์ที่ถูกลบหรือจำกัดการมองเห็น และจำนวนผู้ใช้ที่เจอเนื้อหาอันตราย",
+   "why": "ทิศทางโลกคือแพลตฟอร์มคุมเนื้อหาเข้มขึ้น โพสต์แบรนด์ที่หมิ่นเหม่อาจถูกลดการมองเห็นง่ายขึ้นในอนาคต",
+   "source": "The Indian Express",
+   "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-tiktok-x-lose-legal-challenge-against-uk-watchdog-over-online-safety-data-demands-10945542/"
   },
   {
-   "title": "X adds photo resharing with credit to the original creator",
-   "th": "X เปิดฟีเจอร์ให้กดค้างที่รูปของคนอื่นแล้วเลือก Post photo รูปจะมีลิงก์เครดิตเจ้าของ และทั้งคนแชร์กับเจ้าของรูปได้ส่วนแบ่งจาก Original Content Rewards แทนการเซฟรูปแล้วโพสต์ใหม่",
-   "why": "ถ้าแบรนด์อยากแชร์งานแฟนหรือครีเอเตอร์บน X ใช้ปุ่มนี้แทนการรีโพสต์รูปเอง ได้ทั้งเครดิตและภาพลักษณ์ที่ดี",
-   "source": "Social Media Today",
-   "url": "https://www.socialmediatoday.com/news/x-lets-users-share-credit-on-reposted-images/873100/"
+   "title": "LinkedIn adds Creator Discovery and looser ad limits",
+   "th": "LinkedIn เพิ่มเครื่องมือ Creator Discovery ช่วยแบรนด์หาครีเอเตอร์มาร่วมงาน เพิ่มการควบคุม Company Page เพื่อลบบัญชีปลอม ให้ใช้งบต่อวันได้ถึงสองเท่าของงบที่ตั้ง และลดกลุ่มเป้าหมายขั้นต่ำของ Reserved Ads เหลือ 100,000 คน",
+   "why": "ถ้า GWM อยากทำคอนเทนต์ฝั่งองค์กรหรือหาพาร์ตเนอร์ B2B LinkedIn เริ่มมีเครื่องมือหาครีเอเตอร์ที่ใช้งานจริงได้แล้ว",
+   "source": "Bobbin",
+   "url": "https://bobbin.video/marketing-updates-november-2026/"
+  },
+  {
+   "title": "GCAP GOLD x Butterbear: a mascot campaign that runs into 2027",
+   "th": "GCAP GOLD ใช้น้องหมีเนยทำแคมเปญยาวข้ามปี เริ่มด้วย Golden Heart Dance Challenge ในเดือน ต.ค. ต่อด้วย The Golden Gift of Luck ให้แฟนลุ้นเป็น Lucky Fan ในเดือน พ.ย. และปิดด้วย Meet & Greet The Golden Happiness Festival เดือน ม.ค. 2570",
+   "why": "ตัวอย่างดีของแคมเปญมาสคอตแบบเล่าต่อเนื่องหลายเฟส ใช้อ้างอิงตอนวางแผนกิจกรรมออนไลน์ยาวๆ ให้ลูกค้าได้",
+   "source": "Kaohoon",
+   "url": "https://www.kaohoon.com/news/874734"
   }
  ],
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "weather": {
-  "max": 36,
-  "min": 26,
-  "rain": 86,
+  "max": 35,
+  "min": 27,
+  "rain": 82,
   "uv": 8,
-  "cond": "Showers",
-  "humidity": 89,
+  "cond": "Drizzle",
+  "humidity": 85,
   "source": "Open-Meteo",
-  "fetched": "06:18"
+  "fetched": "06:19"
  },
  "wordsearch": {
   "grid": [
-   "LFJAHOOKSI",
-   "ALMMSRAEAT",
-   "NVNIGITEFM",
-   "OTYDRAMASN",
-   "VEPISODETK",
-   "ELTGOALYNS",
-   "MHJRDAHVJT",
-   "BODIPHOTOE",
-   "EFWYSUNDAY",
-   "RJSYUOWWMN"
+   "VBNGHAMBHB",
+   "TOHHKLOUAA",
+   "BBDPGDNLEM",
+   "ASRLSGDTFM",
+   "BPLALTAEYE",
+   "ERKTIRYCRD",
+   "CILEPIRBHI",
+   "HNGOJGOLDA",
+   "UTOAKRPFWN",
+   "AKLMASCOTG"
   ],
   "words": [
    {
-    "word": "NOVEMBER",
+    "word": "MONDAY",
     "cells": [
      [
+      0,
+      6
+     ],
+     [
+      1,
+      6
+     ],
+     [
       2,
-      0
+      6
      ],
      [
       3,
-      0
+      6
      ],
      [
       4,
-      0
+      6
      ],
      [
       5,
-      0
-     ],
-     [
-      6,
-      0
-     ],
-     [
-      7,
-      0
-     ],
-     [
-      8,
-      0
-     ],
-     [
-      9,
-      0
+      6
      ]
     ]
    },
    {
-    "word": "EPISODE",
+    "word": "MASCOT",
     "cells": [
+     [
+      9,
+      3
+     ],
+     [
+      9,
+      4
+     ],
+     [
+      9,
+      5
+     ],
+     [
+      9,
+      6
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "SPRINT",
+    "cells": [
+     [
+      3,
+      1
+     ],
      [
       4,
       1
      ],
      [
-      4,
-      2
+      5,
+      1
+     ],
+     [
+      6,
+      1
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      8,
+      1
+     ]
+    ]
+   },
+   {
+    "word": "PLATE",
+    "cells": [
+     [
+      2,
+      3
+     ],
+     [
+      3,
+      3
      ],
      [
       4,
       3
      ],
      [
-      4,
-      4
+      5,
+      3
      ],
      [
-      4,
-      5
-     ],
-     [
-      4,
-      6
-     ],
-     [
-      4,
-      7
+      6,
+      3
      ]
     ]
    },
    {
-    "word": "SUNDAY",
+    "word": "MEDIA",
     "cells": [
      [
-      8,
-      4
+      3,
+      9
      ],
      [
-      8,
-      5
+      4,
+      9
      ],
      [
-      8,
-      6
+      5,
+      9
      ],
      [
-      8,
-      7
+      6,
+      9
      ],
      [
-      8,
-      8
-     ],
-     [
-      8,
+      7,
       9
      ]
     ]
    },
    {
-    "word": "DRAMA",
+    "word": "SLIP",
     "cells": [
-     [
-      3,
-      3
-     ],
      [
       3,
       4
      ],
      [
-      3,
-      5
+      4,
+      4
      ],
      [
-      3,
-      6
+      5,
+      4
      ],
      [
-      3,
-      7
+      6,
+      4
      ]
     ]
    },
    {
-    "word": "PHOTO",
+    "word": "GOLD",
     "cells": [
-     [
-      7,
-      4
-     ],
      [
       7,
       5
@@ -366,56 +410,14 @@
     ]
    },
    {
-    "word": "HOOK",
+    "word": "TEA",
     "cells": [
      [
-      0,
-      4
-     ],
-     [
-      0,
-      5
-     ],
-     [
-      0,
-      6
-     ],
-     [
-      0,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "GOAL",
-    "cells": [
-     [
-      5,
-      3
-     ],
-     [
-      5,
-      4
-     ],
-     [
-      5,
-      5
-     ],
-     [
-      5,
-      6
-     ]
-    ]
-   },
-   {
-    "word": "EAT",
-    "cells": [
-     [
-      1,
+      3,
       7
      ],
      [
-      1,
+      2,
       8
      ],
      [
@@ -431,100 +433,100 @@
    [
     0,
     0,
-    0,
     6,
-    0,
-    0
-   ],
-   [
-    6,
-    0,
-    2,
-    0,
-    0,
-    0
-   ],
-   [
-    4,
-    2,
-    0,
-    3,
-    0,
-    0
-   ],
-   [
-    3,
-    0,
-    6,
-    0,
-    2,
-    0
-   ],
-   [
-    2,
-    5,
-    3,
-    0,
-    0,
-    4
-   ],
-   [
     1,
+    3,
+    0
+   ],
+   [
+    0,
+    3,
+    5,
+    0,
+    4,
+    0
+   ],
+   [
+    5,
+    2,
+    4,
+    0,
+    1,
+    3
+   ],
+   [
     0,
     0,
     0,
+    5,
     0,
     0
+   ],
+   [
+    0,
+    0,
+    0,
+    3,
+    5,
+    0
+   ],
+   [
+    3,
+    5,
+    0,
+    0,
+    0,
+    1
    ]
   ],
   "solution": [
    [
-    5,
-    3,
-    1,
-    6,
-    4,
-    2
-   ],
-   [
-    6,
-    4,
     2,
-    5,
-    3,
-    1
-   ],
-   [
     4,
-    2,
-    5,
-    3,
-    1,
-    6
-   ],
-   [
-    3,
-    1,
     6,
-    4,
-    2,
+    1,
+    3,
     5
    ],
    [
-    2,
-    5,
-    3,
     1,
+    3,
+    5,
+    2,
+    4,
+    6
+   ],
+   [
+    5,
+    2,
+    4,
     6,
+    1,
+    3
+   ],
+   [
+    6,
+    1,
+    3,
+    5,
+    2,
     4
    ],
    [
-    1,
-    6,
     4,
-    2,
+    6,
+    1,
+    3,
     5,
-    3
+    2
+   ],
+   [
+    3,
+    5,
+    2,
+    4,
+    6,
+    1
    ]
   ]
  }

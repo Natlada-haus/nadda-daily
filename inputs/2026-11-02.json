@@ -1,0 +1,155 @@
+{
+ "issue_no": 21,
+ "tagline": "จันทร์ใหม่ ต้นพฤศจิกา ☕ · Fresh week, fresh start",
+ "lifestyle": {
+  "title": "A 10-minute Monday admin sweep",
+  "body": "เช้าวันจันทร์ลองตั้งเวลา 10 นาที เคลียร์งานจุกจิกที่ค้างจากสัปดาห์ก่อน ตอบอีเมลสั้นๆ จดสามเรื่องที่ต้องทำให้เสร็จในสัปดาห์นี้ และถ้าเจอสลิปโอนเงินหรือข่าวแปลกๆ ในโซเชียล ตรวจกับแอปธนาคารก่อนเชื่อเสมอ",
+  "note": "Based on today's fake-slip news"
+ },
+ "word": {
+  "word": "earned media",
+  "pos": "n.",
+  "ipa": "/ɜːnd ˈmiːdiə/",
+  "th": "สื่อที่ได้มาฟรีจากการพูดถึงของคนอื่น (ไม่ได้ซื้อโฆษณา)",
+  "def": "publicity a brand gets for free when people, creators or the press share and talk about it, rather than through paid ads.",
+  "ex": "One celebrity photo with a matcha cup turned into months of earned media for the tea brand."
+ },
+ "english": {
+  "title": "Kicking off the week with your team",
+  "dialogue": [
+   ["Teammate", "Morning! How was your weekend?"],
+   ["Nadda", "Pretty chill, thanks. Ready to dive back in?"],
+   ["Teammate", "Sort of. What's on our plate this week?"],
+   ["Nadda", "Two client decks and the content calendar for December."],
+   ["Teammate", "That's a lot. Where should we start?"],
+   ["Nadda", "Let's tackle the decks first, they're due Wednesday."],
+   ["Teammate", "Sounds good. I'll take the first draft."],
+   ["Nadda", "Perfect. Let's touch base after lunch."]
+  ],
+  "vocab": [
+   ["pretty chill", "ชิลๆ สบายๆ"],
+   ["dive back in", "กลับมาลุยงานต่อ"],
+   ["on our plate", "งานที่อยู่ในมือเรา"],
+   ["tackle", "ลงมือจัดการ"],
+   ["due", "ถึงกำหนดส่ง"],
+   ["touch base", "คุยอัปเดตกันสั้นๆ"]
+  ],
+  "tip": {
+   "instead": "What work we have this week?",
+   "better": "What's on our plate this week?",
+   "why": "คำถามต้องสลับเป็น What do we have... หรือใช้สำนวน on our plate ที่คนทำงานพูดกันบ่อย ฟังเป็นธรรมชาติกว่า"
+  }
+ },
+ "know": [
+  {"title": "Why does the US time change matter to Thailand?", "body": "สหรัฐฯ เลิกใช้เวลาออมแสงเมื่อ 1 พ.ย. ทำให้เวลาห่างจากไทยเพิ่มอีก 1 ชั่วโมง เช่น นิวยอร์กตอนนี้ช้ากว่าไทย 12 ชั่วโมง ตลาดหุ้นสหรัฐฯ เลยเปิดราว 21:30 น. เวลาไทย ประชุมกับลูกค้าหรือทีมฝั่งอเมริกาต้องเช็กเวลาใหม่"},
+  {"title": "What is a 'payout threshold'?", "body": "คือยอดเงินขั้นต่ำที่ครีเอเตอร์ต้องสะสมให้ถึงก่อนแพลตฟอร์มจะโอนเงินให้ YouTube กำลังทดลองลดเกณฑ์นี้ให้ครีเอเตอร์บางส่วน ช่องเล็กๆ จะได้รับเงินเร็วขึ้น"}
+ ],
+ "on_this_day": [
+  {"year": "1936", "text": "The BBC launched the world's first regular high-definition television service from Alexandra Palace in London."},
+  {"year": "1947", "text": "Howard Hughes flew the giant 'Spruce Goose' flying boat for the first and only time."}
+ ],
+ "three_things": [
+  "List the three must-finish tasks for this week",
+  "Note one Thai brand mascot idea you could pitch",
+  "Say 'What's on our plate?' in English today"
+ ],
+ "wordsearch_words": ["MONDAY", "PLATE", "MASCOT", "SLIP", "GOLD", "SPRINT", "MEDIA", "TEA"],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Company registration goes 100% online from November 1",
+   "th": "กรมพัฒนาธุรกิจการค้า (DBD) ยกเลิกการจดทะเบียนห้างหุ้นส่วนและบริษัทแบบ Walk-In และเอกสารกระดาษ ตั้งแต่ 1 พ.ย. 2569 ทุกคำขอต้องยื่นผ่านระบบออนไลน์ DBD Biz Regist ที่ใช้ได้ 24 ชั่วโมงไม่เว้นวันหยุด ทั้งจดใหม่ แก้ไขข้อมูล ติดตามสถานะ และรับเอกสารอิเล็กทรอนิกส์",
+   "en": "Handy if the company idea goes ahead: no queue at the office anymore.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/332550"
+  },
+  {
+   "title": "KBank files police report over a fake 7-million-baht transfer slip",
+   "th": "ธนาคารกสิกรไทยแจ้งความที่ สน.บางซื่อ เอาผิดผู้ปลอมสลิปโอนเงิน 7 ล้านบาทที่เผยแพร่บนโซเชียล ธนาคารยืนยันว่าสลิปนี้ไม่ได้ออกจากระบบของธนาคาร",
+   "en": "A reminder to verify slips in the bank app, not by screenshot.",
+   "source": "Ban Muang",
+   "url": "https://www.banmuang.co.th/news/politic/496284"
+  },
+  {
+   "title": "'Bew' Puripol wins 100m gold at the national championships",
+   "th": "บิว ภูริพล บุญสอน คว้าเหรียญทองวิ่ง 100 เมตรชาย ในกรีฑาชิงแชมป์ประเทศไทย ครั้งที่ 70 ด้วยเวลา 10.36 วินาที ทวงแชมป์กลับมาได้เป็นสมัยที่ 2",
+   "en": "Good news for Thai sprinting ahead of international meets.",
+   "source": "Ban Muang",
+   "url": "https://www.banmuang.co.th/news/politic/496284"
+  },
+  {
+   "title": "Gold drops 1,550 baht in a day",
+   "th": "สมาคมค้าทองคำประกาศราคาวันที่ 31 ต.ค. ทองคำแท่งรับซื้อบาทละ 62,000 ขายออก 62,200 บาท ลดลง 1,550 บาทจากวันก่อนหน้า ทองรูปพรรณขายออกบาทละ 63,000 บาท",
+   "en": "World gold also fell over 3% on Friday.",
+   "source": "AEC10NEWS via LINE TODAY",
+   "url": "https://today.line.me/th/v3/article/PGzNKYV"
+  }
+ ],
+ "world": [
+  {
+   "title": "Gen Z cost-of-living protests turn violent in Germany",
+   "th": "การประท้วงค่าครองชีพที่นำโดยคนรุ่นใหม่ในราว 34 เมืองของเยอรมนีเกิดเหตุรุนแรงคืนวันเสาร์ ร้านค้าในแฟรงก์เฟิร์ตถูกปล้น ตำรวจบาดเจ็บกว่า 100 นาย ขณะที่ฝรั่งเศสมีผู้ประท้วงราว 320,000 คนเป็นสุดสัปดาห์ที่สาม",
+   "en": "Youth anger over prices is spreading across Europe.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-01/"
+  },
+  {
+   "title": "FBI blames North Korea for the $6.3 billion Binance hack",
+   "th": "FBI ระบุว่ากลุ่ม TraderTraitor ของเกาหลีเหนืออยู่เบื้องหลังการขโมยจาก Binance ซึ่งถูกเรียกว่าการขโมยคริปโตครั้งใหญ่ที่สุดเท่าที่มีบันทึก Binance บอกว่าคืนการค้ำประกันสินทรัพย์ได้ 90% และเริ่มเปิดถอนเงินเป็นระยะ",
+   "en": "Withdrawals are reopening step by step.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-01/"
+  },
+  {
+   "title": "Oil climbs above $113 while stocks and gold fall",
+   "th": "น้ำมันเบรนต์ขึ้น 2.4% เป็น 113.43 ดอลลาร์ จากความกังวลว่าสหรัฐฯ กับอิหร่านจะกลับมาสู้กัน ขณะที่ความกังวลเรื่องหนี้ของธุรกิจ AI ทำให้ S&P 500 ลง 1.82% และทองคำลง 3.29%",
+   "en": "Expect fuel prices to stay high this week.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-01/"
+  },
+  {
+   "title": "Alcaraz wins Vienna; Almgren and Chepkirui win the NYC Marathon",
+   "th": "คาร์ลอส อัลคาราซ ชนะอเล็กซ์ เดอ มิโนร์ 2 เซตรวด คว้าแชมป์เวียนนา เป็นแชมป์ที่ 4 ของฤดูกาล ส่วนนิวยอร์กซิตี้มาราธอน อันเดรียส อัลม์เกรน จากสวีเดนชนะประเภทชายในการลงวิ่งครั้งแรก และชีลา เชปคีรุย จากเคนยาชนะประเภทหญิงเป็นครั้งที่สอง",
+   "en": "A big sports weekend all round.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-01/"
+  }
+ ],
+ "social": [
+  {
+   "title": "YouTube tests a lower payout threshold for creators",
+   "th": "YouTube กำลังทดลองลดยอดเงินขั้นต่ำที่ครีเอเตอร์บางส่วนต้องสะสมก่อนได้รับเงิน เพื่อให้ช่องเล็กเข้าถึงรายได้เร็วขึ้น ตอนนี้ยังไม่เปิดให้ทุกคน",
+   "why": "ถ้าขยายมาไทย ครีเอเตอร์ไซซ์เล็กจะอยู่บน YouTube ง่ายขึ้น เป็นตัวเลือก micro-creator ที่น่าสนใจสำหรับแคมเปญลูกค้า",
+   "source": "Mediatrends",
+   "url": "https://www.mediatrends.it/social-buzz-le-notizie-della-settimana-che-forse-non-hai-letto-26-10-01-11-mediatrends/"
+  },
+  {
+   "title": "Meta delays new business terms after publisher pushback",
+   "th": "Meta เลื่อนเงื่อนไขทางธุรกิจใหม่ที่อาจอนุญาตให้ระบบอัตโนมัติเก็บเนื้อหาจากเว็บไซต์ที่ผูกกับบัญชีธุรกิจ จากเดิม 30 ต.ค. ไปเป็น 20 พ.ย. และจะปรึกษากลุ่มอุตสาหกรรมก่อน ถ้าการหารือยืดออกไปก็จะเลื่อนอีก ระหว่างนี้เงื่อนไขเดิมยังใช้อยู่",
+   "why": "แบรนด์ลูกค้าที่ผูกเว็บไซต์กับเพจธุรกิจควรรู้ไว้ ถ้าเงื่อนไขใหม่มีผล คอนเทนต์บนเว็บอาจถูกนำไปใช้ในผลิตภัณฑ์ของ Meta รวมถึง AI",
+   "source": "NeoTeo",
+   "url": "https://www.neoteo.com/en/meta-delays-proposed-business-terms-for-consultation"
+  },
+  {
+   "title": "Meta, TikTok and X lose UK court fight over moderation data",
+   "th": "ศาลสูงลอนดอนตัดสินให้ Meta, TikTok และ X แพ้คดีที่ค้านคำขอข้อมูลของ Ofcom ตามกฎหมาย Online Safety Act แพลตฟอร์มต้องส่งข้อมูลละเอียด เช่น จำนวนโพสต์ที่ถูกลบหรือจำกัดการมองเห็น และจำนวนผู้ใช้ที่เจอเนื้อหาอันตราย",
+   "why": "ทิศทางโลกคือแพลตฟอร์มคุมเนื้อหาเข้มขึ้น โพสต์แบรนด์ที่หมิ่นเหม่อาจถูกลดการมองเห็นง่ายขึ้นในอนาคต",
+   "source": "The Indian Express",
+   "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-tiktok-x-lose-legal-challenge-against-uk-watchdog-over-online-safety-data-demands-10945542/"
+  },
+  {
+   "title": "LinkedIn adds Creator Discovery and looser ad limits",
+   "th": "LinkedIn เพิ่มเครื่องมือ Creator Discovery ช่วยแบรนด์หาครีเอเตอร์มาร่วมงาน เพิ่มการควบคุม Company Page เพื่อลบบัญชีปลอม ให้ใช้งบต่อวันได้ถึงสองเท่าของงบที่ตั้ง และลดกลุ่มเป้าหมายขั้นต่ำของ Reserved Ads เหลือ 100,000 คน",
+   "why": "ถ้า GWM อยากทำคอนเทนต์ฝั่งองค์กรหรือหาพาร์ตเนอร์ B2B LinkedIn เริ่มมีเครื่องมือหาครีเอเตอร์ที่ใช้งานจริงได้แล้ว",
+   "source": "Bobbin",
+   "url": "https://bobbin.video/marketing-updates-november-2026/"
+  },
+  {
+   "title": "GCAP GOLD x Butterbear: a mascot campaign that runs into 2027",
+   "th": "GCAP GOLD ใช้น้องหมีเนยทำแคมเปญยาวข้ามปี เริ่มด้วย Golden Heart Dance Challenge ในเดือน ต.ค. ต่อด้วย The Golden Gift of Luck ให้แฟนลุ้นเป็น Lucky Fan ในเดือน พ.ย. และปิดด้วย Meet & Greet The Golden Happiness Festival เดือน ม.ค. 2570",
+   "why": "ตัวอย่างดีของแคมเปญมาสคอตแบบเล่าต่อเนื่องหลายเฟส ใช้อ้างอิงตอนวางแผนกิจกรรมออนไลน์ยาวๆ ให้ลูกค้าได้",
+   "source": "Kaohoon",
+   "url": "https://www.kaohoon.com/news/874734"
+  }
+ ]
+}
