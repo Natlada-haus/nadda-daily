@@ -1,0 +1,155 @@
+{
+ "issue_no": 22,
+ "tagline": "อังคารสบายๆ ฟ้าเริ่มเย็น 🌤️ · Small steps, steady Tuesday",
+ "lifestyle": {
+  "title": "Pack a mini rain kit this week",
+  "body": "กรมอุตุฯ เตือนอากาศแปรปรวนช่วงต้นเดือน พ.ย. มีทั้งฝนฟ้าคะนองและลมเย็นจากจีน ลองใส่ร่มพับ ถุงซิปกันน้ำสำหรับมือถือ และเสื้อคลุมบางๆ ไว้ในกระเป๋า เผื่อติดฝนตอนกลับบ้านหรือห้องประชุมแอร์เย็นจัด",
+  "note": "Based on today's weather warning"
+ },
+ "word": {
+  "word": "long-form",
+  "pos": "adj.",
+  "ipa": "/ˌlɒŋ ˈfɔːm/",
+  "th": "เนื้อหาแบบยาว (เช่น วิดีโอหรือบทความที่ยาวกว่าปกติ)",
+  "def": "describing content such as videos, podcasts or articles that are much longer than typical short posts.",
+  "ex": "Instagram is now testing long-form horizontal videos of up to 90 minutes."
+ },
+ "english": {
+  "title": "Giving a quick status update",
+  "dialogue": [
+   ["Manager", "Hey, where are we with the client deck?"],
+   ["Nadda", "We're about 80% there. Just polishing the visuals."],
+   ["Manager", "Great. Any blockers?"],
+   ["Nadda", "We're still waiting on the final product photos."],
+   ["Manager", "I'll chase them today."],
+   ["Nadda", "Thanks! Once we have them, we can wrap it up by tomorrow."],
+   ["Manager", "Perfect. Keep me posted."],
+   ["Nadda", "Will do."]
+  ],
+  "vocab": [
+   ["where are we with...", "งาน...ไปถึงไหนแล้ว"],
+   ["polishing", "เก็บรายละเอียดให้เนี้ยบ"],
+   ["blockers", "สิ่งที่ทำให้งานติด"],
+   ["chase", "ตามงาน ทวงถาม"],
+   ["wrap it up", "ปิดงานให้เสร็จ"],
+   ["keep me posted", "อัปเดตให้รู้เรื่อยๆ นะ"]
+  ],
+  "tip": {
+   "instead": "The work is not finish yet.",
+   "better": "We're about 80% there.",
+   "why": "บอกความคืบหน้าเป็นตัวเลขฟังมืออาชีพกว่า และ finish ต้องเป็น finished ถ้าจะใช้ประโยคเดิม"
+  }
+ },
+ "know": [
+  {"title": "What is a 'microdrama'?", "body": "คือละครสั้นมากตอนละ 1-3 นาที ถ่ายแนวตั้ง ปล่อยเป็นซีรีส์หลายสิบตอน แต่ละตอนจบแบบค้างให้อยากดูต่อ ตอนนี้ YouTube เปิดให้ครีเอเตอร์ทำตอนพิเศษเฉพาะสมาชิกแบบเสียเงินได้แล้ว"},
+  {"title": "Why do US midterms matter to us?", "body": "วันนี้ (3 พ.ย. ตามเวลาสหรัฐฯ) คนอเมริกันเลือก ส.ส. ทั้ง 435 ที่นั่งและ ส.ว. ราวหนึ่งในสาม ผลจะกำหนดว่าพรรคไหนคุมสภา ซึ่งกระทบนโยบายภาษีนำเข้าและค่าเงิน นักวิเคราะห์หุ้นไทยก็จับตาผลนี้สัปดาห์นี้"}
+ ],
+ "on_this_day": [
+  {"year": "1957", "text": "The Soviet Union launched Sputnik 2, carrying Laika the dog, the first animal to orbit Earth."},
+  {"year": "1992", "text": "Bill Clinton was elected the 42nd President of the United States."}
+ ],
+ "three_things": [
+  "Put a folding umbrella in your bag",
+  "Write one 'Clips as Reels' style teaser idea for a long video",
+  "Say 'Keep me posted' in English today"
+ ],
+ "wordsearch_words": ["REELS", "RAIN", "EXPO", "VOTE", "DRAMA", "CREDIT", "FEED", "OIL"],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "World Horticultural Expo Udon Thani opens, cabinet meets there today",
+   "th": "นายกฯ อนุทิน ชาญวีรกูล เปิดมหกรรมพืชสวนโลกจังหวัดอุดรธานี ที่พื้นที่ชุ่มน้ำหนองแด จัดถึง 14 มี.ค. 2570 เปิดเวลา 08.00-20.00 น. และนำ ครม.ประชุมสัญจรที่อุดรธานีวันที่ 3 พ.ย. ขณะที่ Thai PBS รายงานว่างานยังเจอปัญหาบริหารจัดการ กระทรวงเกษตรฯ สั่งแก้ให้จบในสัปดาห์นี้",
+   "en": "A new big-event backdrop for Isan content until March.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/332567"
+  },
+  {
+   "title": "Truck operators plan a fuel-price rally on Wednesday",
+   "th": "สหพันธ์การขนส่งทางบกแห่งประเทศไทยและภาคีเครือข่าย 13 สมาคม นัดชุมนุมเชิงสัญลักษณ์ที่กระทรวงพลังงาน วันพุธที่ 4 พ.ย. เรียกร้องให้รัฐแก้ปัญหาน้ำมันแพง ส่วนกำนันมะโนจากกระบี่ประกาศนำมวลชนเดินทางมาทำเนียบรัฐบาลด้วย",
+   "en": "Check traffic if you're heading near the Energy Ministry.",
+   "source": "AEC10NEWS via LINE TODAY",
+   "url": "https://today.line.me/th/v3/article/EXw67gm"
+  },
+  {
+   "title": "Unsettled weather warning for 2-6 November",
+   "th": "กรมอุตุนิยมวิทยาเตือนช่วง 2-6 พ.ย. มีฝนฟ้าคะนอง ลมกระโชกแรง และฝนตกหนักบางแห่ง จากมวลอากาศเย็นจากจีนและคลื่นกระแสลมฝ่ายตะวันออกช่วง 3-5 พ.ย. กรุงเทพฯ และปริมณฑลมีฝน 20-40% ของพื้นที่ ภาคใต้ระวังฝนหนัก",
+   "en": "Carry an umbrella; the south should watch for flash floods.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/332567"
+  },
+  {
+   "title": "Nationwide inspection of 3,049 waste-handling factories",
+   "th": "รมว.อุตสาหกรรม วราวุธ ศิลปอาชา เปิดปฏิบัติการตรวจและบังคับใช้กฎหมายโรงงานลำดับที่ 105 และ 106 จำนวน 3,049 แห่งทั่วประเทศ เน้นพื้นที่เสี่ยงและที่มีเรื่องร้องเรียน เพื่อป้องกันการลักลอบทิ้งกากอุตสาหกรรม",
+   "en": "A crackdown on illegal industrial waste dumping.",
+   "source": "AEC10NEWS via LINE TODAY",
+   "url": "https://today.line.me/th/v3/article/EXw67gm"
+  }
+ ],
+ "world": [
+  {
+   "title": "Oil falls 7.5% as Iran offers a two-day Hormuz plan",
+   "th": "อิหร่านเสนอว่าจะเปิดช่องแคบฮอร์มุซได้ภายใน 2 วันหากสหรัฐฯ รับข้อเรียกร้อง การเจรจาทางอ้อมผ่านกาตาร์ยังเข้มข้น น้ำมันเบรนต์ร่วง 7.5% เหลือราว 104.9 ดอลลาร์ ต่ำสุดในรอบกว่าสองสัปดาห์",
+   "en": "Could mean some relief at the pump if talks hold.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-02/"
+  },
+  {
+   "title": "Americans vote in the US midterms today",
+   "th": "ชาวอเมริกันเลือกตั้ง ส.ส. ทั้ง 435 ที่นั่งและ ส.ว. ราวหนึ่งในสามในวันอังคาร โพลชี้พรรคเดโมแครตมีแนวโน้มได้ที่นั่งเพิ่ม ค่าครองชีพและสงครามอิหร่านเป็นประเด็นหลัก",
+   "en": "Results arrive during Wednesday daytime in Thailand.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-02/"
+  },
+  {
+   "title": "Hackers heat up supermarket freezers in seven European countries",
+   "th": "แฮกเกอร์โจมตีระบบทำความเย็นของซูเปอร์มาร์เก็ตหลายสิบแห่งใน 7 ประเทศยุโรป ตู้แช่บางแห่งร้อนขึ้นถึง 50 องศา ต้องทิ้งอาหารและปิดร้านบางสาขา EU เตือนว่ามีความพยายามโจมตีห่วงโซ่อาหาร",
+   "en": "A reminder that internet-connected devices need security too.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-02/"
+  },
+  {
+   "title": "Kimi Antonelli becomes F1's youngest-ever champion",
+   "th": "คิมิ อันโตเนลลี นักขับ Mercedes วัย 20 ปี 68 วัน จบอันดับ 3 ที่เม็กซิโกซิตี้ คว้าแชมป์โลก F1 เป็นแชมป์อายุน้อยที่สุดในประวัติศาสตร์ ส่วนเฟอร์สตัปเพนชนะการแข่งขันสนามนี้",
+   "en": "Italy has a new sports star.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-02/"
+  }
+ ],
+ "social": [
+  {
+   "title": "Instagram tests 'Features': horizontal videos up to 90 minutes",
+   "th": "Instagram เริ่มทดสอบ Features ให้ครีเอเตอร์บางรายในสหรัฐฯ (หลังทดลองที่บราซิล) อัปวิดีโอแนวนอนได้ยาวถึง 90 นาที พร้อมทดสอบ Clips as Reels ที่ผูกคลิป Reels ได้ถึง 8 คลิปเข้ากับวิดีโอยาว และ Series สำหรับจัด Reels เป็นตอนๆ ยังไม่มีส่วนแบ่งรายได้โฆษณา",
+   "why": "ถ้ามาถึงไทย คอนเทนต์ยาวของแบรนด์ (เช่น รีวิวรถ/ไลฟ์เปิดตัว) จะอยู่บน IG ได้เลย และใช้ Reels สั้นเป็นทีเซอร์ดึงคนไปดูตัวเต็ม",
+   "source": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-instagram-features-90-minute-horizontal-videos/"
+  },
+  {
+   "title": "TikTok rolls out a For You feed reset to everyone",
+   "th": "TikTok เปิดให้ผู้ใช้ทุกคนรีเซ็ตฟีด For You ได้ เหมือนเพิ่งสมัครใหม่ แล้วระบบจะเรียนรู้ความสนใจจากการใช้งานใหม่ พร้อมพัฒนาระบบลดการเห็นคอนเทนต์ซ้ำ",
+   "why": "คนดูที่รีเซ็ตฟีดจะถูกจับความสนใจจากไม่กี่คลิปแรก ฮุก 2-3 วินาทีแรกของคลิปแบรนด์ยิ่งสำคัญ",
+   "source": "10PM Curfew",
+   "url": "https://10pmcurfew.com/news/tiktok-will-now-enable-you-to-start-over-in-the-app-by-refreshing-your"
+  },
+  {
+   "title": "X adds credited re-sharing and a video creator bonus",
+   "th": "X เพิ่มการแชร์รูปของคนอื่นพร้อมเครดิต ภาพจะมีลิงก์ไปโปรไฟล์เจ้าของ และยอดเอนเกจเมนต์นับให้ทั้งสองบัญชี และเปิดโปรแกรม Video Kickstart Bonus แบบเชิญเท่านั้น จ่ายโบนัสครีเอเตอร์ที่โพสต์วิดีโอแนวตั้งของตัวเองตามเวลาที่คนดู",
+   "why": "แบรนด์รีแชร์ UGC ของแฟนๆ บน X ได้ถูกต้องกว่าเดิมและให้เครดิตเจ้าของงาน ช่วยลดดราม่าเรื่องเอารูปไปใช้",
+   "source": "We Are Social",
+   "url": "https://wearesocial.com/sg/blog/2026/11/we-are-socials-asia-tuesday-tune-up-798/"
+  },
+  {
+   "title": "YouTube launches microdrama subscriptions",
+   "th": "หลังละครสั้นมียอดวิวหลายพันล้าน YouTube เปิดให้ครีเอเตอร์โพสต์ตอนเฉพาะสมาชิกสำหรับละครสั้นได้ พร้อมเน้นเครื่องมือแปลอัตโนมัติช่วยขยายผู้ชมต่างประเทศ",
+   "why": "ละครสั้นแนวตั้งกำลังเป็นฟอร์แมตหลัก เป็นไอเดียทำ branded series ตอนสั้นๆ ให้ลูกค้าแทนโฆษณาตัวเดียว",
+   "source": "We Are Social",
+   "url": "https://wearesocial.com/sg/blog/2026/11/we-are-socials-asia-tuesday-tune-up-798/"
+  },
+  {
+   "title": "Meta expands teen safety alerts for parents globally",
+   "th": "Meta ขยายการแจ้งเตือนผู้ปกครองที่เปิดเครื่องมือดูแลบัญชีวัยรุ่น ถ้าลูกค้นคำเกี่ยวกับการทำร้ายตัวเองซ้ำๆ บน Facebook หรือ Instagram หรือคุยกับ Meta AI ในลักษณะเสี่ยง โดยเริ่มทยอยใช้ทั่วโลก",
+   "why": "แพลตฟอร์มเข้มเรื่องผู้ใช้วัยรุ่นขึ้นเรื่อยๆ แคมเปญที่เล็งกลุ่มเด็กและวัยรุ่นต้องระวังเนื้อหาและการตั้งเป้ามากขึ้น",
+   "source": "KWCH",
+   "url": "https://www.kwch.com/2026/11/02/meta-launches-teen-safety-alerts-more-platforms/"
+  }
+ ]
+}
