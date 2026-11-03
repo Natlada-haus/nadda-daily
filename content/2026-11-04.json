@@ -1,0 +1,540 @@
+{
+ "issue_no": 23,
+ "tagline": "พุธกลางสัปดาห์ ค่อยๆ ไปทีละเรื่อง 🌦️ · Midweek, one thing at a time",
+ "lifestyle": {
+  "title": "Skip Vibhavadi Road around the Energy Ministry today",
+  "body": "วันนี้ 09.30-15.30 น. กลุ่มรถบรรทุก TRUCK POWER V รวมตัวหน้ากระทรวงพลังงาน (อาคาร EnCo ถ.วิภาวดีรังสิต) ถ้าต้องผ่านแถวนั้นลองเผื่อเวลา หรือเลือกรถไฟฟ้าแทน และพกร่มพับไว้ด้วย เพราะยังอยู่ช่วงอากาศแปรปรวน",
+  "note": "Based on today's rally news"
+ },
+ "word": {
+  "word": "mogging",
+  "pos": "n. (slang)",
+  "ipa": "/ˈmɒɡ.ɪŋ/",
+  "th": "การทำให้คนอื่นดูด้อยไปเลยเมื่ออยู่ข้างกัน (ศัพท์สแลงออนไลน์)",
+  "def": "slang for outshining or upstaging someone, especially by looking better than them; Collins Dictionary's word of the year.",
+  "ex": "Collins picked 'mogging' as its word of the year, so expect it in a lot of captions."
+ },
+ "english": {
+  "title": "Asking for a deadline extension",
+  "dialogue": [
+   [
+    "Nadda",
+    "Hi, do you have a minute? It's about the Friday deadline."
+   ],
+   [
+    "Client",
+    "Sure, what's up?"
+   ],
+   [
+    "Nadda",
+    "We're still waiting on the final specs, so we'd like a bit more time."
+   ],
+   [
+    "Client",
+    "How much more do you need?"
+   ],
+   [
+    "Nadda",
+    "Could we push it to Monday? That way we can get it right."
+   ],
+   [
+    "Client",
+    "Monday works. Just send me a draft on Friday."
+   ],
+   [
+    "Nadda",
+    "Deal. I'll share a rough version by end of day Friday."
+   ],
+   [
+    "Client",
+    "Sounds good."
+   ]
+  ],
+  "vocab": [
+   [
+    "do you have a minute?",
+    "ขอเวลาแป๊บนึงได้ไหม"
+   ],
+   [
+    "final specs",
+    "รายละเอียดสเปกชุดสุดท้าย"
+   ],
+   [
+    "push it to",
+    "เลื่อนไปเป็น"
+   ],
+   [
+    "get it right",
+    "ทำให้ออกมาถูกต้องเรียบร้อย"
+   ],
+   [
+    "rough version",
+    "ฉบับร่างคร่าวๆ"
+   ],
+   [
+    "end of day",
+    "ภายในสิ้นวัน"
+   ]
+  ],
+  "tip": {
+   "instead": "Can I extend the deadline?",
+   "better": "Could we push it to Monday? That way we can get it right.",
+   "why": "บอกวันใหม่ที่ชัดเจนพร้อมเหตุผลสั้นๆ ทำให้อีกฝ่ายตอบตกลงง่ายกว่าการขอเลื่อนลอยๆ"
+  }
+ },
+ "know": [
+  {
+   "title": "What is a 'brand safety' tool?",
+   "body": "คือเครื่องมือช่วยให้โฆษณาของแบรนด์ไม่ไปโผล่ข้างคอนเทนต์ที่เสี่ยง และช่วยตรวจจับของปลอมหรือการละเมิดลิขสิทธิ์ TikTok เพิ่งออกแหล่งข้อมูลเรื่องนี้ให้แบรนด์เพิ่ม"
+  },
+  {
+   "title": "Why do US midterm results arrive today?",
+   "body": "คนอเมริกันลงคะแนนวันอังคารตามเวลาสหรัฐฯ ซึ่งช้ากว่าไทยราว 12 ชั่วโมงขึ้นไป ผลจึงทยอยออกช่วงเช้าถึงบ่ายวันพุธตามเวลาไทย ผลนี้จะบอกว่าพรรคไหนคุมสภาคองเกรสช่วงสองปีสุดท้ายของทรัมป์"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1922",
+   "text": "Howard Carter's team found the steps leading to Tutankhamun's tomb in Egypt's Valley of the Kings."
+  },
+  {
+   "year": "2008",
+   "text": "Barack Obama was elected the 44th President of the United States."
+  }
+ ],
+ "three_things": [
+  "Leave a little earlier if you pass Vibhavadi Road",
+  "Check one old video for music that could get a copyright claim",
+  "Use 'Could we push it to...?' in English today"
+ ],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Mobile cabinet in Udon Thani approves 35 billion baht for 36 projects",
+   "th": "นายกฯ อนุทิน ชาญวีรกูล นำรัฐมนตรีสวมเสื้อผ้าหมี่ขิดประชุม ครม.สัญจรที่อุดรธานี อนุมัติงบ 3.5 หมื่นล้านบาท ขับเคลื่อน 36 โครงการในภาคอีสาน และเผยว่าสำนักงบฯ เตรียมงบโครงการโซลาร์ภาคประชาชนไว้แล้ว",
+   "en": "A big budget push for the northeast.",
+   "source": "Thai Post",
+   "url": "https://www.thaipost.net/e-pub-news/1101026/"
+  },
+  {
+   "title": "TRUCK POWER V rally at the Energy Ministry today",
+   "th": "สหพันธ์การขนส่งทางบกแห่งประเทศไทยและเครือข่าย 13 สมาคม รวมตัวหน้ากระทรวงพลังงาน อาคาร EnCo ถ.วิภาวดีรังสิต 09.30-15.30 น. เรียกร้องรื้อโครงสร้างราคาน้ำมันและดูแลราคาดีเซล ขณะที่เครือข่ายภาคใต้ (นปผ.) วางแผนคาราวานรถเข้ากรุงเทพฯ 5-8 พ.ย.",
+   "en": "Expect traffic on Vibhavadi Road during the day.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/333105"
+  },
+  {
+   "title": "National Security Council rehearses cyber-threat plans",
+   "th": "สมช. เรียกหน่วยงานเกี่ยวข้องประชุมซักซ้อมแผนรับมือภัยไซเบอร์วันนี้ หลังโทรศัพท์ของนายอภิสิทธิ์ เวชชาชีวะ หัวหน้าพรรคประชาธิปัตย์ ถูกเจาะข้อมูล และย้ำว่าข่าวที่ว่า สมช. ให้ประชาชนกักตุนของ 72 ชั่วโมงไม่เป็นความจริง",
+   "en": "A good day to turn on two-factor login everywhere.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/333105"
+  },
+  {
+   "title": "Prachinburi residents push for a pollution control zone",
+   "th": "ชาวปราจีนบุรีเตรียมยื่นกว่า 30,000 รายชื่อ เรียกร้องให้ประกาศเขตควบคุมมลพิษในพื้นที่",
+   "en": "Local pressure over industrial pollution keeps growing.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/333105"
+  }
+ ],
+ "world": [
+  {
+   "title": "US midterm results come in today, Thai time",
+   "th": "ชาวอเมริกันเลือก ส.ส. ทั้ง 435 ที่นั่ง ส.ว. 35 ที่นั่ง และผู้ว่าการรัฐ 36 รัฐ มีคนใช้สิทธิล่วงหน้ากว่า 58 ล้านคน โพลชี้เดโมแครตมีแนวโน้มได้ที่นั่งสภาล่างเพิ่ม ส่วนวุฒิสภายังสูสี",
+   "en": "Results decide who controls Congress for Trump's last two years.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-03/"
+  },
+  {
+   "title": "Trump says the US will end $4bn yearly military aid to Israel",
+   "th": "ทรัมป์ประกาศว่าสหรัฐฯ จะหยุดความช่วยเหลือทางทหารแก่อิสราเอลราว 4 พันล้านดอลลาร์ต่อปีหลังปีนี้ โดยบอกว่าตกลงกับเนทันยาฮูแล้ว แต่มีรายงานว่ากระทรวงการคลังอิสราเอลไม่ได้รับแจ้งล่วงหน้า",
+   "en": "A big shift in a decades-old alliance.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-03/"
+  },
+  {
+   "title": "Oil swings on Iran news, Brent near $103",
+   "th": "น้ำมันเบรนต์ร่วงกว่า 6 ดอลลาร์ช่วงเช้าจากข่าวความคืบหน้าการเจรจา ก่อนดีดกลับหลังสหรัฐฯ โจมตีเกาะเกชม์ของอิหร่าน ปิดที่ราว 103.45 ดอลลาร์ Rystad มองว่าการขนส่งผ่านฮอร์มุซยังไม่กลับสู่ระดับก่อนสงครามเร็วๆ นี้",
+   "en": "Fuel prices at home stay high for now.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-03/"
+  },
+  {
+   "title": "Binance says a fake job interview led to a $6.3bn hack",
+   "th": "Binance เผยแฮกเกอร์ใช้การสัมภาษณ์งานปลอมเข้าถึงวิศวกรของบริษัท ขโมยไป 6.3 พันล้านดอลลาร์ ใหญ่ที่สุดเท่าที่เคยมีมาในวงการคริปโต หน่วยงานสหรัฐฯ ชี้ว่าเป็นฝีมือเกาหลีเหนือ ซึ่งปฏิเสธ",
+   "en": "Be careful with job offers that ask you to install files.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-03/"
+  }
+ ],
+ "social": [
+  {
+   "title": "YouTube expands 'Replace song' to most countries outside the EEA",
+   "th": "YouTube ขยายเครื่องมือ Replace song ให้ครีเอเตอร์ในเกือบทุกประเทศนอกเขตเศรษฐกิจยุโรป สลับเพลงที่โดนเคลมลิขสิทธิ์เป็นดนตรีบรรเลงปลอดค่าลิขสิทธิ์ที่ YouTube สร้างให้",
+   "why": "คลิปแบรนด์เก่าที่โดนเคลมเพลงแก้ได้เองโดยไม่ต้องลบหรืออัปใหม่ เก็บยอดวิวเดิมไว้ได้",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/streaming/1025696/youtube-is-rolling-out-its-replace-song-feature-to-creators-in-more-countries"
+  },
+  {
+   "title": "Instagram reportedly offers creators up to $500K for long-form 'Features'",
+   "th": "Business Insider รายงานว่า Instagram เสนอเงินครีเอเตอร์สูงสุดถึง 500,000 ดอลลาร์ ให้โพสต์วิดีโอยาวในฟอร์แมตใหม่ Features ขณะที่เริ่มทดสอบแบบจำกัดในสหรัฐฯ",
+   "why": "Meta ทุ่มดันวิดีโอยาวจริงจัง ครีเอเตอร์ที่แบรนด์จ้างอาจเริ่มขายแพ็กคอนเทนต์ยาวบน IG ควรเตรียมไอเดียไว้",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/"
+  },
+  {
+   "title": "TikTok adds new brand safety resources",
+   "th": "TikTok เพิ่มแหล่งข้อมูลและเครื่องมือด้านความปลอดภัยของแบรนด์ ช่วยระบุความเสี่ยง รวมถึงการตรวจจับการละเมิดลิขสิทธิ์และสินค้าปลอม",
+   "why": "ใช้ตอบคำถามลูกค้าที่กังวลเรื่องโฆษณาไปอยู่ข้างคอนเทนต์ไม่ดี หรือมีคนแอบอ้างโลโก้แบรนด์",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/"
+  },
+  {
+   "title": "Meta upgrades its AI creator assistant",
+   "th": "Meta อัปเดตแชตบอตผู้ช่วยครีเอเตอร์ เพิ่มการแจ้งเตือนโอกาสใหม่ๆ ช่วยคิดคอนเทนต์ได้ดีขึ้น และตอบข้อความอัตโนมัติ",
+   "why": "การตอบคอมเมนต์และ DM อัตโนมัติจะกลายเป็นเรื่องปกติ ต้องคุมโทนเสียงแบรนด์ให้ดีถ้าเปิดใช้",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/"
+  },
+  {
+   "title": "TikTok launches 'Must Eat', an in-app restaurant guide",
+   "th": "TikTok เปิด Must Eat คู่มือร้านอาหารในแอป สร้างจากโพสต์และคอมเมนต์เรื่องอาหารกว่า 40 ล้านชิ้น ให้รีวิว จองโต๊ะ และดูแผนที่ได้ เริ่มที่นิวยอร์ก ลอสแอนเจลิส และเบย์แอเรีย ร้านจ่ายเงินเพื่อขึ้นลิสต์ไม่ได้",
+   "why": "TikTok กลายเป็นเครื่องมือค้นหาที่ส่งคนไปหน้าร้านจริง ถ้ามาไทย คาเฟ่และลูกค้าขายปลีกต้องมีคลิปรีวิวจริงจากคนใช้",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp"
+  },
+  {
+   "title": "'Mogging' is Collins' word of the year",
+   "th": "Collins Dictionary เลือกคำสแลง 'mogging' ที่แปลว่าทำให้คนอื่นดูด้อยไปเลย เป็นคำแห่งปี คำนี้มาจากวัฒนธรรมออนไลน์และมีมบนโซเชียล",
+   "why": "เป็นคำที่คนรุ่นใหม่ใช้ในแคปชันและมีม หยิบมาเล่นในโพสต์ภาษาอังกฤษได้ แต่ระวังความหมายเชิงเปรียบเทียบหน้าตา",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-03/"
+  }
+ ],
+ "date": "2026-11-04",
+ "weather": {
+  "max": 35,
+  "min": 25,
+  "rain": 96,
+  "uv": 8,
+  "cond": "Showers",
+  "humidity": 82,
+  "source": "Open-Meteo",
+  "fetched": "06:22"
+ },
+ "wordsearch": {
+  "grid": [
+   "SWVCABINET",
+   "ALOHBISONG",
+   "FATTLIWECR",
+   "EYESUBKJMH",
+   "TUPYUMNKDT",
+   "YCRCNYEEJR",
+   "TGAGIDJJSU",
+   "ERVEATFILC",
+   "MOGGINGIUK",
+   "GPAJGVOVLL"
+  ],
+  "words": [
+   {
+    "word": "MOGGING",
+    "cells": [
+     [
+      8,
+      0
+     ],
+     [
+      8,
+      1
+     ],
+     [
+      8,
+      2
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "CABINET",
+    "cells": [
+     [
+      0,
+      3
+     ],
+     [
+      0,
+      4
+     ],
+     [
+      0,
+      5
+     ],
+     [
+      0,
+      6
+     ],
+     [
+      0,
+      7
+     ],
+     [
+      0,
+      8
+     ],
+     [
+      0,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "SAFETY",
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      3,
+      0
+     ],
+     [
+      4,
+      0
+     ],
+     [
+      5,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "TRUCK",
+    "cells": [
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      6,
+      9
+     ],
+     [
+      7,
+      9
+     ],
+     [
+      8,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "VOTE",
+    "cells": [
+     [
+      0,
+      2
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      2,
+      2
+     ],
+     [
+      3,
+      2
+     ]
+    ]
+   },
+   {
+    "word": "SONG",
+    "cells": [
+     [
+      1,
+      6
+     ],
+     [
+      1,
+      7
+     ],
+     [
+      1,
+      8
+     ],
+     [
+      1,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "OIL",
+    "cells": [
+     [
+      9,
+      6
+     ],
+     [
+      8,
+      7
+     ],
+     [
+      7,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "EAT",
+    "cells": [
+     [
+      7,
+      3
+     ],
+     [
+      7,
+      4
+     ],
+     [
+      7,
+      5
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    0,
+    5,
+    4,
+    6,
+    0,
+    2
+   ],
+   [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+   ],
+   [
+    3,
+    0,
+    1,
+    5,
+    0,
+    0
+   ],
+   [
+    4,
+    6,
+    0,
+    2,
+    0,
+    0
+   ],
+   [
+    0,
+    1,
+    0,
+    0,
+    6,
+    0
+   ]
+  ],
+  "solution": [
+   [
+    1,
+    5,
+    4,
+    6,
+    3,
+    2
+   ],
+   [
+    6,
+    3,
+    2,
+    1,
+    5,
+    4
+   ],
+   [
+    5,
+    4,
+    6,
+    3,
+    2,
+    1
+   ],
+   [
+    3,
+    2,
+    1,
+    5,
+    4,
+    6
+   ],
+   [
+    4,
+    6,
+    3,
+    2,
+    1,
+    5
+   ],
+   [
+    2,
+    1,
+    5,
+    4,
+    6,
+    3
+   ]
+  ]
+ }
+}
