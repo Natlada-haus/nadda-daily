@@ -1,0 +1,162 @@
+{
+ "issue_no": 24,
+ "tagline": "พฤหัสฯ ฝนเริ่มมา ลมหนาวใกล้แล้ว 🌧️ · Thursday, rain first, cool air next",
+ "lifestyle": {
+  "title": "Pack an umbrella: storms start today in upper Thailand",
+  "body": "กรมอุตุฯ เตือนอากาศแปรปรวนตั้งแต่วันนี้ ภาคบนมีฝนฟ้าคะนอง ลมกระโชกแรง ก่อนอุณหภูมิลดลงระลอกแรก พกร่มพับกับเสื้อคลุมบางๆ ไว้ในกระเป๋า และถ้าจะเติมน้ำมันเบนซิน วันนี้ถูกลง 70 สตางค์ต่อลิตรแล้ว",
+  "note": "Based on today's weather and fuel price news"
+ },
+ "word": {
+  "word": "landslide",
+  "pos": "n.",
+  "ipa": "/ˈlænd.slaɪd/",
+  "th": "ชัยชนะแบบถล่มทลาย (ในการเลือกตั้ง) หรือดินถล่ม",
+  "def": "an election win by a very large margin; also a mass of earth sliding down a slope.",
+  "ex": "It wasn't quite a landslide, but Democrats won both houses of Congress."
+ },
+ "english": {
+  "title": "Giving a quick status update in a meeting",
+  "dialogue": [
+   ["Manager", "Nadda, where are we with the campaign posts?"],
+   ["Nadda", "We're on track. Three of the five posts are done."],
+   ["Manager", "Great. Any blockers?"],
+   ["Nadda", "Just one. We're waiting on approval for the key visual."],
+   ["Manager", "I'll chase that today."],
+   ["Nadda", "Thanks. Once it's in, we can wrap up by Friday."],
+   ["Manager", "Perfect. Keep me posted."],
+   ["Nadda", "Will do."]
+  ],
+  "vocab": [
+   ["where are we with...?", "งาน...ไปถึงไหนแล้ว"],
+   ["on track", "เป็นไปตามแผน"],
+   ["blockers", "สิ่งที่ทำให้งานติด"],
+   ["chase", "ตามงาน ทวงถาม"],
+   ["wrap up", "ปิดงาน ทำให้เสร็จ"],
+   ["keep me posted", "อัปเดตให้รู้เรื่อยๆ นะ"]
+  ],
+  "tip": {
+   "instead": "It is not finished yet.",
+   "better": "We're on track. Three of the five posts are done.",
+   "why": "บอกความคืบหน้าเป็นตัวเลขชัดๆ ฟังมั่นใจและมืออาชีพกว่าการบอกว่ายังไม่เสร็จ"
+  }
+ },
+ "know": [
+  {"title": "What does 'impression share' mean?", "body": "คือสัดส่วนว่าโฆษณาของเราได้แสดงกี่เปอร์เซ็นต์ จากจำนวนครั้งทั้งหมดที่มีโอกาสแสดงได้ ถ้าตัวเลขต่ำแปลว่ายังมีคนค้นหาที่เราพลาดไป อาจต้องเพิ่มงบหรือปรับราคาประมูล TikTok เพิ่งเพิ่มตัวเลขนี้ให้โฆษณาในช่องค้นหา"},
+  {"title": "Why do oil prices fall after the US vote?", "body": "นักลงทุนมองว่าเมื่อเดโมแครตคุมสภาทั้งสอง แรงกดดันให้ยุติสงครามอิหร่านจะสูงขึ้น โอกาสได้ข้อตกลงสหรัฐฯ-อิหร่านจึงมากขึ้น น้ำมันเบรนต์เลยร่วงราว 9% เหลือประมาณ 94 ดอลลาร์"}
+ ],
+ "on_this_day": [
+  {"year": "1605", "text": "The Gunpowder Plot to blow up England's Parliament was foiled, which the UK still marks as Bonfire Night."},
+  {"year": "1940", "text": "Franklin D. Roosevelt was elected to a record third term as US President."}
+ ],
+ "three_things": [
+  "Put a folding umbrella in your bag",
+  "Try TikTok's 'refresh For You feed' on a test account to see what new users see",
+  "Use 'We're on track' in your next update"
+ ],
+ "wordsearch_words": ["RAIN", "VOTE", "OIL", "FEED", "SEARCH", "TRACK", "CONGRESS", "COOL"],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Southern truck caravan heads to Government House over diesel prices",
+   "th": "กลุ่ม นปผ. นำโดยกำนันมะโน เครือแก้ว นัดขบวนคาราวานรถยนต์และรถบรรทุกเป้าหมาย 1,000 คัน จาก อ.ชะอวด นครศรีธรรมราช มุ่งหน้าทำเนียบรัฐบาล เรียกร้องลดราคาน้ำมันลิตรละ 10 บาท นายกฯ อนุทินยืนยันไม่ปิดกั้นเส้นทาง และให้เจ้าหน้าที่อำนวยความสะดวก",
+   "en": "Expect slower traffic on routes into Bangkok over the next few days.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/333374"
+  },
+  {
+   "title": "Benzine and gasohol drop 70 satang a litre from 5am today",
+   "th": "โออาร์และบางจากลดราคาน้ำมันกลุ่มเบนซินและแก๊สโซฮอล์ 70 สตางค์ต่อลิตร ยกเว้น E85 ส่วนดีเซลราคาเดิม แก๊สโซฮอล์ 95 เหลือลิตรละ 40.84 บาท",
+   "en": "A small break at the pump, but diesel stays the same.",
+   "source": "Thansettakij",
+   "url": "https://www.thansettakij.com/economy/energy/672898"
+  },
+  {
+   "title": "Thai stocks climb back above 1,500 after US vote",
+   "th": "หุ้นไทยเมื่อวานพลิกบวกราว 10 จุด ดัชนีทะลุ 1,500 จุด หลังผลเลือกตั้งกลางเทอมสหรัฐฯ ชี้ว่าเดโมแครตชนะทั้งสองสภา ขณะที่โบรกฯ มองหุ้นชิ้นส่วนยานยนต์และนิคมฯ ได้ประโยชน์จากการขึ้นภาษีรถ EV นำเข้าเป็น 35%",
+   "en": "Markets liked the news; imported EVs may get pricier.",
+   "source": "efin.finance",
+   "url": "https://www.efin.finance/th/stock/news/detail/Hfl0AA"
+  },
+  {
+   "title": "Weather turns stormy before the first cool spell",
+   "th": "กรมอุตุนิยมวิทยาเตือนอากาศแปรปรวนตั้งแต่ 5 พ.ย. ภาคบนมีฝนฟ้าคะนอง ลมกระโชกแรง ฝนตกหนักบางแห่ง ก่อนอุณหภูมิลดลงระลอกแรก ส่วนภาคใต้ยังต้องระวังฝนหนักถึงหนักมากและน้ำท่วมฉับพลัน",
+   "en": "A sign that the cool season is on its way.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/333374"
+  }
+ ],
+ "world": [
+  {
+   "title": "Democrats win both houses of the US Congress",
+   "th": "เดโมแครตชนะทั้งวุฒิสภาและสภาผู้แทนฯ ในการเลือกตั้งกลางเทอม ทรัมป์ระบุว่ายอมรับผล ส่วนรองประธานาธิบดีแวนซ์บอกว่าสงครามอิหร่านคือเหตุที่รีพับลิกันแพ้ สภาชุดใหม่เริ่มงาน 3 ม.ค.",
+   "en": "Divided government could slow Trump's plans on tariffs and the Iran war.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-04/"
+  },
+  {
+   "title": "Brent crude falls about 9% to $94 on US-Iran deal hopes",
+   "th": "นักลงทุนคาดว่าจะมีข้อตกลงสหรัฐฯ-อิหร่านหลังเลือกตั้ง น้ำมันเบรนต์ร่วงราว 9% เหลือ 94.46 ดอลลาร์ ทองคำพุ่งกว่า 3% เกิน 4,000 ดอลลาร์ แม้อิหร่านอ้างว่าเรือบรรทุกน้ำมัน 4 ลำโดนทุ่นระเบิดใกล้ฮอร์มุซ",
+   "en": "Cheaper oil could ease fuel costs, but supply risks remain.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-04/"
+  },
+  {
+   "title": "Russian strike on a Ukrainian aid site kills at least 40",
+   "th": "เซเลนสกีระบุยืนยันผู้เสียชีวิต 40 คนจากการทิ้งระเบิดของรัสเซียที่จุดแจกความช่วยเหลือในโคมิชูวาคา อาจมีอีกราว 30 คนติดใต้ซากอาคาร และมีการโจมตีซ้ำใส่ทีมกู้ภัย",
+   "en": "Ukraine renews calls for more air defence.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-04/"
+  },
+  {
+   "title": "All five DNA and RNA bases found in asteroid Ryugu samples",
+   "th": "นักวิทยาศาสตร์พบนิวคลีโอเบสครบทั้ง 5 ชนิด ซึ่งเป็นส่วนประกอบสำคัญของสิ่งมีชีวิต ในตัวอย่างจากดาวเคราะห์น้อยริวงุที่ยานฮายาบูสะ 2 ของญี่ปุ่นนำกลับมา",
+   "en": "More support for the idea that life's ingredients came from space.",
+   "source": "One Turn",
+   "url": "https://oneturn.news/day/2026-11-04/"
+  }
+ ],
+ "social": [
+  {
+   "title": "TikTok rolls out a 'refresh For You feed' option to all users",
+   "th": "TikTok เปิดให้ผู้ใช้ทุกคนรีเซ็ตฟีด For You ให้เหมือนเพิ่งสมัครใหม่ แล้วระบบจะเรียนรู้ความสนใจใหม่จากการใช้งานหลังจากนั้น พร้อมพัฒนาระบบลดคอนเทนต์ซ้ำๆ",
+   "why": "คนที่รีเซ็ตจะเห็นคลิปยอดนิยมทั่วไปก่อน คลิปแบรนด์ต้องดึงความสนใจได้ใน 2-3 วินาทีแรกเพื่อให้ถูกเรียนรู้ว่าน่าสนใจ",
+   "source": "10PM Curfew",
+   "url": "https://10pmcurfew.com/news/tiktok-will-now-enable-you-to-start-over-in-the-app-by-refreshing-your"
+  },
+  {
+   "title": "TikTok search ads get Impression Share metrics and daily Keyword Packs",
+   "th": "TikTok เพิ่มตัวชี้วัด Impression Share และ Top 1 Impression Share ให้โฆษณาในการค้นหา ดูได้ถึงระดับคีย์เวิร์ด และเพิ่ม Keyword Packs ชุดคีย์เวิร์ดแบรนด์และหมวดสินค้าที่อัปเดตทุกวัน ยังไม่ระบุว่าเปิดในประเทศไหน",
+   "why": "ใช้วัดได้ว่าแคมเปญค้นหาพลาดคนที่ค้นหาไปเท่าไร ช่วยตัดสินใจเพิ่มงบหรือปรับราคาประมูลได้ชัดขึ้น",
+   "source": "Stacked Marketer",
+   "url": "https://www.stackedmarketer.com/p/reddit-and-tiktok-expand-search-ads-as-instagram-and-x-pay-creators"
+  },
+  {
+   "title": "X pays creators for posting vertical videos 15 days in a month",
+   "th": "X เปิดโบนัส Video Kickstart แบบรับเชิญ จ่ายให้ครีเอเตอร์ที่โพสต์วิดีโอแนวตั้งของตัวเอง ยาวไม่เกิน 3 นาที 15 คลิปใน 15 วันต่างกันภายในราวหนึ่งเดือน คลิปที่เคยลง TikTok, IG หรือ YouTube ก็นับ",
+   "why": "ครีเอเตอร์ที่แบรนด์จ้างอาจเอาคลิปงานเราไปลง X เพื่อรับเงินเพิ่ม ควรเช็กสัญญาว่าอนุญาตให้ลงแพลตฟอร์มไหนบ้าง",
+   "source": "Stacked Marketer",
+   "url": "https://www.stackedmarketer.com/p/reddit-and-tiktok-expand-search-ads-as-instagram-and-x-pay-creators"
+  },
+  {
+   "title": "Threads tests 'Close Friends' posts for up to 50 people",
+   "th": "Threads ทดสอบฟีเจอร์แชร์โพสต์ให้กลุ่มส่วนตัวไม่เกิน 50 คน คล้าย Close Friends ของ Instagram ตอนนี้ทดลองในไอร์แลนด์ อิตาลี และญี่ปุ่น",
+   "why": "บทสนทนาย้ายไปอยู่ในวงเล็กลงเรื่อยๆ แบรนด์อาจต้องพึ่งคอมมูนิตี้และแฟนตัวจริงมากกว่ายอดรีชกว้างๆ",
+   "source": "TEAM LEWIS",
+   "url": "https://www.teamlewis.com/au/magazine/social-round-up-4-november-2026/"
+  },
+  {
+   "title": "YouTube tests a 30-day fix window before spam terminations",
+   "th": "YouTube ทดลองให้ช่องที่เข้าข่ายโดนปิดทันทีจากนโยบายสแปมบางข้อ ถูกล็อก 30 วันแทน แจ้งทางอีเมลและ YouTube Studio ให้แก้หรือลบคลิปที่ผิด หรือยื่นอุทธรณ์ ถ้าไม่ทำอะไรเลยช่องจะถูกปิด",
+   "why": "ถ้าดูแลช่องแบรนด์ ต้องมีคนเช็กอีเมลแจ้งเตือนของช่องสม่ำเสมอ ไม่งั้นจะพลาด 30 วันนี้",
+   "source": "ContentCrew",
+   "url": "https://contentcrew.com/blog/industry-news-2026-w44"
+  },
+  {
+   "title": "YouTube code hints at a social feature called 'Tamba'",
+   "th": "Android Authority พบไอคอนและโค้ดชื่อ Tamba ในแอป YouTube เวอร์ชันล่าสุด มีการพูดถึงผู้ติดตาม ข้อความส่วนตัว แชตกลุ่ม โพสต์ และตอบกลับด้วยเสียง แต่ป้าย sandbox บอกว่าอาจเป็นแค่พื้นที่ทดลอง",
+   "why": "ยังเป็นแค่ข่าวลือจากโค้ด แต่ถ้า YouTube มี DM และแชตกลุ่มจริง จะเป็นช่องทางใหม่ให้แบรนด์คุยกับแฟนตรงๆ",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/streaming/1026671/youtube-is-testing-something-called-tamba"
+  }
+ ]
+}
