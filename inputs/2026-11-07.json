@@ -1,0 +1,168 @@
+{
+ "issue_no": 26,
+ "tagline": "เสาร์นี้ ขบวนใต้เข้าเมือง · น้ำประปาบางโซนขาด · Saturday: southern convoy arrives, watch water cutoffs",
+ "lifestyle": {
+  "title": "Saturday traffic watch — and fill a jug before some taps go quiet",
+  "body": "ขบวนรถจากภาคใต้ของกลุ่มกำนันมะโนมุ่งหน้าเข้ากรุงเทพฯ วันนี้ ตร.นครบาลห้ามชุมนุมในรัศมี 50 เมตรรอบทำเนียบฯ ถึง 20 พ.ย. ส่วน กปน.แจ้งน้ำไม่ไหล/แรงดันต่ำหลายจุดใน กทม. นนทบุรี สมุทรปราการ ทั้งงานซ่อมท่อและ Step Test — เช็กเส้นทางก่อนออก และดูประกาศโซนบ้านตัวเองก่อนอาบน้ำเช้า",
+  "note": "Based on today's Metropolitan Police assembly ban and MWA outage notices for 7 Nov"
+ },
+ "word": {
+  "word": "convoy",
+  "pos": "n.",
+  "ipa": "/ˈkɒn.vɔɪ/",
+  "th": "ขบวนรถ / ขบวนพาหนะที่เดินทางไปด้วยกัน",
+  "def": "a group of vehicles or ships travelling together for protection or as a protest.",
+  "ex": "A southern-led convoy of cars and trucks is heading to Government House today."
+ },
+ "english": {
+  "title": "Asking your client for weekend content feedback",
+  "dialogue": [
+   ["Nadda", "Do you have five minutes for a quick sync on next week's posts?"],
+   ["Client", "Sure. What's the focus?"],
+   ["Nadda", "I'd like your gut check on three Always-On ideas before we lock the calendar."],
+   ["Client", "Send them over. I'll mark which ones feel on brand."],
+   ["Nadda", "Perfect. Once you flag a favourite, I'll draft captions in Thai and English."],
+   ["Client", "Can we keep one slot flexible for a product drop?"],
+   ["Nadda", "Absolutely. I'll leave Friday open as a buffer."],
+   ["Client", "Great. Talk Monday."]
+  ],
+  "vocab": [
+   ["gut check", "เช็กความรู้สึกเบื้องต้น / ถามความเห็นเร็ว ๆ"],
+   ["Always-On", "คอนเทนต์ประจำที่ลงต่อเนื่อง"],
+   ["lock the calendar", "ล็อกตารางคอนเทนต์"],
+   ["on brand", "เข้ากับแบรนด์"],
+   ["buffer", "ช่องว่างเผื่อไว้"],
+   ["product drop", "วันปล่อยสินค้า / เปิดตัวสินค้า"]
+  ],
+  "tip": {
+   "instead": "Just approve everything by Monday morning.",
+   "better": "I'd like your gut check on three Always-On ideas before we lock the calendar.",
+   "why": "ขอ feedback แบบสั้นและชัดก่อนล็อกแผน ช่วยให้ลูกค้ารู้สึกมีส่วนร่วม และลดแก้ด่วนวันจันทร์"
+  }
+ },
+ "know": [
+  {
+   "title": "Why ban gatherings within 50 metres of Government House?",
+   "body": "ตาม พ.ร.บ.ชุมนุมสาธารณะ มาตรา 7 ตำรวจนครบาลสามารถกำหนดเขตห้ามชุมนุมชั่วคราวเพื่อความปลอดภัยและความสงบเรียบร้อย คำสั่งครั้งนี้มีผลถึงเที่ยงคืน 20 พ.ย. ครอบคลุมรัศมี 50 เมตรรอบทำเนียบฯ ขณะขบวนประท้วงจากภาคใต้เดินทางถึงกรุงเทพฯ"
+  },
+  {
+   "title": "What is LINE Reply API — and why will it cost money?",
+   "body": "Reply API คือการตอบแชทอัตโนมัติผ่านระบบของธุรกิจที่ต่อ Messaging API (แชทบอท / CRM) ไม่ใช่ Auto-response ใน OA Manager ตั้งแต่วันที่ 1 ก.พ. 2570 บัญชี OA ในไทยได้ฟรี 25,000 ข้อความต่อเดือน ส่วนเกินต้องซื้อแพ็ก Unlimited เดือนละ 5,000 บาทผ่าน Agency Partner และต้องย้ายเข้า AGP"
+  }
+ ],
+ "on_this_day": [
+  {"year": "1867", "text": "Marie Curie, pioneer of radioactivity research and two-time Nobel Prize winner, was born in Warsaw."},
+  {"year": "1917", "text": "Bolshevik forces led by Vladimir Lenin overthrew Russia's provisional government in the October Revolution."}
+ ],
+ "three_things": [
+  "Check traffic near Government House before heading into the city centre",
+  "If you're in an MWA outage zone, store water and delay laundry until pressure returns",
+  "Audit LINE OA Reply API volume before the Feb 2027 paid cap kicks in"
+ ],
+ "wordsearch_words": ["CONVOY", "RALLY", "WATER", "LINE", "EDITS", "SHORTS", "SATURDAY", "CURIE"],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Police ban gatherings within 50m of Government House as southern convoy arrives",
+   "th": "ตร.นครบาลออกคำสั่งห้ามชุมนุมในรัศมี 50 เมตรรอบทำเนียบรัฐบาล มีผลถึงเที่ยงคืน 20 พ.ย. รับมือขบวนรถกลุ่มกำนันมะโน เครือแก้ว จากภาคใต้ที่มุ่งหน้าเข้ากรุงเทพฯ วันนี้ เพื่อเรียกร้องลดดีเซลลิตรละ 10 บาท แก้ปัญหาค่าครองชีพและยาเสพติด โดยตั้งเป้าจัดขบวนราว 1,000 คัน",
+   "en": "Expect tighter security and slower roads around the Government House zone this weekend.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3350089/rally-curbs-set-as-convoy-nears-city"
+  },
+  {
+   "title": "PM Anutin: peaceful protest is a right — no funding probe if it stays calm",
+   "th": "นายกฯ อนุทินย้ำกลุ่มกำนันมะโนมีสิทธิชุมนุมตามรัฐธรรมนูญหากไม่สร้างความเดือดร้อน รัฐพร้อมรับฟังข้อเสนอ และถ้าชุมนุมสงบถูกกฎหมายจะไม่สืบแหล่งทุน พร้อมขอให้หน่วยงานทำหน้าที่ตามกฎหมาย",
+   "en": "The government is signalling it will listen — as long as the rally stays peaceful.",
+   "source": "Thai Rath",
+   "url": "https://en.thairath.co.th/news/politic/2970903"
+  },
+  {
+   "title": "MWA lists Bangkok water outages and low pressure for 7 November",
+   "th": "การประปานครหลวงประกาศโซนน้ำไม่ไหลและแรงดันต่ำวันนี้ใน กทม. นนทบุรี และสมุทรปราการ จากงานซ่อมท่อ ตัดต่อท่อ และหยุดสูบเพื่อบำรุงรักษา รวมถึงถนนพหลโยธิน 52 บางนา-ตราด ศรีนครินทร์ เพชรเกษม และสุขสวัสดิ์บางช่วง",
+   "en": "Check your soi before a long shower — several corridors are on maintenance.",
+   "source": "Thai Rath",
+   "url": "https://en.thairath.co.th/news/society/2970848"
+  },
+  {
+   "title": "BoT: cash transactions of 5m baht+ at branches need source checks",
+   "th": "ธปท.สั่งสถาบันการเงินตรวจสอบธุรกรรมเงินสดรวมตั้งแต่ 5 ล้านบาทขึ้นไปต่อวันที่สาขา ตั้งแต่วันที่ 1 พ.ย. ครอบคลุมฝากเงิน แลกธนบัตร ซื้อเช็ค/ดราฟต์ แลกเงินตราต่างประเทศ และซื้อประกัน/ผลิตภัณฑ์ลงทุน โดยไม่รวมธุรกรรมอิเล็กทรอนิกส์",
+   "en": "Big cash moves at the counter now need paperwork — e-transfers are unaffected.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/business/general/3343855/daily-cash-transactions-of-b5m-or-more-subject-to-scrutiny"
+  }
+ ],
+ "world": [
+  {
+   "title": "Trump names hardliner Stephen Miller as White House chief of staff",
+   "th": "ประธานาธิบดีโดนัลด์ ทรัมป์แต่งตั้งสตีเฟน มิลเลอร์ เป็นหัวหน้าคณะทำงานทำเนียบขาวแทนซูซี ไวลส์ มีผล 9 พ.ย. หลังพรรครีพับลิกันเสียเสียงข้างมากในสภาจากการเลือกตั้งกลางเทอม มิลเลอร์เป็นผู้วางนโยบายภายในที่แข็งกร้าวและสนับสนุนอำนาจประธานาธิบดีกว้าง",
+   "en": "A sharper White House team as Trump faces a Democratic Congress.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
+  },
+  {
+   "title": "France hit by mass strikes over cuts and living costs",
+   "th": "สหภาพแรงงานฝรั่งเศสนำการนัดหยุดงานและชุมนุมครั้งใหญ่ทั่วประเทศ ประท้วงการตัดงบและมาตรฐานครองชีพที่แย่ลง กดดันรัฐบาลมาครงที่กำลังเผชิญวิกฤตความนิยม",
+   "en": "Another stress test for Macron's embattled government.",
+   "source": "Morning Star",
+   "url": "https://www.morningstaronline.co.uk/article/world-brief-november-7-2026"
+  },
+  {
+   "title": "Europe pushes back on US talk of a new ‘security architecture’",
+   "th": "ยุโรปตอบโต้แนวคิดที่วอชิงตันจะออกแบบ ‘สถาปัตยกรรมความมั่นคง’ ใหม่ของทวีปในข้อตกลงยุติสงครามยูเครนกับรัสเซีย หลังทรัมป์พูดถึงดีลใหญ่ที่ครอบคลุมทั้งยุโรป และจาเร็ด คูชเนอร์ระบุว่ากำลังทำงานเรื่องนี้ก่อนเจรจาอาบูดาบีสัปดาห์หน้า",
+   "en": "Allies want a seat at any table that redraws Europe's security map.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
+  },
+  {
+   "title": "Scientists flag an unusually early polar-vortex disruption",
+   "th": "นักอุตุฯ ระบุพบการอ่อนตัวของกระแสลมวนขั้วโลก (polar vortex) เร็วผิดปกติตั้งแต่ต้นพฤศจิกายน ทั้งที่ปีเอลนีโญมักจะอ่อนตัวช่วงปลายฤดูหนาว ทำให้ยังคาดเดาผลกระทบต่ออากาศซีกโลกเหนือในฤดูหนาวนี้ได้ยาก",
+   "en": "Winter weather across Europe and North America could turn more unpredictable.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
+  }
+ ],
+ "social": [
+  {
+   "title": "LINE OpenChat hits 24M monthly users in Thailand after third-tab move",
+   "th": "LINE ไทยเผย OpenChat มีผู้ใช้รายเดือน 24 ล้านคน เพิ่มจาก 20 ล้าน หลังย้ายไปแท็บที่ 3 ของแอป พร้อมดีไซน์ค้นหาชุมชนใหม่ และมีเซสชันใช้งานกว่า 2.25 พันล้านครั้งต่อเดือน (ข้อมูลถึง 30 ก.ย.) มี AI สรุปแชท เธรดคุย และแจ้งเตือนมิจฉาชีพ",
+   "why": "แบรนด์ที่อยากสร้างคอมมูนิตี้ในไทยควรทดลอง OpenChat ตอนค้นหาง่ายขึ้น — โดยเฉพาะแฟนคลับและกลุ่มไลฟ์สไตล์",
+   "source": "TechNode Global",
+   "url": "https://technode.global/2026/11/05/line-openchat-monthly-users-rise-to-24m-in-thailand-after-move-to-third-tab/"
+  },
+  {
+   "title": "LINE Reply API: 25,000 free messages, then ฿5,000/month from Feb 2027",
+   "th": "LINE for Business ไทยประกาศตั้งแต่ 1 ก.พ. 2570 บัญชี OA ได้ Reply API ฟรี 25,000 ข้อความ/เดือน ส่วนเกินซื้อ Unlimited เดือนละ 5,000 บาทผ่าน Agency Partner และต้องย้ายเข้า AGP — ไม่กระทบ Auto-response ใน OA Manager",
+   "why": "วัดปริมาณ reply ของแชทบอท/CRM ตั้งแต่ตอนนี้ ก่อนงบปี 2027 และถามเอเจนซี่เรื่องสิทธิ์เข้าถึงบัญชี",
+   "source": "Relevant Audience",
+   "url": "https://www.relevantaudience.com/social-media-marketing/line-reply-api-25000-free-messages-agency-global-platform/"
+  },
+  {
+   "title": "Instagram brings Edits to Mac desktop to take on CapCut",
+   "th": "Instagram เปิดแอป Edits บนเดสก์ท็อป Mac สำหรับโปรเจกต์ตัดต่อที่ซับซ้อน มีไทม์ไลน์หลายแทร็ก คีย์เฟรม คำบรรยายอัตโนมัติ ซิงก์สไตล์จากมือถือ และเผยแพร่ตรงไป IG ได้ พร้อมส่งออก 4K ไม่มีวอเตอร์มาร์ก",
+   "why": "ทีมที่ตัด Reels ยาวบนมือถือลำบาก ลองย้ายไป Edits บน Mac ได้แล้ว โดยยังโพสต์ตรงจากเดสก์ท็อป",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
+  },
+  {
+   "title": "YouTube Shorts series: seasons, episodes and sequential play",
+   "th": "YouTube ให้ครีเอเตอร์จัด Shorts เป็นซีรีส์แบบซีซัน/ตอน มี thumbnail แยกและเล่นต่อเนื่องบนเว็บ มือถือ และทีวี รองรับไมโครดราม่าและคอนเทนต์หลายตอน โดย Shorts series เปิดให้ผู้ใช้ YouTube Partner Program",
+   "why": "ถ้าแบรนด์เล่าเรื่องเป็นตอน ๆ บน Shorts จัดเป็น series จะช่วยให้คนปัดดูต่อและวัด retention ได้ชัดขึ้น",
+   "source": "YouTube Blog",
+   "url": "https://blog.youtube/news-and-events/made-on-youtube-creators-shorts-series-tv-features/"
+  },
+  {
+   "title": "TikTok pushes Buy Direct, Shopping Assistant and Agentic Leads",
+   "th": "TikTok เปิดเครื่องมือพาณิชย์และลีดด้วย AI: Buy Direct ให้ซื้อในแอปจาก For You ได้คลิกเดียว, Shopping Assistant คุยแนะนำสินค้าในแอป และ Agentic Leads ใช้ AI เก็บและคัดลีดทั้งใน DM และฟอร์มบนเว็บแบรนด์",
+   "why": "แบรนด์ที่ขายบน TikTok ควรทดสอบเช็คเอาต์ในแอปและลีดอัตโนมัติ — ลดขั้นตอนจากดูคลิปถึงซื้อ/ทิ้งเบอร์",
+   "source": "TikTok Newsroom",
+   "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en"
+  },
+  {
+   "title": "Meta Ads adds creative ‘Breakdown’ insights for ad elements",
+   "th": "Meta เพิ่มเครื่องมือ Breakdown ใน Ads ให้เห็นผลขององค์ประกอบโปรโมทและครีเอทีฟแต่ละชิ้นชัดขึ้น ช่วยวิเคราะห์ว่าส่วนไหนของโฆษณาทำงานดีหรือต้องปรับ แม้ยังมีข้อจำกัดบางอย่าง",
+   "why": "ตอนเทสครีเอทีฟ Leapmotor/AWO ใช้ Breakdown แยกองค์ประกอบ แทนการเดาจาก CTR รวมก้อนเดียว",
+   "source": "SocialBee",
+   "url": "https://socialbee.com/blog/latest-social-media-news/"
+  }
+ ]
+}

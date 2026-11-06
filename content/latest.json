@@ -1,443 +1,455 @@
 {
- "issue_no": 25,
- "tagline": "ศุกร์นี้ น้ำมันถูกลง · ชมขบวนเรือ 15:00 🌧️ · Friday: cheaper fuel, royal barges at 3pm",
+ "issue_no": 26,
+ "tagline": "เสาร์นี้ ขบวนใต้เข้าเมือง · น้ำประปาบางโซนขาด · Saturday: southern convoy arrives, watch water cutoffs",
  "lifestyle": {
-  "title": "Cheaper fuel today — and free riverside seats for the royal barges",
-  "body": "กบน.ลดราคาน้ำมันดีเซล B7 ลง 0.75 บาท เบนซิน-แก๊สโซฮอล์ลง 1 บาทต่อลิตร มีผลตั้งแต่เช้านี้ ส่วนบ่ายสามมีพระราชพิธีกระบวนพยุหยาตราชลมารค ขบวนเรือ 52 ลำ จากท่าวาสุกรีไปวัดอรุณฯ มีรถ Shuttle Bus ฟรีและจุดชมริมเจ้าพระยาหลายแห่ง — พกร่มด้วย เพราะฝนฟ้าคะนองยังปกคลุม กทม.และภาคกลาง",
-  "note": "Based on today's fuel-price cut and the royal barge procession schedule"
+  "title": "Saturday traffic watch — and fill a jug before some taps go quiet",
+  "body": "ขบวนรถจากภาคใต้ของกลุ่มกำนันมะโนมุ่งหน้าเข้ากรุงเทพฯ วันนี้ ตร.นครบาลห้ามชุมนุมในรัศมี 50 เมตรรอบทำเนียบฯ ถึง 20 พ.ย. ส่วน กปน.แจ้งน้ำไม่ไหล/แรงดันต่ำหลายจุดใน กทม. นนทบุรี สมุทรปราการ ทั้งงานซ่อมท่อและ Step Test — เช็กเส้นทางก่อนออก และดูประกาศโซนบ้านตัวเองก่อนอาบน้ำเช้า",
+  "note": "Based on today's Metropolitan Police assembly ban and MWA outage notices for 7 Nov"
  },
  "word": {
-  "word": "ceasefire",
+  "word": "convoy",
   "pos": "n.",
-  "ipa": "/ˈsiːs.faɪər/",
-  "th": "การหยุดยิง / การสงบศึกชั่วคราว",
-  "def": "an agreement between sides in a war to stop fighting for a period of time.",
-  "ex": "Melania Trump hosted Russian and Ukrainian envoys to mark a short humanitarian ceasefire."
+  "ipa": "/ˈkɒn.vɔɪ/",
+  "th": "ขบวนรถ / ขบวนพาหนะที่เดินทางไปด้วยกัน",
+  "def": "a group of vehicles or ships travelling together for protection or as a protest.",
+  "ex": "A southern-led convoy of cars and trucks is heading to Government House today."
  },
  "english": {
-  "title": "Checking that your social ads are verified",
+  "title": "Asking your client for weekend content feedback",
   "dialogue": [
    [
-    "Colleague",
-    "Can we boost the new post this morning?"
+    "Nadda",
+    "Do you have five minutes for a quick sync on next week's posts?"
+   ],
+   [
+    "Client",
+    "Sure. What's the focus?"
    ],
    [
     "Nadda",
-    "Hold on. Did we finish identity verification for Thailand ads?"
+    "I'd like your gut check on three Always-On ideas before we lock the calendar."
    ],
    [
-    "Colleague",
-    "I think Meta asked for it last week."
-   ],
-   [
-    "Nadda",
-    "Let's confirm in Ads Manager first. No ID means no new ads."
-   ],
-   [
-    "Colleague",
-    "Got it. I'll check Business Settings now."
+    "Client",
+    "Send them over. I'll mark which ones feel on brand."
    ],
    [
     "Nadda",
-    "Perfect. Once it's verified, we can launch."
+    "Perfect. Once you flag a favourite, I'll draft captions in Thai and English."
    ],
    [
-    "Colleague",
-    "And if the agency pays the bill?"
+    "Client",
+    "Can we keep one slot flexible for a product drop?"
    ],
    [
     "Nadda",
-    "Then the agency must verify too. Better safe than sorry."
+    "Absolutely. I'll leave Friday open as a buffer."
+   ],
+   [
+    "Client",
+    "Great. Talk Monday."
    ]
   ],
   "vocab": [
    [
-    "boost",
-    "โปรโมทโพสต์ / ยิงแอด"
+    "gut check",
+    "เช็กความรู้สึกเบื้องต้น / ถามความเห็นเร็ว ๆ"
    ],
    [
-    "identity verification",
-    "การยืนยันตัวตน"
+    "Always-On",
+    "คอนเทนต์ประจำที่ลงต่อเนื่อง"
    ],
    [
-    "hold on",
-    "รอก่อน"
+    "lock the calendar",
+    "ล็อกตารางคอนเทนต์"
    ],
    [
-    "launch",
-    "เปิดแคมเปญ / ปล่อยงาน"
+    "on brand",
+    "เข้ากับแบรนด์"
    ],
    [
-    "better safe than sorry",
-    "ดีกว่าเผื่อไว้ ดีกว่าเสียทีหลัง"
+    "buffer",
+    "ช่องว่างเผื่อไว้"
    ],
    [
-    "Ads Manager",
-    "หน้าจัดการโฆษณาของ Meta"
+    "product drop",
+    "วันปล่อยสินค้า / เปิดตัวสินค้า"
    ]
   ],
   "tip": {
-   "instead": "Just boost it. We'll fix the papers later.",
-   "better": "Hold on. Did we finish identity verification for Thailand ads?",
-   "why": "กฎหมายไทยบังคับยืนยันตัวตนก่อนยิงแอดแล้ว การเช็กก่อนกด Boost ช่วยไม่ให้แคมเปญค้างหรือโดนบล็อกกลางทาง"
+   "instead": "Just approve everything by Monday morning.",
+   "better": "I'd like your gut check on three Always-On ideas before we lock the calendar.",
+   "why": "ขอ feedback แบบสั้นและชัดก่อนล็อกแผน ช่วยให้ลูกค้ารู้สึกมีส่วนร่วม และลดแก้ด่วนวันจันทร์"
   }
  },
  "know": [
   {
-   "title": "What is Thailand's 'No ID, No Ads' rule?",
-   "body": "ตั้งแต่วันที่ 1 พ.ย. 2569 ผู้ที่ยิงแอดบน Facebook, Instagram, TikTok, LINE หรือ X ที่เล็งคนในไทย ต้องยืนยันตัวตน (บัตรประชาชน/พาสปอร์ต หรือเอกสารบริษัท) และทำซ้ำอย่างน้อยปีละครั้ง ถ้าไม่ยืนยัน จะสร้างหรือแก้โฆษณาใหม่ไม่ได้ ครอบคลุมทั้งแบรนด์ เอเจนซี และคนรับจ้าง Boost"
+   "title": "Why ban gatherings within 50 metres of Government House?",
+   "body": "ตาม พ.ร.บ.ชุมนุมสาธารณะ มาตรา 7 ตำรวจนครบาลสามารถกำหนดเขตห้ามชุมนุมชั่วคราวเพื่อความปลอดภัยและความสงบเรียบร้อย คำสั่งครั้งนี้มีผลถึงเที่ยงคืน 20 พ.ย. ครอบคลุมรัศมี 50 เมตรรอบทำเนียบฯ ขณะขบวนประท้วงจากภาคใต้เดินทางถึงกรุงเทพฯ"
   },
   {
-   "title": "Why did Nasdaq tumble after the US midterms?",
-   "body": "นักลงทุนกังวลว่าเดโมแครตที่ชนะสภาจะผลักดันกฎ AI เข้มขึ้น หุ้นชิปและเทคโนโลยีจึงถูกเทขาย Nasdaq ร่วงหนักสุดในรอบ 19 เดือน และเข้าสู่โซนปรับฐาน (correction)"
+   "title": "What is LINE Reply API — and why will it cost money?",
+   "body": "Reply API คือการตอบแชทอัตโนมัติผ่านระบบของธุรกิจที่ต่อ Messaging API (แชทบอท / CRM) ไม่ใช่ Auto-response ใน OA Manager ตั้งแต่วันที่ 1 ก.พ. 2570 บัญชี OA ในไทยได้ฟรี 25,000 ข้อความต่อเดือน ส่วนเกินต้องซื้อแพ็ก Unlimited เดือนละ 5,000 บาทผ่าน Agency Partner และต้องย้ายเข้า AGP"
   }
  ],
  "on_this_day": [
   {
-   "year": "1860",
-   "text": "Abraham Lincoln was elected 16th President of the United States."
+   "year": "1867",
+   "text": "Marie Curie, pioneer of radioactivity research and two-time Nobel Prize winner, was born in Warsaw."
   },
   {
-   "year": "1814",
-   "text": "Adolphe Sax, inventor of the saxophone, was born in Dinant (now Belgium)."
+   "year": "1917",
+   "text": "Bolshevik forces led by Vladimir Lenin overthrew Russia's provisional government in the October Revolution."
   }
  ],
  "three_things": [
-  "Fill up while gasoline is 1 baht cheaper per litre",
-  "Confirm Thailand ad identity verification before boosting any post",
-  "If you're free at 15:00, catch the royal barge procession on the Chao Phraya"
+  "Check traffic near Government House before heading into the city centre",
+  "If you're in an MWA outage zone, store water and delay laundry until pressure returns",
+  "Audit LINE OA Reply API volume before the Feb 2027 paid cap kicks in"
  ],
  "thailand": [
   {
    "lead": true,
-   "title": "Royal barge procession on the Chao Phraya starts at 15:00",
-   "th": "วันนี้ 6 พ.ย. เวลา 15.00 น. มีพระราชพิธีกระบวนพยุหยาตราชลมารค จากท่าวาสุกรีไปยังวัดอรุณราชวราราม เพื่อทรงบำเพ็ญพระราชกุศลถวายผ้าพระกฐิน ขบวนเรือพระราชพิธี 52 ลำ กำลังพลราว 2,200 นาย ประชาชนชมได้ตามจุดริมแม่น้ำเจ้าพระยา และมี Shuttle Bus ฟรีจากขสมก.",
-   "en": "A rare riverside spectacle — check traffic and viewing spots before you go.",
-   "source": "Siam Rath",
-   "url": "https://siamrath.co.th/social/333575"
-  },
-  {
-   "title": "Petrol down 1 baht, B7 diesel down 0.75 from this morning",
-   "th": "กบน.มีมติลดราคาน้ำมันกลุ่มเบนซินและแก๊สโซฮอล์ 1 บาทต่อลิตร และดีเซล B7 ลง 0.75 บาทต่อลิตร มีผล 6 พ.ย. ดีเซล B7 เหลือ 41.79 บาท/ลิตร แก๊สโซฮอล์ 95 เหลือ 39.84 บาท/ลิตร สะท้อนราคาน้ำมันโลกที่อ่อนตัว",
-   "en": "A welcome break at the pump for the second day in a row.",
-   "source": "The Nation",
-   "url": "https://www.nationthailand.com/business/economy/40073153"
-  },
-  {
-   "title": "Southern convoy still heading to Bangkok over diesel and drugs",
-   "th": "กลุ่ม นปผ. นำโดยกำนันมะโน เครือแก้ว เคลื่อนขบวนจาก นครศรีธรรมราช มุ่งหน้า กทม. คาดถึงเช้าวันอาทิตย์ ประท้วงหน้าทำเนียบฯ เรียกร้องลดดีเซลลิตรละ 10 บาท และเร่งปราบยาเสพติด นายกฯ อนุทินย้ำมีสิทธิ์แสดงออกแต่ต้องสงบและไม่สร้างความเดือดร้อน",
-   "en": "Watch for slower traffic on routes into the capital this weekend.",
+   "title": "Police ban gatherings within 50m of Government House as southern convoy arrives",
+   "th": "ตร.นครบาลออกคำสั่งห้ามชุมนุมในรัศมี 50 เมตรรอบทำเนียบรัฐบาล มีผลถึงเที่ยงคืน 20 พ.ย. รับมือขบวนรถกลุ่มกำนันมะโน เครือแก้ว จากภาคใต้ที่มุ่งหน้าเข้ากรุงเทพฯ วันนี้ เพื่อเรียกร้องลดดีเซลลิตรละ 10 บาท แก้ปัญหาค่าครองชีพและยาเสพติด โดยตั้งเป้าจัดขบวนราว 1,000 คัน",
+   "en": "Expect tighter security and slower roads around the Government House zone this weekend.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3349525/protesters-on-way-to-hold-rally"
+   "url": "https://www.bangkokpost.com/thailand/general/3350089/rally-curbs-set-as-convoy-nears-city"
   },
   {
-   "title": "Police bust corporate mule-account ring tied to 250m-baht scams",
-   "th": "ตำรวจจับผู้ต้องหาเพิ่ม 3 คนในเครือข่ายจัดหาบัญชีม้านิติบุคคลให้แก๊งคอลเซ็นเตอร์ รวมผู้ต้องหาแล้ว 56 คน โยงคดีฉ้อโกงอย่างน้อย 130 คดี เสียหายกว่า 250 ล้านบาท มีการรับสมัครคนเป็นกรรมการบริษัทค่าตัวสูงถึง 30,000 บาท",
-   "en": "Another reminder not to rent out your name or company papers.",
+   "title": "PM Anutin: peaceful protest is a right — no funding probe if it stays calm",
+   "th": "นายกฯ อนุทินย้ำกลุ่มกำนันมะโนมีสิทธิชุมนุมตามรัฐธรรมนูญหากไม่สร้างความเดือดร้อน รัฐพร้อมรับฟังข้อเสนอ และถ้าชุมนุมสงบถูกกฎหมายจะไม่สืบแหล่งทุน พร้อมขอให้หน่วยงานทำหน้าที่ตามกฎหมาย",
+   "en": "The government is signalling it will listen — as long as the rally stays peaceful.",
+   "source": "Thai Rath",
+   "url": "https://en.thairath.co.th/news/politic/2970903"
+  },
+  {
+   "title": "MWA lists Bangkok water outages and low pressure for 7 November",
+   "th": "การประปานครหลวงประกาศโซนน้ำไม่ไหลและแรงดันต่ำวันนี้ใน กทม. นนทบุรี และสมุทรปราการ จากงานซ่อมท่อ ตัดต่อท่อ และหยุดสูบเพื่อบำรุงรักษา รวมถึงถนนพหลโยธิน 52 บางนา-ตราด ศรีนครินทร์ เพชรเกษม และสุขสวัสดิ์บางช่วง",
+   "en": "Check your soi before a long shower — several corridors are on maintenance.",
+   "source": "Thai Rath",
+   "url": "https://en.thairath.co.th/news/society/2970848"
+  },
+  {
+   "title": "BoT: cash transactions of 5m baht+ at branches need source checks",
+   "th": "ธปท.สั่งสถาบันการเงินตรวจสอบธุรกรรมเงินสดรวมตั้งแต่ 5 ล้านบาทขึ้นไปต่อวันที่สาขา ตั้งแต่วันที่ 1 พ.ย. ครอบคลุมฝากเงิน แลกธนบัตร ซื้อเช็ค/ดราฟต์ แลกเงินตราต่างประเทศ และซื้อประกัน/ผลิตภัณฑ์ลงทุน โดยไม่รวมธุรกรรมอิเล็กทรอนิกส์",
+   "en": "Big cash moves at the counter now need paperwork — e-transfers are unaffected.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3349445/police-bust-mule-account-network"
+   "url": "https://www.bangkokpost.com/business/general/3343855/daily-cash-transactions-of-b5m-or-more-subject-to-scrutiny"
   }
  ],
  "world": [
   {
-   "title": "Melania Trump hosts Russia-Ukraine envoys after a short ceasefire",
-   "th": "เมลานียา ทรัมป์ เชิญผู้แทนรัสเซียและยูเครนพบกันที่ทำเนียบขาว เพื่อฉลองการหยุดยิงเพื่อมนุษยธรรมระยะสั้น โดยย้ำให้เลือก 'humanity over war' และเตรียมพูดคุยต่อที่อาบูดาบีสัปดาห์หน้า",
-   "en": "A rare diplomatic moment after months of fighting.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/05/all"
-  },
-  {
-   "title": "Nasdaq sees deepest one-day drop in 19 months on AI-rule fears",
-   "th": "หลังเดโมแครตชนะเลือกตั้งกลางเทอม นักลงทุนกังวลกฎ AI จะเข้มขึ้น ดัชนี Nasdaq ร่วงหนักสุดในรอบ 19 เดือนและเข้าสู่โซน correction หุ้น Nvidia ร่วงกว่า 9% กลุ่มเซมิคอนดักเตอร์ร่วงกว่า 12%",
-   "en": "Tech stocks are pricing in tougher regulation under a Democratic Congress.",
+   "title": "Trump names hardliner Stephen Miller as White House chief of staff",
+   "th": "ประธานาธิบดีโดนัลด์ ทรัมป์แต่งตั้งสตีเฟน มิลเลอร์ เป็นหัวหน้าคณะทำงานทำเนียบขาวแทนซูซี ไวลส์ มีผล 9 พ.ย. หลังพรรครีพับลิกันเสียเสียงข้างมากในสภาจากการเลือกตั้งกลางเทอม มิลเลอร์เป็นผู้วางนโยบายภายในที่แข็งกร้าวและสนับสนุนอำนาจประธานาธิบดีกว้าง",
+   "en": "A sharper White House team as Trump faces a Democratic Congress.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
   },
   {
-   "title": "Paraguay's president resigns after a digital bank collapse",
-   "th": "ประธานาธิบดีซานติอาโก เปญญา ของปารากวัย ลาออกหลังธนาคารดิจิทัลที่เคยเกี่ยวข้องล่ม ทำให้ประชาชนเกือบครึ่งประเทศเข้าถึงเงินฝากไม่ได้ กดดันให้เขาต้องลงจากตำแหน่ง",
-   "en": "A banking crisis turned into a political one overnight.",
-   "source": "The Standard",
-   "url": "https://www.thestandard.com.hk/news/article/347704/Morning-Recap-November-6-2026"
+   "title": "France hit by mass strikes over cuts and living costs",
+   "th": "สหภาพแรงงานฝรั่งเศสนำการนัดหยุดงานและชุมนุมครั้งใหญ่ทั่วประเทศ ประท้วงการตัดงบและมาตรฐานครองชีพที่แย่ลง กดดันรัฐบาลมาครงที่กำลังเผชิญวิกฤตความนิยม",
+   "en": "Another stress test for Macron's embattled government.",
+   "source": "Morning Star",
+   "url": "https://www.morningstaronline.co.uk/article/world-brief-november-7-2026"
   },
   {
-   "title": "Hoax bomb threats disrupt dozens of flights across Europe",
-   "th": "ภัยคุกคามระเบิดปลอมระลอกที่สองในสัปดาห์นี้กระทบเที่ยวบินอย่างน้อย 25–27 เที่ยวทั่วยุโรป บางลำต้องลงฉุกเฉิน มีเครื่องบินขับไล่ขึ้นสกัด เพิ่มความกังวลเรื่องสงครามลูกผสม",
-   "en": "Airlines and airports stay on alert for copycat threats.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/05/all"
+   "title": "Europe pushes back on US talk of a new ‘security architecture’",
+   "th": "ยุโรปตอบโต้แนวคิดที่วอชิงตันจะออกแบบ ‘สถาปัตยกรรมความมั่นคง’ ใหม่ของทวีปในข้อตกลงยุติสงครามยูเครนกับรัสเซีย หลังทรัมป์พูดถึงดีลใหญ่ที่ครอบคลุมทั้งยุโรป และจาเร็ด คูชเนอร์ระบุว่ากำลังทำงานเรื่องนี้ก่อนเจรจาอาบูดาบีสัปดาห์หน้า",
+   "en": "Allies want a seat at any table that redraws Europe's security map.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
+  },
+  {
+   "title": "Scientists flag an unusually early polar-vortex disruption",
+   "th": "นักอุตุฯ ระบุพบการอ่อนตัวของกระแสลมวนขั้วโลก (polar vortex) เร็วผิดปกติตั้งแต่ต้นพฤศจิกายน ทั้งที่ปีเอลนีโญมักจะอ่อนตัวช่วงปลายฤดูหนาว ทำให้ยังคาดเดาผลกระทบต่ออากาศซีกโลกเหนือในฤดูหนาวนี้ได้ยาก",
+   "en": "Winter weather across Europe and North America could turn more unpredictable.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
   }
  ],
  "social": [
   {
-   "title": "Thailand's 'No ID, No Ads' rule is now live for social ads",
-   "th": "ตั้งแต่วันที่ 1 พ.ย. ผู้ยิงแอดบน Facebook, Instagram, TikTok, LINE และ X ที่เล็งคนไทยต้องยืนยันตัวตนผ่านแพลตฟอร์มหรือ Digital ID และทำซ้ำปีละครั้ง ครอบคลุมแบรนด์ เอเจนซี และผู้รับจ้าง Boost ถ้าไม่ทำจะสร้างหรือแก้โฆษณาใหม่ไม่ได้",
-   "why": "เช็กสถานะยืนยันตัวตนใน Ads Manager / Business Settings ก่อนกด Boost เช้านี้ ไม่งานแคมเปญอาจค้างทั้งทีม",
-   "source": "Bangkok Biz News",
-   "url": "https://www.bangkokbiznews.com/tech/ai/1258842"
+   "title": "LINE OpenChat hits 24M monthly users in Thailand after third-tab move",
+   "th": "LINE ไทยเผย OpenChat มีผู้ใช้รายเดือน 24 ล้านคน เพิ่มจาก 20 ล้าน หลังย้ายไปแท็บที่ 3 ของแอป พร้อมดีไซน์ค้นหาชุมชนใหม่ และมีเซสชันใช้งานกว่า 2.25 พันล้านครั้งต่อเดือน (ข้อมูลถึง 30 ก.ย.) มี AI สรุปแชท เธรดคุย และแจ้งเตือนมิจฉาชีพ",
+   "why": "แบรนด์ที่อยากสร้างคอมมูนิตี้ในไทยควรทดลอง OpenChat ตอนค้นหาง่ายขึ้น — โดยเฉพาะแฟนคลับและกลุ่มไลฟ์สไตล์",
+   "source": "TechNode Global",
+   "url": "https://technode.global/2026/11/05/line-openchat-monthly-users-rise-to-24m-in-thailand-after-move-to-third-tab/"
   },
   {
-   "title": "Instagram tests 90-minute horizontal 'Features' videos",
-   "th": "Instagram ทดลองฟีเจอร์ Features ให้ครีเอเตอร์บางรายในสหรัฐฯ และบราซิลอัปโหลดวิดีโอแนวนอนยาวได้ถึง 90 นาที เปิดทางพอดแคสต์ สัมภาษณ์ และคอนเทนต์ยาว พร้อมตัดคลิปสั้นลิงก์กลับไปคลิปเต็ม",
-   "why": "ถ้าแบรนด์เคยติดรูปแบบสั้นอย่างเดียว เริ่มวางสตอรี่ยาวสำหรับ Features ได้เลย โดยยังดึงคนด้วย Reels คลิปสั้น",
-   "source": "Brandnation",
-   "url": "https://brandnation.co.uk/the-social-media-updates-to-know-in-november-2026/"
+   "title": "LINE Reply API: 25,000 free messages, then ฿5,000/month from Feb 2027",
+   "th": "LINE for Business ไทยประกาศตั้งแต่ 1 ก.พ. 2570 บัญชี OA ได้ Reply API ฟรี 25,000 ข้อความ/เดือน ส่วนเกินซื้อ Unlimited เดือนละ 5,000 บาทผ่าน Agency Partner และต้องย้ายเข้า AGP — ไม่กระทบ Auto-response ใน OA Manager",
+   "why": "วัดปริมาณ reply ของแชทบอท/CRM ตั้งแต่ตอนนี้ ก่อนงบปี 2027 และถามเอเจนซี่เรื่องสิทธิ์เข้าถึงบัญชี",
+   "source": "Relevant Audience",
+   "url": "https://www.relevantaudience.com/social-media-marketing/line-reply-api-25000-free-messages-agency-global-platform/"
   },
   {
-   "title": "Google, Meta and TikTok sue California over kids' social law",
-   "th": "Google, Meta และ TikTok ฟ้องแยกกันเพื่อบล็อกกฎหมายแคลิฟอร์เนีย (มีผล 1 ม.ค. 2027) ที่ห้ามฟีดเสพติด สกรอลล์ไม่สิ้นสุด และออโต้เพลย์กับผู้ใช้ต่ำกว่า 16 ปี โดยอ้างละเมิดเสรีภาพการแสดงออกและ Section 230",
-   "why": "กฎหมายเด็กบนโซเชียลจะเข้มขึ้นทั่วโลก แบรนด์ที่ทำคอนเทนต์เยาวชนควรเตรียมเวอร์ชันที่ไม่มีลูปและออโต้เพลย์ไว้ก่อน",
-   "source": "AP News",
-   "url": "https://apnews.com/article/google-meta-tiktok-lawsuit-california-kids-589c0eabeabced2e07b8f9138ee2df79"
+   "title": "Instagram brings Edits to Mac desktop to take on CapCut",
+   "th": "Instagram เปิดแอป Edits บนเดสก์ท็อป Mac สำหรับโปรเจกต์ตัดต่อที่ซับซ้อน มีไทม์ไลน์หลายแทร็ก คีย์เฟรม คำบรรยายอัตโนมัติ ซิงก์สไตล์จากมือถือ และเผยแพร่ตรงไป IG ได้ พร้อมส่งออก 4K ไม่มีวอเตอร์มาร์ก",
+   "why": "ทีมที่ตัด Reels ยาวบนมือถือลำบาก ลองย้ายไป Edits บน Mac ได้แล้ว โดยยังโพสต์ตรงจากเดสก์ท็อป",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
   },
   {
-   "title": "Meta indefinitely delays new commercial terms after publisher backlash",
-   "th": "Meta เลื่อนการอัปเดตข้อกำหนดเชิงพาณิชย์ที่วางไว้ 20 พ.ย. ออกไปไม่มีกำหนด หลังสำนักข่าวและวงการเพลงคัดค้านสิทธิใช้คอนเทนต์ฝึก AI โดยจะปรึกษาผู้นำวงการข่าวให้ครบก่อน",
-   "why": "ยังมีเวลาทบทวนสัญญาและสิทธิคอนเทนต์กับ Meta ก่อนเงื่อนไขใหม่จะกลับมา",
-   "source": "TEAM LEWIS",
-   "url": "https://www.teamlewis.com/au/magazine/social-round-up-4-november-2026/"
+   "title": "YouTube Shorts series: seasons, episodes and sequential play",
+   "th": "YouTube ให้ครีเอเตอร์จัด Shorts เป็นซีรีส์แบบซีซัน/ตอน มี thumbnail แยกและเล่นต่อเนื่องบนเว็บ มือถือ และทีวี รองรับไมโครดราม่าและคอนเทนต์หลายตอน โดย Shorts series เปิดให้ผู้ใช้ YouTube Partner Program",
+   "why": "ถ้าแบรนด์เล่าเรื่องเป็นตอน ๆ บน Shorts จัดเป็น series จะช่วยให้คนปัดดูต่อและวัด retention ได้ชัดขึ้น",
+   "source": "YouTube Blog",
+   "url": "https://blog.youtube/news-and-events/made-on-youtube-creators-shorts-series-tv-features/"
   },
   {
-   "title": "TikTok pushes Must Eat guides and in-app hotel booking",
-   "th": "TikTok เดินหน้าเป็นซูเปอร์แอป เปิดคู่มือร้านอาหาร Must Eat จากโพสต์และคอมเมนต์กว่า 40 ล้านรายการ และ TikTok GO ให้จองโรงแรมและประสบการณ์ในแอปได้เลย รวมถึงช้อปปิ้ง เกม และสกอร์กีฬา",
-   "why": "แบรนด์ร้านอาหาร ททท. หรือที่พัก ควรทำให้ชื่อและโลเคชันค้นเจอบน TikTok เพราะคนเริ่มค้นหาและจองในแอปโดยตรง",
-   "source": "TEAM LEWIS",
-   "url": "https://www.teamlewis.com/au/magazine/social-round-up-4-november-2026/"
+   "title": "TikTok pushes Buy Direct, Shopping Assistant and Agentic Leads",
+   "th": "TikTok เปิดเครื่องมือพาณิชย์และลีดด้วย AI: Buy Direct ให้ซื้อในแอปจาก For You ได้คลิกเดียว, Shopping Assistant คุยแนะนำสินค้าในแอป และ Agentic Leads ใช้ AI เก็บและคัดลีดทั้งใน DM และฟอร์มบนเว็บแบรนด์",
+   "why": "แบรนด์ที่ขายบน TikTok ควรทดสอบเช็คเอาต์ในแอปและลีดอัตโนมัติ — ลดขั้นตอนจากดูคลิปถึงซื้อ/ทิ้งเบอร์",
+   "source": "TikTok Newsroom",
+   "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en"
   },
   {
-   "title": "Discord will make public servers findable on Google",
-   "th": "Discord เตรียมให้เซิร์ฟเวอร์สาธารณะที่เข้าเงื่อนไขโชว์ในผลการค้นหาเว็บ หน้าเซิร์ฟเวอร์เริ่ม 16 พ.ย. และข้อความสาธารณะบางส่วนอาจขึ้นใน Google ตั้งแต่ธันวาคม",
-   "why": "ถ้ามีคอมมูนิตี้แบรนด์บน Discord รีวิวความเป็นส่วนตัวและการตั้งค่าสาธารณะก่อนโดนค้นเจอ",
-   "source": "TEAM LEWIS",
-   "url": "https://www.teamlewis.com/au/magazine/social-round-up-4-november-2026/"
+   "title": "Meta Ads adds creative ‘Breakdown’ insights for ad elements",
+   "th": "Meta เพิ่มเครื่องมือ Breakdown ใน Ads ให้เห็นผลขององค์ประกอบโปรโมทและครีเอทีฟแต่ละชิ้นชัดขึ้น ช่วยวิเคราะห์ว่าส่วนไหนของโฆษณาทำงานดีหรือต้องปรับ แม้ยังมีข้อจำกัดบางอย่าง",
+   "why": "ตอนเทสครีเอทีฟ Leapmotor/AWO ใช้ Breakdown แยกองค์ประกอบ แทนการเดาจาก CTR รวมก้อนเดียว",
+   "source": "SocialBee",
+   "url": "https://socialbee.com/blog/latest-social-media-news/"
   }
  ],
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "weather": {
-  "max": 35,
-  "min": 26,
-  "rain": 100,
-  "uv": 8,
-  "cond": "Thunderstorms",
-  "humidity": 86,
+  "max": 34,
+  "min": 25,
+  "rain": 96,
+  "uv": 7,
+  "cond": "Showers",
+  "humidity": 90,
   "source": "Open-Meteo",
-  "fetched": "06:25"
+  "fetched": "06:22"
  },
  "wordsearch": {
   "grid": [
-   "BBEDKYRYUR",
-   "GAVPFLAALM",
-   "DJRIJDVRDM",
-   "GFRGIJPAES",
-   "JEEREIAIKE",
-   "VJFNEWJNPL",
-   "SUWFUELOCC",
-   "YWMJRMPSTH",
-   "RCEASEFIRE",
-   "BDDCMUEFGY"
+   "CURIEYSELH",
+   "KUNEHYACHJ",
+   "CDRIUTTTNU",
+   "CONVOYUSDE",
+   "RALLYARBLC",
+   "WATERYDPKR",
+   "ILINEHABFE",
+   "KHUPULYOIE",
+   "ETBSHORTSK",
+   "REHEDITSDG"
   ],
   "words": [
    {
-    "word": "CEASEFIRE",
+    "word": "SATURDAY",
     "cells": [
-     [
-      8,
-      1
-     ],
-     [
-      8,
-      2
-     ],
-     [
-      8,
-      3
-     ],
-     [
-      8,
-      4
-     ],
-     [
-      8,
-      5
-     ],
-     [
-      8,
-      6
-     ],
-     [
-      8,
-      7
-     ],
-     [
-      8,
-      8
-     ],
-     [
-      8,
-      9
-     ]
-    ]
-   },
-   {
-    "word": "VERIFY",
-    "cells": [
-     [
-      5,
-      0
-     ],
-     [
-      4,
-      1
-     ],
-     [
-      3,
-      2
-     ],
-     [
-      2,
-      3
-     ],
-     [
-      1,
-      4
-     ],
      [
       0,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "FRIDAY",
-    "cells": [
-     [
-      5,
-      2
-     ],
-     [
-      4,
-      3
-     ],
-     [
-      3,
-      4
-     ],
-     [
-      2,
-      5
+      6
      ],
      [
       1,
       6
      ],
      [
-      0,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "BARGE",
-    "cells": [
-     [
-      0,
-      0
-     ],
-     [
-      1,
-      1
-     ],
-     [
       2,
-      2
+      6
      ],
      [
       3,
-      3
+      6
      ],
      [
       4,
-      4
-     ]
-    ]
-   },
-   {
-    "word": "FUEL",
-    "cells": [
-     [
-      6,
-      3
+      6
      ],
      [
-      6,
-      4
-     ],
-     [
-      6,
-      5
+      5,
+      6
      ],
      [
       6,
       6
-     ]
-    ]
-   },
-   {
-    "word": "RAIN",
-    "cells": [
-     [
-      2,
-      7
      ],
-     [
-      3,
-      7
-     ],
-     [
-      4,
-      7
-     ],
-     [
-      5,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "POPE",
-    "cells": [
      [
       7,
       6
-     ],
-     [
-      6,
-      7
-     ],
-     [
-      5,
-      8
-     ],
-     [
-      4,
-      9
      ]
     ]
    },
    {
-    "word": "ADS",
+    "word": "CONVOY",
     "cells": [
      [
-      1,
-      7
-     ],
-     [
-      2,
-      8
+      3,
+      0
      ],
      [
       3,
-      9
+      1
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      3,
+      3
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      3,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "SHORTS",
+    "cells": [
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      8,
+      7
+     ],
+     [
+      8,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "RALLY",
+    "cells": [
+     [
+      4,
+      0
+     ],
+     [
+      4,
+      1
+     ],
+     [
+      4,
+      2
+     ],
+     [
+      4,
+      3
+     ],
+     [
+      4,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "WATER",
+    "cells": [
+     [
+      5,
+      0
+     ],
+     [
+      5,
+      1
+     ],
+     [
+      5,
+      2
+     ],
+     [
+      5,
+      3
+     ],
+     [
+      5,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "EDITS",
+    "cells": [
+     [
+      9,
+      3
+     ],
+     [
+      9,
+      4
+     ],
+     [
+      9,
+      5
+     ],
+     [
+      9,
+      6
+     ],
+     [
+      9,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "CURIE",
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      2
+     ],
+     [
+      0,
+      3
+     ],
+     [
+      0,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "LINE",
+    "cells": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      6,
+      3
+     ],
+     [
+      6,
+      4
      ]
     ]
    }
@@ -447,101 +459,101 @@
   "puzzle": [
    [
     0,
-    3,
-    5,
-    2,
-    4,
-    6
-   ],
-   [
-    0,
-    4,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
     6,
-    1,
-    3,
     0,
+    3,
     0,
     4
    ],
    [
-    0,
-    2,
+    3,
+    5,
     4,
     0,
     0,
     0
    ],
    [
+    4,
     0,
     0,
     2,
     0,
-    6,
-    0
+    5
    ],
    [
+    0,
+    0,
+    0,
     4,
-    6,
     1,
+    0
+   ],
+   [
+    0,
+    0,
     0,
     5,
+    0,
     0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    3
    ]
   ],
   "solution": [
    [
     1,
+    6,
+    2,
     3,
     5,
-    2,
-    4,
-    6
+    4
    ],
    [
-    2,
+    3,
+    5,
     4,
-    6,
     1,
+    6,
+    2
+   ],
+   [
+    4,
+    1,
+    6,
+    2,
     3,
     5
    ],
    [
-    6,
-    1,
+    2,
     3,
     5,
-    2,
-    4
-   ],
-   [
-    5,
-    2,
     4,
-    6,
     1,
-    3
+    6
    ],
    [
+    6,
+    2,
     3,
     5,
-    2,
     4,
-    6,
     1
    ],
    [
-    4,
-    6,
-    1,
-    3,
     5,
-    2
+    4,
+    1,
+    6,
+    2,
+    3
    ]
   ]
  }
