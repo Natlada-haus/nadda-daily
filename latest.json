@@ -1,334 +1,363 @@
 {
- "issue_no": 26,
- "tagline": "เสาร์นี้ ขบวนใต้เข้าเมือง · น้ำประปาบางโซนขาด · Saturday: southern convoy arrives, watch water cutoffs",
+ "issue_no": 27,
+ "tagline": "อาทิตย์นี้ ปิดพิษณุโลก · ม็อบปักหลักทำเนียบ · Sunday: Phitsanulok Road closed for the rally",
  "lifestyle": {
-  "title": "Saturday traffic watch — and fill a jug before some taps go quiet",
-  "body": "ขบวนรถจากภาคใต้ของกลุ่มกำนันมะโนมุ่งหน้าเข้ากรุงเทพฯ วันนี้ ตร.นครบาลห้ามชุมนุมในรัศมี 50 เมตรรอบทำเนียบฯ ถึง 20 พ.ย. ส่วน กปน.แจ้งน้ำไม่ไหล/แรงดันต่ำหลายจุดใน กทม. นนทบุรี สมุทรปราการ ทั้งงานซ่อมท่อและ Step Test — เช็กเส้นทางก่อนออก และดูประกาศโซนบ้านตัวเองก่อนอาบน้ำเช้า",
-  "note": "Based on today's Metropolitan Police assembly ban and MWA outage notices for 7 Nov"
+  "title": "Skip Phitsanulok Road — and check south-bound travel if friends are heading home",
+  "body": "บช.น.ปิดถนนพิษณุโลก ช่วงแยกพณิชยการ–สวนมิสกวัน ตั้งแต่ 00.01 น. วันนี้ ไม่ระบุเวลาเปิดคืน รับมือกลุ่มแนวร่วมปฏิวัติประชาชนปกป้องแผ่นดิน (กำนันมะโน) ที่ปักหลักใกล้ทำเนียบฯ ส่วนกรมอุตุฯ เตือนภาคใต้ฝนหนักถึงหนักมาก 8–13 พ.ย. เสี่ยงน้ำท่วมฉับพลัน — เลี่ยงทำเนียบฯ และถามคนที่เดินทางใต้ก่อนออก",
+  "note": "Based on Metropolitan Police Phitsanulok Road closure for 8 Nov and TMD heavy-rain advisory for the South 8–13 Nov"
  },
  "word": {
-  "word": "convoy",
-  "pos": "n.",
-  "ipa": "/ˈkɒn.vɔɪ/",
-  "th": "ขบวนรถ / ขบวนพาหนะที่เดินทางไปด้วยกัน",
-  "def": "a group of vehicles or ships travelling together for protection or as a protest.",
-  "ex": "A southern-led convoy of cars and trucks is heading to Government House today."
+  "word": "detour",
+  "pos": "n./v.",
+  "ipa": "/ˈdiː.tʊər/",
+  "th": "เส้นทางอ้อม / เลี่ยงเส้นทางปกติ",
+  "def": "a different, usually longer, route taken to avoid something or to visit somewhere along the way.",
+  "ex": "Take a detour around Phitsanulok Road while the protest zone is closed."
  },
  "english": {
-  "title": "Asking your client for weekend content feedback",
+  "title": "Sunday soft-prep: lining up Monday AWO ideas for a new client",
   "dialogue": [
    [
     "Nadda",
-    "Do you have five minutes for a quick sync on next week's posts?"
+    "I've sketched three Always-On angles for next week. Mind a Sunday look?"
    ],
    [
     "Client",
-    "Sure. What's the focus?"
+    "Send them. What tone are you aiming for?"
    ],
    [
     "Nadda",
-    "I'd like your gut check on three Always-On ideas before we lock the calendar."
+    "Clean, premium, and a bit more standout than the usual EV feed — still easy to scroll."
    ],
    [
     "Client",
-    "Send them over. I'll mark which ones feel on brand."
+    "Good. Flag which one you'd run first."
    ],
    [
     "Nadda",
-    "Perfect. Once you flag a favourite, I'll draft captions in Thai and English."
+    "I'd lead with the lifestyle cut, then product proof, then a community cue."
    ],
    [
     "Client",
-    "Can we keep one slot flexible for a product drop?"
+    "Leave one slot for a last-minute asset from the brand team."
    ],
    [
     "Nadda",
-    "Absolutely. I'll leave Friday open as a buffer."
+    "Done. I'll keep Thursday flexible and bring a caption draft on Monday."
    ],
    [
     "Client",
-    "Great. Talk Monday."
+    "Perfect. See you then."
    ]
   ],
   "vocab": [
-   [
-    "gut check",
-    "เช็กความรู้สึกเบื้องต้น / ถามความเห็นเร็ว ๆ"
-   ],
    [
     "Always-On",
     "คอนเทนต์ประจำที่ลงต่อเนื่อง"
    ],
    [
-    "lock the calendar",
-    "ล็อกตารางคอนเทนต์"
+    "angles",
+    "มุมคิด / มุมเล่าเรื่องของคอนเทนต์"
    ],
    [
-    "on brand",
-    "เข้ากับแบรนด์"
+    "standout",
+    "โดดเด่น / ต่างจากฟีดทั่วไป"
    ],
    [
-    "buffer",
-    "ช่องว่างเผื่อไว้"
+    "lifestyle cut",
+    "คลิปหรือภาพแนวไลฟ์สไตล์"
    ],
    [
-    "product drop",
-    "วันปล่อยสินค้า / เปิดตัวสินค้า"
+    "product proof",
+    "หลักฐานสินค้า / จุดเด่นที่พิสูจน์ได้"
+   ],
+   [
+    "flexible slot",
+    "ช่องว่างในปฏิทินที่ยังไม่ล็อก"
    ]
   ],
   "tip": {
-   "instead": "Just approve everything by Monday morning.",
-   "better": "I'd like your gut check on three Always-On ideas before we lock the calendar.",
-   "why": "ขอ feedback แบบสั้นและชัดก่อนล็อกแผน ช่วยให้ลูกค้ารู้สึกมีส่วนร่วม และลดแก้ด่วนวันจันทร์"
+   "instead": "I'll dump the whole calendar and wait for your redlines.",
+   "better": "I've sketched three Always-On angles for next week. Mind a Sunday look?",
+   "why": "ส่งตัวเลือกสั้น ๆ ในวันอาทิตย์ให้ลูกค้าเลือกมุมก่อน ลดแก้รอบวันจันทร์และดูเป็นมืออาชีพ"
   }
  },
  "know": [
   {
-   "title": "Why ban gatherings within 50 metres of Government House?",
-   "body": "ตาม พ.ร.บ.ชุมนุมสาธารณะ มาตรา 7 ตำรวจนครบาลสามารถกำหนดเขตห้ามชุมนุมชั่วคราวเพื่อความปลอดภัยและความสงบเรียบร้อย คำสั่งครั้งนี้มีผลถึงเที่ยงคืน 20 พ.ย. ครอบคลุมรัศมี 50 เมตรรอบทำเนียบฯ ขณะขบวนประท้วงจากภาคใต้เดินทางถึงกรุงเทพฯ"
+   "title": "Why close only a stretch of Phitsanulok Road?",
+   "body": "ถนนพิษณุโลกเป็นเส้นหลักผ่านหน้าทำเนียบรัฐบาล บช.น.ปิดเฉพาะช่วงแยกพณิชยการถึงแยกสวนมิสกวัน เพื่อคุมพื้นที่ชุมนุมและเบี่ยงรถ โดยยังปรับมาตรการตามสถานการณ์ได้ ไม่ใช่ปิดทั้งกรุง — คนกรุงจึงควรเลี่ยงโซนนั้นและเช็กประกาศ Facebook ของ บช.น. ก่อนออก"
   },
   {
-   "title": "What is LINE Reply API — and why will it cost money?",
-   "body": "Reply API คือการตอบแชทอัตโนมัติผ่านระบบของธุรกิจที่ต่อ Messaging API (แชทบอท / CRM) ไม่ใช่ Auto-response ใน OA Manager ตั้งแต่วันที่ 1 ก.พ. 2570 บัญชี OA ในไทยได้ฟรี 25,000 ข้อความต่อเดือน ส่วนเกินต้องซื้อแพ็ก Unlimited เดือนละ 5,000 บาทผ่าน Agency Partner และต้องย้ายเข้า AGP"
+   "title": "What is TikTok’s ‘rabbit hole effect’ under the EU DSA?",
+   "body": "คณะกรรมาธิการยุโรปชี้เบื้องต้นว่าฟีด For You ของ TikTok อาจละเมิด Digital Services Act เพราะอัลกอริทึมดันคลิปแนวเดียวกันซ้ำ ๆ (เช่น สุขภาพจิต ภาพลักษณ์ร่างกาย) จนเกิด ‘rabbit hole’ ที่เสี่ยงต่อผู้ใช้ โดยเฉพาะเยาวชน TikTok ยังตอบได้ก่อนมีคำตัดสินสุดท้าย และอาจโดนปรับสูงสุด 6% ของรายได้ทั่วโลก"
   }
  ],
  "on_this_day": [
   {
-   "year": "1867",
-   "text": "Marie Curie, pioneer of radioactivity research and two-time Nobel Prize winner, was born in Warsaw."
+   "year": "1895",
+   "text": "Wilhelm Conrad Röntgen discovered X-rays in Würzburg, opening a new era of medical imaging."
   },
   {
-   "year": "1917",
-   "text": "Bolshevik forces led by Vladimir Lenin overthrew Russia's provisional government in the October Revolution."
+   "year": "1960",
+   "text": "John F. Kennedy was elected the 35th President of the United States, defeating Richard Nixon."
   }
  ],
  "three_things": [
-  "Check traffic near Government House before heading into the city centre",
-  "If you're in an MWA outage zone, store water and delay laundry until pressure returns",
-  "Audit LINE OA Reply API volume before the Feb 2027 paid cap kicks in"
+  "Avoid Phitsanulok Road between Phanitchayakan and Suan Misakawan while the protest closure holds",
+  "If friends or family are in the South, share the 8–13 Nov heavy-rain and flash-flood watch",
+  "Peek at the new TikTok Shop app listing in Thailand — useful if Leapmotor or EV clients push Shop creatives"
  ],
  "thailand": [
   {
    "lead": true,
-   "title": "Police ban gatherings within 50m of Government House as southern convoy arrives",
-   "th": "ตร.นครบาลออกคำสั่งห้ามชุมนุมในรัศมี 50 เมตรรอบทำเนียบรัฐบาล มีผลถึงเที่ยงคืน 20 พ.ย. รับมือขบวนรถกลุ่มกำนันมะโน เครือแก้ว จากภาคใต้ที่มุ่งหน้าเข้ากรุงเทพฯ วันนี้ เพื่อเรียกร้องลดดีเซลลิตรละ 10 บาท แก้ปัญหาค่าครองชีพและยาเสพติด โดยตั้งเป้าจัดขบวนราว 1,000 คัน",
-   "en": "Expect tighter security and slower roads around the Government House zone this weekend.",
+   "title": "Police close Phitsanulok Road stretch as protest digs in near Government House",
+   "th": "บช.น.ปิดถนนพิษณุโลก ช่วงแยกพณิชยการ–สวนมิสกวัน ตั้งแต่ 00.01 น. วันนี้ ไม่ระบุเวลาเปิดคืน รับมือกลุ่มแนวร่วมปฏิวัติประชาชนปกป้องแผ่นดินนำโดยกำนันมะโน เครือแก้ว ที่เตรียมปักหลักใกล้ทำเนียบฯ เรียกร้องแก้ค่าครองชีพ ขอให้ประชาชนเลี่ยงเส้นทางและวางแผนล่วงหน้า",
+   "en": "Central Bangkok traffic will snarl around the Government House corridor all day — plan a detour.",
+   "source": "The Nation",
+   "url": "https://www.nationthailand.com/news/politics/40073220"
+  },
+  {
+   "title": "TMD warns of heavy to very heavy rain in the South, 8–13 November",
+   "th": "กรมอุตุนิยมวิทยาเตือนภาคใต้มีฝนเพิ่มขึ้นและฝนตกหนักถึงหนักมากบางพื้นที่ วันที่ 8–13 พ.ย. จากลมฝ่ายตะวันออกที่พัดแรงขึ้น เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม โดยเฉพาะพื้นที่ลาดเชิงเขาและที่ลุ่ม",
+   "en": "Southern travel and outdoor shoots need a weather buffer this week.",
+   "source": "Siam Rath",
+   "url": "https://siamrath.co.th/politics/333991"
+  },
+  {
+   "title": "Thai Chamber flags Suvarnabhumi cargo warehouse backlog",
+   "th": "หอการค้าไทยเตือนค้างส่งสินค้าที่คลัง TG Cargo สุวรรณภูมิกระทบผู้นำเข้า โฟร์เวิร์ดเดอร์ และโรงงานที่รอวัตถุดิบ หลังแยกสินค้าจาก ULD ช้าและข้อมูลตำแหน่งเก็บไม่ครบ เสนอเร่งแยกตามสายการบิน เพิ่มแรงงาน และอัปเดตระบบ AOT Cargo Clearhouse",
+   "en": "Import timelines and production schedules are slipping — chase status early if you ship through BKK.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3350089/rally-curbs-set-as-convoy-nears-city"
+   "url": "https://www.bangkokpost.com/thailand/general/3350814/tcc-warns-on-airport-warehouse-backlog-risks"
   },
   {
-   "title": "PM Anutin: peaceful protest is a right — no funding probe if it stays calm",
-   "th": "นายกฯ อนุทินย้ำกลุ่มกำนันมะโนมีสิทธิชุมนุมตามรัฐธรรมนูญหากไม่สร้างความเดือดร้อน รัฐพร้อมรับฟังข้อเสนอ และถ้าชุมนุมสงบถูกกฎหมายจะไม่สืบแหล่งทุน พร้อมขอให้หน่วยงานทำหน้าที่ตามกฎหมาย",
-   "en": "The government is signalling it will listen — as long as the rally stays peaceful.",
-   "source": "Thai Rath",
-   "url": "https://en.thairath.co.th/news/politic/2970903"
-  },
-  {
-   "title": "MWA lists Bangkok water outages and low pressure for 7 November",
-   "th": "การประปานครหลวงประกาศโซนน้ำไม่ไหลและแรงดันต่ำวันนี้ใน กทม. นนทบุรี และสมุทรปราการ จากงานซ่อมท่อ ตัดต่อท่อ และหยุดสูบเพื่อบำรุงรักษา รวมถึงถนนพหลโยธิน 52 บางนา-ตราด ศรีนครินทร์ เพชรเกษม และสุขสวัสดิ์บางช่วง",
-   "en": "Check your soi before a long shower — several corridors are on maintenance.",
-   "source": "Thai Rath",
-   "url": "https://en.thairath.co.th/news/society/2970848"
-  },
-  {
-   "title": "BoT: cash transactions of 5m baht+ at branches need source checks",
-   "th": "ธปท.สั่งสถาบันการเงินตรวจสอบธุรกรรมเงินสดรวมตั้งแต่ 5 ล้านบาทขึ้นไปต่อวันที่สาขา ตั้งแต่วันที่ 1 พ.ย. ครอบคลุมฝากเงิน แลกธนบัตร ซื้อเช็ค/ดราฟต์ แลกเงินตราต่างประเทศ และซื้อประกัน/ผลิตภัณฑ์ลงทุน โดยไม่รวมธุรกรรมอิเล็กทรอนิกส์",
-   "en": "Big cash moves at the counter now need paperwork — e-transfers are unaffected.",
+   "title": "DBD summons 36 firms in foreign-nominee identity probe",
+   "th": "กรมพัฒนาธุรกิจการค้าตรวจสอบบริษัทที่เกี่ยวข้องกับชาวอิสราเอล 5 คนที่เคยได้สัญชาติไทย พบ 36 บริษัทมีผู้ถือหุ้นไทย–ต่างชาติ เรียกชี้แจงการประกอบธุรกิจและการลงทุน ภายใต้ปฏิบัติการยุทธราชร่วม 10 หน่วยงาน",
+   "en": "Nominee-shareholder checks are heating up — keep company docs tidy if foreign partners are involved.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/business/general/3343855/daily-cash-transactions-of-b5m-or-more-subject-to-scrutiny"
+   "url": "https://www.bangkokpost.com/thailand/general/3350804/dept-identifies-36-firms-in-identity-probe"
   }
  ],
  "world": [
   {
-   "title": "Trump names hardliner Stephen Miller as White House chief of staff",
-   "th": "ประธานาธิบดีโดนัลด์ ทรัมป์แต่งตั้งสตีเฟน มิลเลอร์ เป็นหัวหน้าคณะทำงานทำเนียบขาวแทนซูซี ไวลส์ มีผล 9 พ.ย. หลังพรรครีพับลิกันเสียเสียงข้างมากในสภาจากการเลือกตั้งกลางเทอม มิลเลอร์เป็นผู้วางนโยบายภายในที่แข็งกร้าวและสนับสนุนอำนาจประธานาธิบดีกว้าง",
-   "en": "A sharper White House team as Trump faces a Democratic Congress.",
+   "title": "Gunman kills six in Krakow’s historic main square",
+   "th": "ชายชาวโปแลนด์ขับรถขึ้นจัตุรัสหลักของคราคูฟแล้วเปิดฉากยิงไร้เป้าหมายเมื่อ 7 พ.ย. คร่าชีวิต 6 คน (หญิง 4 ชาย 2) บาดเจ็บราวสิบกว่าคนรวมตำรวจ เจ้าหน้าที่ยิงจับกุมผู้ต้องสงสัยได้ นับเป็นการยิงหมู่รุนแรงที่สุดในโปแลนด์ในรอบหลายสิบปี",
+   "en": "Europe’s weekend headlines are dominated by Poland’s deadliest shooting in decades.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-8-2026"
   },
   {
-   "title": "France hit by mass strikes over cuts and living costs",
-   "th": "สหภาพแรงงานฝรั่งเศสนำการนัดหยุดงานและชุมนุมครั้งใหญ่ทั่วประเทศ ประท้วงการตัดงบและมาตรฐานครองชีพที่แย่ลง กดดันรัฐบาลมาครงที่กำลังเผชิญวิกฤตความนิยม",
-   "en": "Another stress test for Macron's embattled government.",
-   "source": "Morning Star",
-   "url": "https://www.morningstaronline.co.uk/article/world-brief-november-7-2026"
+   "title": "France sees fourth weekend of cost-of-living protests",
+   "th": "ผู้ประท้วงราว 146,000 คนทั่วฝรั่งเศสรวม 46,000 คนในปารีส ออกมาแสดงพลังรอบที่ 4 ต่อเนื่องเรื่องค่าครองชีพ มีการปะทะกับตำรวจในปารีส แม้จำนวนน้อยกว่ารอบก่อน ท่ามกลางเส้นทางสู่เลือกตั้งประธานาธิบดีในอีก 5 เดือน",
+   "en": "Living-cost anger keeps pressure on Paris ahead of next year’s presidential race.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-8-2026"
   },
   {
-   "title": "Europe pushes back on US talk of a new ‘security architecture’",
-   "th": "ยุโรปตอบโต้แนวคิดที่วอชิงตันจะออกแบบ ‘สถาปัตยกรรมความมั่นคง’ ใหม่ของทวีปในข้อตกลงยุติสงครามยูเครนกับรัสเซีย หลังทรัมป์พูดถึงดีลใหญ่ที่ครอบคลุมทั้งยุโรป และจาเร็ด คูชเนอร์ระบุว่ากำลังทำงานเรื่องนี้ก่อนเจรจาอาบูดาบีสัปดาห์หน้า",
-   "en": "Allies want a seat at any table that redraws Europe's security map.",
-   "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
+   "title": "Israel’s president taps Gadi Eisenkot to form a government",
+   "th": "ประธานาธิบดีอิสราเอล Isaac Herzog มอบหมายแกดี ไอเซนคอต ผู้นำฝ่ายค้านอดีต ผบ.ทบ. ให้จัดตั้งรัฐบาลหลังเลือกตั้ง 27 ต.ค. เป็นฝ่ายได้โอกาสก่อน แม้ไม่มีพรรคใดได้เสียงข้างมากเด็ดขาด เป็นความพ่ายแพ้ทางการเมืองของเนทันยาฮูในรอบแรกของการจัดตั้ง",
+   "en": "Coalition talks begin — Netanyahu does not get the first mandate.",
+   "source": "Times of India",
+   "url": "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-nov-8/liveblog/135645124.cms"
   },
   {
-   "title": "Scientists flag an unusually early polar-vortex disruption",
-   "th": "นักอุตุฯ ระบุพบการอ่อนตัวของกระแสลมวนขั้วโลก (polar vortex) เร็วผิดปกติตั้งแต่ต้นพฤศจิกายน ทั้งที่ปีเอลนีโญมักจะอ่อนตัวช่วงปลายฤดูหนาว ทำให้ยังคาดเดาผลกระทบต่ออากาศซีกโลกเหนือในฤดูหนาวนี้ได้ยาก",
-   "en": "Winter weather across Europe and North America could turn more unpredictable.",
-   "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
+   "title": "New Zealand election too close to call after special votes",
+   "th": "ผลเลือกตั้งนิวซีแลนด์ยังไม่ชี้ชัด พรรค National ของนายกฯ Christopher Luxon ได้ที่นั่งมากสุด แต่ทั้ง National และ Labour ได้คะแนนราว 29% พันธมิตร National–ACT–NZ First คาดได้ราว 67 ที่นั่ง พอดีเกินครึ่งเล็กน้อย ยังมีบัตรพิเศษราว 4 แสนใบที่นับถึง 27 พ.ย.",
+   "en": "Coalition maths will decide Wellington — final counts land later this month.",
+   "source": "SBS News",
+   "url": "https://www.sbs.com.au/news/podcast-episode/new-zealands-election-too-close-to-call-morning-news-bulletin-8-november-2026/0qiuw48yr"
   }
  ],
  "social": [
   {
-   "title": "LINE OpenChat hits 24M monthly users in Thailand after third-tab move",
-   "th": "LINE ไทยเผย OpenChat มีผู้ใช้รายเดือน 24 ล้านคน เพิ่มจาก 20 ล้าน หลังย้ายไปแท็บที่ 3 ของแอป พร้อมดีไซน์ค้นหาชุมชนใหม่ และมีเซสชันใช้งานกว่า 2.25 พันล้านครั้งต่อเดือน (ข้อมูลถึง 30 ก.ย.) มี AI สรุปแชท เธรดคุย และแจ้งเตือนมิจฉาชีพ",
-   "why": "แบรนด์ที่อยากสร้างคอมมูนิตี้ในไทยควรทดลอง OpenChat ตอนค้นหาง่ายขึ้น — โดยเฉพาะแฟนคลับและกลุ่มไลฟ์สไตล์",
-   "source": "TechNode Global",
-   "url": "https://technode.global/2026/11/05/line-openchat-monthly-users-rise-to-24m-in-thailand-after-move-to-third-tab/"
-  },
-  {
-   "title": "LINE Reply API: 25,000 free messages, then ฿5,000/month from Feb 2027",
-   "th": "LINE for Business ไทยประกาศตั้งแต่ 1 ก.พ. 2570 บัญชี OA ได้ Reply API ฟรี 25,000 ข้อความ/เดือน ส่วนเกินซื้อ Unlimited เดือนละ 5,000 บาทผ่าน Agency Partner และต้องย้ายเข้า AGP — ไม่กระทบ Auto-response ใน OA Manager",
-   "why": "วัดปริมาณ reply ของแชทบอท/CRM ตั้งแต่ตอนนี้ ก่อนงบปี 2027 และถามเอเจนซี่เรื่องสิทธิ์เข้าถึงบัญชี",
-   "source": "Relevant Audience",
-   "url": "https://www.relevantaudience.com/social-media-marketing/line-reply-api-25000-free-messages-agency-global-platform/"
-  },
-  {
-   "title": "Instagram brings Edits to Mac desktop to take on CapCut",
-   "th": "Instagram เปิดแอป Edits บนเดสก์ท็อป Mac สำหรับโปรเจกต์ตัดต่อที่ซับซ้อน มีไทม์ไลน์หลายแทร็ก คีย์เฟรม คำบรรยายอัตโนมัติ ซิงก์สไตล์จากมือถือ และเผยแพร่ตรงไป IG ได้ พร้อมส่งออก 4K ไม่มีวอเตอร์มาร์ก",
-   "why": "ทีมที่ตัด Reels ยาวบนมือถือลำบาก ลองย้ายไป Edits บน Mac ได้แล้ว โดยยังโพสต์ตรงจากเดสก์ท็อป",
+   "title": "TikTok Shop gets its own app in Thailand and three SEA markets",
+   "th": "TikTok เปิดแอป TikTok Shop แยกต่างหากบน iOS และ Android ในไทย สิงคโปร์ มาเลเซีย และฟิลิปปินส์ มีแนะนำสินค้าเฉพาะตัว ช้อปผ่าน LIVE/คลิปสั้น ดีลในแอป เช็คเอาต์ และติดตามออเดอร์ — ยังไม่มีแถลงอย่างเป็นทางการเรื่องค่าโฆษณาหรือคอมมิชชันในแอปใหม่",
+   "why": "แบรนด์ที่ขายบน TikTok Shop ไทยควรทดสอบว่าครีเอทีฟและดีลในแอปแยกดึงยอดต่างจากแอปหลักไหม",
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
+   "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
   },
   {
-   "title": "YouTube Shorts series: seasons, episodes and sequential play",
-   "th": "YouTube ให้ครีเอเตอร์จัด Shorts เป็นซีรีส์แบบซีซัน/ตอน มี thumbnail แยกและเล่นต่อเนื่องบนเว็บ มือถือ และทีวี รองรับไมโครดราม่าและคอนเทนต์หลายตอน โดย Shorts series เปิดให้ผู้ใช้ YouTube Partner Program",
-   "why": "ถ้าแบรนด์เล่าเรื่องเป็นตอน ๆ บน Shorts จัดเป็น series จะช่วยให้คนปัดดูต่อและวัด retention ได้ชัดขึ้น",
-   "source": "YouTube Blog",
-   "url": "https://blog.youtube/news-and-events/made-on-youtube-creators-shorts-series-tv-features/"
+   "title": "Instagram tests Features: horizontal videos up to 90 minutes",
+   "th": "Instagram ทดลองฟอร์แมต Features ให้ครีเอเตอร์บางกลุ่มในสหรัฐฯ/บราซิลอัปโหลดวิดีโอแนวนอนยาวได้ถึง 90 นาที ใช้คลิป Reel ชวนเข้าชมตอนเต็ม และขยายไปทีวี (รวม Apple TV) — ยังไม่แชร์รายได้โฆษณาแบบ YouTube",
+   "why": "ถ้าแบรนด์อยากเล่ายาว (พอดแคสต์/เบื้องหลัง) เริ่มคิดแพ็กคลิปสั้นที่ลิงก์เข้าตอนเต็มได้เมื่อ Features เปิดกว้างขึ้น",
+   "source": "Variety",
+   "url": "https://variety.com/2026/digital/news/instagram-videos-90-minutes-apple-tv-not-paying-creators-1236931293/"
   },
   {
-   "title": "TikTok pushes Buy Direct, Shopping Assistant and Agentic Leads",
-   "th": "TikTok เปิดเครื่องมือพาณิชย์และลีดด้วย AI: Buy Direct ให้ซื้อในแอปจาก For You ได้คลิกเดียว, Shopping Assistant คุยแนะนำสินค้าในแอป และ Agentic Leads ใช้ AI เก็บและคัดลีดทั้งใน DM และฟอร์มบนเว็บแบรนด์",
-   "why": "แบรนด์ที่ขายบน TikTok ควรทดสอบเช็คเอาต์ในแอปและลีดอัตโนมัติ — ลดขั้นตอนจากดูคลิปถึงซื้อ/ทิ้งเบอร์",
-   "source": "TikTok Newsroom",
-   "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en"
+   "title": "EU preliminarily finds TikTok For You ‘rabbit holes’ breach DSA",
+   "th": "คณะกรรมาธิการยุโรปชี้เบื้องต้นว่าอัลกอริทึม For You ของ TikTok สร้าง ‘rabbit hole’ จากคลิปแนวสุขภาพจิต/ภาพลักษณ์ร่างกายซ้ำ ๆ อาจละเมิด Digital Services Act TikTok ตอบได้ก่อนคำตัดสิน และเสี่ยงปรับสูงสุด 6% ของรายได้ทั่วโลก",
+   "why": "ทีมที่ทำคอนเทนต์ sensitivity ควรมีแนวทาง topic mix และเซฟการ์ด ไม่พึ่ง engagement แนวเดียว",
+   "source": "European Commission",
+   "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes"
   },
   {
-   "title": "Meta Ads adds creative ‘Breakdown’ insights for ad elements",
-   "th": "Meta เพิ่มเครื่องมือ Breakdown ใน Ads ให้เห็นผลขององค์ประกอบโปรโมทและครีเอทีฟแต่ละชิ้นชัดขึ้น ช่วยวิเคราะห์ว่าส่วนไหนของโฆษณาทำงานดีหรือต้องปรับ แม้ยังมีข้อจำกัดบางอย่าง",
-   "why": "ตอนเทสครีเอทีฟ Leapmotor/AWO ใช้ Breakdown แยกองค์ประกอบ แทนการเดาจาก CTR รวมก้อนเดียว",
-   "source": "SocialBee",
-   "url": "https://socialbee.com/blog/latest-social-media-news/"
+   "title": "Meta, Google and TikTok sue to block California teen-feed law",
+   "th": "Meta, Google และ TikTok ฟ้องอัยการสูงสุดแคลิฟอร์เนียเพื่อบล็อกกฎหมาย AB 1709 ที่จะบังคับใช้ 1 ม.ค. 2027 ห้ามฟีดแนะนำส่วนบุคคลและออโตเพลย์กับผู้ใช้ต่ำกว่า 16 ปี อ้างละเมิดรัฐธรรมนูญแก้ไขเพิ่มเติมฉบับที่ 1",
+   "why": "กฎเยาวชนกำลังเข้มขึ้นทั่วโลก — เก็บหลักฐานอายุ/คอนเทนต์เรตติ้งให้พร้อมก่อนลูกค้าถาม",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/"
+  },
+  {
+   "title": "Thailand’s social-ad identity checks are live from 1 November",
+   "th": "ไทยบังคับยืนยันตัวตนผู้ลงโฆษณาบนโซเชียลรวมถึงแพลตฟอร์มหลักตั้งแต่วันที่ 1 พ.ย. โดย Meta ยืนยันพร้อมรองรับกฎนี้แล้ว เอเจนซี่และแบรนด์ต้องเช็กสถานะบัญชีโฆษณาและเอกสารยืนยันให้ครบ",
+   "why": "ก่อนสเกลแคมเปญ Leapmotor/EV ตรวจว่า ad account ผ่าน KYC ไทยแล้ว กันโฆษณาค้างอนุมัติ",
+   "source": "The Nation",
+   "url": "https://www.nationthailand.com/news/policy/40072676"
+  },
+  {
+   "title": "TikTok Smart+ can auto-pick creatives for campaigns",
+   "th": "TikTok เปิด Smart+ Creative Selection ในพรีวิวสินค้าไตรมาส 4 ให้ระบบเสนอวิดีโอจากโพสต์ครีเอเตอร์ โฆษณาเก่าของแบรนด์ และสินทรัพย์ AI โดยแบรนด์เลือกล็อกลิสต์ อนุมัติทีละชิ้น หรือปล่อยให้รันอัตโนมัติ พร้อมแพ็กคีย์เวิร์ดค้นหาที่รีเฟรชรายวัน",
+   "why": "ตอนเทสครีเอทีฟ EV/AWO ลองโหมดอนุมัติทีละชิ้นก่อนปล่อยอัตโนมัติ — คุมโทนแบรนด์ได้โดยยังใช้ AI ช่วยสเกล",
+   "source": "Advertain",
+   "url": "https://www.advertain.com/blog/social-media-marketing-news-6-november-2026"
   }
  ],
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "weather": {
   "max": 34,
-  "min": 25,
-  "rain": 96,
-  "uv": 7,
-  "cond": "Showers",
-  "humidity": 90,
+  "min": 24,
+  "rain": 70,
+  "uv": 8,
+  "cond": "Heavy drizzle",
+  "humidity": 89,
   "source": "Open-Meteo",
-  "fetched": "06:22"
+  "fetched": "06:25"
  },
  "wordsearch": {
   "grid": [
-   "CURIEYSELH",
-   "KUNEHYACHJ",
-   "CDRIUTTTNU",
-   "CONVOYUSDE",
-   "RALLYARBLC",
-   "WATERYDPKR",
-   "ILINEHABFE",
-   "KHUPULYOIE",
-   "ETBSHORTSK",
-   "REHEDITSDG"
+   "KJFSFGSKRP",
+   "RNLHELUKAJ",
+   "ACOOAXJTLD",
+   "KYOPTRVWLM",
+   "OODHUAOUYS",
+   "WWWMRYCLDU",
+   "HPNRESMCEN",
+   "PCUSSYBHED",
+   "YLEUSHLWOA",
+   "GKBDETOURY"
   ],
   "words": [
    {
-    "word": "SATURDAY",
+    "word": "FEATURES",
     "cells": [
      [
       0,
-      6
+      4
      ],
      [
       1,
-      6
+      4
      ],
      [
       2,
-      6
+      4
      ],
      [
       3,
-      6
+      4
      ],
      [
       4,
-      6
+      4
      ],
      [
       5,
-      6
+      4
      ],
      [
       6,
-      6
+      4
      ],
      [
       7,
-      6
+      4
      ]
     ]
    },
    {
-    "word": "CONVOY",
+    "word": "DETOUR",
     "cells": [
+     [
+      9,
+      3
+     ],
+     [
+      9,
+      4
+     ],
+     [
+      9,
+      5
+     ],
+     [
+      9,
+      6
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "SUNDAY",
+    "cells": [
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      6,
+      9
+     ],
+     [
+      7,
+      9
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      9,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "KRAKOW",
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
      [
       3,
       0
      ],
      [
-      3,
-      1
+      4,
+      0
      ],
      [
-      3,
-      2
-     ],
-     [
-      3,
-      3
-     ],
-     [
-      3,
-      4
-     ],
-     [
-      3,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "SHORTS",
-    "cells": [
-     [
-      8,
-      3
-     ],
-     [
-      8,
-      4
-     ],
-     [
-      8,
-      5
-     ],
-     [
-      8,
-      6
-     ],
-     [
-      8,
-      7
-     ],
-     [
-      8,
-      8
+      5,
+      0
      ]
     ]
    },
@@ -336,120 +365,95 @@
     "word": "RALLY",
     "cells": [
      [
-      4,
-      0
+      0,
+      8
+     ],
+     [
+      1,
+      8
+     ],
+     [
+      2,
+      8
+     ],
+     [
+      3,
+      8
      ],
      [
       4,
-      1
-     ],
-     [
-      4,
-      2
-     ],
-     [
-      4,
-      3
-     ],
-     [
-      4,
-      4
+      8
      ]
     ]
    },
    {
-    "word": "WATER",
+    "word": "XRAYS",
     "cells": [
      [
-      5,
-      0
-     ],
-     [
-      5,
-      1
-     ],
-     [
-      5,
-      2
-     ],
-     [
-      5,
-      3
-     ],
-     [
-      5,
-      4
-     ]
-    ]
-   },
-   {
-    "word": "EDITS",
-    "cells": [
-     [
-      9,
-      3
-     ],
-     [
-      9,
-      4
-     ],
-     [
-      9,
+      2,
       5
      ],
      [
-      9,
-      6
+      3,
+      5
      ],
      [
-      9,
-      7
+      4,
+      5
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      6,
+      5
      ]
     ]
    },
    {
-    "word": "CURIE",
+    "word": "FLOOD",
     "cells": [
-     [
-      0,
-      0
-     ],
-     [
-      0,
-      1
-     ],
      [
       0,
       2
      ],
      [
-      0,
-      3
+      1,
+      2
      ],
      [
-      0,
-      4
+      2,
+      2
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      4,
+      2
      ]
     ]
    },
    {
-    "word": "LINE",
+    "word": "SHOP",
     "cells": [
      [
-      6,
-      1
-     ],
-     [
-      6,
-      2
-     ],
-     [
-      6,
+      0,
       3
      ],
      [
-      6,
-      4
+      1,
+      3
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      3,
+      3
      ]
     ]
    }
@@ -458,102 +462,102 @@
  "sudoku": {
   "puzzle": [
    [
-    0,
+    2,
+    5,
     6,
     0,
-    3,
-    0,
-    4
+    4,
+    0
    ],
    [
-    3,
-    5,
+    0,
     4,
+    0,
     0,
     0,
     0
    ],
    [
-    4,
+    6,
+    1,
     0,
-    0,
-    2,
+    3,
     0,
     5
    ],
    [
+    3,
+    2,
     0,
+    6,
     0,
-    0,
-    4,
-    1,
     0
    ],
    [
     0,
+    6,
+    1,
     0,
     0,
+    2
+   ],
+   [
+    0,
+    3,
+    2,
     5,
     0,
-    0
-   ],
-   [
-    0,
-    0,
-    0,
-    0,
-    0,
-    3
+    1
    ]
   ],
   "solution": [
    [
-    1,
-    6,
     2,
-    3,
     5,
-    4
+    6,
+    1,
+    4,
+    3
    ],
    [
+    1,
+    4,
     3,
-    5,
-    4,
-    1,
-    6,
-    2
-   ],
-   [
-    4,
-    1,
-    6,
     2,
-    3,
-    5
-   ],
-   [
-    2,
-    3,
     5,
-    4,
-    1,
     6
    ],
    [
     6,
-    2,
-    3,
-    5,
+    1,
     4,
-    1
+    3,
+    2,
+    5
+   ],
+   [
+    3,
+    2,
+    5,
+    6,
+    1,
+    4
    ],
    [
     5,
-    4,
-    1,
     6,
+    1,
+    4,
+    3,
+    2
+   ],
+   [
+    4,
+    3,
     2,
-    3
+    5,
+    6,
+    1
    ]
   ]
  }
