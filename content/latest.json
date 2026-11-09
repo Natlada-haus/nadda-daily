@@ -1,391 +1,418 @@
 {
- "issue_no": 28,
- "tagline": "จันทร์นี้ น้ำทะเลหนุน 9–17 พ.ย. · ม็อบยังอยู่ทำเนียบ · Monday: high tides, cooler air, protest convoy",
+ "issue_no": 29,
+ "tagline": "หนาวมาแล้วอย่างเป็นทางการ · TikTok Shop แยกแอปในไทย · Cold season is official, COP31 opens",
  "lifestyle": {
-  "title": "High-tide week: avoid riverside lanes in the morning, enjoy the cooler air",
-  "body": "ปภ.เตือน กทม.และ 6 จังหวัดภาคกลาง เฝ้าระวังน้ำทะเลหนุนสูงในเจ้าพระยา 9–17 พ.ย. ช่วงเช้าถึงบ่าย (ราว 06.00–13.30 น.) ระดับน้ำใกล้หรือเกินแนวป้องกัน ส่วนกรมอุตุฯ คาด 9–12 พ.ย. ฝนลดลงและกรุงเทพฯ เย็นลง 1–3 องศา — ใครนั่งเรือหรือผ่านถนนริมน้ำ เผื่อเวลาเช้านี้ และเลี่ยงโซนทำเนียบฯ ที่ยังมีการชุมนุม",
-  "note": "Based on DDPM high-tide warning 9–17 Nov and TMD outlook 9–12 Nov, via Siam Rath"
+  "title": "Cold season is official: grab a light jacket, keep the umbrella for the South",
+  "body": "กรมอุตุฯ ประกาศเข้าสู่ฤดูหนาวแล้วเมื่อ 9 พ.ย. ช้ากว่าปกติเพราะฝนลากยาว กรุงเทพฯ และภาคกลางอุณหภูมิลด 1–3 องศา อีสานลด 3–5 องศา ช่วงหนาวสุดคาดปลาย ธ.ค.–ต้น ก.พ. ส่วนภาคใต้ยังมีฝนต่อเนื่องถึงศุกร์นี้ — เช้านี้พกเสื้อคลุมบาง ๆ และยังเผื่อเวลาเรื่องน้ำทะเลหนุนริมเจ้าพระยาถึง 17 พ.ย.",
+  "note": "Based on the Thai Meteorological Department announcement via Bangkok Post, 9 Nov 2026"
  },
  "word": {
-  "word": "contingency",
+  "word": "onset",
   "pos": "n.",
-  "ipa": "/kənˈtɪn.dʒən.si/",
-  "th": "เหตุการณ์ที่อาจเกิดขึ้น / แผนสำรอง",
-  "def": "a future event that might happen but cannot be predicted with certainty; a plan made for it.",
-  "ex": "The NSC is discussing contingency plans in case energy supplies are disrupted."
+  "ipa": "/ˈɒn.set/",
+  "th": "การเริ่มต้น (มักใช้กับฤดูกาล อาการ หรือสิ่งที่ไม่ค่อยดี)",
+  "def": "the beginning of something, especially something unpleasant or a new season.",
+  "ex": "Weeks of rain delayed the onset of the cold season this year."
  },
  "english": {
-  "title": "Monday kickoff: confirming the first week of a new account",
+  "title": "Pitching an AWO content series to a new client",
   "dialogue": [
    [
     "Nadda",
-    "Morning! Quick check before Friday — are we still on for the kickoff call?"
+    "For always-on, I'd like to run one recurring series instead of random one-off posts."
    ],
    [
     "Client",
-    "Yes. Can you walk us through the first two weeks of content?"
+    "What would the series look like?"
    ],
    [
     "Nadda",
-    "Sure. I'll share a one-page calendar plus three hero ideas, so we can align fast."
+    "Five short episodes, one a week, each answering a real question EV owners ask."
    ],
    [
     "Client",
-    "Great. What do you need from us?"
+    "Why a series rather than single posts?"
    ],
    [
     "Nadda",
-    "Brand guidelines, any product shots you've cleared, and who signs off on captions."
+    "People follow episodes, so we build habit and recall. Each episode also stands on its own."
    ],
    [
     "Client",
-    "I'll send the guidelines today. Sign-off is me, with legal for any claims."
+    "And how do we know it's working?"
    ],
    [
     "Nadda",
-    "Perfect — I'll build in a 24-hour review buffer for anything with specs or prices."
+    "We'll track saves, shares and completion rate, then double down on the strongest episode format."
    ],
    [
     "Client",
-    "That works. Talk Friday."
+    "Sounds good. Send me the episode list."
    ]
   ],
   "vocab": [
    [
-    "kickoff call",
-    "ประชุมเปิดโปรเจกต์"
+    "recurring series",
+    "ซีรีส์ที่ออกต่อเนื่องเป็นประจำ"
    ],
    [
-    "align",
-    "ปรับให้เข้าใจตรงกัน"
+    "one-off",
+    "ครั้งเดียวจบ"
    ],
    [
-    "hero idea",
-    "ไอเดียหลักที่เป็นตัวชูโรง"
+    "stand on its own",
+    "ดูแยกเดี่ยวก็เข้าใจ"
    ],
    [
-    "sign off on",
-    "อนุมัติขั้นสุดท้าย"
+    "recall",
+    "การจดจำแบรนด์"
    ],
    [
-    "claims",
-    "ข้อความอ้างสรรพคุณ / ตัวเลขสเปก"
+    "completion rate",
+    "อัตราดูจนจบ"
    ],
    [
-    "review buffer",
-    "เวลาเผื่อสำหรับตรวจแก้"
+    "double down on",
+    "ทุ่มเพิ่มให้สิ่งที่ได้ผล"
    ]
   ],
   "tip": {
-   "instead": "Please tell me everything you need from me.",
-   "better": "Brand guidelines, any product shots you've cleared, and who signs off on captions.",
-   "why": "ขอของที่ต้องใช้แบบเจาะจงเป็นข้อ ๆ ลูกค้าตอบง่าย และดูพร้อมเริ่มงานจริง"
+   "instead": "I think a series is better.",
+   "better": "People follow episodes, so we build habit and recall.",
+   "why": "บอกเหตุผลเชิงผลลัพธ์ (habit, recall) แทนความชอบส่วนตัว ลูกค้าจะเห็นคุณค่าทันที"
   }
  },
  "know": [
   {
-   "title": "Why do high tides flood the Chao Phraya in November?",
-   "body": "ปลายฝนต้นหนาว น้ำเหนือยังไหลลงมาพอดีกับช่วงน้ำทะเลขึ้นสูงตามรอบดวงจันทร์ เมื่อทะเลหนุนเข้าปากแม่น้ำ น้ำจืดระบายออกช้า ระดับน้ำแถวป้อมพระจุลฯ จึงอาจเกินแนวคันกั้นและล้นเข้าคลองสาขา โดยเฉพาะช่วงเช้าถึงเที่ยง"
+   "title": "How does Thailand 'officially' start the cold season?",
+   "body": "กรมอุตุฯ จะประกาศเมื่ออุณหภูมิในภาคบนต่ำกว่า 23°C ต่อเนื่อง มีลมตะวันออกหรือตะวันออกเฉียงเหนือพัดในระดับล่าง ลมตะวันตกในระดับบน และฝนในภาคบนลดลง ปีนี้ประกาศ 9 พ.ย. ขณะที่ปีที่แล้วเริ่ม 23 ต.ค."
   },
   {
-   "title": "What is a Shorts 'series' on YouTube?",
-   "body": "YouTube ให้ครีเอเตอร์จัดคลิป Shorts เป็นซีซันและตอน มีปกเฉพาะและเล่นต่อเนื่องอัตโนมัติ คล้ายซีรีส์สั้น ช่วยให้คนดูตามตอนต่อไปและเปิดทางหารายได้จากตอนพิเศษสำหรับสมาชิก — เหมาะกับคอนเทนต์ AWO ที่เล่าเป็นตอน"
+   "title": "What is COP31?",
+   "body": "COP คือการประชุมรัฐภาคีกรอบอนุสัญญาสหประชาชาติว่าด้วยการเปลี่ยนแปลงสภาพภูมิอากาศ ครั้งที่ 31 เปิดแล้ว 9 พ.ย. ที่อันตัลยา ตุรกี ราวสองสัปดาห์ ปีนี้ชูประเด็นสุขภาพและอาหาร — หัวข้อ EV และพลังงานสะอาดมักถูกพูดถึงมากช่วงนี้"
   }
  ],
  "on_this_day": [
   {
-   "year": "1989",
-   "text": "East Germany opened the Berlin Wall's border crossings, and crowds began tearing the wall down."
+   "year": "1969",
+   "text": "Sesame Street premiered on American public television."
   },
   {
-   "year": "1967",
-   "text": "The first issue of Rolling Stone magazine was published in San Francisco."
+   "year": "1983",
+   "text": "Microsoft formally announced Windows, its graphical interface for MS-DOS."
   }
  ],
  "three_things": [
-  "If you commute by boat or along the river, leave a little earlier during the 9–17 Nov high-tide window",
-  "Skip the Government House area while protest groups gather there today",
-  "Sketch one Leapmotor AWO idea as a 3-episode Shorts/Reels series before the 14 Nov start"
+  "Pack a light jacket; Bangkok mornings are 1–3°C cooler now that the cold season has begun",
+  "Open the new TikTok Shop app once to see how car or lifestyle brands could show up there",
+  "Turn one Leapmotor AWO idea into a five-episode series outline before the 14 Nov start"
  ],
  "thailand": [
   {
    "lead": true,
-   "title": "NSC meets today on Mideast war fallout: energy, supply chains, food reserves",
-   "th": "สภาความมั่นคงแห่งชาติประชุมวันนี้ โดยนายกฯ อนุทินเป็นประธาน ประเมินภัยจากสงครามตะวันออกกลางที่ยืดเยื้อและภัยไซเบอร์ พิจารณาตั้งคลังสำรองอาหารและศูนย์ติดตามสถานการณ์ ขณะที่กรมการค้าภายในยืนยันยังไม่พบสินค้าขาดแคลน",
-   "en": "Expect talk of energy and price risks — no shortages yet, says Internal Trade.",
+   "title": "Thailand officially enters the cold season",
+   "th": "กรมอุตุนิยมวิทยาประกาศเข้าสู่ฤดูหนาวเมื่อ 9 พ.ย. ช้ากว่าปกติเพราะฝนต่อเนื่อง กรุงเทพฯ และภาคกลางอุณหภูมิลด 1–3 องศา อีสานลด 3–5 องศา ช่วงหนาวสุดปลาย ธ.ค.–ต้น ก.พ. ส่วนภาคใต้ยังมีฝนหนักบางแห่งถึงวันศุกร์",
+   "en": "Cooler mornings are here; the South still gets rain until Friday.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3351160/national-security-council-meets-to-assess-readiness"
+   "url": "https://www.bangkokpost.com/thailand/general/3351499/thailand-officially-enters-cold-season"
   },
   {
-   "title": "High tides warning for Bangkok and six central provinces, 9–17 Nov",
-   "th": "ปภ.เตือน กทม. ปทุมธานี นนทบุรี นครปฐม สมุทรสาคร สมุทรสงคราม และสมุทรปราการ เฝ้าระวังน้ำทะเลหนุนสูงในเจ้าพระยา ระดับน้ำแถวป้อมพระจุลฯ คาด 1.80–1.90 ม. เกินแนววิกฤต 1.70 ม. ช่วงเช้า ส่วนภาคใต้ยังเสี่ยงฝนหนัก 9–13 พ.ย.",
-   "en": "Riverside and low-lying areas should move valuables up; hotline 1784.",
-   "source": "Siam Rath",
-   "url": "https://siamrath.co.th/politics/334111"
+   "title": "NSC: Thailand faces cyberattacks every day, agencies told to raise defences",
+   "th": "หลังประชุมสภาความมั่นคงแห่งชาติที่นายกฯ อนุทินเป็นประธาน เลขาฯ สมช. ระบุไทยถูกพยายามโจมตีไซเบอร์ทุกวัน ทั้งหน่วยงานรัฐ ธนาคาร และโครงสร้างพื้นฐาน โดยผู้โจมตีใช้ AI หาช่องโหว่มากขึ้น สั่งทุกหน่วยยกระดับสูงสุดและเตรียมแผนรับมือวิกฤต ธปท.ยืนยันระบบธนาคารยังปลอดภัย",
+   "en": "Expect more security reminders from banks and apps; stay alert for phishing.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3351599/nsc-secgen-thailand-faces-daily-cyber-threats"
   },
   {
-   "title": "TAT taps emergency budget to lure year-end foreign tourists",
-   "th": "ททท.เตรียมใช้งบฉุกเฉินอุดหนุนเที่ยวบินและโปรร่วมสายการบินช่วงสองเดือนสุดท้ายของปี หลังสงครามตะวันออกกลางกระทบการเดินทาง ถึง 31 ต.ค. มีนักท่องเที่ยวต่างชาติ 25.5 ล้านคน ลดลง 4.6% ยังห่างเป้า 33 ล้าน",
-   "en": "Year-end events like Vijit Chaophraya get a tourism push — more travel promos incoming.",
+   "title": "Govt extends migrant work permits, plans to bring in Sri Lankan workers",
+   "th": "คณะกรรมการแรงงานต่างด้าวมีมติขยายใบอนุญาตทำงานแรงงานลาวและเมียนมา แรงงาน 2.3 ล้านคนที่หมดอายุ ก.พ.–มี.ค. ปีหน้าได้ต่อถึง 13 ก.พ. 2572 และเตรียมนำเข้าแรงงานศรีลังกาต้นปีหน้า รอเสนอ ครม.อนุมัติ",
+   "en": "A response to labour shortages linked to border and Myanmar disruptions.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/business/general/3351300/tat-earmarks-budget-for-yearend-foreign-markets"
+   "url": "https://www.bangkokpost.com/thailand/general/3351535/govt-looks-to-sri-lankans-to-plug-labour-shortage"
   },
   {
-   "title": "Alcohol sales allowed at hotels, airports and licensed venues on Buddhist holy days",
-   "th": "ระเบียบใหม่ในราชกิจจาฯ มีผลแล้ว 7 พ.ย. ให้ 5 ประเภทสถานที่ขายแอลกอฮอล์ได้ในวันพระใหญ่ 5 วัน เช่น โรงแรม สถานบริการที่มีใบอนุญาต พื้นที่ผู้โดยสารสนามบินระหว่างประเทศ และงานอีเวนต์ใหญ่ที่สาธารณสุขกำหนด ส่วนร้านทั่วไปยังห้ามขายเหมือนเดิม",
-   "en": "Event planners: big designated events can now serve drinks on holy days.",
+   "title": "Healthy Bryde's whale found dead in the upper Gulf of Thailand",
+   "th": "พบวาฬบรูด้าเพศผู้ยาว 11.2 เมตร เกยตื้นตายบริเวณรอยต่อสมุทรสงคราม–เพชรบุรี สัตวแพทย์ระบุสุขภาพดีก่อนตาย ยังหาสาเหตุไม่ได้ ทช.ขอให้เรือชะลอความเร็วและเว้นระยะเมื่อพบวาฬ",
+   "en": "Samples are at the lab; boats are asked to slow down near whales.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3351064/alcohol-ban-on-buddhist-holy-days-lifted-for-touristy-venues"
+   "url": "https://www.bangkokpost.com/thailand/general/3351590/brydes-whale-in-good-health-found-dead-on-thai-beach"
   }
  ],
  "world": [
   {
-   "title": "US launches 'Task Force Iron Gate' to choke Iran's land and Caspian routes",
-   "th": "กองทัพสหรัฐฯ ตั้งหน่วยเฉพาะกิจ Iron Gate ต่อยอดการปิดล้อมทางทะเล เพื่อสกัดการขนอาวุธ เทคโนโลยีสองทาง และรายได้ผิดกฎหมายของอิหร่านผ่านชายแดนทางบกและทะเลแคสเปียน",
-   "en": "Pressure on Iran widens beyond the sea blockade.",
-   "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-8-2026"
+   "title": "COP31 climate talks open in Antalya, Türkiye",
+   "th": "การประชุมโลกร้อน COP31 เปิดฉาก 9 พ.ย. ที่อันตัลยา คาดผู้เข้าร่วมกว่า 100,000 คนตลอดสองสัปดาห์ ท่ามกลางข้อจำกัดด้านเงินทุนและความตึงเครียดทางภูมิรัฐศาสตร์",
+   "en": "Health and food systems are early themes of the talks.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/top-news-of-the-day-november-9-2026/article71682319.ece"
   },
   {
-   "title": "Eisenkot gets 28 days to form Israel's next government",
-   "th": "ประธานาธิบดีเฮอร์ซอกมอบอำนาจให้แกดี ไอเซนคอต หัวหน้าพรรค Yashar จัดตั้งรัฐบาล โดยมีเวลา 28 วัน ขยายได้อีก 14 วัน",
-   "en": "Coalition talks are now on the clock.",
+   "title": "Trump says renewed strikes on Iran 'highly unlikely' if talks progress",
+   "th": "ทรัมป์ระบุการกลับไปปะทะทางทหารกับอิหร่านโดยตรง 'แทบไม่น่าเกิด' หากการเจรจาเรื่องนิวเคลียร์และช่องแคบฮอร์มุซคืบหน้า ขณะที่รูบิโอมองว่าข้อตกลงยังไม่ใกล้สำเร็จ",
+   "en": "Mixed signals keep oil and energy prices in focus.",
    "source": "Anadolu Agency",
-   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-8-2026/4115649"
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-9/4116449"
   },
   {
-   "title": "Storm floods about 70,000 tents in Gaza",
-   "th": "ฝนหนักจากพายุฤดูหนาวลูกแรกท่วมเต็นท์ผู้พลัดถิ่นในกาซาราว 70,000 หลังภายใน 12 ชั่วโมง ที่นอนและผ้าห่มเปียก ความช่วยเหลือยังขาดแคลน",
-   "en": "Winter is worsening an already severe humanitarian crisis.",
-   "source": "Devdiscourse (Reuters summary)",
-   "url": "https://www.devdiscourse.com/article/international/4003504-reuters-world-news-summary"
+   "title": "Trump floats a US-China-Russia leaders' meeting at APEC in Shenzhen",
+   "th": "ทรัมป์ระบุอาจพบสีจิ้นผิงและปูตินแบบสามฝ่ายนอกรอบการประชุมเอเปกที่เซินเจิ้น 18–19 พ.ย. ปักกิ่งบอกว่า 'กำลังติดต่อกับฝ่ายที่เกี่ยวข้อง'",
+   "en": "A rare three-way summit could be next week's big headline.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/top-news-of-the-day-november-9-2026/article71682319.ece"
   },
   {
-   "title": "Toxic haze blankets New Delhi after Diwali",
-   "th": "นิวเดลีถูกหมอกควันพิษปกคลุมหลังจุดพลุฉลองดีวาลี ดัชนีคุณภาพอากาศพุ่งถึง 483 ระดับอันตราย หลายจุดเกิน 400",
-   "en": "A reminder that PM2.5 season is also coming to Bangkok.",
-   "source": "Nhan Dan",
-   "url": "https://en.nhandan.vn/world-news-in-brief-november-8-post168852.html"
+   "title": "Ukraine hits Russia's KINEF refinery as fuel rationing spreads",
+   "th": "ยูเครนโจมตีโรงกลั่น KINEF ใหญ่อันดับสองของรัสเซีย หน่วยกลั่นหลักเสียหาย 3 หน่วย Rosneft จำกัดการขายน้ำมันใน 6 ภูมิภาค คนขับรถเติมได้ไม่เกิน 30 ลิตรต่อครั้งในเมือง",
+   "en": "Another pressure point on global fuel supply.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/09"
   }
  ],
  "social": [
   {
-   "title": "YouTube Shorts gets seasons and episodes",
-   "th": "YouTube เปิดให้จัด Shorts เป็นซีรีส์ แบ่งซีซัน/ตอน มีปกเฉพาะและเล่นต่อเนื่อง พร้อมทางหารายได้จากตอนพิเศษสำหรับสมาชิกช่อง",
-   "why": "AWO ของแบรนด์รถเล่าเป็นตอนได้ (เช่น 'ชีวิตกับ EV' 5 ตอน) ช่วยให้คนดูตามต่อและจำแบรนด์ได้มากกว่าคลิปเดี่ยว",
-   "source": "Social Media Examiner",
-   "url": "https://www.socialmediaexaminer.com/meta-ads-testing-youtube-analysis-and-industry-news/"
+   "title": "TikTok launches a standalone TikTok Shop app, including Thailand",
+   "th": "TikTok ปล่อยแอป TikTok Shop แยกเดี่ยวบน iOS/Android เมื่อ 5 พ.ย. เปิดในสิงคโปร์ มาเลเซีย ไทย และฟิลิปปินส์ มีดีลเฉพาะในแอป และช้อปผ่านไลฟ์กับคลิปสั้น",
+   "why": "ไทยเป็นตลาดแรก ๆ ที่ได้ใช้ — ดูว่าแบรนด์ไลฟ์สไตล์และอุปกรณ์เสริมรถใช้แอปนี้อย่างไร ก่อนเสนอไอเดีย commerce ให้ลูกค้า",
+   "source": "Olly Social",
+   "url": "https://www.olly.social/blog/this-week"
   },
   {
-   "title": "Instagram builds 'Series' for episodic Reels; Edits heads to desktop",
-   "th": "Instagram กำลังพัฒนา Series ให้จัดกลุ่ม Reels ตามหัวข้อหรือเรื่องเล่า และเตรียมเปิด Edits เวอร์ชันเดสก์ท็อปพร้อมฟีเจอร์ Trial Reels",
-   "why": "วางคอนเทนต์ซีรีส์ให้ใช้ได้ทั้ง IG และ YouTube ตั้งแต่ตอนวางแผน และใช้ Trial Reels เทสฮุกก่อนโพสต์จริง",
-   "source": "SocialBee",
-   "url": "https://socialbee.com/blog/latest-social-media-news/"
+   "title": "Instagram Effect Builder makes Story filters from AI prompts",
+   "th": "Instagram เปิด Effect Builder บนเว็บ (ตอนนี้เฉพาะผู้ใช้สหรัฐฯ อายุ 18+) พิมพ์คำอธิบายเพื่อให้ AI สร้างฟิลเตอร์ Stories ได้ แนบภาพอ้างอิงได้ และเมื่อผ่านรีวิวก็เปิดให้ทุกคนใช้พร้อมลิงก์กลับโปรไฟล์ผู้สร้าง",
+   "why": "ฟิลเตอร์แบรนด์ (เช่น สีรถ Leapmotor) จะทำง่ายและถูกลงมาก — จดไว้เป็นไอเดีย AWO เมื่อเปิดในไทย",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
   },
   {
-   "title": "TikTok rolls out Buy Direct, a Shopping Assistant and Agentic Leads",
-   "th": "TikTok เปิดเครื่องมือโฆษณา/ช้อปปิ้งด้วย AI ชุดใหม่ ทั้ง Buy Direct เช็คเอาต์ในแอปแบบคลิกเดียว Shopping Assistant ตอบคำถามสินค้า และ Agentic Leads ที่ใช้ AI คุยเก็บลีดอัตโนมัติ",
-   "why": "แบรนด์รถเน้นลีดทดลองขับ — Agentic Leads น่าลองเมื่อเปิดในไทย แต่ต้องคุมสคริปต์คำตอบให้ตรงสเปก",
-   "source": "Bobbin",
-   "url": "https://bobbin.video/marketing-updates-november-2026/"
+   "title": "Instagram reportedly tests uploads up to 90 minutes",
+   "th": "มีรายงานว่า Instagram กำลังทดสอบให้อัปโหลดวิดีโอยาวได้ถึง 90 นาที ขยับจาก Reels สั้นไปสู่คอนเทนต์ยาวแบบ YouTube",
+   "why": "รีวิวรถเต็ม ๆ หรือไลฟ์เปิดตัวอาจลง IG ได้ทั้งคลิป แล้วตัดเป็น Reels ต่อ — วางแผนคอนเทนต์ยาวหนึ่งชิ้นแตกเป็นหลายชิ้น",
+   "source": "Kontentino",
+   "url": "https://www.kontentino.com/blog/social-media-bites-november-2026-week-46/"
   },
   {
-   "title": "YouTube pushes original content, cuts reach for re-uploads in Shorts",
-   "th": "YouTube ปรับระบบแนะนำให้คอนเทนต์ต้นฉบับได้เปรียบ และลดการมองเห็นคลิปที่รีอัปโหลดจากคนอื่นโดยไม่เพิ่มคุณค่า โดยเฉพาะใน Shorts",
-   "why": "อย่ารีโพสต์คลิปแบรนด์ระดับโลกตรง ๆ — ตัดต่อใหม่ ใส่มุมไทยและเสียงของเพจเอง",
-   "source": "Bobbin",
-   "url": "https://bobbin.video/marketing-updates-november-2026/"
+   "title": "Edits video editor arrives on Mac with multi-track timeline and 4K export",
+   "th": "Meta เปิด Edits เวอร์ชัน Mac เมื่อ 5 พ.ย. มีไทม์ไลน์หลายแทร็ก ปรับสี ใส่ LUT และฟอนต์เอง ส่งออก 4K ไม่มีลายน้ำ",
+   "why": "ทีมตัดต่อ Reels บนคอมได้ฟรีและตรงสเปก IG — ทางเลือกประหยัดสำหรับงาน AWO ที่ต้องออกบ่อย",
+   "source": "Olly Social",
+   "url": "https://www.olly.social/blog/this-week"
   },
   {
-   "title": "YouTube survey: 72% of uploaders already use AI on videos or images",
-   "th": "รายงาน Culture & Trends ของ YouTube พบผู้อัปโหลด 72% ใช้ AI กับวิดีโอหรือภาพ และ 61% ของคนอายุ 14–44 ที่เคยโพสต์วิดีโอสนใจใช้ AI ใส่ตัวเองลงในคลิป",
-   "why": "ฟอร์แมต AI ใส่ตัวเองเข้าไปในฉาก (เช่น นั่งในรถ Leapmotor) กำลังมา — เตรียมกติกาการใช้ AI ของแบรนด์ไว้ก่อน",
-   "source": "Brand Nation",
-   "url": "https://brandnation.co.uk/the-social-media-updates-to-know-in-november-2026/"
+   "title": "EU says TikTok's For You feed creates a 'rabbit hole effect'",
+   "th": "คณะกรรมาธิการยุโรปมีข้อสรุปเบื้องต้นว่าอัลกอริทึม For You ของ TikTok ทำให้ผู้ใช้ติดวน ขัดกฎหมาย DSA ต้องปรับฟีดหรือเสี่ยงค่าปรับสูงสุด 6% ของรายได้ทั่วโลก",
+   "why": "ถ้าฟีดถูกบังคับให้หลากหลายขึ้น คอนเทนต์ที่พึ่งกระแสซ้ำ ๆ อาจได้ reach น้อยลง — เน้นฮุกและคุณค่าของคลิปเองไว้",
+   "source": "Olly Social",
+   "url": "https://www.olly.social/blog/this-week"
+  },
+  {
+   "title": "Meta can auto-add website discounts to copied ads",
+   "th": "นักการตลาดพบว่า Meta Commerce Manager ดึงโปรโมชันจากเว็บร้านมาแสดงในโฆษณา Facebook/Instagram ได้เอง แม้แต่ในโฆษณาที่ก๊อปมาซึ่งต้นฉบับปิดโปรไว้",
+   "why": "แบรนด์รถต้องระวังราคา/โปรที่ไม่ได้อนุมัติโผล่ในแอด — เช็กการตั้งค่า offer ก่อนดูพลิเคตแคมเปญ",
+   "source": "Olly Social",
+   "url": "https://www.olly.social/blog/this-week"
   }
  ],
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "weather": {
-  "max": 34,
-  "min": 25,
-  "rain": 75,
-  "uv": 8,
-  "cond": "Drizzle",
-  "humidity": 95,
+  "max": 33,
+  "min": 26,
+  "rain": 14,
+  "uv": 7,
+  "cond": "Light drizzle",
+  "humidity": 63,
   "source": "Open-Meteo",
-  "fetched": "06:20"
+  "fetched": "06:21"
  },
  "wordsearch": {
   "grid": [
-   "TEDGGFSRWV",
-   "BIPROONIEF",
-   "ERTDIKDDAY",
-   "RLWDJVIASV",
-   "LYENSTEAEP",
-   "IMAGRWURDC",
-   "NLJSHORTSC",
-   "PSERIESEPO",
-   "HACLLGOYBO",
-   "WALLCPAMKL"
+   "HSADKGMTPK",
+   "GERMKAEBEB",
+   "LRCUHKPDHB",
+   "SIMLCKOJWR",
+   "DEDAISSPHN",
+   "YSJCIMNMAL",
+   "CJEPBUAULC",
+   "FHEGLTATEO",
+   "ONSETLSWEL",
+   "FRICSSHOPD"
   ],
   "words": [
+   {
+    "word": "CLIMATE",
+    "cells": [
+     [
+      2,
+      2
+     ],
+     [
+      3,
+      3
+     ],
+     [
+      4,
+      4
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      6,
+      6
+     ],
+     [
+      7,
+      7
+     ],
+     [
+      8,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "EPISODE",
+    "cells": [
+     [
+      7,
+      2
+     ],
+     [
+      6,
+      3
+     ],
+     [
+      5,
+      4
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      3,
+      6
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      1,
+      8
+     ]
+    ]
+   },
    {
     "word": "SERIES",
     "cells": [
      [
-      7,
+      0,
       1
      ],
      [
-      7,
-      2
+      1,
+      1
      ],
      [
-      7,
-      3
+      2,
+      1
      ],
      [
-      7,
-      4
+      3,
+      1
      ],
      [
-      7,
-      5
+      4,
+      1
      ],
      [
-      7,
-      6
+      5,
+      1
      ]
     ]
    },
    {
-    "word": "SHORTS",
+    "word": "JACKET",
     "cells": [
      [
-      6,
+      5,
+      2
+     ],
+     [
+      4,
       3
      ],
      [
-      6,
+      3,
       4
      ],
      [
-      6,
+      2,
       5
      ],
      [
-      6,
+      1,
       6
      ],
      [
-      6,
+      0,
       7
+     ]
+    ]
+   },
+   {
+    "word": "ONSET",
+    "cells": [
+     [
+      8,
+      0
+     ],
+     [
+      8,
+      1
+     ],
+     [
+      8,
+      2
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "WHALE",
+    "cells": [
+     [
+      3,
+      8
+     ],
+     [
+      4,
+      8
+     ],
+     [
+      5,
+      8
      ],
      [
       6,
+      8
+     ],
+     [
+      7,
       8
      ]
     ]
    },
    {
-    "word": "BERLIN",
-    "cells": [
-     [
-      1,
-      0
-     ],
-     [
-      2,
-      0
-     ],
-     [
-      3,
-      0
-     ],
-     [
-      4,
-      0
-     ],
-     [
-      5,
-      0
-     ],
-     [
-      6,
-      0
-     ]
-    ]
-   },
-   {
-    "word": "RIVER",
-    "cells": [
-     [
-      1,
-      3
-     ],
-     [
-      2,
-      4
-     ],
-     [
-      3,
-      5
-     ],
-     [
-      4,
-      6
-     ],
-     [
-      5,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "TIDE",
-    "cells": [
-     [
-      4,
-      5
-     ],
-     [
-      3,
-      6
-     ],
-     [
-      2,
-      7
-     ],
-     [
-      1,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "WALL",
-    "cells": [
-     [
-      9,
-      0
-     ],
-     [
-      9,
-      1
-     ],
-     [
-      9,
-      2
-     ],
-     [
-      9,
-      3
-     ]
-    ]
-   },
-   {
-    "word": "COOL",
+    "word": "COLD",
     "cells": [
      [
       6,
@@ -406,23 +433,23 @@
     ]
    },
    {
-    "word": "PLAN",
+    "word": "SHOP",
     "cells": [
      [
-      7,
-      0
+      9,
+      5
      ],
      [
-      6,
-      1
+      9,
+      6
      ],
      [
-      5,
-      2
+      9,
+      7
      ],
      [
-      4,
-      3
+      9,
+      8
      ]
     ]
    }
@@ -431,102 +458,102 @@
  "sudoku": {
   "puzzle": [
    [
-    3,
-    0,
-    0,
-    0,
-    6,
-    2
-   ],
-   [
-    1,
-    6,
-    0,
-    3,
-    0,
-    4
-   ],
-   [
-    0,
-    0,
-    3,
-    0,
-    0,
-    1
-   ],
-   [
+    5,
     0,
     4,
+    2,
     0,
+    0
+   ],
+   [
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    1,
     0,
     2,
     3
    ],
    [
-    2,
-    3,
+    4,
     0,
     0,
     0,
-    6
+    0,
+    0
    ],
    [
+    0,
     4,
-    1,
+    2,
+    0,
+    0,
+    0
+   ],
+   [
+    3,
     6,
     0,
-    0,
-    5
+    1,
+    4,
+    0
    ]
   ],
   "solution": [
    [
-    3,
     5,
+    1,
     4,
-    1,
-    6,
-    2
-   ],
-   [
-    1,
-    6,
     2,
     3,
+    6
+   ],
+   [
+    2,
+    3,
+    6,
     5,
+    1,
     4
    ],
    [
     6,
-    2,
-    3,
     5,
-    4,
-    1
-   ],
-   [
-    5,
-    4,
     1,
-    6,
+    4,
     2,
     3
    ],
    [
+    4,
     2,
     3,
+    6,
     5,
-    4,
-    1,
-    6
+    1
    ],
    [
-    4,
     1,
-    6,
+    4,
     2,
     3,
+    6,
     5
+   ],
+   [
+    3,
+    6,
+    5,
+    1,
+    4,
+    2
    ]
   ]
  }
