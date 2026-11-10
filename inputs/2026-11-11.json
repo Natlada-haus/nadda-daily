@@ -1,0 +1,161 @@
+{
+ "issue_no": 30,
+ "tagline": "ภาษีของสั่งออนไลน์สูงสุด 30% · คุมกลุ่มแฉใน LINE OpenChat · Ukraine peace talks open in Abu Dhabi",
+ "lifestyle": {
+  "title": "Shopping from overseas apps? Plan big buys before the new duties",
+  "body": "ครม.อนุมัติเก็บอากรขาเข้าสินค้าที่สั่งผ่านแพลตฟอร์มอีคอมเมิร์ซตามพิกัดปกติ สูงสุดไม่เกิน 30% คาดเริ่มต้นปีหน้า เช่น หูฟังจาก 10% เป็น 30% กระเป๋าผู้หญิงจาก 20% เป็น 30% แว่นกันแดดจาก 5% เป็น 30% — ถ้ามีของชิ้นใหญ่ที่ตั้งใจจะสั่งจากต่างประเทศ ลองเทียบราคากับร้านในไทยดูก่อน",
+  "note": "Based on Bangkok Post / Reuters, 10 Nov 2026"
+ },
+ "word": {
+  "word": "tariff",
+  "pos": "n.",
+  "ipa": "/ˈtær.ɪf/",
+  "th": "อัตราภาษีศุลกากร (ภาษีนำเข้า/ส่งออก)",
+  "def": "a tax paid on goods coming into or going out of a country.",
+  "ex": "The new tariff on online imports could raise prices on headphones and handbags."
+ },
+ "english": {
+  "title": "Proposing a long-form video idea to a client",
+  "dialogue": [
+   ["Nadda", "Instagram is testing longer videos, so I'd like to try one in-depth piece a month."],
+   ["Client", "Won't people just scroll past a long video?"],
+   ["Nadda", "Some will. That's why we cut three short Reels from it to pull viewers in."],
+   ["Client", "So the long video is the anchor and the Reels are the hooks?"],
+   ["Nadda", "Exactly. One shoot, several pieces of content, and a lower cost per post."],
+   ["Client", "What would the first one be about?"],
+   ["Nadda", "A real owner's first week with the car, filmed honestly, no script."],
+   ["Client", "I like that. Let's see a rough outline."]
+  ],
+  "vocab": [
+   ["in-depth", "เจาะลึก ละเอียด"],
+   ["scroll past", "ไถผ่านไป ไม่หยุดดู"],
+   ["anchor", "ชิ้นหลักที่เป็นแกน"],
+   ["hook", "ตัวดึงความสนใจ"],
+   ["cost per post", "ต้นทุนต่อโพสต์"],
+   ["rough outline", "โครงคร่าว ๆ"]
+  ],
+  "tip": {
+   "instead": "Long videos are trendy now.",
+   "better": "One shoot, several pieces of content, and a lower cost per post.",
+   "why": "ลูกค้าสนใจความคุ้มค่า พูดถึงผลลัพธ์และต้นทุน แทนการบอกว่าอะไรกำลังฮิต"
+  }
+ },
+ "know": [
+  {
+   "title": "What is LINE OpenChat?",
+   "body": "OpenChat คือห้องแชตกลุ่มใหญ่ใน LINE ที่เข้าได้ด้วยโปรไฟล์และชื่อแฝงแยกจากบัญชีหลัก แต่ยังผูกกับบัญชีจริง เจ้าหน้าที่จึงตามตัวได้ ช่วงนี้ถูกใช้ตั้งกลุ่ม 'แฉ' นักเรียน กระทรวงศึกษาฯ จึงขอให้ LINE ปิดกลุ่มเหล่านี้"
+  },
+  {
+   "title": "Why does Thailand now regulate data centres by megawatts?",
+   "body": "ศูนย์ข้อมูลใช้ไฟและน้ำมาก ครม.จึงแบ่งเป็น 7 ระดับตามการใช้ไฟ ตั้งแต่ต่ำกว่า 0.5 MW ถึง 200 MW ขึ้นไป แห่งที่ใช้ 20 MW ขึ้นไปต้องอยู่ในเขตอุตสาหกรรม เสียงเครื่องปั่นไฟต้องไม่เกิน 70 เดซิเบลที่แนวเขตโครงการ"
+  }
+ ],
+ "on_this_day": [
+  {"year": "1918", "text": "The Armistice was signed, ending the fighting of World War I at 11 a.m."},
+  {"year": "2009", "text": "Alibaba ran its first 11.11 Singles' Day sale, now one of the world's biggest shopping days."}
+ ],
+ "three_things": [
+  "Check whether any overseas online order you planned is worth buying before the new duties start",
+  "If anyone messages about THAI flights booked since 2023, be extra careful of phishing after the Amadeus breach",
+  "Sketch one long-form Leapmotor idea that can be cut into three short Reels"
+ ],
+ "wordsearch_words": ["TARIFF","LINE","CHAT","DATA","PEACE","REELS","HOOK","ANCHOR"],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Cabinet approves duties of up to 30% on goods bought via e-commerce",
+   "th": "ครม.อนุมัติให้สินค้าที่สั่งผ่านแพลตฟอร์มออนไลน์และเข้ามาทางขนส่งด่วนหรือไปรษณีย์ระหว่างประเทศ เสียอากรตามพิกัดปกติ สูงสุด 30% ยกเลิกประกาศลด/ยกเว้นอากรเดิม คาดมีผลต้นปีหน้า เพื่อช่วย SME ไทย กรมศุลกากรคาดรายได้ปีงบ 2570 ที่ 6.3 พันล้านบาท",
+   "en": "Imported online buys like headphones, bags and sunglasses could cost more next year.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/business/general/3352251/new-duties-approved-on-goods-imported-via-ecommerce"
+  },
+  {
+   "title": "Education Ministry asks LINE to shut OpenChat groups used for school bullying",
+   "th": "นักเรียนหลายจังหวัดใช้ LINE OpenChat ตั้งกลุ่ม 'แฉ' ตามชื่อจังหวัดหรือโรงเรียน เผยแพร่ภาพส่วนตัว ข้อมูลส่วนบุคคล และคุกคามทางเพศ กระทรวงศึกษาฯ ประสานให้ LINE ปิดกลุ่มที่เกี่ยวข้อง ผู้กระทำผิดอาจโดนคดีหมิ่นประมาทหรือ พ.ร.บ.คุ้มครองเด็ก",
+   "en": "Anonymous-looking OpenChat profiles are still linked to real accounts.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3352215/line-openchat-misused-for-cyberbullying-across-thai-schools"
+  },
+  {
+   "title": "Data of 60,529 THAI bookings exposed in Amadeus breach",
+   "th": "การบินไทยเผยข้อมูลการจองของผู้โดยสาร 60,529 รายการรั่วจากระบบสำรองที่นั่ง Amadeus ระหว่าง ส.ค. 2566–ก.ย. 2569 เช่น ชื่อ เส้นทาง วันเดินทาง ส่วน 376 รายการมีอีเมล เบอร์โทร และเลขพาสปอร์ตด้วย ยืนยันข้อมูลบัตรเครดิตไม่หลุด",
+   "en": "Other airlines including Singapore Airlines and Cathay were also affected.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3352180/60000-thai-bookings-compromised-in-amadeus-breach"
+  },
+  {
+   "title": "Cabinet approves new rules for data centres",
+   "th": "ครม.อนุมัติกรอบกำกับธุรกิจศูนย์ข้อมูล ตั้งศูนย์บริการจุดเดียวที่กระทรวงดีอี แบ่ง 7 ระดับตามการใช้ไฟฟ้า คุมเสียงไม่เกิน 70 เดซิเบลและอุณหภูมิรอบข้างเพิ่มไม่เกิน 1–2 องศา พร้อมระบบติดตาม TH-DC Dashboard",
+   "en": "Aimed at AI-era investment without hurting local water and power supply.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/business/general/3352266/cabinet-approves-new-data-centre-rules"
+  }
+ ],
+ "world": [
+  {
+   "title": "US-mediated Russia-Ukraine talks open in Abu Dhabi",
+   "th": "การเจรจาสามฝ่ายรัสเซีย–ยูเครน–สหรัฐฯ เริ่มแล้ววันที่ 10 พ.ย. ที่อาบูดาบี กำหนดสองวัน ที่ปรึกษาความมั่นคงจากเยอรมนี ฝรั่งเศส และอังกฤษร่วมด้วย เจ้าหน้าที่สหรัฐฯ ระบุทั้งสองฝ่ายเริ่มยืดหยุ่นเรื่องดอเนตสก์",
+   "en": "The first trilateral round since February.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/top-news-of-the-day-november-10-2026/article71686258.ece"
+  },
+  {
+   "title": "Trump sees 'positive momentum' on ending the US-Iran conflict",
+   "th": "ทรัมป์บอกหลังพบนายกฯ กาตาร์ว่ามี 'โมเมนตัมเชิงบวก' ในการยุติความขัดแย้งกับอิหร่าน ขณะที่ IRGC อ้างว่ามีเรือสองลำรวมซูเปอร์แทงเกอร์ไฟไหม้ใกล้ช่องแคบฮอร์มุซ และอิหร่านบอกอาจเปิดช่องแคบใน 48 ชม. หากสหรัฐฯ รับข้อเรียกร้อง",
+   "en": "Shipping through Hormuz is still the key risk for oil prices.",
+   "source": "Xinhua",
+   "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
+  },
+  {
+   "title": "Nvidia shares drop 6.4% after probe into reported spy targeting of its CEO",
+   "th": "หุ้น Nvidia ร่วง 6.4% หลังบอร์ดตั้งการสอบสวนอิสระ กรณีมีรายงานว่าเจนเซน หวง ตกเป็นเป้าปฏิบัติการข่าวกรองต่างชาติ จีนปฏิเสธว่าเป็นข้อกล่าวหาไร้หลักฐาน",
+   "en": "A big swing for the most-watched AI stock.",
+   "source": "Anadolu Agency",
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+  },
+  {
+   "title": "Merz nominates Ilse Aigner, who could be Germany's first female president",
+   "th": "นายกฯ เยอรมนี ฟรีดริช แมร์ซ เสนอชื่ออิลเซอ ไอก์เนอร์ ชิงตำแหน่งประธานาธิบดี ถ้าได้รับเลือกจะเป็นประมุขหญิงคนแรกของเยอรมนี",
+   "en": "The CDU leadership backed the nomination.",
+   "source": "Xinhua",
+   "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
+  }
+ ],
+ "social": [
+  {
+   "title": "Instagram reportedly pays creators up to $500,000 for 90-minute 'Features'",
+   "th": "มีรายงานว่า Instagram เสนอเงินครีเอเตอร์ 50,000–500,000 ดอลลาร์ให้ทำวิดีโอยาวรูปแบบใหม่ชื่อ Features (ยาวได้ถึง 90 นาที แนวนอน) ตอนนี้ทดสอบในสหรัฐฯ และบราซิล และ Mosseri ยังพูดถึงแอป Reels บนทีวี",
+   "why": "IG กำลังดันคอนเทนต์ยาวแบบเป็นตอน ๆ — เตรียมไอเดียซีรีส์ยาวของ Leapmotor ไว้ก่อนฟีเจอร์มาถึงไทย",
+   "source": "TEAM LEWIS",
+   "url": "https://www.teamlewis.com/au/magazine/social-round-up-11-november-2026/"
+  },
+  {
+   "title": "YouTube expands AI custom feeds and moves Subscriptions to the top bar",
+   "th": "YouTube ขยายฟีดที่ผู้ใช้พิมพ์บอก AI ได้ว่าอยากดูอะไร เช่น พอดแคสต์ 30 นาทีระหว่างเดินทาง (ตอนนี้ในสหรัฐฯ) และย้ายฟีด Subscriptions ขึ้นแถบด้านบน",
+   "why": "ถ้าคนเลือกฟีดด้วยคำพูด ชื่อคลิปและคำอธิบายที่ตรงกับ 'สิ่งที่คนอยากดู' จะยิ่งสำคัญ — เขียน title ให้ตอบความต้องการ ไม่ใช่แค่ชื่อรุ่นรถ",
+   "source": "We Are Social",
+   "url": "https://wearesocial.com/us/blog/2026/11/we-are-socials-monday-mashup-799/"
+  },
+  {
+   "title": "YouTube Shorts can now be grouped into seasons and episodes",
+   "th": "YouTube ให้ครีเอเตอร์จัด Shorts เป็นซีซันและตอนได้แล้ว ส่วน Instagram ก็กำลังพัฒนา 'Series' สำหรับจัดกลุ่ม Reels ตามหัวข้อหรือเรื่องราว",
+   "why": "รูปแบบซีรีส์ AWO ที่วางไว้ทำบนแพลตฟอร์มได้ตรง ๆ แล้ว คนดูตามตอนต่อได้ง่ายขึ้น",
+   "source": "SocialBee",
+   "url": "https://socialbee.com/blog/latest-social-media-news/"
+  },
+  {
+   "title": "Thai schools hit by 'chae' LINE OpenChat bullying groups",
+   "th": "กลุ่ม OpenChat ชื่อ 'แฉ + จังหวัด/โรงเรียน' ขยายเร็วจนมีสมาชิกหลักร้อยถึงหลักพัน กระทรวงศึกษาฯ ขอให้ LINE ปิดกลุ่ม และย้ำว่าตัวตนในห้องยังตามได้",
+   "why": "ช่วงนี้คำว่า 'แฉ' และ OpenChat อ่อนไหว — เลี่ยงมุกหรือแคมเปญที่ใช้คำนี้ และเช็ก community guideline ถ้าแบรนด์จะเปิดกลุ่ม OpenChat",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3352215/line-openchat-misused-for-cyberbullying-across-thai-schools"
+  },
+  {
+   "title": "TikTok's 'Road to Black Friday' shows how brands sell via Shop and LIVE",
+   "th": "TikTok ปล่อยซีรีส์ Road to Black Friday เล่าว่าแบรนด์อย่าง Princess Polly, Dossier และ SharkNinja ใช้ TikTok Shop ครีเอเตอร์ และไลฟ์ขายของสร้างยอดอย่างไร",
+   "why": "ช่วง 11.11 ถึงปลายปีเป็นฤดูขาย — ใช้เป็นเคสอ้างอิงตอนเสนอไอเดียไลฟ์หรือคอนเทนต์ครีเอเตอร์ให้ลูกค้า",
+   "source": "Brand Nation",
+   "url": "https://brandnation.co.uk/the-social-media-updates-to-know-in-november-2026/"
+  }
+ ]
+}

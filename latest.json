@@ -1,257 +1,346 @@
 {
- "issue_no": 29,
- "tagline": "หนาวมาแล้วอย่างเป็นทางการ · TikTok Shop แยกแอปในไทย · Cold season is official, COP31 opens",
+ "issue_no": 30,
+ "tagline": "ภาษีของสั่งออนไลน์สูงสุด 30% · คุมกลุ่มแฉใน LINE OpenChat · Ukraine peace talks open in Abu Dhabi",
  "lifestyle": {
-  "title": "Cold season is official: grab a light jacket, keep the umbrella for the South",
-  "body": "กรมอุตุฯ ประกาศเข้าสู่ฤดูหนาวแล้วเมื่อ 9 พ.ย. ช้ากว่าปกติเพราะฝนลากยาว กรุงเทพฯ และภาคกลางอุณหภูมิลด 1–3 องศา อีสานลด 3–5 องศา ช่วงหนาวสุดคาดปลาย ธ.ค.–ต้น ก.พ. ส่วนภาคใต้ยังมีฝนต่อเนื่องถึงศุกร์นี้ — เช้านี้พกเสื้อคลุมบาง ๆ และยังเผื่อเวลาเรื่องน้ำทะเลหนุนริมเจ้าพระยาถึง 17 พ.ย.",
-  "note": "Based on the Thai Meteorological Department announcement via Bangkok Post, 9 Nov 2026"
+  "title": "Shopping from overseas apps? Plan big buys before the new duties",
+  "body": "ครม.อนุมัติเก็บอากรขาเข้าสินค้าที่สั่งผ่านแพลตฟอร์มอีคอมเมิร์ซตามพิกัดปกติ สูงสุดไม่เกิน 30% คาดเริ่มต้นปีหน้า เช่น หูฟังจาก 10% เป็น 30% กระเป๋าผู้หญิงจาก 20% เป็น 30% แว่นกันแดดจาก 5% เป็น 30% — ถ้ามีของชิ้นใหญ่ที่ตั้งใจจะสั่งจากต่างประเทศ ลองเทียบราคากับร้านในไทยดูก่อน",
+  "note": "Based on Bangkok Post / Reuters, 10 Nov 2026"
  },
  "word": {
-  "word": "onset",
+  "word": "tariff",
   "pos": "n.",
-  "ipa": "/ˈɒn.set/",
-  "th": "การเริ่มต้น (มักใช้กับฤดูกาล อาการ หรือสิ่งที่ไม่ค่อยดี)",
-  "def": "the beginning of something, especially something unpleasant or a new season.",
-  "ex": "Weeks of rain delayed the onset of the cold season this year."
+  "ipa": "/ˈtær.ɪf/",
+  "th": "อัตราภาษีศุลกากร (ภาษีนำเข้า/ส่งออก)",
+  "def": "a tax paid on goods coming into or going out of a country.",
+  "ex": "The new tariff on online imports could raise prices on headphones and handbags."
  },
  "english": {
-  "title": "Pitching an AWO content series to a new client",
+  "title": "Proposing a long-form video idea to a client",
   "dialogue": [
    [
     "Nadda",
-    "For always-on, I'd like to run one recurring series instead of random one-off posts."
+    "Instagram is testing longer videos, so I'd like to try one in-depth piece a month."
    ],
    [
     "Client",
-    "What would the series look like?"
+    "Won't people just scroll past a long video?"
    ],
    [
     "Nadda",
-    "Five short episodes, one a week, each answering a real question EV owners ask."
+    "Some will. That's why we cut three short Reels from it to pull viewers in."
    ],
    [
     "Client",
-    "Why a series rather than single posts?"
+    "So the long video is the anchor and the Reels are the hooks?"
    ],
    [
     "Nadda",
-    "People follow episodes, so we build habit and recall. Each episode also stands on its own."
+    "Exactly. One shoot, several pieces of content, and a lower cost per post."
    ],
    [
     "Client",
-    "And how do we know it's working?"
+    "What would the first one be about?"
    ],
    [
     "Nadda",
-    "We'll track saves, shares and completion rate, then double down on the strongest episode format."
+    "A real owner's first week with the car, filmed honestly, no script."
    ],
    [
     "Client",
-    "Sounds good. Send me the episode list."
+    "I like that. Let's see a rough outline."
    ]
   ],
   "vocab": [
    [
-    "recurring series",
-    "ซีรีส์ที่ออกต่อเนื่องเป็นประจำ"
+    "in-depth",
+    "เจาะลึก ละเอียด"
    ],
    [
-    "one-off",
-    "ครั้งเดียวจบ"
+    "scroll past",
+    "ไถผ่านไป ไม่หยุดดู"
    ],
    [
-    "stand on its own",
-    "ดูแยกเดี่ยวก็เข้าใจ"
+    "anchor",
+    "ชิ้นหลักที่เป็นแกน"
    ],
    [
-    "recall",
-    "การจดจำแบรนด์"
+    "hook",
+    "ตัวดึงความสนใจ"
    ],
    [
-    "completion rate",
-    "อัตราดูจนจบ"
+    "cost per post",
+    "ต้นทุนต่อโพสต์"
    ],
    [
-    "double down on",
-    "ทุ่มเพิ่มให้สิ่งที่ได้ผล"
+    "rough outline",
+    "โครงคร่าว ๆ"
    ]
   ],
   "tip": {
-   "instead": "I think a series is better.",
-   "better": "People follow episodes, so we build habit and recall.",
-   "why": "บอกเหตุผลเชิงผลลัพธ์ (habit, recall) แทนความชอบส่วนตัว ลูกค้าจะเห็นคุณค่าทันที"
+   "instead": "Long videos are trendy now.",
+   "better": "One shoot, several pieces of content, and a lower cost per post.",
+   "why": "ลูกค้าสนใจความคุ้มค่า พูดถึงผลลัพธ์และต้นทุน แทนการบอกว่าอะไรกำลังฮิต"
   }
  },
  "know": [
   {
-   "title": "How does Thailand 'officially' start the cold season?",
-   "body": "กรมอุตุฯ จะประกาศเมื่ออุณหภูมิในภาคบนต่ำกว่า 23°C ต่อเนื่อง มีลมตะวันออกหรือตะวันออกเฉียงเหนือพัดในระดับล่าง ลมตะวันตกในระดับบน และฝนในภาคบนลดลง ปีนี้ประกาศ 9 พ.ย. ขณะที่ปีที่แล้วเริ่ม 23 ต.ค."
+   "title": "What is LINE OpenChat?",
+   "body": "OpenChat คือห้องแชตกลุ่มใหญ่ใน LINE ที่เข้าได้ด้วยโปรไฟล์และชื่อแฝงแยกจากบัญชีหลัก แต่ยังผูกกับบัญชีจริง เจ้าหน้าที่จึงตามตัวได้ ช่วงนี้ถูกใช้ตั้งกลุ่ม 'แฉ' นักเรียน กระทรวงศึกษาฯ จึงขอให้ LINE ปิดกลุ่มเหล่านี้"
   },
   {
-   "title": "What is COP31?",
-   "body": "COP คือการประชุมรัฐภาคีกรอบอนุสัญญาสหประชาชาติว่าด้วยการเปลี่ยนแปลงสภาพภูมิอากาศ ครั้งที่ 31 เปิดแล้ว 9 พ.ย. ที่อันตัลยา ตุรกี ราวสองสัปดาห์ ปีนี้ชูประเด็นสุขภาพและอาหาร — หัวข้อ EV และพลังงานสะอาดมักถูกพูดถึงมากช่วงนี้"
+   "title": "Why does Thailand now regulate data centres by megawatts?",
+   "body": "ศูนย์ข้อมูลใช้ไฟและน้ำมาก ครม.จึงแบ่งเป็น 7 ระดับตามการใช้ไฟ ตั้งแต่ต่ำกว่า 0.5 MW ถึง 200 MW ขึ้นไป แห่งที่ใช้ 20 MW ขึ้นไปต้องอยู่ในเขตอุตสาหกรรม เสียงเครื่องปั่นไฟต้องไม่เกิน 70 เดซิเบลที่แนวเขตโครงการ"
   }
  ],
  "on_this_day": [
   {
-   "year": "1969",
-   "text": "Sesame Street premiered on American public television."
+   "year": "1918",
+   "text": "The Armistice was signed, ending the fighting of World War I at 11 a.m."
   },
   {
-   "year": "1983",
-   "text": "Microsoft formally announced Windows, its graphical interface for MS-DOS."
+   "year": "2009",
+   "text": "Alibaba ran its first 11.11 Singles' Day sale, now one of the world's biggest shopping days."
   }
  ],
  "three_things": [
-  "Pack a light jacket; Bangkok mornings are 1–3°C cooler now that the cold season has begun",
-  "Open the new TikTok Shop app once to see how car or lifestyle brands could show up there",
-  "Turn one Leapmotor AWO idea into a five-episode series outline before the 14 Nov start"
+  "Check whether any overseas online order you planned is worth buying before the new duties start",
+  "If anyone messages about THAI flights booked since 2023, be extra careful of phishing after the Amadeus breach",
+  "Sketch one long-form Leapmotor idea that can be cut into three short Reels"
  ],
  "thailand": [
   {
    "lead": true,
-   "title": "Thailand officially enters the cold season",
-   "th": "กรมอุตุนิยมวิทยาประกาศเข้าสู่ฤดูหนาวเมื่อ 9 พ.ย. ช้ากว่าปกติเพราะฝนต่อเนื่อง กรุงเทพฯ และภาคกลางอุณหภูมิลด 1–3 องศา อีสานลด 3–5 องศา ช่วงหนาวสุดปลาย ธ.ค.–ต้น ก.พ. ส่วนภาคใต้ยังมีฝนหนักบางแห่งถึงวันศุกร์",
-   "en": "Cooler mornings are here; the South still gets rain until Friday.",
+   "title": "Cabinet approves duties of up to 30% on goods bought via e-commerce",
+   "th": "ครม.อนุมัติให้สินค้าที่สั่งผ่านแพลตฟอร์มออนไลน์และเข้ามาทางขนส่งด่วนหรือไปรษณีย์ระหว่างประเทศ เสียอากรตามพิกัดปกติ สูงสุด 30% ยกเลิกประกาศลด/ยกเว้นอากรเดิม คาดมีผลต้นปีหน้า เพื่อช่วย SME ไทย กรมศุลกากรคาดรายได้ปีงบ 2570 ที่ 6.3 พันล้านบาท",
+   "en": "Imported online buys like headphones, bags and sunglasses could cost more next year.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3351499/thailand-officially-enters-cold-season"
+   "url": "https://www.bangkokpost.com/business/general/3352251/new-duties-approved-on-goods-imported-via-ecommerce"
   },
   {
-   "title": "NSC: Thailand faces cyberattacks every day, agencies told to raise defences",
-   "th": "หลังประชุมสภาความมั่นคงแห่งชาติที่นายกฯ อนุทินเป็นประธาน เลขาฯ สมช. ระบุไทยถูกพยายามโจมตีไซเบอร์ทุกวัน ทั้งหน่วยงานรัฐ ธนาคาร และโครงสร้างพื้นฐาน โดยผู้โจมตีใช้ AI หาช่องโหว่มากขึ้น สั่งทุกหน่วยยกระดับสูงสุดและเตรียมแผนรับมือวิกฤต ธปท.ยืนยันระบบธนาคารยังปลอดภัย",
-   "en": "Expect more security reminders from banks and apps; stay alert for phishing.",
+   "title": "Education Ministry asks LINE to shut OpenChat groups used for school bullying",
+   "th": "นักเรียนหลายจังหวัดใช้ LINE OpenChat ตั้งกลุ่ม 'แฉ' ตามชื่อจังหวัดหรือโรงเรียน เผยแพร่ภาพส่วนตัว ข้อมูลส่วนบุคคล และคุกคามทางเพศ กระทรวงศึกษาฯ ประสานให้ LINE ปิดกลุ่มที่เกี่ยวข้อง ผู้กระทำผิดอาจโดนคดีหมิ่นประมาทหรือ พ.ร.บ.คุ้มครองเด็ก",
+   "en": "Anonymous-looking OpenChat profiles are still linked to real accounts.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3351599/nsc-secgen-thailand-faces-daily-cyber-threats"
+   "url": "https://www.bangkokpost.com/thailand/general/3352215/line-openchat-misused-for-cyberbullying-across-thai-schools"
   },
   {
-   "title": "Govt extends migrant work permits, plans to bring in Sri Lankan workers",
-   "th": "คณะกรรมการแรงงานต่างด้าวมีมติขยายใบอนุญาตทำงานแรงงานลาวและเมียนมา แรงงาน 2.3 ล้านคนที่หมดอายุ ก.พ.–มี.ค. ปีหน้าได้ต่อถึง 13 ก.พ. 2572 และเตรียมนำเข้าแรงงานศรีลังกาต้นปีหน้า รอเสนอ ครม.อนุมัติ",
-   "en": "A response to labour shortages linked to border and Myanmar disruptions.",
+   "title": "Data of 60,529 THAI bookings exposed in Amadeus breach",
+   "th": "การบินไทยเผยข้อมูลการจองของผู้โดยสาร 60,529 รายการรั่วจากระบบสำรองที่นั่ง Amadeus ระหว่าง ส.ค. 2566–ก.ย. 2569 เช่น ชื่อ เส้นทาง วันเดินทาง ส่วน 376 รายการมีอีเมล เบอร์โทร และเลขพาสปอร์ตด้วย ยืนยันข้อมูลบัตรเครดิตไม่หลุด",
+   "en": "Other airlines including Singapore Airlines and Cathay were also affected.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3351535/govt-looks-to-sri-lankans-to-plug-labour-shortage"
+   "url": "https://www.bangkokpost.com/thailand/general/3352180/60000-thai-bookings-compromised-in-amadeus-breach"
   },
   {
-   "title": "Healthy Bryde's whale found dead in the upper Gulf of Thailand",
-   "th": "พบวาฬบรูด้าเพศผู้ยาว 11.2 เมตร เกยตื้นตายบริเวณรอยต่อสมุทรสงคราม–เพชรบุรี สัตวแพทย์ระบุสุขภาพดีก่อนตาย ยังหาสาเหตุไม่ได้ ทช.ขอให้เรือชะลอความเร็วและเว้นระยะเมื่อพบวาฬ",
-   "en": "Samples are at the lab; boats are asked to slow down near whales.",
+   "title": "Cabinet approves new rules for data centres",
+   "th": "ครม.อนุมัติกรอบกำกับธุรกิจศูนย์ข้อมูล ตั้งศูนย์บริการจุดเดียวที่กระทรวงดีอี แบ่ง 7 ระดับตามการใช้ไฟฟ้า คุมเสียงไม่เกิน 70 เดซิเบลและอุณหภูมิรอบข้างเพิ่มไม่เกิน 1–2 องศา พร้อมระบบติดตาม TH-DC Dashboard",
+   "en": "Aimed at AI-era investment without hurting local water and power supply.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3351590/brydes-whale-in-good-health-found-dead-on-thai-beach"
+   "url": "https://www.bangkokpost.com/business/general/3352266/cabinet-approves-new-data-centre-rules"
   }
  ],
  "world": [
   {
-   "title": "COP31 climate talks open in Antalya, Türkiye",
-   "th": "การประชุมโลกร้อน COP31 เปิดฉาก 9 พ.ย. ที่อันตัลยา คาดผู้เข้าร่วมกว่า 100,000 คนตลอดสองสัปดาห์ ท่ามกลางข้อจำกัดด้านเงินทุนและความตึงเครียดทางภูมิรัฐศาสตร์",
-   "en": "Health and food systems are early themes of the talks.",
+   "title": "US-mediated Russia-Ukraine talks open in Abu Dhabi",
+   "th": "การเจรจาสามฝ่ายรัสเซีย–ยูเครน–สหรัฐฯ เริ่มแล้ววันที่ 10 พ.ย. ที่อาบูดาบี กำหนดสองวัน ที่ปรึกษาความมั่นคงจากเยอรมนี ฝรั่งเศส และอังกฤษร่วมด้วย เจ้าหน้าที่สหรัฐฯ ระบุทั้งสองฝ่ายเริ่มยืดหยุ่นเรื่องดอเนตสก์",
+   "en": "The first trilateral round since February.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/top-news-of-the-day-november-9-2026/article71682319.ece"
+   "url": "https://www.thehindu.com/news/top-news-of-the-day-november-10-2026/article71686258.ece"
   },
   {
-   "title": "Trump says renewed strikes on Iran 'highly unlikely' if talks progress",
-   "th": "ทรัมป์ระบุการกลับไปปะทะทางทหารกับอิหร่านโดยตรง 'แทบไม่น่าเกิด' หากการเจรจาเรื่องนิวเคลียร์และช่องแคบฮอร์มุซคืบหน้า ขณะที่รูบิโอมองว่าข้อตกลงยังไม่ใกล้สำเร็จ",
-   "en": "Mixed signals keep oil and energy prices in focus.",
+   "title": "Trump sees 'positive momentum' on ending the US-Iran conflict",
+   "th": "ทรัมป์บอกหลังพบนายกฯ กาตาร์ว่ามี 'โมเมนตัมเชิงบวก' ในการยุติความขัดแย้งกับอิหร่าน ขณะที่ IRGC อ้างว่ามีเรือสองลำรวมซูเปอร์แทงเกอร์ไฟไหม้ใกล้ช่องแคบฮอร์มุซ และอิหร่านบอกอาจเปิดช่องแคบใน 48 ชม. หากสหรัฐฯ รับข้อเรียกร้อง",
+   "en": "Shipping through Hormuz is still the key risk for oil prices.",
+   "source": "Xinhua",
+   "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
+  },
+  {
+   "title": "Nvidia shares drop 6.4% after probe into reported spy targeting of its CEO",
+   "th": "หุ้น Nvidia ร่วง 6.4% หลังบอร์ดตั้งการสอบสวนอิสระ กรณีมีรายงานว่าเจนเซน หวง ตกเป็นเป้าปฏิบัติการข่าวกรองต่างชาติ จีนปฏิเสธว่าเป็นข้อกล่าวหาไร้หลักฐาน",
+   "en": "A big swing for the most-watched AI stock.",
    "source": "Anadolu Agency",
-   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-9/4116449"
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-10/4118200"
   },
   {
-   "title": "Trump floats a US-China-Russia leaders' meeting at APEC in Shenzhen",
-   "th": "ทรัมป์ระบุอาจพบสีจิ้นผิงและปูตินแบบสามฝ่ายนอกรอบการประชุมเอเปกที่เซินเจิ้น 18–19 พ.ย. ปักกิ่งบอกว่า 'กำลังติดต่อกับฝ่ายที่เกี่ยวข้อง'",
-   "en": "A rare three-way summit could be next week's big headline.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/top-news-of-the-day-november-9-2026/article71682319.ece"
-  },
-  {
-   "title": "Ukraine hits Russia's KINEF refinery as fuel rationing spreads",
-   "th": "ยูเครนโจมตีโรงกลั่น KINEF ใหญ่อันดับสองของรัสเซีย หน่วยกลั่นหลักเสียหาย 3 หน่วย Rosneft จำกัดการขายน้ำมันใน 6 ภูมิภาค คนขับรถเติมได้ไม่เกิน 30 ลิตรต่อครั้งในเมือง",
-   "en": "Another pressure point on global fuel supply.",
-   "source": "Euronews",
-   "url": "https://www.euronews.com/2026/11/09"
+   "title": "Merz nominates Ilse Aigner, who could be Germany's first female president",
+   "th": "นายกฯ เยอรมนี ฟรีดริช แมร์ซ เสนอชื่ออิลเซอ ไอก์เนอร์ ชิงตำแหน่งประธานาธิบดี ถ้าได้รับเลือกจะเป็นประมุขหญิงคนแรกของเยอรมนี",
+   "en": "The CDU leadership backed the nomination.",
+   "source": "Xinhua",
+   "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
   }
  ],
  "social": [
   {
-   "title": "TikTok launches a standalone TikTok Shop app, including Thailand",
-   "th": "TikTok ปล่อยแอป TikTok Shop แยกเดี่ยวบน iOS/Android เมื่อ 5 พ.ย. เปิดในสิงคโปร์ มาเลเซีย ไทย และฟิลิปปินส์ มีดีลเฉพาะในแอป และช้อปผ่านไลฟ์กับคลิปสั้น",
-   "why": "ไทยเป็นตลาดแรก ๆ ที่ได้ใช้ — ดูว่าแบรนด์ไลฟ์สไตล์และอุปกรณ์เสริมรถใช้แอปนี้อย่างไร ก่อนเสนอไอเดีย commerce ให้ลูกค้า",
-   "source": "Olly Social",
-   "url": "https://www.olly.social/blog/this-week"
+   "title": "Instagram reportedly pays creators up to $500,000 for 90-minute 'Features'",
+   "th": "มีรายงานว่า Instagram เสนอเงินครีเอเตอร์ 50,000–500,000 ดอลลาร์ให้ทำวิดีโอยาวรูปแบบใหม่ชื่อ Features (ยาวได้ถึง 90 นาที แนวนอน) ตอนนี้ทดสอบในสหรัฐฯ และบราซิล และ Mosseri ยังพูดถึงแอป Reels บนทีวี",
+   "why": "IG กำลังดันคอนเทนต์ยาวแบบเป็นตอน ๆ — เตรียมไอเดียซีรีส์ยาวของ Leapmotor ไว้ก่อนฟีเจอร์มาถึงไทย",
+   "source": "TEAM LEWIS",
+   "url": "https://www.teamlewis.com/au/magazine/social-round-up-11-november-2026/"
   },
   {
-   "title": "Instagram Effect Builder makes Story filters from AI prompts",
-   "th": "Instagram เปิด Effect Builder บนเว็บ (ตอนนี้เฉพาะผู้ใช้สหรัฐฯ อายุ 18+) พิมพ์คำอธิบายเพื่อให้ AI สร้างฟิลเตอร์ Stories ได้ แนบภาพอ้างอิงได้ และเมื่อผ่านรีวิวก็เปิดให้ทุกคนใช้พร้อมลิงก์กลับโปรไฟล์ผู้สร้าง",
-   "why": "ฟิลเตอร์แบรนด์ (เช่น สีรถ Leapmotor) จะทำง่ายและถูกลงมาก — จดไว้เป็นไอเดีย AWO เมื่อเปิดในไทย",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+   "title": "YouTube expands AI custom feeds and moves Subscriptions to the top bar",
+   "th": "YouTube ขยายฟีดที่ผู้ใช้พิมพ์บอก AI ได้ว่าอยากดูอะไร เช่น พอดแคสต์ 30 นาทีระหว่างเดินทาง (ตอนนี้ในสหรัฐฯ) และย้ายฟีด Subscriptions ขึ้นแถบด้านบน",
+   "why": "ถ้าคนเลือกฟีดด้วยคำพูด ชื่อคลิปและคำอธิบายที่ตรงกับ 'สิ่งที่คนอยากดู' จะยิ่งสำคัญ — เขียน title ให้ตอบความต้องการ ไม่ใช่แค่ชื่อรุ่นรถ",
+   "source": "We Are Social",
+   "url": "https://wearesocial.com/us/blog/2026/11/we-are-socials-monday-mashup-799/"
   },
   {
-   "title": "Instagram reportedly tests uploads up to 90 minutes",
-   "th": "มีรายงานว่า Instagram กำลังทดสอบให้อัปโหลดวิดีโอยาวได้ถึง 90 นาที ขยับจาก Reels สั้นไปสู่คอนเทนต์ยาวแบบ YouTube",
-   "why": "รีวิวรถเต็ม ๆ หรือไลฟ์เปิดตัวอาจลง IG ได้ทั้งคลิป แล้วตัดเป็น Reels ต่อ — วางแผนคอนเทนต์ยาวหนึ่งชิ้นแตกเป็นหลายชิ้น",
-   "source": "Kontentino",
-   "url": "https://www.kontentino.com/blog/social-media-bites-november-2026-week-46/"
+   "title": "YouTube Shorts can now be grouped into seasons and episodes",
+   "th": "YouTube ให้ครีเอเตอร์จัด Shorts เป็นซีซันและตอนได้แล้ว ส่วน Instagram ก็กำลังพัฒนา 'Series' สำหรับจัดกลุ่ม Reels ตามหัวข้อหรือเรื่องราว",
+   "why": "รูปแบบซีรีส์ AWO ที่วางไว้ทำบนแพลตฟอร์มได้ตรง ๆ แล้ว คนดูตามตอนต่อได้ง่ายขึ้น",
+   "source": "SocialBee",
+   "url": "https://socialbee.com/blog/latest-social-media-news/"
   },
   {
-   "title": "Edits video editor arrives on Mac with multi-track timeline and 4K export",
-   "th": "Meta เปิด Edits เวอร์ชัน Mac เมื่อ 5 พ.ย. มีไทม์ไลน์หลายแทร็ก ปรับสี ใส่ LUT และฟอนต์เอง ส่งออก 4K ไม่มีลายน้ำ",
-   "why": "ทีมตัดต่อ Reels บนคอมได้ฟรีและตรงสเปก IG — ทางเลือกประหยัดสำหรับงาน AWO ที่ต้องออกบ่อย",
-   "source": "Olly Social",
-   "url": "https://www.olly.social/blog/this-week"
+   "title": "Thai schools hit by 'chae' LINE OpenChat bullying groups",
+   "th": "กลุ่ม OpenChat ชื่อ 'แฉ + จังหวัด/โรงเรียน' ขยายเร็วจนมีสมาชิกหลักร้อยถึงหลักพัน กระทรวงศึกษาฯ ขอให้ LINE ปิดกลุ่ม และย้ำว่าตัวตนในห้องยังตามได้",
+   "why": "ช่วงนี้คำว่า 'แฉ' และ OpenChat อ่อนไหว — เลี่ยงมุกหรือแคมเปญที่ใช้คำนี้ และเช็ก community guideline ถ้าแบรนด์จะเปิดกลุ่ม OpenChat",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3352215/line-openchat-misused-for-cyberbullying-across-thai-schools"
   },
   {
-   "title": "EU says TikTok's For You feed creates a 'rabbit hole effect'",
-   "th": "คณะกรรมาธิการยุโรปมีข้อสรุปเบื้องต้นว่าอัลกอริทึม For You ของ TikTok ทำให้ผู้ใช้ติดวน ขัดกฎหมาย DSA ต้องปรับฟีดหรือเสี่ยงค่าปรับสูงสุด 6% ของรายได้ทั่วโลก",
-   "why": "ถ้าฟีดถูกบังคับให้หลากหลายขึ้น คอนเทนต์ที่พึ่งกระแสซ้ำ ๆ อาจได้ reach น้อยลง — เน้นฮุกและคุณค่าของคลิปเองไว้",
-   "source": "Olly Social",
-   "url": "https://www.olly.social/blog/this-week"
-  },
-  {
-   "title": "Meta can auto-add website discounts to copied ads",
-   "th": "นักการตลาดพบว่า Meta Commerce Manager ดึงโปรโมชันจากเว็บร้านมาแสดงในโฆษณา Facebook/Instagram ได้เอง แม้แต่ในโฆษณาที่ก๊อปมาซึ่งต้นฉบับปิดโปรไว้",
-   "why": "แบรนด์รถต้องระวังราคา/โปรที่ไม่ได้อนุมัติโผล่ในแอด — เช็กการตั้งค่า offer ก่อนดูพลิเคตแคมเปญ",
-   "source": "Olly Social",
-   "url": "https://www.olly.social/blog/this-week"
+   "title": "TikTok's 'Road to Black Friday' shows how brands sell via Shop and LIVE",
+   "th": "TikTok ปล่อยซีรีส์ Road to Black Friday เล่าว่าแบรนด์อย่าง Princess Polly, Dossier และ SharkNinja ใช้ TikTok Shop ครีเอเตอร์ และไลฟ์ขายของสร้างยอดอย่างไร",
+   "why": "ช่วง 11.11 ถึงปลายปีเป็นฤดูขาย — ใช้เป็นเคสอ้างอิงตอนเสนอไอเดียไลฟ์หรือคอนเทนต์ครีเอเตอร์ให้ลูกค้า",
+   "source": "Brand Nation",
+   "url": "https://brandnation.co.uk/the-social-media-updates-to-know-in-november-2026/"
   }
  ],
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "weather": {
   "max": 33,
-  "min": 26,
-  "rain": 14,
+  "min": 24,
+  "rain": 12,
   "uv": 7,
-  "cond": "Light drizzle",
-  "humidity": 63,
+  "cond": "Overcast",
+  "humidity": 60,
   "source": "Open-Meteo",
   "fetched": "06:21"
  },
  "wordsearch": {
   "grid": [
-   "HSADKGMTPK",
-   "GERMKAEBEB",
-   "LRCUHKPDHB",
-   "SIMLCKOJWR",
-   "DEDAISSPHN",
-   "YSJCIMNMAL",
-   "CJEPBUAULC",
-   "FHEGLTATEO",
-   "ONSETLSWEL",
-   "FRICSSHOPD"
+   "BJIFOFDUIU",
+   "CSCAIVAMBL",
+   "WRWRNVTNKH",
+   "OECTKCAHND",
+   "OEOAPUHCKW",
+   "MLBRELAOYO",
+   "CSSIAVIKRH",
+   "HFVFCFONGK",
+   "AJWFEOGREI",
+   "TDDHHLPYPH"
   ],
   "words": [
    {
-    "word": "CLIMATE",
+    "word": "TARIFF",
     "cells": [
-     [
-      2,
-      2
-     ],
      [
       3,
       3
      ],
      [
       4,
+      3
+     ],
+     [
+      5,
+      3
+     ],
+     [
+      6,
+      3
+     ],
+     [
+      7,
+      3
+     ],
+     [
+      8,
+      3
+     ]
+    ]
+   },
+   {
+    "word": "ANCHOR",
+    "cells": [
+     [
+      1,
+      3
+     ],
+     [
+      2,
       4
      ],
+     [
+      3,
+      5
+     ],
+     [
+      4,
+      6
+     ],
+     [
+      5,
+      7
+     ],
+     [
+      6,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "PEACE",
+    "cells": [
+     [
+      4,
+      4
+     ],
+     [
+      5,
+      4
+     ],
+     [
+      6,
+      4
+     ],
+     [
+      7,
+      4
+     ],
+     [
+      8,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "REELS",
+    "cells": [
+     [
+      2,
+      1
+     ],
+     [
+      3,
+      1
+     ],
+     [
+      4,
+      1
+     ],
+     [
+      5,
+      1
+     ],
+     [
+      6,
+      1
+     ]
+    ]
+   },
+   {
+    "word": "LINE",
+    "cells": [
      [
       5,
       5
@@ -271,185 +360,65 @@
     ]
    },
    {
-    "word": "EPISODE",
+    "word": "CHAT",
     "cells": [
-     [
-      7,
-      2
-     ],
      [
       6,
-      3
+      0
      ],
      [
-      5,
-      4
+      7,
+      0
      ],
-     [
-      4,
-      5
-     ],
-     [
-      3,
-      6
-     ],
-     [
-      2,
-      7
-     ],
-     [
-      1,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "SERIES",
-    "cells": [
-     [
-      0,
-      1
-     ],
-     [
-      1,
-      1
-     ],
-     [
-      2,
-      1
-     ],
-     [
-      3,
-      1
-     ],
-     [
-      4,
-      1
-     ],
-     [
-      5,
-      1
-     ]
-    ]
-   },
-   {
-    "word": "JACKET",
-    "cells": [
-     [
-      5,
-      2
-     ],
-     [
-      4,
-      3
-     ],
-     [
-      3,
-      4
-     ],
-     [
-      2,
-      5
-     ],
-     [
-      1,
-      6
-     ],
-     [
-      0,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "ONSET",
-    "cells": [
      [
       8,
       0
      ],
      [
-      8,
-      1
-     ],
-     [
-      8,
-      2
-     ],
-     [
-      8,
-      3
-     ],
-     [
-      8,
-      4
+      9,
+      0
      ]
     ]
    },
    {
-    "word": "WHALE",
+    "word": "DATA",
     "cells": [
      [
-      3,
-      8
-     ],
-     [
-      4,
-      8
-     ],
-     [
-      5,
-      8
-     ],
-     [
-      6,
-      8
-     ],
-     [
-      7,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "COLD",
-    "cells": [
-     [
-      6,
-      9
-     ],
-     [
-      7,
-      9
-     ],
-     [
-      8,
-      9
-     ],
-     [
-      9,
-      9
-     ]
-    ]
-   },
-   {
-    "word": "SHOP",
-    "cells": [
-     [
-      9,
-      5
-     ],
-     [
-      9,
+      0,
       6
      ],
      [
-      9,
-      7
+      1,
+      6
      ],
      [
+      2,
+      6
+     ],
+     [
+      3,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "HOOK",
+    "cells": [
+     [
       9,
-      8
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      6,
+      7
      ]
     ]
    }
@@ -458,17 +427,9 @@
  "sudoku": {
   "puzzle": [
    [
-    5,
     0,
-    4,
+    0,
     2,
-    0,
-    0
-   ],
-   [
-    2,
-    0,
-    0,
     0,
     0,
     0
@@ -478,82 +439,90 @@
     0,
     1,
     0,
-    2,
+    0,
+    2
+   ],
+   [
+    0,
+    0,
+    6,
+    0,
+    4,
     3
    ],
    [
-    4,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    0,
-    4,
     2,
     0,
     0,
-    0
+    1,
+    0,
+    6
+   ],
+   [
+    6,
+    0,
+    4,
+    3,
+    1,
+    5
    ],
    [
     3,
+    0,
+    0,
     6,
     0,
-    1,
-    4,
     0
    ]
   ],
   "solution": [
    [
     5,
-    1,
-    4,
-    2,
-    3,
-    6
-   ],
-   [
-    2,
-    3,
     6,
-    5,
-    1,
-    4
-   ],
-   [
-    6,
-    5,
-    1,
-    4,
     2,
-    3
-   ],
-   [
     4,
-    2,
     3,
-    6,
-    5,
     1
    ],
    [
-    1,
     4,
-    2,
     3,
+    1,
+    5,
     6,
+    2
+   ],
+   [
+    1,
+    5,
+    6,
+    2,
+    4,
+    3
+   ],
+   [
+    2,
+    4,
+    3,
+    1,
+    5,
+    6
+   ],
+   [
+    6,
+    2,
+    4,
+    3,
+    1,
     5
    ],
    [
     3,
-    6,
-    5,
     1,
-    4,
-    2
+    5,
+    6,
+    2,
+    4
    ]
   ]
  }
