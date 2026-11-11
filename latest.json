@@ -1,424 +1,419 @@
 {
- "issue_no": 30,
- "tagline": "ภาษีของสั่งออนไลน์สูงสุด 30% · คุมกลุ่มแฉใน LINE OpenChat · Ukraine peace talks open in Abu Dhabi",
+ "issue_no": 31,
+ "tagline": "รัฐคิดเลิกแก๊สโซฮอล์ 91/95 ดัน E20 · คนไทยเสียเงินให้มิจฉาชีพ 6.58 หมื่นล้าน · TikTok Shop แยกแอปในไทย",
  "lifestyle": {
-  "title": "Shopping from overseas apps? Plan big buys before the new duties",
-  "body": "ครม.อนุมัติเก็บอากรขาเข้าสินค้าที่สั่งผ่านแพลตฟอร์มอีคอมเมิร์ซตามพิกัดปกติ สูงสุดไม่เกิน 30% คาดเริ่มต้นปีหน้า เช่น หูฟังจาก 10% เป็น 30% กระเป๋าผู้หญิงจาก 20% เป็น 30% แว่นกันแดดจาก 5% เป็น 30% — ถ้ามีของชิ้นใหญ่ที่ตั้งใจจะสั่งจากต่างประเทศ ลองเทียบราคากับร้านในไทยดูก่อน",
-  "note": "Based on Bangkok Post / Reuters, 10 Nov 2026"
+  "title": "Is your car ready for E20? Check before 91 disappears",
+  "body": "รัฐบาลกำลังพิจารณาทยอยเลิกแก๊สโซฮอล์ 91 และ 95 เพื่อให้ E20 เป็นน้ำมันหลัก รมว.พลังงานบอกว่าจะค่อย ๆ ทำเป็นขั้น อาจเลิก 91 ก่อน ยังไม่มีกำหนดเวลาแน่นอน ผู้ผลิตรถยืนยันว่ารถที่ผลิตตั้งแต่ปี 2008 ใช้ E20 ได้ — ลองเปิดฝาถังหรือคู่มือรถดูว่ารองรับ E20 ไหม ตอนนี้ E20 ยังได้ลดภาษีสรรพสามิตด้วย",
+  "note": "Based on Bangkok Post, 12 Nov 2026"
  },
  "word": {
-  "word": "tariff",
-  "pos": "n.",
-  "ipa": "/ˈtær.ɪf/",
-  "th": "อัตราภาษีศุลกากร (ภาษีนำเข้า/ส่งออก)",
-  "def": "a tax paid on goods coming into or going out of a country.",
-  "ex": "The new tariff on online imports could raise prices on headphones and handbags."
+  "word": "phase out",
+  "pos": "phr. v.",
+  "ipa": "/feɪz aʊt/",
+  "th": "ค่อย ๆ เลิกใช้ ทยอยยกเลิก",
+  "def": "to stop using or offering something gradually, in stages.",
+  "ex": "The government may phase out Gasohol 91 first and keep 95 a little longer."
  },
  "english": {
-  "title": "Proposing a long-form video idea to a client",
+  "title": "Asking a client for faster approvals on trend content",
   "dialogue": [
    [
     "Nadda",
-    "Instagram is testing longer videos, so I'd like to try one in-depth piece a month."
+    "Trends on TikTok only last a few days, so speed really matters for us."
    ],
    [
     "Client",
-    "Won't people just scroll past a long video?"
+    "But every post still needs to go through our approval process."
    ],
    [
     "Nadda",
-    "Some will. That's why we cut three short Reels from it to pull viewers in."
+    "Of course. What if we agree on a few safe templates in advance?"
    ],
    [
     "Client",
-    "So the long video is the anchor and the Reels are the hooks?"
+    "So only the details change each time?"
    ],
    [
     "Nadda",
-    "Exactly. One shoot, several pieces of content, and a lower cost per post."
+    "Exactly. Then you'd only need to sign off on the copy, not the whole idea."
    ],
    [
     "Client",
-    "What would the first one be about?"
+    "How quickly could you turn one around?"
    ],
    [
     "Nadda",
-    "A real owner's first week with the car, filmed honestly, no script."
+    "Same day, if we get feedback before noon."
    ],
    [
     "Client",
-    "I like that. Let's see a rough outline."
+    "Let's try it for two weeks and see how it goes."
    ]
   ],
   "vocab": [
    [
-    "in-depth",
-    "เจาะลึก ละเอียด"
+    "approval process",
+    "ขั้นตอนการอนุมัติ"
    ],
    [
-    "scroll past",
-    "ไถผ่านไป ไม่หยุดดู"
+    "in advance",
+    "ล่วงหน้า"
    ],
    [
-    "anchor",
-    "ชิ้นหลักที่เป็นแกน"
+    "sign off on",
+    "อนุมัติ เซ็นผ่าน"
    ],
    [
-    "hook",
-    "ตัวดึงความสนใจ"
+    "turn around",
+    "ทำเสร็จส่งกลับ (ภายในเวลา)"
    ],
    [
-    "cost per post",
-    "ต้นทุนต่อโพสต์"
+    "safe template",
+    "แม่แบบที่ปลอดภัย ผ่านแบรนด์แล้ว"
    ],
    [
-    "rough outline",
-    "โครงคร่าว ๆ"
+    "see how it goes",
+    "ลองดูก่อนว่าจะเป็นยังไง"
    ]
   ],
   "tip": {
-   "instead": "Long videos are trendy now.",
-   "better": "One shoot, several pieces of content, and a lower cost per post.",
-   "why": "ลูกค้าสนใจความคุ้มค่า พูดถึงผลลัพธ์และต้นทุน แทนการบอกว่าอะไรกำลังฮิต"
+   "instead": "Your approval is too slow.",
+   "better": "What if we agree on a few safe templates in advance?",
+   "why": "เสนอทางออกแทนการติ ลูกค้าจะรู้สึกว่าเราช่วยแก้ปัญหา ไม่ได้มาบ่น"
   }
  },
  "know": [
   {
-   "title": "What is LINE OpenChat?",
-   "body": "OpenChat คือห้องแชตกลุ่มใหญ่ใน LINE ที่เข้าได้ด้วยโปรไฟล์และชื่อแฝงแยกจากบัญชีหลัก แต่ยังผูกกับบัญชีจริง เจ้าหน้าที่จึงตามตัวได้ ช่วงนี้ถูกใช้ตั้งกลุ่ม 'แฉ' นักเรียน กระทรวงศึกษาฯ จึงขอให้ LINE ปิดกลุ่มเหล่านี้"
+   "title": "What is E20, and how is it different from Gasohol 91/95?",
+   "body": "E20 คือเบนซินผสมเอทานอล 20% ส่วนแก๊สโซฮอล์ 91 และ 95 ผสม 10% เอทานอลทำจากกากน้ำตาลและมันสำปะหลังที่ปลูกในไทย ใช้มากขึ้นก็ลดการนำเข้าน้ำมันดิบและช่วยเกษตรกร ตอนนี้ E20 ถูกกว่าเพราะได้ลดภาษีสรรพสามิต"
   },
   {
-   "title": "Why does Thailand now regulate data centres by megawatts?",
-   "body": "ศูนย์ข้อมูลใช้ไฟและน้ำมาก ครม.จึงแบ่งเป็น 7 ระดับตามการใช้ไฟ ตั้งแต่ต่ำกว่า 0.5 MW ถึง 200 MW ขึ้นไป แห่งที่ใช้ 20 MW ขึ้นไปต้องอยู่ในเขตอุตสาหกรรม เสียงเครื่องปั่นไฟต้องไม่เกิน 70 เดซิเบลที่แนวเขตโครงการ"
+   "title": "Who is GASA?",
+   "body": "Global Anti-Scam Alliance เป็นเครือข่ายนานาชาติต่อต้านการหลอกลวงออนไลน์ รายงานปีนี้ทำร่วมกับ Mastercard และ Whoscall พบว่าในไทยการโทรศัพท์เป็นช่องทางที่มิจฉาชีพใช้มากที่สุด ตามด้วยแพลตฟอร์มของ Meta และ LINE"
   }
  ],
  "on_this_day": [
   {
-   "year": "1918",
-   "text": "The Armistice was signed, ending the fighting of World War I at 11 a.m."
+   "year": "1990",
+   "text": "Tim Berners-Lee published his formal proposal for the World Wide Web at CERN."
   },
   {
-   "year": "2009",
-   "text": "Alibaba ran its first 11.11 Singles' Day sale, now one of the world's biggest shopping days."
+   "year": "2014",
+   "text": "The Philae lander touched down on comet 67P, the first landing on a comet."
   }
  ],
  "three_things": [
-  "Check whether any overseas online order you planned is worth buying before the new duties start",
-  "If anyone messages about THAI flights booked since 2023, be extra careful of phishing after the Amadeus breach",
-  "Sketch one long-form Leapmotor idea that can be cut into three short Reels"
+  "Check your car's manual or fuel cap to see if it can use E20",
+  "Don't answer unknown numbers in a hurry — scam calls are the No. 1 channel in Thailand",
+  "Note one Leapmotor idea that could work as a TikTok Shop or LIVE format"
  ],
  "thailand": [
   {
    "lead": true,
-   "title": "Cabinet approves duties of up to 30% on goods bought via e-commerce",
-   "th": "ครม.อนุมัติให้สินค้าที่สั่งผ่านแพลตฟอร์มออนไลน์และเข้ามาทางขนส่งด่วนหรือไปรษณีย์ระหว่างประเทศ เสียอากรตามพิกัดปกติ สูงสุด 30% ยกเลิกประกาศลด/ยกเว้นอากรเดิม คาดมีผลต้นปีหน้า เพื่อช่วย SME ไทย กรมศุลกากรคาดรายได้ปีงบ 2570 ที่ 6.3 พันล้านบาท",
-   "en": "Imported online buys like headphones, bags and sunglasses could cost more next year.",
+   "title": "Govt considers phasing out Gasohol 91 and 95 to push E20",
+   "th": "รัฐบาลพิจารณาทยอยเลิกแก๊สโซฮอล์ 91 และ 95 ให้ E20 และ B20 เป็นน้ำมันหลัก ลดนำเข้าน้ำมันดิบและช่วยเกษตรกร นายกฯ อนุทินบอกว่าจะค่อยเป็นค่อยไป ไม่มีกำหนดตายตัว รมว.พลังงานบอกอาจเลิก 91 ก่อน ส่วน ส.อ.ท. สนับสนุนแต่ขอให้ดูผลกระทบต่อคนใช้รถเก่าและปั๊มน้ำมัน",
+   "en": "No date yet; officials say existing grades won't vanish overnight.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/business/general/3352251/new-duties-approved-on-goods-imported-via-ecommerce"
+   "url": "https://www.bangkokpost.com/thailand/general/3352969/govt-mulling-fuels-phaseout"
   },
   {
-   "title": "Education Ministry asks LINE to shut OpenChat groups used for school bullying",
-   "th": "นักเรียนหลายจังหวัดใช้ LINE OpenChat ตั้งกลุ่ม 'แฉ' ตามชื่อจังหวัดหรือโรงเรียน เผยแพร่ภาพส่วนตัว ข้อมูลส่วนบุคคล และคุกคามทางเพศ กระทรวงศึกษาฯ ประสานให้ LINE ปิดกลุ่มที่เกี่ยวข้อง ผู้กระทำผิดอาจโดนคดีหมิ่นประมาทหรือ พ.ร.บ.คุ้มครองเด็ก",
-   "en": "Anonymous-looking OpenChat profiles are still linked to real accounts.",
+   "title": "Thais lost about 65.8 billion baht to scams in 12 months",
+   "th": "รายงาน GASA ประเมินคนไทยเสียหายจากการหลอกลวงราว 65,800 ล้านบาทในรอบ 12 เดือน คนไทยวัยผู้ใหญ่ 79% เคยเจอการหลอกลวง ช่องทางหลักคือโทรศัพท์ แพลตฟอร์มของ Meta และ LINE และมีการตั้ง GASA Thailand Chapter",
+   "en": "Phone calls remain the most common route for fraudsters.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3352215/line-openchat-misused-for-cyberbullying-across-thai-schools"
+   "url": "https://www.bangkokpost.com/business/general/3352410/scam-losses-reach-b658bn-in-thailand"
   },
   {
-   "title": "Data of 60,529 THAI bookings exposed in Amadeus breach",
-   "th": "การบินไทยเผยข้อมูลการจองของผู้โดยสาร 60,529 รายการรั่วจากระบบสำรองที่นั่ง Amadeus ระหว่าง ส.ค. 2566–ก.ย. 2569 เช่น ชื่อ เส้นทาง วันเดินทาง ส่วน 376 รายการมีอีเมล เบอร์โทร และเลขพาสปอร์ตด้วย ยืนยันข้อมูลบัตรเครดิตไม่หลุด",
-   "en": "Other airlines including Singapore Airlines and Cathay were also affected.",
+   "title": "Kingdom goes on cyber alert",
+   "th": "รัฐบาลเตรียมยกระดับการรับมือภัยไซเบอร์ขั้นสูงสุด สั่งค่ายมือถือเสริมระบบป้องกันโดยเร็ว และขอข้อมูลข่าวกรองจากบริษัทเทคใหญ่อย่าง Apple, Google และ LINE",
+   "en": "Telecom operators were told to strengthen their defences quickly.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3352180/60000-thai-bookings-compromised-in-amadeus-breach"
+   "url": "https://www.bangkokpost.com/thailand/general/3352475/kingdom-goes-on-cyber-alert"
   },
   {
-   "title": "Cabinet approves new rules for data centres",
-   "th": "ครม.อนุมัติกรอบกำกับธุรกิจศูนย์ข้อมูล ตั้งศูนย์บริการจุดเดียวที่กระทรวงดีอี แบ่ง 7 ระดับตามการใช้ไฟฟ้า คุมเสียงไม่เกิน 70 เดซิเบลและอุณหภูมิรอบข้างเพิ่มไม่เกิน 1–2 องศา พร้อมระบบติดตาม TH-DC Dashboard",
-   "en": "Aimed at AI-era investment without hurting local water and power supply.",
+   "title": "Six crew missing after oil tanker sinks off Chon Buri",
+   "th": "เรือส่งน้ำมัน Venus 14 จมในอ่าวไทยห่างฐานทัพเรือสัตหีบราว 27 ไมล์ทะเล ลูกเรือหายไป 6 คน กองทัพเรือเร่งค้นหาและเตรียมรับมือน้ำมันรั่วไหล",
+   "en": "The navy is also on standby for a possible oil spill.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/business/general/3352266/cabinet-approves-new-data-centre-rules"
+   "url": "https://www.bangkokpost.com/thailand/general/3352841/6-crew-missing-after-oil-tanker-sinks-off-chon-buri"
   }
  ],
  "world": [
   {
-   "title": "US-mediated Russia-Ukraine talks open in Abu Dhabi",
-   "th": "การเจรจาสามฝ่ายรัสเซีย–ยูเครน–สหรัฐฯ เริ่มแล้ววันที่ 10 พ.ย. ที่อาบูดาบี กำหนดสองวัน ที่ปรึกษาความมั่นคงจากเยอรมนี ฝรั่งเศส และอังกฤษร่วมด้วย เจ้าหน้าที่สหรัฐฯ ระบุทั้งสองฝ่ายเริ่มยืดหยุ่นเรื่องดอเนตสก์",
+   "title": "Russia-Ukraine-US talks in Abu Dhabi called 'very productive'",
+   "th": "การเจรจาสามฝ่ายที่อาบูดาบีจบวันแรกหลังคุยราว 4 ชั่วโมงและเดินหน้าต่อวันพุธ รัฐมนตรีต่างประเทศสหรัฐฯ มาร์โก รูบิโอ เรียกว่า 'มีประสิทธิผลมาก'",
    "en": "The first trilateral round since February.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/top-news-of-the-day-november-10-2026/article71686258.ece"
-  },
-  {
-   "title": "Trump sees 'positive momentum' on ending the US-Iran conflict",
-   "th": "ทรัมป์บอกหลังพบนายกฯ กาตาร์ว่ามี 'โมเมนตัมเชิงบวก' ในการยุติความขัดแย้งกับอิหร่าน ขณะที่ IRGC อ้างว่ามีเรือสองลำรวมซูเปอร์แทงเกอร์ไฟไหม้ใกล้ช่องแคบฮอร์มุซ และอิหร่านบอกอาจเปิดช่องแคบใน 48 ชม. หากสหรัฐฯ รับข้อเรียกร้อง",
-   "en": "Shipping through Hormuz is still the key risk for oil prices.",
-   "source": "Xinhua",
-   "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
-  },
-  {
-   "title": "Nvidia shares drop 6.4% after probe into reported spy targeting of its CEO",
-   "th": "หุ้น Nvidia ร่วง 6.4% หลังบอร์ดตั้งการสอบสวนอิสระ กรณีมีรายงานว่าเจนเซน หวง ตกเป็นเป้าปฏิบัติการข่าวกรองต่างชาติ จีนปฏิเสธว่าเป็นข้อกล่าวหาไร้หลักฐาน",
-   "en": "A big swing for the most-watched AI stock.",
    "source": "Anadolu Agency",
-   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
   },
   {
-   "title": "Merz nominates Ilse Aigner, who could be Germany's first female president",
-   "th": "นายกฯ เยอรมนี ฟรีดริช แมร์ซ เสนอชื่ออิลเซอ ไอก์เนอร์ ชิงตำแหน่งประธานาธิบดี ถ้าได้รับเลือกจะเป็นประมุขหญิงคนแรกของเยอรมนี",
-   "en": "The CDU leadership backed the nomination.",
-   "source": "Xinhua",
-   "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
+   "title": "COP31 leaders' summit opens in Antalya with electrification in focus",
+   "th": "ผู้นำโลกประชุม COP31 ที่อันตัลยา ตุรกี ตุรกีเสนอให้สัดส่วนไฟฟ้าในการใช้พลังงานโลกขึ้นเป็น 35% ภายในปี 2035 และ Global Carbon Project คาดการปล่อย CO2 จากเชื้อเพลิงฟอสซิลปีนี้ลดลง 0.4%",
+   "en": "Turning climate pledges into action is the theme.",
+   "source": "Anadolu Agency",
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+  },
+  {
+   "title": "US House blocks bid to impeach Defense Secretary Hegseth",
+   "th": "สภาผู้แทนฯ สหรัฐฯ ลงมติ 211 ต่อ 204 ส่งญัตติถอดถอนรัฐมนตรีกลาโหม พีท เฮกเซธ ไปคณะกรรมาธิการตุลาการ ทำให้การโหวตที่วางไว้ล่ม",
+   "en": "A win for Trump days after the midterm losses.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/morning-digest-on-november-11-2026/article71688096.ece"
+  },
+  {
+   "title": "Brent crude falls below $90 for the first time since August",
+   "th": "ราคาน้ำมันดิบเบรนต์ต่ำกว่า 90 ดอลลาร์ครั้งแรกตั้งแต่ ส.ค. หลังทรัมป์ประกาศว่าสงครามกับอิหร่าน 'จบทางทหารแล้ว' แต่อิหร่านยังบอกว่าช่องแคบฮอร์มุซปิดจนกว่าจะได้ตามเงื่อนไข",
+   "en": "Hormuz shipping is still the risk to watch.",
+   "source": "World Watch",
+   "url": "https://worldwatch.media/en/digest/2026-11-11"
   }
  ],
  "social": [
   {
-   "title": "Instagram reportedly pays creators up to $500,000 for 90-minute 'Features'",
-   "th": "มีรายงานว่า Instagram เสนอเงินครีเอเตอร์ 50,000–500,000 ดอลลาร์ให้ทำวิดีโอยาวรูปแบบใหม่ชื่อ Features (ยาวได้ถึง 90 นาที แนวนอน) ตอนนี้ทดสอบในสหรัฐฯ และบราซิล และ Mosseri ยังพูดถึงแอป Reels บนทีวี",
-   "why": "IG กำลังดันคอนเทนต์ยาวแบบเป็นตอน ๆ — เตรียมไอเดียซีรีส์ยาวของ Leapmotor ไว้ก่อนฟีเจอร์มาถึงไทย",
+   "title": "TikTok launches a standalone TikTok Shop app in Thailand",
+   "th": "TikTok เปิดแอป TikTok Shop แยกต่างหากในสิงคโปร์ มาเลเซีย ไทย และฟิลิปปินส์ มีสินค้าแนะนำเฉพาะคน ไลฟ์ขายของ ดีลพิเศษ และคลิปสาธิตสินค้า",
+   "why": "ไทยได้ก่อนตลาดตะวันตก — ช่องทางขายและไลฟ์ของแบรนด์จะมีพื้นที่ใหม่ ควรถามลูกค้าว่ามีแผนขายของหรือแอคเซสซอรีผ่าน Shop ไหม",
    "source": "TEAM LEWIS",
    "url": "https://www.teamlewis.com/au/magazine/social-round-up-11-november-2026/"
   },
   {
-   "title": "YouTube expands AI custom feeds and moves Subscriptions to the top bar",
-   "th": "YouTube ขยายฟีดที่ผู้ใช้พิมพ์บอก AI ได้ว่าอยากดูอะไร เช่น พอดแคสต์ 30 นาทีระหว่างเดินทาง (ตอนนี้ในสหรัฐฯ) และย้ายฟีด Subscriptions ขึ้นแถบด้านบน",
-   "why": "ถ้าคนเลือกฟีดด้วยคำพูด ชื่อคลิปและคำอธิบายที่ตรงกับ 'สิ่งที่คนอยากดู' จะยิ่งสำคัญ — เขียน title ให้ตอบความต้องการ ไม่ใช่แค่ชื่อรุ่นรถ",
-   "source": "We Are Social",
-   "url": "https://wearesocial.com/us/blog/2026/11/we-are-socials-monday-mashup-799/"
+   "title": "TikTok Symphony AI ads can now run 30 seconds",
+   "th": "TikTok อัปเดต Symphony ใช้โมเดล Dreamina Seedance 2.5 ทำวิดีโอโฆษณา AI ได้ยาวถึง 30 วินาที (จาก 15) และใส่ภาพ/วิดีโอ/เสียงอ้างอิงได้ 50 ชิ้น (จาก 9)",
+   "why": "ทำเวอร์ชันโฆษณาหลายแบบเร็วขึ้น เล่าเรื่องได้ยาวขึ้น — แต่ต้องคุมให้ตัวรถและโลโก้ตรงตาม CI ของแบรนด์",
+   "source": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/419351/tiktok-updates-gen-ai-video-ad-creation-enhances.html"
   },
   {
-   "title": "YouTube Shorts can now be grouped into seasons and episodes",
-   "th": "YouTube ให้ครีเอเตอร์จัด Shorts เป็นซีซันและตอนได้แล้ว ส่วน Instagram ก็กำลังพัฒนา 'Series' สำหรับจัดกลุ่ม Reels ตามหัวข้อหรือเรื่องราว",
-   "why": "รูปแบบซีรีส์ AWO ที่วางไว้ทำบนแพลตฟอร์มได้ตรง ๆ แล้ว คนดูตามตอนต่อได้ง่ายขึ้น",
-   "source": "SocialBee",
-   "url": "https://socialbee.com/blog/latest-social-media-news/"
+   "title": "Instagram Edits arrives on Mac",
+   "th": "Meta ปล่อย Edits เวอร์ชัน Mac มีไทม์ไลน์หลายแทร็ก ส่งออก 4K ไม่มีลายน้ำ ซับอัตโนมัติ ฟอนต์แบรนด์ และปรับสี ตอนนี้ Edits มีผู้ใช้กว่า 50 ล้านคน",
+   "why": "ทีมตัด Reels บนคอมได้ฟรีพร้อมฟอนต์แบรนด์ อาจแทน CapCut สำหรับงานสั้นของลูกค้า",
+   "source": "TEAM LEWIS",
+   "url": "https://www.teamlewis.com/au/magazine/social-round-up-11-november-2026/"
   },
   {
-   "title": "Thai schools hit by 'chae' LINE OpenChat bullying groups",
-   "th": "กลุ่ม OpenChat ชื่อ 'แฉ + จังหวัด/โรงเรียน' ขยายเร็วจนมีสมาชิกหลักร้อยถึงหลักพัน กระทรวงศึกษาฯ ขอให้ LINE ปิดกลุ่ม และย้ำว่าตัวตนในห้องยังตามได้",
-   "why": "ช่วงนี้คำว่า 'แฉ' และ OpenChat อ่อนไหว — เลี่ยงมุกหรือแคมเปญที่ใช้คำนี้ และเช็ก community guideline ถ้าแบรนด์จะเปิดกลุ่ม OpenChat",
-   "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3352215/line-openchat-misused-for-cyberbullying-across-thai-schools"
+   "title": "Instagram expands AI age estimation for Teen Accounts worldwide",
+   "th": "Meta ขยายเทคโนโลยี AI ประเมินอายุไปทั่วโลก เพื่อจับวัยรุ่นที่กรอกอายุผู้ใหญ่ให้อยู่ใน Teen Account ซึ่งจำกัดคนติดต่อและเนื้อหาที่เห็น และจะทำแบบเดียวกันบน Facebook และ Threads",
+   "why": "กลุ่มเป้าหมายอายุน้อยอาจเห็นคอนเทนต์บางแบบน้อยลง — คอนเทนต์ที่ตั้งใจคุยกับวัยรุ่นต้องปลอดภัยและเหมาะวัย",
+   "source": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/"
   },
   {
-   "title": "TikTok's 'Road to Black Friday' shows how brands sell via Shop and LIVE",
-   "th": "TikTok ปล่อยซีรีส์ Road to Black Friday เล่าว่าแบรนด์อย่าง Princess Polly, Dossier และ SharkNinja ใช้ TikTok Shop ครีเอเตอร์ และไลฟ์ขายของสร้างยอดอย่างไร",
-   "why": "ช่วง 11.11 ถึงปลายปีเป็นฤดูขาย — ใช้เป็นเคสอ้างอิงตอนเสนอไอเดียไลฟ์หรือคอนเทนต์ครีเอเตอร์ให้ลูกค้า",
-   "source": "Brand Nation",
-   "url": "https://brandnation.co.uk/the-social-media-updates-to-know-in-november-2026/"
+   "title": "Whoscall's 'ไหว้ล่ะ โหลดเถอะ' hits 22M views in week one",
+   "th": "แคมเปญ Whoscall กับ SOUR Bangkok ใช้ภาษาถิ่น 4 ภาค หุ่นไล่กาไหว้ไล่โจร และรถพุ่มพวง ได้ยอดชมเกือบ 22 ล้านครั้งในสัปดาห์แรก ส่วนใหญ่จาก Facebook และ IG",
+   "why": "ตัวอย่างดีของการเล่นกับวัฒนธรรมท้องถิ่น + กิจกรรมออฟไลน์ให้คนแชร์ต่อ — ใช้เป็นเคสตอนคิดแคมเปญต่างจังหวัด",
+   "source": "The Better News",
+   "url": "https://www.thebetter.co.th/news/business/48457"
+  },
+  {
+   "title": "KFC Thailand's AI Colonel Sanders joins TikTok memes",
+   "th": "Brilliant & Million ใช้ AI ทำให้ผู้พันแซนเดอร์สเป็นตัวละครที่เล่นมีมและเทรนด์ TikTok ได้ทันกระแส ได้ยอดชมออร์แกนิก 875,700 และเอนเกจ 44,000",
+   "why": "ระบบตัวละครแบรนด์ที่ตอบเทรนด์ได้เร็วเป็นแนวที่น่าลองกับมาสคอตหรือตัวรถ — ความเร็วสำคัญกว่าความใหญ่",
+   "source": "Campaign Brief Asia",
+   "url": "https://campaignbriefasia.com/2026/11/04/brilliant-million-bangkok-uses-ai-to-bring-colonel-sanders-to-life-on-tiktok/"
   }
  ],
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "weather": {
-  "max": 33,
+  "max": 32,
   "min": 24,
-  "rain": 12,
+  "rain": 41,
   "uv": 7,
-  "cond": "Overcast",
-  "humidity": 60,
+  "cond": "Light drizzle",
+  "humidity": 74,
   "source": "Open-Meteo",
   "fetched": "06:21"
  },
  "wordsearch": {
   "grid": [
-   "BJIFOFDUIU",
-   "CSCAIVAMBL",
-   "WRWRNVTNKH",
-   "OECTKCAHND",
-   "OEOAPUHCKW",
-   "MLBRELAOYO",
-   "CSSIAVIKRH",
-   "HFVFCFONGK",
-   "AJWFEOGREI",
-   "TDDHHLPYPH"
+   "TJPBSIKCMD",
+   "SMMSAPPANF",
+   "FUELGSCESG",
+   "USSTTSRSRB",
+   "HVKIFTNUPG",
+   "ATDEYLAFIT",
+   "LEWDLOOOMI",
+   "ESHOPDJDYJ",
+   "RFYUBMPJOF",
+   "TCAMEPHASE"
   ],
   "words": [
    {
-    "word": "TARIFF",
+    "word": "EDITS",
     "cells": [
      [
-      3,
-      3
+      6,
+      1
+     ],
+     [
+      5,
+      2
      ],
      [
       4,
       3
      ],
      [
-      5,
-      3
-     ],
-     [
-      6,
-      3
-     ],
-     [
-      7,
-      3
-     ],
-     [
-      8,
-      3
-     ]
-    ]
-   },
-   {
-    "word": "ANCHOR",
-    "cells": [
-     [
-      1,
-      3
+      3,
+      4
      ],
      [
       2,
-      4
-     ],
-     [
-      3,
       5
-     ],
-     [
-      4,
-      6
-     ],
-     [
-      5,
-      7
-     ],
-     [
-      6,
-      8
      ]
     ]
    },
    {
-    "word": "PEACE",
+    "word": "PHASE",
     "cells": [
      [
-      4,
-      4
-     ],
-     [
-      5,
-      4
-     ],
-     [
-      6,
-      4
-     ],
-     [
-      7,
-      4
-     ],
-     [
-      8,
-      4
-     ]
-    ]
-   },
-   {
-    "word": "REELS",
-    "cells": [
-     [
-      2,
-      1
-     ],
-     [
-      3,
-      1
-     ],
-     [
-      4,
-      1
-     ],
-     [
-      5,
-      1
-     ],
-     [
-      6,
-      1
-     ]
-    ]
-   },
-   {
-    "word": "LINE",
-    "cells": [
-     [
-      5,
+      9,
       5
-     ],
-     [
-      6,
-      6
-     ],
-     [
-      7,
-      7
-     ],
-     [
-      8,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "CHAT",
-    "cells": [
-     [
-      6,
-      0
-     ],
-     [
-      7,
-      0
-     ],
-     [
-      8,
-      0
      ],
      [
       9,
-      0
+      6
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      8
+     ],
+     [
+      9,
+      9
      ]
     ]
    },
    {
-    "word": "DATA",
+    "word": "TREND",
     "cells": [
+     [
+      4,
+      5
+     ],
+     [
+      3,
+      6
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      1,
+      8
+     ],
      [
       0,
-      6
+      9
+     ]
+    ]
+   },
+   {
+    "word": "ALERT",
+    "cells": [
+     [
+      5,
+      0
      ],
      [
-      1,
-      6
+      6,
+      0
+     ],
+     [
+      7,
+      0
+     ],
+     [
+      8,
+      0
+     ],
+     [
+      9,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "FUEL",
+    "cells": [
+     [
+      2,
+      0
+     ],
+     [
+      2,
+      1
+     ],
+     [
+      2,
+      2
+     ],
+     [
+      2,
+      3
+     ]
+    ]
+   },
+   {
+    "word": "SCAM",
+    "cells": [
+     [
+      3,
+      5
      ],
      [
       2,
       6
      ],
      [
-      3,
-      6
+      1,
+      7
+     ],
+     [
+      0,
+      8
      ]
     ]
    },
    {
-    "word": "HOOK",
+    "word": "SHOP",
     "cells": [
      [
-      9,
-      4
-     ],
-     [
-      8,
-      5
+      7,
+      1
      ],
      [
       7,
-      6
+      2
      ],
      [
-      6,
-      7
+      7,
+      3
+     ],
+     [
+      7,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "APP",
+    "cells": [
+     [
+      1,
+      4
+     ],
+     [
+      1,
+      5
+     ],
+     [
+      1,
+      6
      ]
     ]
    }
@@ -429,100 +424,100 @@
    [
     0,
     0,
-    2,
     0,
+    1,
     0,
     0
    ],
    [
-    0,
-    0,
     1,
     0,
-    0,
-    2
-   ],
-   [
-    0,
-    0,
-    6,
+    3,
     0,
     4,
-    3
-   ],
-   [
-    2,
-    0,
-    0,
-    1,
-    0,
     6
    ],
    [
-    6,
-    0,
-    4,
+    2,
     3,
-    1,
-    5
+    0,
+    0,
+    0,
+    1
    ],
    [
-    3,
-    0,
     0,
     6,
     0,
+    0,
+    3,
     0
+   ],
+   [
+    0,
+    0,
+    2,
+    0,
+    5,
+    4
+   ],
+   [
+    0,
+    5,
+    0,
+    6,
+    1,
+    2
    ]
   ],
   "solution": [
    [
     5,
-    6,
-    2,
     4,
+    6,
+    1,
+    2,
+    3
+   ],
+   [
+    1,
+    2,
     3,
+    5,
+    4,
+    6
+   ],
+   [
+    2,
+    3,
+    5,
+    4,
+    6,
     1
    ],
    [
     4,
-    3,
-    1,
-    5,
     6,
-    2
-   ],
-   [
     1,
-    5,
-    6,
     2,
-    4,
-    3
-   ],
-   [
-    2,
-    4,
     3,
-    1,
-    5,
-    6
-   ],
-   [
-    6,
-    2,
-    4,
-    3,
-    1,
     5
    ],
    [
-    3,
-    1,
-    5,
     6,
+    1,
     2,
+    3,
+    5,
     4
+   ],
+   [
+    3,
+    5,
+    4,
+    6,
+    1,
+    2
    ]
   ]
  }
