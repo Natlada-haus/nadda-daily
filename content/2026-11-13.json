@@ -1,0 +1,551 @@
+{
+ "issue_no": 32,
+ "tagline": "นายกฯ ดัน B20 · ตั๋วบินเชียงใหม่ช่วงลอยกระทงพุ่ง · Jensen Huang ลาออกจาก Nvidia",
+ "lifestyle": {
+  "title": "Going north for Loy Krathong? Book with the airline, not the app",
+  "body": "ลอยกระทงปีนี้ตรงกับวันที่ 24 พ.ย. ซึ่งเป็นช่วงยี่เป็งที่เชียงใหม่ด้วย กพท. (CAAT) บอกว่าเที่ยวบินไปเชียงใหม่ 23–24 พ.ย. และขากลับ 25–26 พ.ย. แน่นมาก หลายสายการบินขายหมดแล้ว ราคาไปกลับ 18,000–30,000 บาทที่เห็นในโซเชียลเป็นราคาจากเอเย่นต์หรือแพลตฟอร์ม ไม่ใช่ราคาสายการบิน ถ้าจะไป ให้เช็กราคาและที่นั่งกับเว็บสายการบินโดยตรง เผื่อเวลาเดินทาง และพาวเวอร์แบงก์ต้องถือขึ้นเครื่องเท่านั้น",
+  "note": "Based on Bangkok Post and Thai PBS World, 12 Nov 2026"
+ },
+ "word": {
+  "word": "step down",
+  "pos": "phr. v.",
+  "ipa": "/step daʊn/",
+  "th": "ลาออกจากตำแหน่ง ลงจากตำแหน่ง",
+  "def": "to leave an important job or position, often by choice.",
+  "ex": "Jensen Huang is stepping down as Nvidia's CEO, and the CFO will lead for now."
+ },
+ "english": {
+  "title": "Pitching a Loy Krathong idea to a client",
+  "dialogue": [
+   [
+    "Nadda",
+    "Loy Krathong is on the 24th, so people will be posting about it all week."
+   ],
+   [
+    "Client",
+    "Every brand does something for Loy Krathong. How do we stand out?"
+   ],
+   [
+    "Nadda",
+    "Instead of a pretty krathong photo, we tell one small, real story."
+   ],
+   [
+    "Client",
+    "What kind of story?"
+   ],
+   [
+    "Nadda",
+    "Someone making a wish for their family. It's warm, and it fits our message about protection."
+   ],
+   [
+    "Client",
+    "I like that. But we can't look like we're selling on a festival day."
+   ],
+   [
+    "Nadda",
+    "Agreed. We'd keep the logo light and skip the hard sell."
+   ],
+   [
+    "Client",
+    "Send me a rough storyboard by Monday."
+   ]
+  ],
+  "vocab": [
+   [
+    "stand out",
+    "โดดเด่น แตกต่างจากคนอื่น"
+   ],
+   [
+    "make a wish",
+    "อธิษฐาน ขอพร"
+   ],
+   [
+    "hard sell",
+    "การขายแบบยัดเยียด"
+   ],
+   [
+    "keep it light",
+    "ทำให้เบา ๆ ไม่หนักมือ"
+   ],
+   [
+    "rough storyboard",
+    "สตอรีบอร์ดฉบับร่าง"
+   ],
+   [
+    "fit the message",
+    "เข้ากับสารที่อยากสื่อ"
+   ]
+  ],
+  "tip": {
+   "instead": "Everyone does krathong posts. Ours will be different.",
+   "better": "Instead of a pretty krathong photo, we tell one small, real story.",
+   "why": "บอกให้เห็นภาพว่าต่างยังไง ลูกค้าจะเชื่อมากกว่าแค่พูดว่า 'จะไม่เหมือนใคร'"
+  }
+ },
+ "know": [
+  {
+   "title": "What is Yi Peng?",
+   "body": "ยี่เป็งคือประเพณีล้านนาช่วงเพ็ญเดือนสิบสอง ที่เชียงใหม่จะปล่อยโคมลอยพร้อมกับลอยกระทง เพราะโคมอาจเป็นอันตรายต่อเครื่องบิน สนามบินเชียงใหม่จึงต้องยกเลิกและเลื่อนเที่ยวบินช่วงนั้น ปีนี้รายงานว่ายกเลิก 108 เที่ยว และปรับเวลา 80 เที่ยว ช่วง 21–28 พ.ย. ที่นั่งเลยน้อยและตั๋วแพง"
+  },
+  {
+   "title": "What is iPhone Lockdown Mode?",
+   "body": "Lockdown Mode เป็นโหมดความปลอดภัยสูงในเมนูตั้งค่าของ iPhone ปิดฟีเจอร์บางอย่างเพื่อลดช่องทางที่สปายแวร์จะเข้ามาได้ Apple แนะนำให้คนที่ได้รับข้อความเตือนภัยคุกคามเปิดโหมดนี้แล้วรีสตาร์ตเครื่อง ส่วนคนทั่วไปไม่จำเป็นต้องเปิด เพราะบางฟังก์ชันจะใช้ยากขึ้น"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1982",
+   "text": "The Vietnam Veterans Memorial was dedicated in Washington, D.C."
+  },
+  {
+   "year": "1985",
+   "text": "The Nevado del Ruiz volcano erupted in Colombia; mudflows buried the town of Armero."
+  }
+ ],
+ "three_things": [
+  "If you're going north for Loy Krathong, check fares on the airline's own site before you pay",
+  "Trim your TikTok captions to 5 hashtags or fewer",
+  "Sketch one small, real-story idea for Loy Krathong content"
+ ],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "PM pushes wider B20 use to cut oil imports",
+   "th": "นายกฯ อนุทินขอให้ผู้นำท้องถิ่นช่วยส่งเสริมการใช้ไบโอดีเซล B20 โดยเฉพาะในกลุ่มรถแทรกเตอร์ B20 ถูกกว่าดีเซลปกติราว 10 บาทต่อลิตร เป้าคือเพิ่มการใช้จากวันละ 6 ล้านลิตรเป็น 10 ล้านลิตร ลดนำเข้าน้ำมันและช่วยชาวสวนปาล์ม พร้อมเล่าแผนอุดหนุนติดโซลาร์บนหลังคาบ้าน 50,000 บาท",
+   "en": "Petrol cars 15 years old or newer can use E20, makers told the government.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3353559/pm-pushes-b20-fuel-use-to-boost-security"
+  },
+  {
+   "title": "Loy Krathong airfares to Chiang Mai spark complaints",
+   "th": "คนแชร์ในโซเชียลว่าตั๋วไปกลับกรุงเทพฯ–เชียงใหม่ช่วงลอยกระทงแพงถึง 18,000–30,000 บาท (ปกติ 2,500–4,300 บาท) กพท. ชี้แจงว่าเป็นราคาของเอเย่นต์และแพลตฟอร์ม เที่ยวบินลดลงเพราะต้องเลี่ยงโคมลอย และหลายสายการบินขายหมดแล้วช่วง 23–26 พ.ย.",
+   "en": "CAAT says book and check prices directly with airlines.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3353421/loy-krathong-airfare-inflation-upsets-travellers"
+  },
+  {
+   "title": "DES Ministry meets Apple over iPhone threat alerts",
+   "th": "กระทรวงดีอีหารือ Apple กรณีแจ้งเตือนภัยคุกคามถึงผู้ใช้ iPhone กว่า 150 ประเทศ รัฐมนตรีบอกว่าการได้รับคำเตือนไม่ได้แปลว่าเครื่องถูกเจาะแล้ว และยังไม่ยืนยันว่าเป็น Pegasus ใครกังวลส่งเครื่องให้ สกมช. ตรวจได้ แผนรับมือคาดว่าจะพร้อมสัปดาห์ของวันที่ 16 พ.ย.",
+   "en": "Apple has not said how many people in Thailand got the alerts.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/business/general/3352974/ministry-questions-apple-over-iphone-notifications"
+  }
+ ],
+ "world": [
+  {
+   "title": "Nvidia CEO Jensen Huang steps down",
+   "th": "เจนเซน หวง ผู้ร่วมก่อตั้ง Nvidia ลาออกจากซีอีโอและจะออกจากบอร์ดด้วย CFO คอลเล็ตต์ เครสส์ รักษาการซีอีโอระหว่างหาคนใหม่ และแต่งตั้งฮาร์วีย์ โจนส์ เป็นประธานบอร์ดคนแรก",
+   "en": "A big blow to the AI boom's best-known champion.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-13-2026"
+  },
+  {
+   "title": "Putin agrees to let Europe join next Ukraine peace talks",
+   "th": "ทูตสหรัฐฯ สตีฟ วิทคอฟฟ์ บอกว่าปูตินยอมให้ตัวแทนยุโรปร่วมการเจรจาสันติภาพยูเครนรอบหน้า ถือเป็นความคืบหน้าสำคัญ แต่ท่าทีของปูตินชี้ว่ายังคุยกันยาก",
+   "en": "Moscow and European capitals remain far apart.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-13-2026"
+  },
+  {
+   "title": "Trump says the US does not 'need' an Iran deal",
+   "th": "ทรัมป์บอกว่าสหรัฐฯ ไม่จำเป็นต้องทำข้อตกลงกับอิหร่าน และสั่งให้รองประธานาธิบดีแวนซ์ไปโฟกัสเรื่องอาชญากรรมในเมืองของเดโมแครตแทน หลังมีรายงานว่าแวนซ์คิดจะคุยตรงกับเจ้าหน้าที่อิหร่าน",
+   "en": "A shift in tone after the midterm losses.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-13-2026"
+  },
+  {
+   "title": "Guterres urges an end to fossil-fuel expansion at COP31",
+   "th": "เลขาธิการยูเอ็น อันโตนิโอ กูเตอร์เรส วิจารณ์ล็อบบี้น้ำมันและก๊าซ และเรียกร้องให้หยุดขยายเชื้อเพลิงฟอสซิลที่ COP31 ในตุรกี ขณะที่ผู้นำ G7 หลายคนไม่ได้มาร่วม",
+   "en": "Countries remain split on how fast to move away from fossil fuels.",
+   "source": "New Straits Times",
+   "url": "https://www.nst.com.my/newssummary/1552841"
+  }
+ ],
+ "social": [
+  {
+   "title": "TikTok now limits posts to 5 hashtags",
+   "th": "TikTok บังคับจำกัดแฮชแท็กไม่เกิน 5 อันต่อโพสต์ เพื่อลดความรกและช่วยการค้นพบคอนเทนต์",
+   "why": "ต้องเลือกแฮชแท็กให้คม แคปชันเก่าที่ใส่ 10–20 แท็กต้องปรับ ใช้ Trends Dashboard ช่วยเลือก",
+   "source": "ZoomSphere",
+   "url": "https://www.zoomsphere.com/blog/weekly-social-media-scoop-from-hashtag-limits-to-screenshot-metrics"
+  },
+  {
+   "title": "Instagram considers a 'Screenshots' metric",
+   "th": "Instagram กำลังพิจารณาเพิ่มตัวเลข 'Screenshots' ใน Insights อาจอยู่คู่หรือแทน Saves และเริ่มปล่อยแปลเสียง Reels ด้วย AI (ตอนนี้อังกฤษ↔สเปน)",
+   "why": "คอนเทนต์แบบข้อมูลสรุป เช็กลิสต์ หรือมีม ที่คนชอบแคปเก็บ จะวัดผลได้ชัดขึ้น — ถ้ามาจริงควรเพิ่มในรีพอร์ต",
+   "source": "ZoomSphere",
+   "url": "https://www.zoomsphere.com/blog/weekly-social-media-scoop-from-hashtag-limits-to-screenshot-metrics"
+  },
+  {
+   "title": "YouTube lets users type the feed they want",
+   "th": "YouTube ขยายฟีด AI ที่ผู้ใช้พิมพ์บอกได้ว่าอยากดูอะไร (ตอนนี้ในสหรัฐฯ) ย้าย Subscriptions ขึ้นแถบบน และทดลองให้ครีเอเตอร์ถอนรายได้ได้ตั้งแต่ 20 ดอลลาร์ (จาก 100)",
+   "why": "คนจะค้นด้วยประโยคแบบคุยกันมากขึ้น — ชื่อคลิปและคำอธิบายควรตอบโจทย์ว่า 'ดูตอนไหน เพื่ออะไร'",
+   "source": "PR Daily",
+   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-65/"
+  },
+  {
+   "title": "Facebook pauses its business terms update; creator AI gets proactive",
+   "th": "Meta ชะลอการแก้เงื่อนไขธุรกิจและโฆษณาที่ถูกวิจารณ์ว่าเปิดทางดึงคอนเทนต์ของเพจธุรกิจ จนกว่าจะปรึกษาอุตสาหกรรม ส่วนผู้ช่วย AI ของครีเอเตอร์จะเตือนเองว่าโพสต์ไหนควรปรับ ช่วยทำ shot list และร่างตอบคอมเมนต์",
+   "why": "เพจลูกค้ายังใช้เงื่อนไขเดิมไปก่อน และลองใช้ AI ช่วยคัดคอมเมนต์ที่ต้องตอบ — แต่ต้องตรวจโทนก่อนโพสต์ทุกครั้ง",
+   "source": "PR Daily",
+   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-65/"
+  },
+  {
+   "title": "Thai netizens rage over Loy Krathong flight prices",
+   "th": "โพสต์แชร์ราคาตั๋วกรุงเทพฯ–เชียงใหม่ช่วงลอยกระทงหลักหมื่นกลายเป็นกระแส จน กพท. ต้องออกมาชี้แจงว่าเป็นราคาจากเอเย่นต์ และแนะให้ซื้อตรงกับสายการบิน",
+   "why": "เทศกาลที่คนกำลังบ่นเรื่องค่าเดินทาง คอนเทนต์ช่วงนี้ควรเลี่ยงโทนอวดทริปหรู แล้วเล่นมุมเที่ยวใกล้ ลอยกระทงแถวบ้าน หรือทิปประหยัด",
+   "source": "Thai PBS World",
+   "url": "https://www.thaipbsworld.com/travel-tourism/572616"
+  }
+ ],
+ "date": "2026-11-13",
+ "weather": {
+  "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
+ },
+ "wordsearch": {
+  "grid": [
+   "GNPGKEUKVB",
+   "VVTWCHIPKT",
+   "EEMYIFEEDN",
+   "KRATHONGRH",
+   "PMYFDLNETA",
+   "BALERTTUPS",
+   "SWWYRNNSLH",
+   "VKTRAVELDT",
+   "WYLLOUVNDA",
+   "LFLIGHTEDG"
+  ],
+  "words": [
+   {
+    "word": "KRATHONG",
+    "cells": [
+     [
+      3,
+      0
+     ],
+     [
+      3,
+      1
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      3,
+      3
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      3,
+      5
+     ],
+     [
+      3,
+      6
+     ],
+     [
+      3,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "LANTERN",
+    "cells": [
+     [
+      8,
+      3
+     ],
+     [
+      7,
+      4
+     ],
+     [
+      6,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      4,
+      7
+     ],
+     [
+      3,
+      8
+     ],
+     [
+      2,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "HASHTAG",
+    "cells": [
+     [
+      3,
+      9
+     ],
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      6,
+      9
+     ],
+     [
+      7,
+      9
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      9,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "FLIGHT",
+    "cells": [
+     [
+      9,
+      1
+     ],
+     [
+      9,
+      2
+     ],
+     [
+      9,
+      3
+     ],
+     [
+      9,
+      4
+     ],
+     [
+      9,
+      5
+     ],
+     [
+      9,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "TRAVEL",
+    "cells": [
+     [
+      7,
+      2
+     ],
+     [
+      7,
+      3
+     ],
+     [
+      7,
+      4
+     ],
+     [
+      7,
+      5
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      7,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "ALERT",
+    "cells": [
+     [
+      5,
+      1
+     ],
+     [
+      5,
+      2
+     ],
+     [
+      5,
+      3
+     ],
+     [
+      5,
+      4
+     ],
+     [
+      5,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "FEED",
+    "cells": [
+     [
+      2,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      2,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "CHIP",
+    "cells": [
+     [
+      1,
+      4
+     ],
+     [
+      1,
+      5
+     ],
+     [
+      1,
+      6
+     ],
+     [
+      1,
+      7
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    0,
+    2,
+    0,
+    0,
+    5,
+    1
+   ],
+   [
+    4,
+    0,
+    0,
+    0,
+    0,
+    6
+   ],
+   [
+    0,
+    0,
+    3,
+    2,
+    0,
+    4
+   ],
+   [
+    2,
+    0,
+    0,
+    5,
+    1,
+    3
+   ],
+   [
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    6,
+    0,
+    0,
+    0,
+    0,
+    2
+   ]
+  ],
+  "solution": [
+   [
+    3,
+    2,
+    6,
+    4,
+    5,
+    1
+   ],
+   [
+    4,
+    5,
+    1,
+    3,
+    2,
+    6
+   ],
+   [
+    5,
+    1,
+    3,
+    2,
+    6,
+    4
+   ],
+   [
+    2,
+    6,
+    4,
+    5,
+    1,
+    3
+   ],
+   [
+    1,
+    3,
+    2,
+    6,
+    4,
+    5
+   ],
+   [
+    6,
+    4,
+    5,
+    1,
+    3,
+    2
+   ]
+  ]
+ }
+}
