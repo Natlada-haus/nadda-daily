@@ -1,0 +1,537 @@
+{
+ "issue_no": 33,
+ "tagline": "สายสีแดง 40 บาททั้งวันต่ออีกปี · สหรัฐฯ สั่งหยุดบินทั้งประเทศ · Outlook/Teams ล่มเกินวัน",
+ "lifestyle": {
+  "title": "Red Line stays 40 baht a day until the end of 2027",
+  "body": "การรถไฟฯ (รฟท.) ต่อโปรค่าโดยสาร 40 บาทนั่งได้ทั้งวันของรถไฟฟ้าสายสีแดง ไปจนถึงสิ้นเดือนธันวาคม 2027 จากเดิมที่จะหมดสิ้นเดือนนี้ ครอบคลุมทั้งสายสีแดงเข้ม (กรุงเทพอภิวัฒน์–รังสิต) และสายสีแดงอ่อน (กรุงเทพอภิวัฒน์–ตลิ่งชัน) ใครเดินทางแถวบางซื่อ ดอนเมือง หรือรังสิตบ่อย ๆ เที่ยววันหยุดไปกลับหลายต่อก็ยังจ่ายแค่ 40 บาทต่อวัน",
+  "note": "Based on Bangkok Post, 13 Nov 2026"
+ },
+ "word": {
+  "word": "outage",
+  "pos": "n.",
+  "ipa": "/ˈaʊtɪdʒ/",
+  "th": "การที่ระบบหรือบริการล่ม ใช้งานไม่ได้ชั่วคราว",
+  "def": "a period when a service, such as power, internet or an app, is not working.",
+  "ex": "The Outlook and Teams outage lasted more than a day, so many meetings were moved."
+ },
+ "english": {
+  "title": "Telling a client a tool is down",
+  "dialogue": [
+   [
+    "Nadda",
+    "Quick heads-up: Teams is down for us, so I can't join the call on time."
+   ],
+   [
+    "Client",
+    "Oh no. Is it just you, or is it everyone?"
+   ],
+   [
+    "Nadda",
+    "It looks like a wider outage. Microsoft says they're working on a fix."
+   ],
+   [
+    "Client",
+    "Can we switch to another app?"
+   ],
+   [
+    "Nadda",
+    "Sure. I'll send a Google Meet link in five minutes."
+   ],
+   [
+    "Client",
+    "Great. Can you also send the deck by LINE, just in case?"
+   ],
+   [
+    "Nadda",
+    "Will do. I'll keep a copy on Drive as a backup too."
+   ],
+   [
+    "Client",
+    "Perfect. Talk soon."
+   ]
+  ],
+  "vocab": [
+   [
+    "heads-up",
+    "การเตือนล่วงหน้า บอกให้รู้ก่อน"
+   ],
+   [
+    "be down",
+    "(ระบบ) ล่ม ใช้ไม่ได้"
+   ],
+   [
+    "work on a fix",
+    "กำลังแก้ไขปัญหา"
+   ],
+   [
+    "switch to",
+    "เปลี่ยนไปใช้"
+   ],
+   [
+    "just in case",
+    "เผื่อไว้"
+   ],
+   [
+    "backup",
+    "สำรอง ไฟล์สำรอง"
+   ]
+  ],
+  "tip": {
+   "instead": "Sorry, I have a problem with Teams.",
+   "better": "Quick heads-up: Teams is down for us, so I can't join the call on time.",
+   "why": "บอกปัญหา + ผลกระทบในประโยคเดียว แล้วตามด้วยทางออก ลูกค้าจะรู้สึกว่าเราคุมสถานการณ์ได้"
+  }
+ },
+ "know": [
+  {
+   "title": "What is a 'ground stop'?",
+   "body": "Ground stop คือคำสั่งของหน่วยงานการบินให้เครื่องบินที่ยังอยู่บนพื้นห้ามขึ้นบิน ส่วนเครื่องที่บินอยู่แล้วยังลงจอดได้ตามปกติ เมื่อวันที่ 13 พ.ย. FAA ของสหรัฐฯ สั่ง ground stop ทุกสนามบินทั่วประเทศ หลังระบบสื่อสารของศูนย์ควบคุมจราจรทางอากาศขัดข้อง FlightAware รายงานว่ามีเที่ยวบินล่าช้าหรือยกเลิกเกือบ 7,000 เที่ยว"
+  },
+  {
+   "title": "What is the Social Security Board?",
+   "body": "คณะกรรมการประกันสังคมมี 21 คน กำหนดทิศทางกองทุนประกันสังคมมูลค่าราว 2.8 ล้านล้านบาท ที่มีผู้ประกันตนกว่า 24 ล้านคน 14 ที่นั่งมาจากการเลือกตั้ง (ฝั่งลูกจ้าง 7 นายจ้าง 7) อีก 7 ที่นั่งเป็นตัวแทนรัฐ การเลือกตั้งเมื่อ 11 ต.ค. ทีมที่เกี่ยวข้องกับพรรคประชาชนได้ครบทั้ง 14 ที่นั่ง แต่ตอนนี้มีคนยื่นคัดค้าน ซึ่งกรรมการจะพิจารณาภายใน 30 วัน"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1889",
+   "text": "Reporter Nellie Bly set off to travel around the world in less than 80 days."
+  },
+  {
+   "year": "1969",
+   "text": "Apollo 12 launched, the second mission to land astronauts on the Moon."
+  }
+ ],
+ "three_things": [
+  "Save a backup meeting link (Meet or LINE call) in case Teams goes down again",
+  "Try a 'roast yourself' hook like vivo's for one product post this week",
+  "If you ride the Red Line, plan a 40-baht day trip this weekend"
+ ],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Red Line extends its 40-baht all-day fare to end-2027",
+   "th": "บอร์ด รฟท. มีมติต่อโปร 40 บาทนั่งได้ทั้งวันของสายสีแดงเข้ม (กรุงเทพอภิวัฒน์–รังสิต) และสายสีแดงอ่อน (กรุงเทพอภิวัฒน์–ตลิ่งชัน) ไปจนถึงธันวาคม 2027 จากเดิมที่จะสิ้นสุดปลายเดือนนี้",
+   "en": "One price, one day, on both Red Line routes for another year.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3354054/red-line-extends-b40-allday-fare-for-1-more-year"
+  },
+  {
+   "title": "BoI: actual investment up 28% in Q3",
+   "th": "BoI รายงานการลงทุนจริงของโครงการที่ได้รับส่งเสริมไตรมาส 3 อยู่ที่ 260.7 พันล้านบาท เพิ่มขึ้น 28% จากปีก่อน 9 เดือนแรกรวม 796.5 พันล้านบาท กลุ่มดิจิทัลนำ (64.2 พันล้านบาท มากกว่าปีก่อนกว่า 7 เท่า) ตามด้วยอิเล็กทรอนิกส์ คาดทั้งปีเกิน 1 ล้านล้านบาท",
+   "en": "Data centres and electronics lead the money coming in.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/business/general/3354061/boi-reports-28-growth-in-investment-in-third-quarter"
+  },
+  {
+   "title": "Objection may delay new Social Security Board members",
+   "th": "สำนักงานประกันสังคมได้รับหนังสือคัดค้านผลเลือกตั้งบอร์ดประกันสังคม ทำให้การแต่งตั้ง 14 กรรมการใหม่อาจล่าช้า กรรมการเลือกตั้งจะพิจารณาภายใน 30 วัน ทีมประกันสังคมก้าวหน้าที่เกี่ยวข้องกับพรรคประชาชนชนะครบ 14 ที่นั่ง",
+   "en": "The SSO says the review is a safeguard, not a delay tactic.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3353991/objection-may-delay-social-security-board-appointments"
+  },
+  {
+   "title": "CAAT sees drones driving a 'low-altitude economy'",
+   "th": "กพท. บอกว่าโดรนจะช่วยงานขนส่ง สาธารณสุข และงานฉุกเฉิน ปัจจุบันไทยมีโดรนลงทะเบียน 73,435 ลำ (ณ 10 พ.ย.) และกำลังร่างแผนแม่บทอากาศยานไร้คนขับ พร้อมจัดงาน Advanced Air Mobility Symposium 1–3 ธ.ค. ที่เมืองทองธานี",
+   "en": "Thailand's drone market grows about 10% a year.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3354075/drones-at-heart-of-lowaltitude-economy"
+  }
+ ],
+ "world": [
+  {
+   "title": "US grounds all departing flights after ATC outage",
+   "th": "FAA สั่งหยุดเครื่องขึ้นทุกสนามบินในสหรัฐฯ เมื่อ 13 พ.ย. หลังระบบสื่อสารของศูนย์ควบคุมจราจรทางอากาศขัดข้องทั่วประเทศ FlightAware ระบุเที่ยวบินล่าช้าหรือยกเลิกเกือบ 7,000 เที่ยว",
+   "en": "Planes in the air could land; those on the ground could not take off.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+  },
+  {
+   "title": "Microsoft Outlook and Teams outage eases after more than a day",
+   "th": "Outlook, Teams และ Copilot ล่มทั่วโลกนานกว่า 24 ชั่วโมง กระทบหน่วยงานรัฐ บริษัทเทรด และสายการบิน Microsoft บอกว่าเป็นปัญหาเซิร์ฟเวอร์ ไม่ใช่การโจมตีไซเบอร์หรือ AI ระบบเริ่มกลับมาแต่ยังไม่มีกำหนดฟื้นเต็มที่",
+   "en": "A reminder to keep a backup way to meet and email.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+  },
+  {
+   "title": "EU names a five-country team for Ukraine peace talks",
+   "th": "ผู้นำ EU ตกลงให้ทีมเจรจาสันติภาพยูเครนฝั่งยุโรปมีอังกฤษ ฝรั่งเศส เยอรมนี อิตาลี และโปแลนด์ ร่วมกับสถาบันของ EU ขณะที่เครมลินบอกว่าเปิดรับยุโรปถ้าตั้งใจช่วยสร้างสันติภาพจริง",
+   "en": "Europe wants one voice at the table.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+  },
+  {
+   "title": "Turkey and Qatar sign a mutual defence pact",
+   "th": "ตุรกีและกาตาร์ลงนามข้อตกลงป้องกันร่วม เพื่อมีจุดยืนเดียวกันหากถูกโจมตีจากภายนอก หลังประธานาธิบดีแอร์โดอันพบเจ้าผู้ครองรัฐกาตาร์ที่อิสตันบูล",
+   "en": "Two close regional allies tighten ties.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+  }
+ ],
+ "social": [
+  {
+   "title": "SEALECT x Butterbear turns canned tuna into collectibles",
+   "th": "ซีเล็คทูน่าจับมือน้องเนย Butterbear ทำ Special Collection และงาน Meet & Cute ที่ EMSPHERE ผู้ส่งยอดซื้อลุ้นร่วมงานกว่า 1,000 ราย ไลฟ์มีคนดูทะลุ 50,000 วิว และ engagement กว่า 20,000 ครั้ง",
+   "why": "คาแรกเตอร์คอลแลบเปลี่ยนแฟนด้อมเป็นยอดซื้อได้จริง — ไอเดียดีสำหรับ Duckling Sort ถ้าวันหนึ่งน้องเป็ดจะคอลแลบกับแบรนด์",
+   "source": "Biztalk News",
+   "url": "https://www.biztalknews.com/business/sealect-butterbear-meet-and-cute-campaign/"
+  },
+  {
+   "title": "vivo V80 roasts itself: 'There's nothing new about the vivo V80!'",
+   "th": "vivo กับ SOUR Bangkok ทำหนังที่ Keng (คู่กับ Namping) หลุดพูดตอนไมค์เปิดว่า V80 ไม่มีอะไรใหม่ ต่อยอดฉายา 'God's Favorite Camera' ด้วยแนว 'Sell Hard, Laugh Harder' กำกับโดยเต๋อ นวพล",
+   "why": "อัปเกรดเล็กที่ขายยาก เล่นมุกแซวตัวเองแล้วค่อยเฉลยฟีเจอร์ได้ — ใช้กับรถรุ่นปรับโฉมหรืออัปเดตแอปที่ต่างจากเดิมนิดเดียว",
+   "source": "Campaign Brief Asia",
+   "url": "https://campaignbriefasia.com/2026/11/04/gods-favorite-camera-gets-a-reality-check-in-vivo-and-sour-bangkoks-latest-campaign/"
+  },
+  {
+   "title": "Vertical 'Chinese drama' format wins a student viral-ad contest",
+   "th": "COCOLOVE x ม.กรุงเทพ จัด Viral Ads Contest 2026 มีกว่า 400 ทีม ทีมชนะเล่าว่าทำตามเทรนด์ซีรีส์จีนแนวตั้ง ตั้งชื่อเรื่องให้คนสงสัยจนต้องดูต่อ",
+   "why": "ฟอร์แมตละครสั้นแนวตั้งยังแรงในกลุ่ม Gen Z — ลองทำซีรีส์สั้น 3–5 ตอนแทนคลิปขายตรง",
+   "source": "Lanta News",
+   "url": "https://lanta.news/articles/cocolove-x-gen-z"
+  },
+  {
+   "title": "LinkedIn launches a unified creator analytics dashboard",
+   "th": "LinkedIn เปิดแดชบอร์ดวิเคราะห์ใหม่ มีตารางเทียบผลงานแต่ละโพสต์ ผู้ติดตามที่ได้ต่อโพสต์ ยอด saves และ sends (วัด dark social) และแยกวิวจากในเครือข่ายกับนอกเครือข่าย",
+   "why": "ถ้าต้องทำรีพอร์ตเพจองค์กรบน LinkedIn ดึงตัวเลข saves/sends มาเทียบได้ง่ายขึ้น ไม่ต้องรวมเองทีละโพสต์",
+   "source": "PR Daily",
+   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-65/"
+  },
+  {
+   "title": "Outlook and Teams down for over a day worldwide",
+   "th": "Outlook, Teams และ Copilot ล่มทั่วโลกนานกว่า 24 ชั่วโมง ส่งอีเมล จัดปฏิทิน และประชุมออนไลน์ไม่ได้ Microsoft ยืนยันว่าไม่ใช่การโจมตี",
+   "why": "งานอนุมัติโพสต์กับลูกค้าที่พึ่ง Teams/Outlook อาจสะดุด — เตรียมช่องทางสำรอง (LINE, Meet, Drive) และเผื่อเวลาให้คิวโพสต์",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+  }
+ ],
+ "date": "2026-11-14",
+ "weather": {
+  "max": 34,
+  "min": 26,
+  "rain": 88,
+  "uv": 7,
+  "cond": "Light rain",
+  "humidity": 89,
+  "source": "Open-Meteo",
+  "fetched": "06:19"
+ },
+ "wordsearch": {
+  "grid": [
+   "HRAILDNWTR",
+   "GVNEEUAHLO",
+   "PPJNRMGRRU",
+   "SVOGAIKEKT",
+   "PRRRLEWTEA",
+   "DWDFRHLUBG",
+   "AHUANARNNE",
+   "MNFUDJLALO",
+   "KLCAMERAEI",
+   "EHCLYCWTCU"
+  ],
+  "words": [
+   {
+    "word": "OUTAGE",
+    "cells": [
+     [
+      1,
+      9
+     ],
+     [
+      2,
+      9
+     ],
+     [
+      3,
+      9
+     ],
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      6,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "FLIGHT",
+    "cells": [
+     [
+      5,
+      3
+     ],
+     [
+      4,
+      4
+     ],
+     [
+      3,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      1,
+      7
+     ],
+     [
+      0,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "CAMERA",
+    "cells": [
+     [
+      8,
+      2
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      8,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "DRONE",
+    "cells": [
+     [
+      5,
+      0
+     ],
+     [
+      4,
+      1
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      1,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "DRAMA",
+    "cells": [
+     [
+      5,
+      2
+     ],
+     [
+      4,
+      3
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      2,
+      5
+     ],
+     [
+      1,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "RAIL",
+    "cells": [
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      2
+     ],
+     [
+      0,
+      3
+     ],
+     [
+      0,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "TUNA",
+    "cells": [
+     [
+      4,
+      7
+     ],
+     [
+      5,
+      7
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      7,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "FARE",
+    "cells": [
+     [
+      7,
+      2
+     ],
+     [
+      6,
+      3
+     ],
+     [
+      5,
+      4
+     ],
+     [
+      4,
+      5
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    0,
+    0,
+    4,
+    0,
+    6,
+    3
+   ],
+   [
+    0,
+    6,
+    3,
+    2,
+    0,
+    0
+   ],
+   [
+    4,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    3,
+    2,
+    0,
+    4,
+    0,
+    6
+   ],
+   [
+    6,
+    0,
+    0,
+    1,
+    4,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    6,
+    3,
+    0
+   ]
+  ],
+  "solution": [
+   [
+    2,
+    1,
+    4,
+    5,
+    6,
+    3
+   ],
+   [
+    5,
+    6,
+    3,
+    2,
+    1,
+    4
+   ],
+   [
+    4,
+    5,
+    6,
+    3,
+    2,
+    1
+   ],
+   [
+    3,
+    2,
+    1,
+    4,
+    5,
+    6
+   ],
+   [
+    6,
+    3,
+    2,
+    1,
+    4,
+    5
+   ],
+   [
+    1,
+    4,
+    5,
+    6,
+    3,
+    2
+   ]
+  ]
+ }
+}

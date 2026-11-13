@@ -1,294 +1,246 @@
 {
- "issue_no": 32,
- "tagline": "นายกฯ ดัน B20 · ตั๋วบินเชียงใหม่ช่วงลอยกระทงพุ่ง · Jensen Huang ลาออกจาก Nvidia",
+ "issue_no": 33,
+ "tagline": "สายสีแดง 40 บาททั้งวันต่ออีกปี · สหรัฐฯ สั่งหยุดบินทั้งประเทศ · Outlook/Teams ล่มเกินวัน",
  "lifestyle": {
-  "title": "Going north for Loy Krathong? Book with the airline, not the app",
-  "body": "ลอยกระทงปีนี้ตรงกับวันที่ 24 พ.ย. ซึ่งเป็นช่วงยี่เป็งที่เชียงใหม่ด้วย กพท. (CAAT) บอกว่าเที่ยวบินไปเชียงใหม่ 23–24 พ.ย. และขากลับ 25–26 พ.ย. แน่นมาก หลายสายการบินขายหมดแล้ว ราคาไปกลับ 18,000–30,000 บาทที่เห็นในโซเชียลเป็นราคาจากเอเย่นต์หรือแพลตฟอร์ม ไม่ใช่ราคาสายการบิน ถ้าจะไป ให้เช็กราคาและที่นั่งกับเว็บสายการบินโดยตรง เผื่อเวลาเดินทาง และพาวเวอร์แบงก์ต้องถือขึ้นเครื่องเท่านั้น",
-  "note": "Based on Bangkok Post and Thai PBS World, 12 Nov 2026"
+  "title": "Red Line stays 40 baht a day until the end of 2027",
+  "body": "การรถไฟฯ (รฟท.) ต่อโปรค่าโดยสาร 40 บาทนั่งได้ทั้งวันของรถไฟฟ้าสายสีแดง ไปจนถึงสิ้นเดือนธันวาคม 2027 จากเดิมที่จะหมดสิ้นเดือนนี้ ครอบคลุมทั้งสายสีแดงเข้ม (กรุงเทพอภิวัฒน์–รังสิต) และสายสีแดงอ่อน (กรุงเทพอภิวัฒน์–ตลิ่งชัน) ใครเดินทางแถวบางซื่อ ดอนเมือง หรือรังสิตบ่อย ๆ เที่ยววันหยุดไปกลับหลายต่อก็ยังจ่ายแค่ 40 บาทต่อวัน",
+  "note": "Based on Bangkok Post, 13 Nov 2026"
  },
  "word": {
-  "word": "step down",
-  "pos": "phr. v.",
-  "ipa": "/step daʊn/",
-  "th": "ลาออกจากตำแหน่ง ลงจากตำแหน่ง",
-  "def": "to leave an important job or position, often by choice.",
-  "ex": "Jensen Huang is stepping down as Nvidia's CEO, and the CFO will lead for now."
+  "word": "outage",
+  "pos": "n.",
+  "ipa": "/ˈaʊtɪdʒ/",
+  "th": "การที่ระบบหรือบริการล่ม ใช้งานไม่ได้ชั่วคราว",
+  "def": "a period when a service, such as power, internet or an app, is not working.",
+  "ex": "The Outlook and Teams outage lasted more than a day, so many meetings were moved."
  },
  "english": {
-  "title": "Pitching a Loy Krathong idea to a client",
+  "title": "Telling a client a tool is down",
   "dialogue": [
    [
     "Nadda",
-    "Loy Krathong is on the 24th, so people will be posting about it all week."
+    "Quick heads-up: Teams is down for us, so I can't join the call on time."
    ],
    [
     "Client",
-    "Every brand does something for Loy Krathong. How do we stand out?"
+    "Oh no. Is it just you, or is it everyone?"
    ],
    [
     "Nadda",
-    "Instead of a pretty krathong photo, we tell one small, real story."
+    "It looks like a wider outage. Microsoft says they're working on a fix."
    ],
    [
     "Client",
-    "What kind of story?"
+    "Can we switch to another app?"
    ],
    [
     "Nadda",
-    "Someone making a wish for their family. It's warm, and it fits our message about protection."
+    "Sure. I'll send a Google Meet link in five minutes."
    ],
    [
     "Client",
-    "I like that. But we can't look like we're selling on a festival day."
+    "Great. Can you also send the deck by LINE, just in case?"
    ],
    [
     "Nadda",
-    "Agreed. We'd keep the logo light and skip the hard sell."
+    "Will do. I'll keep a copy on Drive as a backup too."
    ],
    [
     "Client",
-    "Send me a rough storyboard by Monday."
+    "Perfect. Talk soon."
    ]
   ],
   "vocab": [
    [
-    "stand out",
-    "โดดเด่น แตกต่างจากคนอื่น"
+    "heads-up",
+    "การเตือนล่วงหน้า บอกให้รู้ก่อน"
    ],
    [
-    "make a wish",
-    "อธิษฐาน ขอพร"
+    "be down",
+    "(ระบบ) ล่ม ใช้ไม่ได้"
    ],
    [
-    "hard sell",
-    "การขายแบบยัดเยียด"
+    "work on a fix",
+    "กำลังแก้ไขปัญหา"
    ],
    [
-    "keep it light",
-    "ทำให้เบา ๆ ไม่หนักมือ"
+    "switch to",
+    "เปลี่ยนไปใช้"
    ],
    [
-    "rough storyboard",
-    "สตอรีบอร์ดฉบับร่าง"
+    "just in case",
+    "เผื่อไว้"
    ],
    [
-    "fit the message",
-    "เข้ากับสารที่อยากสื่อ"
+    "backup",
+    "สำรอง ไฟล์สำรอง"
    ]
   ],
   "tip": {
-   "instead": "Everyone does krathong posts. Ours will be different.",
-   "better": "Instead of a pretty krathong photo, we tell one small, real story.",
-   "why": "บอกให้เห็นภาพว่าต่างยังไง ลูกค้าจะเชื่อมากกว่าแค่พูดว่า 'จะไม่เหมือนใคร'"
+   "instead": "Sorry, I have a problem with Teams.",
+   "better": "Quick heads-up: Teams is down for us, so I can't join the call on time.",
+   "why": "บอกปัญหา + ผลกระทบในประโยคเดียว แล้วตามด้วยทางออก ลูกค้าจะรู้สึกว่าเราคุมสถานการณ์ได้"
   }
  },
  "know": [
   {
-   "title": "What is Yi Peng?",
-   "body": "ยี่เป็งคือประเพณีล้านนาช่วงเพ็ญเดือนสิบสอง ที่เชียงใหม่จะปล่อยโคมลอยพร้อมกับลอยกระทง เพราะโคมอาจเป็นอันตรายต่อเครื่องบิน สนามบินเชียงใหม่จึงต้องยกเลิกและเลื่อนเที่ยวบินช่วงนั้น ปีนี้รายงานว่ายกเลิก 108 เที่ยว และปรับเวลา 80 เที่ยว ช่วง 21–28 พ.ย. ที่นั่งเลยน้อยและตั๋วแพง"
+   "title": "What is a 'ground stop'?",
+   "body": "Ground stop คือคำสั่งของหน่วยงานการบินให้เครื่องบินที่ยังอยู่บนพื้นห้ามขึ้นบิน ส่วนเครื่องที่บินอยู่แล้วยังลงจอดได้ตามปกติ เมื่อวันที่ 13 พ.ย. FAA ของสหรัฐฯ สั่ง ground stop ทุกสนามบินทั่วประเทศ หลังระบบสื่อสารของศูนย์ควบคุมจราจรทางอากาศขัดข้อง FlightAware รายงานว่ามีเที่ยวบินล่าช้าหรือยกเลิกเกือบ 7,000 เที่ยว"
   },
   {
-   "title": "What is iPhone Lockdown Mode?",
-   "body": "Lockdown Mode เป็นโหมดความปลอดภัยสูงในเมนูตั้งค่าของ iPhone ปิดฟีเจอร์บางอย่างเพื่อลดช่องทางที่สปายแวร์จะเข้ามาได้ Apple แนะนำให้คนที่ได้รับข้อความเตือนภัยคุกคามเปิดโหมดนี้แล้วรีสตาร์ตเครื่อง ส่วนคนทั่วไปไม่จำเป็นต้องเปิด เพราะบางฟังก์ชันจะใช้ยากขึ้น"
+   "title": "What is the Social Security Board?",
+   "body": "คณะกรรมการประกันสังคมมี 21 คน กำหนดทิศทางกองทุนประกันสังคมมูลค่าราว 2.8 ล้านล้านบาท ที่มีผู้ประกันตนกว่า 24 ล้านคน 14 ที่นั่งมาจากการเลือกตั้ง (ฝั่งลูกจ้าง 7 นายจ้าง 7) อีก 7 ที่นั่งเป็นตัวแทนรัฐ การเลือกตั้งเมื่อ 11 ต.ค. ทีมที่เกี่ยวข้องกับพรรคประชาชนได้ครบทั้ง 14 ที่นั่ง แต่ตอนนี้มีคนยื่นคัดค้าน ซึ่งกรรมการจะพิจารณาภายใน 30 วัน"
   }
  ],
  "on_this_day": [
   {
-   "year": "1982",
-   "text": "The Vietnam Veterans Memorial was dedicated in Washington, D.C."
+   "year": "1889",
+   "text": "Reporter Nellie Bly set off to travel around the world in less than 80 days."
   },
   {
-   "year": "1985",
-   "text": "The Nevado del Ruiz volcano erupted in Colombia; mudflows buried the town of Armero."
+   "year": "1969",
+   "text": "Apollo 12 launched, the second mission to land astronauts on the Moon."
   }
  ],
  "three_things": [
-  "If you're going north for Loy Krathong, check fares on the airline's own site before you pay",
-  "Trim your TikTok captions to 5 hashtags or fewer",
-  "Sketch one small, real-story idea for Loy Krathong content"
+  "Save a backup meeting link (Meet or LINE call) in case Teams goes down again",
+  "Try a 'roast yourself' hook like vivo's for one product post this week",
+  "If you ride the Red Line, plan a 40-baht day trip this weekend"
  ],
  "thailand": [
   {
    "lead": true,
-   "title": "PM pushes wider B20 use to cut oil imports",
-   "th": "นายกฯ อนุทินขอให้ผู้นำท้องถิ่นช่วยส่งเสริมการใช้ไบโอดีเซล B20 โดยเฉพาะในกลุ่มรถแทรกเตอร์ B20 ถูกกว่าดีเซลปกติราว 10 บาทต่อลิตร เป้าคือเพิ่มการใช้จากวันละ 6 ล้านลิตรเป็น 10 ล้านลิตร ลดนำเข้าน้ำมันและช่วยชาวสวนปาล์ม พร้อมเล่าแผนอุดหนุนติดโซลาร์บนหลังคาบ้าน 50,000 บาท",
-   "en": "Petrol cars 15 years old or newer can use E20, makers told the government.",
+   "title": "Red Line extends its 40-baht all-day fare to end-2027",
+   "th": "บอร์ด รฟท. มีมติต่อโปร 40 บาทนั่งได้ทั้งวันของสายสีแดงเข้ม (กรุงเทพอภิวัฒน์–รังสิต) และสายสีแดงอ่อน (กรุงเทพอภิวัฒน์–ตลิ่งชัน) ไปจนถึงธันวาคม 2027 จากเดิมที่จะสิ้นสุดปลายเดือนนี้",
+   "en": "One price, one day, on both Red Line routes for another year.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3353559/pm-pushes-b20-fuel-use-to-boost-security"
+   "url": "https://www.bangkokpost.com/thailand/general/3354054/red-line-extends-b40-allday-fare-for-1-more-year"
   },
   {
-   "title": "Loy Krathong airfares to Chiang Mai spark complaints",
-   "th": "คนแชร์ในโซเชียลว่าตั๋วไปกลับกรุงเทพฯ–เชียงใหม่ช่วงลอยกระทงแพงถึง 18,000–30,000 บาท (ปกติ 2,500–4,300 บาท) กพท. ชี้แจงว่าเป็นราคาของเอเย่นต์และแพลตฟอร์ม เที่ยวบินลดลงเพราะต้องเลี่ยงโคมลอย และหลายสายการบินขายหมดแล้วช่วง 23–26 พ.ย.",
-   "en": "CAAT says book and check prices directly with airlines.",
+   "title": "BoI: actual investment up 28% in Q3",
+   "th": "BoI รายงานการลงทุนจริงของโครงการที่ได้รับส่งเสริมไตรมาส 3 อยู่ที่ 260.7 พันล้านบาท เพิ่มขึ้น 28% จากปีก่อน 9 เดือนแรกรวม 796.5 พันล้านบาท กลุ่มดิจิทัลนำ (64.2 พันล้านบาท มากกว่าปีก่อนกว่า 7 เท่า) ตามด้วยอิเล็กทรอนิกส์ คาดทั้งปีเกิน 1 ล้านล้านบาท",
+   "en": "Data centres and electronics lead the money coming in.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3353421/loy-krathong-airfare-inflation-upsets-travellers"
+   "url": "https://www.bangkokpost.com/business/general/3354061/boi-reports-28-growth-in-investment-in-third-quarter"
   },
   {
-   "title": "DES Ministry meets Apple over iPhone threat alerts",
-   "th": "กระทรวงดีอีหารือ Apple กรณีแจ้งเตือนภัยคุกคามถึงผู้ใช้ iPhone กว่า 150 ประเทศ รัฐมนตรีบอกว่าการได้รับคำเตือนไม่ได้แปลว่าเครื่องถูกเจาะแล้ว และยังไม่ยืนยันว่าเป็น Pegasus ใครกังวลส่งเครื่องให้ สกมช. ตรวจได้ แผนรับมือคาดว่าจะพร้อมสัปดาห์ของวันที่ 16 พ.ย.",
-   "en": "Apple has not said how many people in Thailand got the alerts.",
+   "title": "Objection may delay new Social Security Board members",
+   "th": "สำนักงานประกันสังคมได้รับหนังสือคัดค้านผลเลือกตั้งบอร์ดประกันสังคม ทำให้การแต่งตั้ง 14 กรรมการใหม่อาจล่าช้า กรรมการเลือกตั้งจะพิจารณาภายใน 30 วัน ทีมประกันสังคมก้าวหน้าที่เกี่ยวข้องกับพรรคประชาชนชนะครบ 14 ที่นั่ง",
+   "en": "The SSO says the review is a safeguard, not a delay tactic.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/business/general/3352974/ministry-questions-apple-over-iphone-notifications"
+   "url": "https://www.bangkokpost.com/thailand/general/3353991/objection-may-delay-social-security-board-appointments"
+  },
+  {
+   "title": "CAAT sees drones driving a 'low-altitude economy'",
+   "th": "กพท. บอกว่าโดรนจะช่วยงานขนส่ง สาธารณสุข และงานฉุกเฉิน ปัจจุบันไทยมีโดรนลงทะเบียน 73,435 ลำ (ณ 10 พ.ย.) และกำลังร่างแผนแม่บทอากาศยานไร้คนขับ พร้อมจัดงาน Advanced Air Mobility Symposium 1–3 ธ.ค. ที่เมืองทองธานี",
+   "en": "Thailand's drone market grows about 10% a year.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3354075/drones-at-heart-of-lowaltitude-economy"
   }
  ],
  "world": [
   {
-   "title": "Nvidia CEO Jensen Huang steps down",
-   "th": "เจนเซน หวง ผู้ร่วมก่อตั้ง Nvidia ลาออกจากซีอีโอและจะออกจากบอร์ดด้วย CFO คอลเล็ตต์ เครสส์ รักษาการซีอีโอระหว่างหาคนใหม่ และแต่งตั้งฮาร์วีย์ โจนส์ เป็นประธานบอร์ดคนแรก",
-   "en": "A big blow to the AI boom's best-known champion.",
+   "title": "US grounds all departing flights after ATC outage",
+   "th": "FAA สั่งหยุดเครื่องขึ้นทุกสนามบินในสหรัฐฯ เมื่อ 13 พ.ย. หลังระบบสื่อสารของศูนย์ควบคุมจราจรทางอากาศขัดข้องทั่วประเทศ FlightAware ระบุเที่ยวบินล่าช้าหรือยกเลิกเกือบ 7,000 เที่ยว",
+   "en": "Planes in the air could land; those on the ground could not take off.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-13-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
   },
   {
-   "title": "Putin agrees to let Europe join next Ukraine peace talks",
-   "th": "ทูตสหรัฐฯ สตีฟ วิทคอฟฟ์ บอกว่าปูตินยอมให้ตัวแทนยุโรปร่วมการเจรจาสันติภาพยูเครนรอบหน้า ถือเป็นความคืบหน้าสำคัญ แต่ท่าทีของปูตินชี้ว่ายังคุยกันยาก",
-   "en": "Moscow and European capitals remain far apart.",
+   "title": "Microsoft Outlook and Teams outage eases after more than a day",
+   "th": "Outlook, Teams และ Copilot ล่มทั่วโลกนานกว่า 24 ชั่วโมง กระทบหน่วยงานรัฐ บริษัทเทรด และสายการบิน Microsoft บอกว่าเป็นปัญหาเซิร์ฟเวอร์ ไม่ใช่การโจมตีไซเบอร์หรือ AI ระบบเริ่มกลับมาแต่ยังไม่มีกำหนดฟื้นเต็มที่",
+   "en": "A reminder to keep a backup way to meet and email.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-13-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
   },
   {
-   "title": "Trump says the US does not 'need' an Iran deal",
-   "th": "ทรัมป์บอกว่าสหรัฐฯ ไม่จำเป็นต้องทำข้อตกลงกับอิหร่าน และสั่งให้รองประธานาธิบดีแวนซ์ไปโฟกัสเรื่องอาชญากรรมในเมืองของเดโมแครตแทน หลังมีรายงานว่าแวนซ์คิดจะคุยตรงกับเจ้าหน้าที่อิหร่าน",
-   "en": "A shift in tone after the midterm losses.",
+   "title": "EU names a five-country team for Ukraine peace talks",
+   "th": "ผู้นำ EU ตกลงให้ทีมเจรจาสันติภาพยูเครนฝั่งยุโรปมีอังกฤษ ฝรั่งเศส เยอรมนี อิตาลี และโปแลนด์ ร่วมกับสถาบันของ EU ขณะที่เครมลินบอกว่าเปิดรับยุโรปถ้าตั้งใจช่วยสร้างสันติภาพจริง",
+   "en": "Europe wants one voice at the table.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-13-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
   },
   {
-   "title": "Guterres urges an end to fossil-fuel expansion at COP31",
-   "th": "เลขาธิการยูเอ็น อันโตนิโอ กูเตอร์เรส วิจารณ์ล็อบบี้น้ำมันและก๊าซ และเรียกร้องให้หยุดขยายเชื้อเพลิงฟอสซิลที่ COP31 ในตุรกี ขณะที่ผู้นำ G7 หลายคนไม่ได้มาร่วม",
-   "en": "Countries remain split on how fast to move away from fossil fuels.",
-   "source": "New Straits Times",
-   "url": "https://www.nst.com.my/newssummary/1552841"
+   "title": "Turkey and Qatar sign a mutual defence pact",
+   "th": "ตุรกีและกาตาร์ลงนามข้อตกลงป้องกันร่วม เพื่อมีจุดยืนเดียวกันหากถูกโจมตีจากภายนอก หลังประธานาธิบดีแอร์โดอันพบเจ้าผู้ครองรัฐกาตาร์ที่อิสตันบูล",
+   "en": "Two close regional allies tighten ties.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
   }
  ],
  "social": [
   {
-   "title": "TikTok now limits posts to 5 hashtags",
-   "th": "TikTok บังคับจำกัดแฮชแท็กไม่เกิน 5 อันต่อโพสต์ เพื่อลดความรกและช่วยการค้นพบคอนเทนต์",
-   "why": "ต้องเลือกแฮชแท็กให้คม แคปชันเก่าที่ใส่ 10–20 แท็กต้องปรับ ใช้ Trends Dashboard ช่วยเลือก",
-   "source": "ZoomSphere",
-   "url": "https://www.zoomsphere.com/blog/weekly-social-media-scoop-from-hashtag-limits-to-screenshot-metrics"
+   "title": "SEALECT x Butterbear turns canned tuna into collectibles",
+   "th": "ซีเล็คทูน่าจับมือน้องเนย Butterbear ทำ Special Collection และงาน Meet & Cute ที่ EMSPHERE ผู้ส่งยอดซื้อลุ้นร่วมงานกว่า 1,000 ราย ไลฟ์มีคนดูทะลุ 50,000 วิว และ engagement กว่า 20,000 ครั้ง",
+   "why": "คาแรกเตอร์คอลแลบเปลี่ยนแฟนด้อมเป็นยอดซื้อได้จริง — ไอเดียดีสำหรับ Duckling Sort ถ้าวันหนึ่งน้องเป็ดจะคอลแลบกับแบรนด์",
+   "source": "Biztalk News",
+   "url": "https://www.biztalknews.com/business/sealect-butterbear-meet-and-cute-campaign/"
   },
   {
-   "title": "Instagram considers a 'Screenshots' metric",
-   "th": "Instagram กำลังพิจารณาเพิ่มตัวเลข 'Screenshots' ใน Insights อาจอยู่คู่หรือแทน Saves และเริ่มปล่อยแปลเสียง Reels ด้วย AI (ตอนนี้อังกฤษ↔สเปน)",
-   "why": "คอนเทนต์แบบข้อมูลสรุป เช็กลิสต์ หรือมีม ที่คนชอบแคปเก็บ จะวัดผลได้ชัดขึ้น — ถ้ามาจริงควรเพิ่มในรีพอร์ต",
-   "source": "ZoomSphere",
-   "url": "https://www.zoomsphere.com/blog/weekly-social-media-scoop-from-hashtag-limits-to-screenshot-metrics"
+   "title": "vivo V80 roasts itself: 'There's nothing new about the vivo V80!'",
+   "th": "vivo กับ SOUR Bangkok ทำหนังที่ Keng (คู่กับ Namping) หลุดพูดตอนไมค์เปิดว่า V80 ไม่มีอะไรใหม่ ต่อยอดฉายา 'God's Favorite Camera' ด้วยแนว 'Sell Hard, Laugh Harder' กำกับโดยเต๋อ นวพล",
+   "why": "อัปเกรดเล็กที่ขายยาก เล่นมุกแซวตัวเองแล้วค่อยเฉลยฟีเจอร์ได้ — ใช้กับรถรุ่นปรับโฉมหรืออัปเดตแอปที่ต่างจากเดิมนิดเดียว",
+   "source": "Campaign Brief Asia",
+   "url": "https://campaignbriefasia.com/2026/11/04/gods-favorite-camera-gets-a-reality-check-in-vivo-and-sour-bangkoks-latest-campaign/"
   },
   {
-   "title": "YouTube lets users type the feed they want",
-   "th": "YouTube ขยายฟีด AI ที่ผู้ใช้พิมพ์บอกได้ว่าอยากดูอะไร (ตอนนี้ในสหรัฐฯ) ย้าย Subscriptions ขึ้นแถบบน และทดลองให้ครีเอเตอร์ถอนรายได้ได้ตั้งแต่ 20 ดอลลาร์ (จาก 100)",
-   "why": "คนจะค้นด้วยประโยคแบบคุยกันมากขึ้น — ชื่อคลิปและคำอธิบายควรตอบโจทย์ว่า 'ดูตอนไหน เพื่ออะไร'",
+   "title": "Vertical 'Chinese drama' format wins a student viral-ad contest",
+   "th": "COCOLOVE x ม.กรุงเทพ จัด Viral Ads Contest 2026 มีกว่า 400 ทีม ทีมชนะเล่าว่าทำตามเทรนด์ซีรีส์จีนแนวตั้ง ตั้งชื่อเรื่องให้คนสงสัยจนต้องดูต่อ",
+   "why": "ฟอร์แมตละครสั้นแนวตั้งยังแรงในกลุ่ม Gen Z — ลองทำซีรีส์สั้น 3–5 ตอนแทนคลิปขายตรง",
+   "source": "Lanta News",
+   "url": "https://lanta.news/articles/cocolove-x-gen-z"
+  },
+  {
+   "title": "LinkedIn launches a unified creator analytics dashboard",
+   "th": "LinkedIn เปิดแดชบอร์ดวิเคราะห์ใหม่ มีตารางเทียบผลงานแต่ละโพสต์ ผู้ติดตามที่ได้ต่อโพสต์ ยอด saves และ sends (วัด dark social) และแยกวิวจากในเครือข่ายกับนอกเครือข่าย",
+   "why": "ถ้าต้องทำรีพอร์ตเพจองค์กรบน LinkedIn ดึงตัวเลข saves/sends มาเทียบได้ง่ายขึ้น ไม่ต้องรวมเองทีละโพสต์",
    "source": "PR Daily",
    "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-65/"
   },
   {
-   "title": "Facebook pauses its business terms update; creator AI gets proactive",
-   "th": "Meta ชะลอการแก้เงื่อนไขธุรกิจและโฆษณาที่ถูกวิจารณ์ว่าเปิดทางดึงคอนเทนต์ของเพจธุรกิจ จนกว่าจะปรึกษาอุตสาหกรรม ส่วนผู้ช่วย AI ของครีเอเตอร์จะเตือนเองว่าโพสต์ไหนควรปรับ ช่วยทำ shot list และร่างตอบคอมเมนต์",
-   "why": "เพจลูกค้ายังใช้เงื่อนไขเดิมไปก่อน และลองใช้ AI ช่วยคัดคอมเมนต์ที่ต้องตอบ — แต่ต้องตรวจโทนก่อนโพสต์ทุกครั้ง",
-   "source": "PR Daily",
-   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-65/"
-  },
-  {
-   "title": "Thai netizens rage over Loy Krathong flight prices",
-   "th": "โพสต์แชร์ราคาตั๋วกรุงเทพฯ–เชียงใหม่ช่วงลอยกระทงหลักหมื่นกลายเป็นกระแส จน กพท. ต้องออกมาชี้แจงว่าเป็นราคาจากเอเย่นต์ และแนะให้ซื้อตรงกับสายการบิน",
-   "why": "เทศกาลที่คนกำลังบ่นเรื่องค่าเดินทาง คอนเทนต์ช่วงนี้ควรเลี่ยงโทนอวดทริปหรู แล้วเล่นมุมเที่ยวใกล้ ลอยกระทงแถวบ้าน หรือทิปประหยัด",
-   "source": "Thai PBS World",
-   "url": "https://www.thaipbsworld.com/travel-tourism/572616"
+   "title": "Outlook and Teams down for over a day worldwide",
+   "th": "Outlook, Teams และ Copilot ล่มทั่วโลกนานกว่า 24 ชั่วโมง ส่งอีเมล จัดปฏิทิน และประชุมออนไลน์ไม่ได้ Microsoft ยืนยันว่าไม่ใช่การโจมตี",
+   "why": "งานอนุมัติโพสต์กับลูกค้าที่พึ่ง Teams/Outlook อาจสะดุด — เตรียมช่องทางสำรอง (LINE, Meet, Drive) และเผื่อเวลาให้คิวโพสต์",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
   }
  ],
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "weather": {
-  "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
+  "max": 34,
+  "min": 26,
+  "rain": 88,
+  "uv": 7,
+  "cond": "Light rain",
+  "humidity": 89,
+  "source": "Open-Meteo",
+  "fetched": "06:19"
  },
  "wordsearch": {
   "grid": [
-   "GNPGKEUKVB",
-   "VVTWCHIPKT",
-   "EEMYIFEEDN",
-   "KRATHONGRH",
-   "PMYFDLNETA",
-   "BALERTTUPS",
-   "SWWYRNNSLH",
-   "VKTRAVELDT",
-   "WYLLOUVNDA",
-   "LFLIGHTEDG"
+   "HRAILDNWTR",
+   "GVNEEUAHLO",
+   "PPJNRMGRRU",
+   "SVOGAIKEKT",
+   "PRRRLEWTEA",
+   "DWDFRHLUBG",
+   "AHUANARNNE",
+   "MNFUDJLALO",
+   "KLCAMERAEI",
+   "EHCLYCWTCU"
   ],
   "words": [
    {
-    "word": "KRATHONG",
+    "word": "OUTAGE",
     "cells": [
      [
-      3,
-      0
-     ],
-     [
-      3,
-      1
-     ],
-     [
-      3,
-      2
-     ],
-     [
-      3,
-      3
-     ],
-     [
-      3,
-      4
-     ],
-     [
-      3,
-      5
-     ],
-     [
-      3,
-      6
-     ],
-     [
-      3,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "LANTERN",
-    "cells": [
-     [
-      8,
-      3
-     ],
-     [
-      7,
-      4
-     ],
-     [
-      6,
-      5
-     ],
-     [
-      5,
-      6
-     ],
-     [
-      4,
-      7
-     ],
-     [
-      3,
-      8
+      1,
+      9
      ],
      [
       2,
       9
-     ]
-    ]
-   },
-   {
-    "word": "HASHTAG",
-    "cells": [
+     ],
      [
       3,
       9
@@ -303,18 +255,6 @@
      ],
      [
       6,
-      9
-     ],
-     [
-      7,
-      9
-     ],
-     [
-      8,
-      9
-     ],
-     [
-      9,
       9
      ]
     ]
@@ -323,90 +263,15 @@
     "word": "FLIGHT",
     "cells": [
      [
-      9,
-      1
-     ],
-     [
-      9,
-      2
-     ],
-     [
-      9,
-      3
-     ],
-     [
-      9,
-      4
-     ],
-     [
-      9,
-      5
-     ],
-     [
-      9,
-      6
-     ]
-    ]
-   },
-   {
-    "word": "TRAVEL",
-    "cells": [
-     [
-      7,
-      2
-     ],
-     [
-      7,
-      3
-     ],
-     [
-      7,
-      4
-     ],
-     [
-      7,
-      5
-     ],
-     [
-      7,
-      6
-     ],
-     [
-      7,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "ALERT",
-    "cells": [
-     [
-      5,
-      1
-     ],
-     [
-      5,
-      2
-     ],
-     [
       5,
       3
      ],
      [
-      5,
+      4,
       4
      ],
      [
-      5,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "FEED",
-    "cells": [
-     [
-      2,
+      3,
       5
      ],
      [
@@ -414,33 +279,154 @@
       6
      ],
      [
-      2,
+      1,
       7
      ],
      [
-      2,
+      0,
       8
      ]
     ]
    },
    {
-    "word": "CHIP",
+    "word": "CAMERA",
     "cells": [
      [
-      1,
+      8,
+      2
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      8,
       4
      ],
      [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      8,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "DRONE",
+    "cells": [
+     [
+      5,
+      0
+     ],
+     [
+      4,
+      1
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      2,
+      3
+     ],
+     [
       1,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "DRAMA",
+    "cells": [
+     [
+      5,
+      2
+     ],
+     [
+      4,
+      3
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      2,
       5
      ],
      [
       1,
       6
+     ]
+    ]
+   },
+   {
+    "word": "RAIL",
+    "cells": [
+     [
+      0,
+      1
      ],
      [
-      1,
+      0,
+      2
+     ],
+     [
+      0,
+      3
+     ],
+     [
+      0,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "TUNA",
+    "cells": [
+     [
+      4,
       7
+     ],
+     [
+      5,
+      7
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      7,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "FARE",
+    "cells": [
+     [
+      7,
+      2
+     ],
+     [
+      6,
+      3
+     ],
+     [
+      5,
+      4
+     ],
+     [
+      4,
+      5
      ]
     ]
    }
@@ -450,99 +436,99 @@
   "puzzle": [
    [
     0,
-    2,
     0,
-    0,
-    5,
-    1
-   ],
-   [
     4,
     0,
-    0,
-    0,
-    0,
-    6
-   ],
-   [
-    0,
-    0,
-    3,
-    2,
-    0,
-    4
-   ],
-   [
-    2,
-    0,
-    0,
-    5,
-    1,
+    6,
     3
    ],
    [
     0,
+    6,
     3,
-    0,
-    0,
+    2,
     0,
     0
    ],
    [
+    4,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    3,
+    2,
+    0,
+    4,
+    0,
+    6
+   ],
+   [
     6,
     0,
     0,
+    1,
+    4,
+    0
+   ],
+   [
     0,
     0,
-    2
+    0,
+    6,
+    3,
+    0
    ]
   ],
   "solution": [
    [
-    3,
     2,
-    6,
+    1,
     4,
     5,
-    1
-   ],
-   [
-    4,
-    5,
-    1,
-    3,
-    2,
-    6
-   ],
-   [
-    5,
-    1,
-    3,
-    2,
     6,
-    4
-   ],
-   [
-    2,
-    6,
-    4,
-    5,
-    1,
     3
    ],
    [
-    1,
+    5,
+    6,
     3,
     2,
+    1,
+    4
+   ],
+   [
+    4,
+    5,
     6,
+    3,
+    2,
+    1
+   ],
+   [
+    3,
+    2,
+    1,
+    4,
+    5,
+    6
+   ],
+   [
+    6,
+    3,
+    2,
+    1,
     4,
     5
    ],
    [
-    6,
+    1,
     4,
     5,
-    1,
+    6,
     3,
     2
    ]
