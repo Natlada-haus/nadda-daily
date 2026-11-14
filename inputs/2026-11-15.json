@@ -1,0 +1,160 @@
+{
+ "issue_no": 34,
+ "tagline": "ฝุ่น PM2.5 กลับมาแล้ว · ฟิลิปปินส์คว้า Eurovision Asia ที่กรุงเทพฯ · YouTube เปลี่ยน Analytics เป็น Insights",
+ "lifestyle": {
+  "title": "Smog season is back: plan your weekend around the air",
+  "body": "AirBKK เตือนว่าฝุ่น PM2.5 ในกรุงเทพฯ อาจแย่ลงถึงวันจันทร์ เพราะลมอ่อนและอากาศไม่ถ่ายเท โดยเฉพาะช่วงกลางคืนถึงเช้า วันเสาร์มี 5 เขตเกินค่ามาตรฐาน 37.5 µg/m³ (ลาดกระบัง บางเขน ปทุมวัน ป้อมปราบฯ ยานนาวา) คาดว่าจะดีขึ้นบ้างช่วง 17–19 พ.ย. แล้วอาจกลับมาสะสมอีก 20–22 พ.ย. เช้านี้ถ้าจะออกไปวิ่งหรือเดินตลาด เช็กค่าฝุ่นก่อน และพกหน้ากากติดกระเป๋าไว้",
+  "note": "Based on Bangkok Post, 14 Nov 2026"
+ },
+ "word": {
+  "word": "smog",
+  "pos": "n.",
+  "ipa": "/smɒɡ/",
+  "th": "หมอกควันพิษ ฝุ่นควันที่ปกคลุมเมือง",
+  "def": "dirty air, a mix of smoke, dust and fog, that hangs over a city.",
+  "ex": "The smog was so thick this morning that I couldn't see the river from my window."
+ },
+ "english": {
+  "title": "Moving an outdoor shoot because of the air",
+  "dialogue": [
+   ["Nadda", "Hi! Quick check before tomorrow's outdoor shoot: have you seen the PM2.5 forecast?"],
+   ["Photographer", "Yeah, it looks bad until Monday. The sky will be grey in every shot."],
+   ["Nadda", "That's what I was worried about. Could we push it to Tuesday or Wednesday?"],
+   ["Photographer", "Wednesday works for me. The air should clear up a bit by then."],
+   ["Nadda", "Great. I'll let the client know and rebook the location."],
+   ["Photographer", "Sounds good. If it's still hazy, we can move indoors."],
+   ["Nadda", "Good idea. Let's keep the studio as plan B."]
+  ],
+  "vocab": [
+   ["forecast", "การพยากรณ์ ค่าคาดการณ์"],
+   ["push it to", "เลื่อนไปเป็น (วัน/เวลา)"],
+   ["clear up", "(อากาศ) ดีขึ้น โปร่งขึ้น"],
+   ["rebook", "จองใหม่"],
+   ["hazy", "มัว ๆ มีหมอกควัน"],
+   ["plan B", "แผนสำรอง"]
+  ],
+  "tip": {
+   "instead": "Can we change the day? The air is bad.",
+   "better": "Could we push it to Wednesday? The air should clear up a bit by then.",
+   "why": "เสนอวันใหม่ที่ชัดเจนพร้อมเหตุผลเชิงบวก อีกฝ่ายตอบได้ทันที ไม่ต้องคุยไปกลับหลายรอบ"
+  }
+ },
+ "know": [
+  {
+   "title": "Why does Bangkok get smoggy in the cool season?",
+   "body": "พอเข้าหน้าหนาว อากาศเย็นและลมอ่อนทำให้ฝุ่นลอยขึ้นไปกระจายได้น้อย เลยสะสมใกล้พื้นดิน Bangkok Post อ้างงานศึกษาว่าไอเสียรถยนต์เป็นต้นเหตุของ PM2.5 ในกรุงเทพฯ ได้ถึง 70% อีกส่วนใหญ่มาจากการเผาตอซังอ้อยและฟางข้าวในจังหวัดรอบ ๆ ค่ามาตรฐานของไทยคือไม่เกิน 37.5 µg/m³"
+  },
+  {
+   "title": "What is Eurovision Song Contest Asia?",
+   "body": "Eurovision คือการประกวดเพลงระดับประเทศที่โด่งดังในยุโรป ปีนี้ผู้จัดทำเวอร์ชันเอเชียครั้งแรก จัดที่กรุงเทพฯ เมื่อ 14 พ.ย. ผู้ชนะคือ Carmelle วัย 19 ปีจากฟิลิปปินส์ กับเพลง Sobra-Sobra (Too Much) ไทยเจ้าภาพได้ที่ 2 แบบสูสี ตามด้วยเวียดนาม มาเลเซีย และลาว"
+  }
+ ],
+ "on_this_day": [
+  {"year": "1926", "text": "The NBC radio network went on the air in the United States."},
+  {"year": "1971", "text": "Intel advertised the 4004, the first commercial microprocessor on a single chip."}
+ ],
+ "three_things": [
+  "Check the AirBKK reading before going out this morning, and keep a mask in your bag",
+  "Open YouTube Studio's new Insights tab and see what it says about your latest video",
+  "Try Instagram's Effect Builder to sketch a Duckling Sort Story filter idea"
+ ],
+ "wordsearch_words": ["SMOG", "RAIL", "SONG", "ROCKET", "FILTER", "WASTE", "TREK", "INSIGHT"],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Thai and Chinese PMs push trade ties and high-speed rail by 2030",
+   "th": "นายกฯ อนุทิน และนายกฯ จีน หลี่ เฉียง เปิดเวที Thailand-China Business Roundtable ที่กรุงเทพฯ ประกาศเร่งให้ข้อตกลง ACFTA 3.0 มีผลเร็วที่สุด และเร่งรถไฟความเร็วสูงไทย-จีนเฟสแรกให้เปิดบริการภายในปี 2030 พร้อมชวนจีนลงทุนดาต้าเซ็นเตอร์ เซมิคอนดักเตอร์ และ AI",
+   "en": "Li Qiang is in Thailand on an official visit from 13 to 15 November.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3354619/thai-and-chinese-pms-push-trade-and-investment-ties"
+  },
+  {
+   "title": "Bangkok smog season under way",
+   "th": "ค่าเฉลี่ย PM2.5 ในกรุงเทพฯ วันเสาร์ขึ้นไป 31.5 µg/m³ ตอน 11 โมง และ 5 เขตเกินมาตรฐาน AirBKK คาดว่าฝุ่นจะแย่ลงถึงวันจันทร์ และอาจดีขึ้นช่วง 17–19 พ.ย.",
+   "en": "Weak winds keep the dust close to the ground.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3354614/bangkok-smog-season-under-way"
+  },
+  {
+   "title": "Violations found at 92% of raided waste plants in Samut Sakhon",
+   "th": "กระทรวงอุตสาหกรรมสุ่มตรวจโรงงานคัดแยกและรีไซเคิลขยะ 146 แห่งในสมุทรสาคร พบผิด พ.ร.บ.โรงงาน 134 แห่ง สั่งหยุดชั่วคราว 3 แห่ง และเตรียมดำเนินคดีอีก 54 แห่ง ตั้งเป้าตรวจโรงงานเสี่ยงสูงครบ 3,049 แห่งทั่วประเทศภายในสิ้นปีหรือต้นปีหน้า",
+   "en": "A nationwide crackdown on illegal recycling plants.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3354606/violations-found-at-92-of-raided-waste-plants"
+  },
+  {
+   "title": "Doi Wawajo in Mae Hong Son closed after a fatal fall",
+   "th": "อุทยานแห่งชาติน้ำตกแม่สุรินทร์สั่งปิดดอยวาวาโจ จ.แม่ฮ่องสอน ไม่มีกำหนด หลังนักท่องเที่ยวหญิงวัย 30 ปีพลัดตกหน้าผาใกล้จุดกางเต็นท์เมื่อคืนวันศุกร์ ขอให้งดเข้าพื้นที่จนกว่าจะมีประกาศ",
+   "en": "If you plan a cool-season trek, check park notices first.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3354641/mae-hong-son-trekking-site-closed-after-fatal-fall"
+  }
+ ],
+ "world": [
+  {
+   "title": "Philippine teen wins the first Eurovision Asia in Bangkok",
+   "th": "Carmelle วัย 19 ปีจากฟิลิปปินส์ ชนะ Eurovision Song Contest Asia ครั้งแรกที่กรุงเทพฯ ด้วยเพลง Sobra-Sobra ไทยเจ้าภาพได้อันดับ 2 แบบสูสี",
+   "en": "Thailand came a close second on home ground.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-15-2026"
+  },
+  {
+   "title": "US flight chaos blamed on old copper wiring repair",
+   "th": "รัฐบาลสหรัฐฯ ระบุว่าการหยุดบินทั่วประเทศเมื่อ 13 พ.ย. เกิดจากอุปกรณ์ขัดข้องหรือความผิดพลาดของผู้รับเหมาที่เปลี่ยนสายสื่อสารทองแดงเก่า FAA บอกว่า 13 พ.ย. ยกเลิกไป 12,000 เที่ยว และ 14 พ.ย. น่าจะยกเลิกอีก 4,000–5,000 เที่ยว",
+   "en": "Delays are expected to continue into the weekend.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-15-2026"
+  },
+  {
+   "title": "SpaceX's Starship returns to its Texas launch tower",
+   "th": "ยาน Starship โคจรรอบโลก 14 รอบนานกว่า 22 ชั่วโมง แล้วกลับมาลงที่หอปล่อยในเท็กซัสได้สำเร็จเป็นครั้งแรก แม้บูสเตอร์ Super Heavy จะกลับมาลงหอไม่สำเร็จ",
+   "en": "A key step towards a fully reusable rocket.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-15-2026"
+  },
+  {
+   "title": "Tens of thousands protest across France",
+   "th": "ผู้ประท้วงราว 106,000 คนทั่วฝรั่งเศส (ปารีส 24,000) ออกมาประท้วงเรื่องค่าครองชีพที่สูงขึ้น และข้อเสนอเพิ่มความคุ้มครองทางกฎหมายให้ตำรวจ ฝรั่งเศสเผชิญการประท้วงต่อเนื่องมากว่าหนึ่งเดือน",
+   "en": "The turnout was the lowest in recent weeks.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-15-2026"
+  }
+ ],
+ "social": [
+  {
+   "title": "YouTube Studio: Analytics becomes AI 'Insights', plus a Research tab",
+   "th": "ตั้งแต่ 13 พ.ย. หน้า Analytics ใน YouTube Studio บนเดสก์ท็อปเปลี่ยนเป็น Insights ที่สรุปตัวเลขเป็นภาษาคน มีแท็บ Research แทน Trends และ Ask Studio มาถึงแอปมือถือแล้ว อัปโหลดรูปให้วิเคราะห์ได้ครั้งละ 10 รูป",
+   "why": "ทำรีพอร์ต YouTube ได้เร็วขึ้น และใช้แท็บ Research หาคลิปที่ปังผิดปกติในหมวดเดียวกันมาเป็นไอเดียคอนเทนต์ได้",
+   "source": "PPC Land",
+   "url": "https://ppc.land/youtube-studios-numbers-learn-to-talk-as-analytics-becomes-insights/"
+  },
+  {
+   "title": "Instagram Effect Builder: make Story effects by describing them",
+   "th": "Instagram เพิ่ม Effect Builder ในแอป Edits พิมพ์บอกว่าอยากได้เอฟเฟกต์แบบไหน ใช้รูปเป็น reference สีและแสงได้ ส่งให้ Meta รีวิวแล้วทุกคนใช้ได้ใน Stories โดยมีลิงก์กลับมาที่โปรไฟล์ผู้สร้าง",
+   "why": "แบรนด์ทำฟิลเตอร์ของตัวเองได้โดยไม่ต้องจ้างนักทำเอฟเฟกต์ — ฟิลเตอร์น้องเป็ด Duckling Sort ช่วยให้คนเจอเพจได้",
+   "source": "JCK",
+   "url": "https://www.jckonline.com/editorial-article/social-media-updates-nov-26/"
+  },
+  {
+   "title": "TikTok Symphony now makes 30-second AI ads from up to 50 references",
+   "th": "TikTok อัปเกรด Symphony ใช้โมเดล Dreamina Seedance 2.5 สร้างวิดีโอได้ยาว 30 วินาที (จากเดิม 15) และใส่ reference ได้ถึง 50 ชิ้น (จากเดิม 9) TikTok บอกว่าบล็อกการอัปโหลดหน้าคนจริงและติดป้ายคอนเทนต์ AI",
+   "why": "ทำแอดวิดีโอหลายเวอร์ชันไว้ทดสอบได้เร็วขึ้น แต่ต้องเช็กให้แบรนด์และสินค้ายังตรง CI ทุกช็อต",
+   "source": "Advertain",
+   "url": "https://www.advertain.com/blog/social-media-marketing-news-13-november-2026"
+  },
+  {
+   "title": "Facebook removes additional profiles on 14 Dec; Threads adds custom likes",
+   "th": "Facebook จะลบโปรไฟล์เสริม (สร้างได้สูงสุด 4 โปรไฟล์ตั้งแต่ปี 2023) ในวันที่ 14 ธ.ค. ถ้าโปรไฟล์เสริมเป็นเจ้าของกลุ่มต้องโอนสิทธิ์ก่อน ส่วน Threads ให้เลือกอีโมจิ สติกเกอร์ หรือ GIF แทนหัวใจตอนกดไลก์ และเพิ่มตัวกรองการค้นหาขั้นสูง",
+   "why": "ถ้าใครในทีมใช้โปรไฟล์เสริมดูแลกลุ่มหรือเพจ ต้องย้ายสิทธิ์ก่อน 14 ธ.ค. ไม่งั้นอาจเสียสิทธิ์ admin",
+   "source": "Peggy KTC",
+   "url": "https://www.peggyktc.com/2026/11/creator-weekly-youtube-studio-insights.html"
+  },
+  {
+   "title": "Brands commission creator-led micro comedy series",
+   "th": "Anthropologie จ้างครีเอเตอร์ Pooja Tripathi เขียนและนำแสดงซีรีส์คอมเมดี้สั้นเรื่องแรกของแบรนด์ ตอนละ 90 วินาที ออนแอร์ 11–19 พ.ย. ค่าตัวซีรีส์หลายตอนแบบนี้อยู่ในระดับ 5 หลัก (ดอลลาร์)",
+   "why": "ซีรีส์สั้นหลายตอนให้ครีเอเตอร์เล่าเรื่อง ทำให้คนกลับมาดูตอนต่อ — เป็นไอเดียแคมเปญให้แบรนด์ลูกค้าแทนโพสต์โฆษณาเดี่ยว",
+   "source": "Advertain (citing Digiday)",
+   "url": "https://www.advertain.com/blog/social-media-marketing-news-13-november-2026"
+  }
+ ]
+}

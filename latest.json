@@ -1,369 +1,358 @@
 {
- "issue_no": 33,
- "tagline": "สายสีแดง 40 บาททั้งวันต่ออีกปี · สหรัฐฯ สั่งหยุดบินทั้งประเทศ · Outlook/Teams ล่มเกินวัน",
+ "issue_no": 34,
+ "tagline": "ฝุ่น PM2.5 กลับมาแล้ว · ฟิลิปปินส์คว้า Eurovision Asia ที่กรุงเทพฯ · YouTube เปลี่ยน Analytics เป็น Insights",
  "lifestyle": {
-  "title": "Red Line stays 40 baht a day until the end of 2027",
-  "body": "การรถไฟฯ (รฟท.) ต่อโปรค่าโดยสาร 40 บาทนั่งได้ทั้งวันของรถไฟฟ้าสายสีแดง ไปจนถึงสิ้นเดือนธันวาคม 2027 จากเดิมที่จะหมดสิ้นเดือนนี้ ครอบคลุมทั้งสายสีแดงเข้ม (กรุงเทพอภิวัฒน์–รังสิต) และสายสีแดงอ่อน (กรุงเทพอภิวัฒน์–ตลิ่งชัน) ใครเดินทางแถวบางซื่อ ดอนเมือง หรือรังสิตบ่อย ๆ เที่ยววันหยุดไปกลับหลายต่อก็ยังจ่ายแค่ 40 บาทต่อวัน",
-  "note": "Based on Bangkok Post, 13 Nov 2026"
+  "title": "Smog season is back: plan your weekend around the air",
+  "body": "AirBKK เตือนว่าฝุ่น PM2.5 ในกรุงเทพฯ อาจแย่ลงถึงวันจันทร์ เพราะลมอ่อนและอากาศไม่ถ่ายเท โดยเฉพาะช่วงกลางคืนถึงเช้า วันเสาร์มี 5 เขตเกินค่ามาตรฐาน 37.5 µg/m³ (ลาดกระบัง บางเขน ปทุมวัน ป้อมปราบฯ ยานนาวา) คาดว่าจะดีขึ้นบ้างช่วง 17–19 พ.ย. แล้วอาจกลับมาสะสมอีก 20–22 พ.ย. เช้านี้ถ้าจะออกไปวิ่งหรือเดินตลาด เช็กค่าฝุ่นก่อน และพกหน้ากากติดกระเป๋าไว้",
+  "note": "Based on Bangkok Post, 14 Nov 2026"
  },
  "word": {
-  "word": "outage",
+  "word": "smog",
   "pos": "n.",
-  "ipa": "/ˈaʊtɪdʒ/",
-  "th": "การที่ระบบหรือบริการล่ม ใช้งานไม่ได้ชั่วคราว",
-  "def": "a period when a service, such as power, internet or an app, is not working.",
-  "ex": "The Outlook and Teams outage lasted more than a day, so many meetings were moved."
+  "ipa": "/smɒɡ/",
+  "th": "หมอกควันพิษ ฝุ่นควันที่ปกคลุมเมือง",
+  "def": "dirty air, a mix of smoke, dust and fog, that hangs over a city.",
+  "ex": "The smog was so thick this morning that I couldn't see the river from my window."
  },
  "english": {
-  "title": "Telling a client a tool is down",
+  "title": "Moving an outdoor shoot because of the air",
   "dialogue": [
    [
     "Nadda",
-    "Quick heads-up: Teams is down for us, so I can't join the call on time."
+    "Hi! Quick check before tomorrow's outdoor shoot: have you seen the PM2.5 forecast?"
    ],
    [
-    "Client",
-    "Oh no. Is it just you, or is it everyone?"
-   ],
-   [
-    "Nadda",
-    "It looks like a wider outage. Microsoft says they're working on a fix."
-   ],
-   [
-    "Client",
-    "Can we switch to another app?"
+    "Photographer",
+    "Yeah, it looks bad until Monday. The sky will be grey in every shot."
    ],
    [
     "Nadda",
-    "Sure. I'll send a Google Meet link in five minutes."
+    "That's what I was worried about. Could we push it to Tuesday or Wednesday?"
    ],
    [
-    "Client",
-    "Great. Can you also send the deck by LINE, just in case?"
+    "Photographer",
+    "Wednesday works for me. The air should clear up a bit by then."
    ],
    [
     "Nadda",
-    "Will do. I'll keep a copy on Drive as a backup too."
+    "Great. I'll let the client know and rebook the location."
    ],
    [
-    "Client",
-    "Perfect. Talk soon."
+    "Photographer",
+    "Sounds good. If it's still hazy, we can move indoors."
+   ],
+   [
+    "Nadda",
+    "Good idea. Let's keep the studio as plan B."
    ]
   ],
   "vocab": [
    [
-    "heads-up",
-    "การเตือนล่วงหน้า บอกให้รู้ก่อน"
+    "forecast",
+    "การพยากรณ์ ค่าคาดการณ์"
    ],
    [
-    "be down",
-    "(ระบบ) ล่ม ใช้ไม่ได้"
+    "push it to",
+    "เลื่อนไปเป็น (วัน/เวลา)"
    ],
    [
-    "work on a fix",
-    "กำลังแก้ไขปัญหา"
+    "clear up",
+    "(อากาศ) ดีขึ้น โปร่งขึ้น"
    ],
    [
-    "switch to",
-    "เปลี่ยนไปใช้"
+    "rebook",
+    "จองใหม่"
    ],
    [
-    "just in case",
-    "เผื่อไว้"
+    "hazy",
+    "มัว ๆ มีหมอกควัน"
    ],
    [
-    "backup",
-    "สำรอง ไฟล์สำรอง"
+    "plan B",
+    "แผนสำรอง"
    ]
   ],
   "tip": {
-   "instead": "Sorry, I have a problem with Teams.",
-   "better": "Quick heads-up: Teams is down for us, so I can't join the call on time.",
-   "why": "บอกปัญหา + ผลกระทบในประโยคเดียว แล้วตามด้วยทางออก ลูกค้าจะรู้สึกว่าเราคุมสถานการณ์ได้"
+   "instead": "Can we change the day? The air is bad.",
+   "better": "Could we push it to Wednesday? The air should clear up a bit by then.",
+   "why": "เสนอวันใหม่ที่ชัดเจนพร้อมเหตุผลเชิงบวก อีกฝ่ายตอบได้ทันที ไม่ต้องคุยไปกลับหลายรอบ"
   }
  },
  "know": [
   {
-   "title": "What is a 'ground stop'?",
-   "body": "Ground stop คือคำสั่งของหน่วยงานการบินให้เครื่องบินที่ยังอยู่บนพื้นห้ามขึ้นบิน ส่วนเครื่องที่บินอยู่แล้วยังลงจอดได้ตามปกติ เมื่อวันที่ 13 พ.ย. FAA ของสหรัฐฯ สั่ง ground stop ทุกสนามบินทั่วประเทศ หลังระบบสื่อสารของศูนย์ควบคุมจราจรทางอากาศขัดข้อง FlightAware รายงานว่ามีเที่ยวบินล่าช้าหรือยกเลิกเกือบ 7,000 เที่ยว"
+   "title": "Why does Bangkok get smoggy in the cool season?",
+   "body": "พอเข้าหน้าหนาว อากาศเย็นและลมอ่อนทำให้ฝุ่นลอยขึ้นไปกระจายได้น้อย เลยสะสมใกล้พื้นดิน Bangkok Post อ้างงานศึกษาว่าไอเสียรถยนต์เป็นต้นเหตุของ PM2.5 ในกรุงเทพฯ ได้ถึง 70% อีกส่วนใหญ่มาจากการเผาตอซังอ้อยและฟางข้าวในจังหวัดรอบ ๆ ค่ามาตรฐานของไทยคือไม่เกิน 37.5 µg/m³"
   },
   {
-   "title": "What is the Social Security Board?",
-   "body": "คณะกรรมการประกันสังคมมี 21 คน กำหนดทิศทางกองทุนประกันสังคมมูลค่าราว 2.8 ล้านล้านบาท ที่มีผู้ประกันตนกว่า 24 ล้านคน 14 ที่นั่งมาจากการเลือกตั้ง (ฝั่งลูกจ้าง 7 นายจ้าง 7) อีก 7 ที่นั่งเป็นตัวแทนรัฐ การเลือกตั้งเมื่อ 11 ต.ค. ทีมที่เกี่ยวข้องกับพรรคประชาชนได้ครบทั้ง 14 ที่นั่ง แต่ตอนนี้มีคนยื่นคัดค้าน ซึ่งกรรมการจะพิจารณาภายใน 30 วัน"
+   "title": "What is Eurovision Song Contest Asia?",
+   "body": "Eurovision คือการประกวดเพลงระดับประเทศที่โด่งดังในยุโรป ปีนี้ผู้จัดทำเวอร์ชันเอเชียครั้งแรก จัดที่กรุงเทพฯ เมื่อ 14 พ.ย. ผู้ชนะคือ Carmelle วัย 19 ปีจากฟิลิปปินส์ กับเพลง Sobra-Sobra (Too Much) ไทยเจ้าภาพได้ที่ 2 แบบสูสี ตามด้วยเวียดนาม มาเลเซีย และลาว"
   }
  ],
  "on_this_day": [
   {
-   "year": "1889",
-   "text": "Reporter Nellie Bly set off to travel around the world in less than 80 days."
+   "year": "1926",
+   "text": "The NBC radio network went on the air in the United States."
   },
   {
-   "year": "1969",
-   "text": "Apollo 12 launched, the second mission to land astronauts on the Moon."
+   "year": "1971",
+   "text": "Intel advertised the 4004, the first commercial microprocessor on a single chip."
   }
  ],
  "three_things": [
-  "Save a backup meeting link (Meet or LINE call) in case Teams goes down again",
-  "Try a 'roast yourself' hook like vivo's for one product post this week",
-  "If you ride the Red Line, plan a 40-baht day trip this weekend"
+  "Check the AirBKK reading before going out this morning, and keep a mask in your bag",
+  "Open YouTube Studio's new Insights tab and see what it says about your latest video",
+  "Try Instagram's Effect Builder to sketch a Duckling Sort Story filter idea"
  ],
  "thailand": [
   {
    "lead": true,
-   "title": "Red Line extends its 40-baht all-day fare to end-2027",
-   "th": "บอร์ด รฟท. มีมติต่อโปร 40 บาทนั่งได้ทั้งวันของสายสีแดงเข้ม (กรุงเทพอภิวัฒน์–รังสิต) และสายสีแดงอ่อน (กรุงเทพอภิวัฒน์–ตลิ่งชัน) ไปจนถึงธันวาคม 2027 จากเดิมที่จะสิ้นสุดปลายเดือนนี้",
-   "en": "One price, one day, on both Red Line routes for another year.",
+   "title": "Thai and Chinese PMs push trade ties and high-speed rail by 2030",
+   "th": "นายกฯ อนุทิน และนายกฯ จีน หลี่ เฉียง เปิดเวที Thailand-China Business Roundtable ที่กรุงเทพฯ ประกาศเร่งให้ข้อตกลง ACFTA 3.0 มีผลเร็วที่สุด และเร่งรถไฟความเร็วสูงไทย-จีนเฟสแรกให้เปิดบริการภายในปี 2030 พร้อมชวนจีนลงทุนดาต้าเซ็นเตอร์ เซมิคอนดักเตอร์ และ AI",
+   "en": "Li Qiang is in Thailand on an official visit from 13 to 15 November.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3354054/red-line-extends-b40-allday-fare-for-1-more-year"
+   "url": "https://www.bangkokpost.com/thailand/general/3354619/thai-and-chinese-pms-push-trade-and-investment-ties"
   },
   {
-   "title": "BoI: actual investment up 28% in Q3",
-   "th": "BoI รายงานการลงทุนจริงของโครงการที่ได้รับส่งเสริมไตรมาส 3 อยู่ที่ 260.7 พันล้านบาท เพิ่มขึ้น 28% จากปีก่อน 9 เดือนแรกรวม 796.5 พันล้านบาท กลุ่มดิจิทัลนำ (64.2 พันล้านบาท มากกว่าปีก่อนกว่า 7 เท่า) ตามด้วยอิเล็กทรอนิกส์ คาดทั้งปีเกิน 1 ล้านล้านบาท",
-   "en": "Data centres and electronics lead the money coming in.",
+   "title": "Bangkok smog season under way",
+   "th": "ค่าเฉลี่ย PM2.5 ในกรุงเทพฯ วันเสาร์ขึ้นไป 31.5 µg/m³ ตอน 11 โมง และ 5 เขตเกินมาตรฐาน AirBKK คาดว่าฝุ่นจะแย่ลงถึงวันจันทร์ และอาจดีขึ้นช่วง 17–19 พ.ย.",
+   "en": "Weak winds keep the dust close to the ground.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/business/general/3354061/boi-reports-28-growth-in-investment-in-third-quarter"
+   "url": "https://www.bangkokpost.com/thailand/general/3354614/bangkok-smog-season-under-way"
   },
   {
-   "title": "Objection may delay new Social Security Board members",
-   "th": "สำนักงานประกันสังคมได้รับหนังสือคัดค้านผลเลือกตั้งบอร์ดประกันสังคม ทำให้การแต่งตั้ง 14 กรรมการใหม่อาจล่าช้า กรรมการเลือกตั้งจะพิจารณาภายใน 30 วัน ทีมประกันสังคมก้าวหน้าที่เกี่ยวข้องกับพรรคประชาชนชนะครบ 14 ที่นั่ง",
-   "en": "The SSO says the review is a safeguard, not a delay tactic.",
+   "title": "Violations found at 92% of raided waste plants in Samut Sakhon",
+   "th": "กระทรวงอุตสาหกรรมสุ่มตรวจโรงงานคัดแยกและรีไซเคิลขยะ 146 แห่งในสมุทรสาคร พบผิด พ.ร.บ.โรงงาน 134 แห่ง สั่งหยุดชั่วคราว 3 แห่ง และเตรียมดำเนินคดีอีก 54 แห่ง ตั้งเป้าตรวจโรงงานเสี่ยงสูงครบ 3,049 แห่งทั่วประเทศภายในสิ้นปีหรือต้นปีหน้า",
+   "en": "A nationwide crackdown on illegal recycling plants.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3353991/objection-may-delay-social-security-board-appointments"
+   "url": "https://www.bangkokpost.com/thailand/general/3354606/violations-found-at-92-of-raided-waste-plants"
   },
   {
-   "title": "CAAT sees drones driving a 'low-altitude economy'",
-   "th": "กพท. บอกว่าโดรนจะช่วยงานขนส่ง สาธารณสุข และงานฉุกเฉิน ปัจจุบันไทยมีโดรนลงทะเบียน 73,435 ลำ (ณ 10 พ.ย.) และกำลังร่างแผนแม่บทอากาศยานไร้คนขับ พร้อมจัดงาน Advanced Air Mobility Symposium 1–3 ธ.ค. ที่เมืองทองธานี",
-   "en": "Thailand's drone market grows about 10% a year.",
+   "title": "Doi Wawajo in Mae Hong Son closed after a fatal fall",
+   "th": "อุทยานแห่งชาติน้ำตกแม่สุรินทร์สั่งปิดดอยวาวาโจ จ.แม่ฮ่องสอน ไม่มีกำหนด หลังนักท่องเที่ยวหญิงวัย 30 ปีพลัดตกหน้าผาใกล้จุดกางเต็นท์เมื่อคืนวันศุกร์ ขอให้งดเข้าพื้นที่จนกว่าจะมีประกาศ",
+   "en": "If you plan a cool-season trek, check park notices first.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3354075/drones-at-heart-of-lowaltitude-economy"
+   "url": "https://www.bangkokpost.com/thailand/general/3354641/mae-hong-son-trekking-site-closed-after-fatal-fall"
   }
  ],
  "world": [
   {
-   "title": "US grounds all departing flights after ATC outage",
-   "th": "FAA สั่งหยุดเครื่องขึ้นทุกสนามบินในสหรัฐฯ เมื่อ 13 พ.ย. หลังระบบสื่อสารของศูนย์ควบคุมจราจรทางอากาศขัดข้องทั่วประเทศ FlightAware ระบุเที่ยวบินล่าช้าหรือยกเลิกเกือบ 7,000 เที่ยว",
-   "en": "Planes in the air could land; those on the ground could not take off.",
+   "title": "Philippine teen wins the first Eurovision Asia in Bangkok",
+   "th": "Carmelle วัย 19 ปีจากฟิลิปปินส์ ชนะ Eurovision Song Contest Asia ครั้งแรกที่กรุงเทพฯ ด้วยเพลง Sobra-Sobra ไทยเจ้าภาพได้อันดับ 2 แบบสูสี",
+   "en": "Thailand came a close second on home ground.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-15-2026"
   },
   {
-   "title": "Microsoft Outlook and Teams outage eases after more than a day",
-   "th": "Outlook, Teams และ Copilot ล่มทั่วโลกนานกว่า 24 ชั่วโมง กระทบหน่วยงานรัฐ บริษัทเทรด และสายการบิน Microsoft บอกว่าเป็นปัญหาเซิร์ฟเวอร์ ไม่ใช่การโจมตีไซเบอร์หรือ AI ระบบเริ่มกลับมาแต่ยังไม่มีกำหนดฟื้นเต็มที่",
-   "en": "A reminder to keep a backup way to meet and email.",
+   "title": "US flight chaos blamed on old copper wiring repair",
+   "th": "รัฐบาลสหรัฐฯ ระบุว่าการหยุดบินทั่วประเทศเมื่อ 13 พ.ย. เกิดจากอุปกรณ์ขัดข้องหรือความผิดพลาดของผู้รับเหมาที่เปลี่ยนสายสื่อสารทองแดงเก่า FAA บอกว่า 13 พ.ย. ยกเลิกไป 12,000 เที่ยว และ 14 พ.ย. น่าจะยกเลิกอีก 4,000–5,000 เที่ยว",
+   "en": "Delays are expected to continue into the weekend.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-15-2026"
   },
   {
-   "title": "EU names a five-country team for Ukraine peace talks",
-   "th": "ผู้นำ EU ตกลงให้ทีมเจรจาสันติภาพยูเครนฝั่งยุโรปมีอังกฤษ ฝรั่งเศส เยอรมนี อิตาลี และโปแลนด์ ร่วมกับสถาบันของ EU ขณะที่เครมลินบอกว่าเปิดรับยุโรปถ้าตั้งใจช่วยสร้างสันติภาพจริง",
-   "en": "Europe wants one voice at the table.",
+   "title": "SpaceX's Starship returns to its Texas launch tower",
+   "th": "ยาน Starship โคจรรอบโลก 14 รอบนานกว่า 22 ชั่วโมง แล้วกลับมาลงที่หอปล่อยในเท็กซัสได้สำเร็จเป็นครั้งแรก แม้บูสเตอร์ Super Heavy จะกลับมาลงหอไม่สำเร็จ",
+   "en": "A key step towards a fully reusable rocket.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-15-2026"
   },
   {
-   "title": "Turkey and Qatar sign a mutual defence pact",
-   "th": "ตุรกีและกาตาร์ลงนามข้อตกลงป้องกันร่วม เพื่อมีจุดยืนเดียวกันหากถูกโจมตีจากภายนอก หลังประธานาธิบดีแอร์โดอันพบเจ้าผู้ครองรัฐกาตาร์ที่อิสตันบูล",
-   "en": "Two close regional allies tighten ties.",
+   "title": "Tens of thousands protest across France",
+   "th": "ผู้ประท้วงราว 106,000 คนทั่วฝรั่งเศส (ปารีส 24,000) ออกมาประท้วงเรื่องค่าครองชีพที่สูงขึ้น และข้อเสนอเพิ่มความคุ้มครองทางกฎหมายให้ตำรวจ ฝรั่งเศสเผชิญการประท้วงต่อเนื่องมากว่าหนึ่งเดือน",
+   "en": "The turnout was the lowest in recent weeks.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-15-2026"
   }
  ],
  "social": [
   {
-   "title": "SEALECT x Butterbear turns canned tuna into collectibles",
-   "th": "ซีเล็คทูน่าจับมือน้องเนย Butterbear ทำ Special Collection และงาน Meet & Cute ที่ EMSPHERE ผู้ส่งยอดซื้อลุ้นร่วมงานกว่า 1,000 ราย ไลฟ์มีคนดูทะลุ 50,000 วิว และ engagement กว่า 20,000 ครั้ง",
-   "why": "คาแรกเตอร์คอลแลบเปลี่ยนแฟนด้อมเป็นยอดซื้อได้จริง — ไอเดียดีสำหรับ Duckling Sort ถ้าวันหนึ่งน้องเป็ดจะคอลแลบกับแบรนด์",
-   "source": "Biztalk News",
-   "url": "https://www.biztalknews.com/business/sealect-butterbear-meet-and-cute-campaign/"
+   "title": "YouTube Studio: Analytics becomes AI 'Insights', plus a Research tab",
+   "th": "ตั้งแต่ 13 พ.ย. หน้า Analytics ใน YouTube Studio บนเดสก์ท็อปเปลี่ยนเป็น Insights ที่สรุปตัวเลขเป็นภาษาคน มีแท็บ Research แทน Trends และ Ask Studio มาถึงแอปมือถือแล้ว อัปโหลดรูปให้วิเคราะห์ได้ครั้งละ 10 รูป",
+   "why": "ทำรีพอร์ต YouTube ได้เร็วขึ้น และใช้แท็บ Research หาคลิปที่ปังผิดปกติในหมวดเดียวกันมาเป็นไอเดียคอนเทนต์ได้",
+   "source": "PPC Land",
+   "url": "https://ppc.land/youtube-studios-numbers-learn-to-talk-as-analytics-becomes-insights/"
   },
   {
-   "title": "vivo V80 roasts itself: 'There's nothing new about the vivo V80!'",
-   "th": "vivo กับ SOUR Bangkok ทำหนังที่ Keng (คู่กับ Namping) หลุดพูดตอนไมค์เปิดว่า V80 ไม่มีอะไรใหม่ ต่อยอดฉายา 'God's Favorite Camera' ด้วยแนว 'Sell Hard, Laugh Harder' กำกับโดยเต๋อ นวพล",
-   "why": "อัปเกรดเล็กที่ขายยาก เล่นมุกแซวตัวเองแล้วค่อยเฉลยฟีเจอร์ได้ — ใช้กับรถรุ่นปรับโฉมหรืออัปเดตแอปที่ต่างจากเดิมนิดเดียว",
-   "source": "Campaign Brief Asia",
-   "url": "https://campaignbriefasia.com/2026/11/04/gods-favorite-camera-gets-a-reality-check-in-vivo-and-sour-bangkoks-latest-campaign/"
+   "title": "Instagram Effect Builder: make Story effects by describing them",
+   "th": "Instagram เพิ่ม Effect Builder ในแอป Edits พิมพ์บอกว่าอยากได้เอฟเฟกต์แบบไหน ใช้รูปเป็น reference สีและแสงได้ ส่งให้ Meta รีวิวแล้วทุกคนใช้ได้ใน Stories โดยมีลิงก์กลับมาที่โปรไฟล์ผู้สร้าง",
+   "why": "แบรนด์ทำฟิลเตอร์ของตัวเองได้โดยไม่ต้องจ้างนักทำเอฟเฟกต์ — ฟิลเตอร์น้องเป็ด Duckling Sort ช่วยให้คนเจอเพจได้",
+   "source": "JCK",
+   "url": "https://www.jckonline.com/editorial-article/social-media-updates-nov-26/"
   },
   {
-   "title": "Vertical 'Chinese drama' format wins a student viral-ad contest",
-   "th": "COCOLOVE x ม.กรุงเทพ จัด Viral Ads Contest 2026 มีกว่า 400 ทีม ทีมชนะเล่าว่าทำตามเทรนด์ซีรีส์จีนแนวตั้ง ตั้งชื่อเรื่องให้คนสงสัยจนต้องดูต่อ",
-   "why": "ฟอร์แมตละครสั้นแนวตั้งยังแรงในกลุ่ม Gen Z — ลองทำซีรีส์สั้น 3–5 ตอนแทนคลิปขายตรง",
-   "source": "Lanta News",
-   "url": "https://lanta.news/articles/cocolove-x-gen-z"
+   "title": "TikTok Symphony now makes 30-second AI ads from up to 50 references",
+   "th": "TikTok อัปเกรด Symphony ใช้โมเดล Dreamina Seedance 2.5 สร้างวิดีโอได้ยาว 30 วินาที (จากเดิม 15) และใส่ reference ได้ถึง 50 ชิ้น (จากเดิม 9) TikTok บอกว่าบล็อกการอัปโหลดหน้าคนจริงและติดป้ายคอนเทนต์ AI",
+   "why": "ทำแอดวิดีโอหลายเวอร์ชันไว้ทดสอบได้เร็วขึ้น แต่ต้องเช็กให้แบรนด์และสินค้ายังตรง CI ทุกช็อต",
+   "source": "Advertain",
+   "url": "https://www.advertain.com/blog/social-media-marketing-news-13-november-2026"
   },
   {
-   "title": "LinkedIn launches a unified creator analytics dashboard",
-   "th": "LinkedIn เปิดแดชบอร์ดวิเคราะห์ใหม่ มีตารางเทียบผลงานแต่ละโพสต์ ผู้ติดตามที่ได้ต่อโพสต์ ยอด saves และ sends (วัด dark social) และแยกวิวจากในเครือข่ายกับนอกเครือข่าย",
-   "why": "ถ้าต้องทำรีพอร์ตเพจองค์กรบน LinkedIn ดึงตัวเลข saves/sends มาเทียบได้ง่ายขึ้น ไม่ต้องรวมเองทีละโพสต์",
-   "source": "PR Daily",
-   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-65/"
+   "title": "Facebook removes additional profiles on 14 Dec; Threads adds custom likes",
+   "th": "Facebook จะลบโปรไฟล์เสริม (สร้างได้สูงสุด 4 โปรไฟล์ตั้งแต่ปี 2023) ในวันที่ 14 ธ.ค. ถ้าโปรไฟล์เสริมเป็นเจ้าของกลุ่มต้องโอนสิทธิ์ก่อน ส่วน Threads ให้เลือกอีโมจิ สติกเกอร์ หรือ GIF แทนหัวใจตอนกดไลก์ และเพิ่มตัวกรองการค้นหาขั้นสูง",
+   "why": "ถ้าใครในทีมใช้โปรไฟล์เสริมดูแลกลุ่มหรือเพจ ต้องย้ายสิทธิ์ก่อน 14 ธ.ค. ไม่งั้นอาจเสียสิทธิ์ admin",
+   "source": "Peggy KTC",
+   "url": "https://www.peggyktc.com/2026/11/creator-weekly-youtube-studio-insights.html"
   },
   {
-   "title": "Outlook and Teams down for over a day worldwide",
-   "th": "Outlook, Teams และ Copilot ล่มทั่วโลกนานกว่า 24 ชั่วโมง ส่งอีเมล จัดปฏิทิน และประชุมออนไลน์ไม่ได้ Microsoft ยืนยันว่าไม่ใช่การโจมตี",
-   "why": "งานอนุมัติโพสต์กับลูกค้าที่พึ่ง Teams/Outlook อาจสะดุด — เตรียมช่องทางสำรอง (LINE, Meet, Drive) และเผื่อเวลาให้คิวโพสต์",
-   "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-14-2026"
+   "title": "Brands commission creator-led micro comedy series",
+   "th": "Anthropologie จ้างครีเอเตอร์ Pooja Tripathi เขียนและนำแสดงซีรีส์คอมเมดี้สั้นเรื่องแรกของแบรนด์ ตอนละ 90 วินาที ออนแอร์ 11–19 พ.ย. ค่าตัวซีรีส์หลายตอนแบบนี้อยู่ในระดับ 5 หลัก (ดอลลาร์)",
+   "why": "ซีรีส์สั้นหลายตอนให้ครีเอเตอร์เล่าเรื่อง ทำให้คนกลับมาดูตอนต่อ — เป็นไอเดียแคมเปญให้แบรนด์ลูกค้าแทนโพสต์โฆษณาเดี่ยว",
+   "source": "Advertain (citing Digiday)",
+   "url": "https://www.advertain.com/blog/social-media-marketing-news-13-november-2026"
   }
  ],
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "weather": {
-  "max": 34,
-  "min": 26,
-  "rain": 88,
-  "uv": 7,
-  "cond": "Light rain",
-  "humidity": 89,
-  "source": "Open-Meteo",
-  "fetched": "06:19"
+  "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
  },
  "wordsearch": {
   "grid": [
-   "HRAILDNWTR",
-   "GVNEEUAHLO",
-   "PPJNRMGRRU",
-   "SVOGAIKEKT",
-   "PRRRLEWTEA",
-   "DWDFRHLUBG",
-   "AHUANARNNE",
-   "MNFUDJLALO",
-   "KLCAMERAEI",
-   "EHCLYCWTCU"
+   "SRVVRFSIEU",
+   "PWWARIOLGF",
+   "WRTVALNFNL",
+   "AORIITGTSH",
+   "SCENLEHLMB",
+   "TKKSKRFIWH",
+   "EEKIEISPMK",
+   "KTYGAJDMES",
+   "UTPHAJTVON",
+   "SIBTLEDKSG"
   ],
   "words": [
    {
-    "word": "OUTAGE",
+    "word": "INSIGHT",
     "cells": [
      [
-      1,
-      9
-     ],
-     [
-      2,
-      9
-     ],
-     [
       3,
-      9
+      3
      ],
      [
       4,
-      9
+      3
      ],
      [
       5,
-      9
+      3
      ],
      [
       6,
-      9
+      3
+     ],
+     [
+      7,
+      3
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      9,
+      3
      ]
     ]
    },
    {
-    "word": "FLIGHT",
+    "word": "ROCKET",
     "cells": [
      [
-      5,
-      3
-     ],
-     [
-      4,
-      4
+      2,
+      1
      ],
      [
       3,
-      5
-     ],
-     [
-      2,
-      6
-     ],
-     [
-      1,
-      7
-     ],
-     [
-      0,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "CAMERA",
-    "cells": [
-     [
-      8,
-      2
-     ],
-     [
-      8,
-      3
-     ],
-     [
-      8,
-      4
-     ],
-     [
-      8,
-      5
-     ],
-     [
-      8,
-      6
-     ],
-     [
-      8,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "DRONE",
-    "cells": [
-     [
-      5,
-      0
+      1
      ],
      [
       4,
       1
      ],
      [
-      3,
-      2
+      5,
+      1
      ],
      [
-      2,
-      3
+      6,
+      1
      ],
      [
-      1,
-      4
+      7,
+      1
      ]
     ]
    },
    {
-    "word": "DRAMA",
+    "word": "FILTER",
     "cells": [
      [
-      5,
-      2
+      0,
+      5
      ],
      [
-      4,
-      3
-     ],
-     [
-      3,
-      4
+      1,
+      5
      ],
      [
       2,
       5
      ],
      [
-      1,
+      3,
+      5
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      5,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "WASTE",
+    "cells": [
+     [
+      2,
+      0
+     ],
+     [
+      3,
+      0
+     ],
+     [
+      4,
+      0
+     ],
+     [
+      5,
+      0
+     ],
+     [
+      6,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "SMOG",
+    "cells": [
+     [
+      6,
       6
+     ],
+     [
+      7,
+      7
+     ],
+     [
+      8,
+      8
+     ],
+     [
+      9,
+      9
      ]
     ]
    },
@@ -371,62 +360,62 @@
     "word": "RAIL",
     "cells": [
      [
-      0,
-      1
+      1,
+      4
      ],
      [
-      0,
-      2
+      2,
+      4
      ],
      [
-      0,
-      3
+      3,
+      4
      ],
      [
-      0,
+      4,
       4
      ]
     ]
    },
    {
-    "word": "TUNA",
+    "word": "SONG",
     "cells": [
      [
-      4,
-      7
+      0,
+      6
      ],
      [
-      5,
-      7
+      1,
+      6
      ],
      [
-      6,
-      7
+      2,
+      6
      ],
      [
-      7,
-      7
+      3,
+      6
      ]
     ]
    },
    {
-    "word": "FARE",
+    "word": "TREK",
     "cells": [
      [
-      7,
+      2,
       2
      ],
      [
-      6,
-      3
-     ],
-     [
-      5,
-      4
+      3,
+      2
      ],
      [
       4,
-      5
+      2
+     ],
+     [
+      5,
+      2
      ]
     ]
    }
@@ -437,100 +426,100 @@
    [
     0,
     0,
-    4,
     0,
-    6,
-    3
+    0,
+    0,
+    5
    ],
    [
-    0,
-    6,
-    3,
     2,
     0,
-    0
-   ],
-   [
+    0,
+    3,
     4,
-    0,
-    0,
-    0,
-    0,
     1
    ],
    [
-    3,
-    2,
-    0,
     4,
     0,
-    6
-   ],
-   [
+    2,
     6,
     0,
-    0,
-    1,
-    4,
     0
    ],
    [
     0,
+    5,
+    0,
+    4,
+    1,
+    2
+   ],
+   [
     0,
     0,
+    4,
+    1,
+    2,
+    0
+   ],
+   [
+    0,
+    2,
     6,
+    5,
     3,
     0
    ]
   ],
   "solution": [
    [
-    2,
-    1,
-    4,
-    5,
-    6,
-    3
-   ],
-   [
-    5,
-    6,
     3,
-    2,
-    1,
-    4
-   ],
-   [
     4,
-    5,
+    1,
+    2,
     6,
-    3,
-    2,
-    1
-   ],
-   [
-    3,
-    2,
-    1,
-    4,
-    5,
-    6
-   ],
-   [
-    6,
-    3,
-    2,
-    1,
-    4,
     5
    ],
    [
-    1,
-    4,
-    5,
+    2,
     6,
+    5,
     3,
+    4,
+    1
+   ],
+   [
+    4,
+    1,
+    2,
+    6,
+    5,
+    3
+   ],
+   [
+    6,
+    5,
+    3,
+    4,
+    1,
     2
+   ],
+   [
+    5,
+    3,
+    4,
+    1,
+    2,
+    6
+   ],
+   [
+    1,
+    2,
+    6,
+    5,
+    3,
+    4
    ]
   ]
  }
