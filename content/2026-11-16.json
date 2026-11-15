@@ -1,0 +1,526 @@
+{
+ "issue_no": 35,
+ "tagline": "ไทยจี้เหมืองเมียนมาหยุดสารหนูลงแม่น้ำสาย · Sesame Street บุกเซ็นทรัลเอ็มบาสซี · X เปิดให้ตัดคลิปจากวิดีโอคนอื่นได้",
+ "lifestyle": {
+  "title": "Elmo comes to Chidlom: Sesame Street Christmas at Central Embassy",
+  "body": "ครั้งแรกในไทย! เซ็นทรัล เอ็มบาสซี จัดงาน Season of Giving 2027: Holiday Mode On! ธีม Sesame Street ตั้งแต่ 17 พ.ย. 69 ถึง 10 ม.ค. 70 มีต้นคริสต์มาสสูงกว่า 15 เมตรที่ Front Yard ทางเชื่อมไปเซ็นทรัลชิดลมแต่งเป็นสถานีรถไฟใต้ดิน Sesame Street ชั้น 6 มีบ้าน Cookie Monster กับรังของ Big Bird (มีบ่อบอล) และมี Meet & Greet ทุกวันเสาร์ พิธีเปิด 17 พ.ย. มีปอนด์-ภูวินร่วมจุดไฟต้นคริสต์มาส ใครเดินผ่าน BTS เพลินจิต แวะถ่ายรูปไว้ทำคอนเทนต์ได้เลย",
+  "note": "Based on Bangkok Post and Time Out Bangkok, 15 Nov 2026"
+ },
+ "word": {
+  "word": "downstream",
+  "pos": "adv./adj.",
+  "ipa": "/ˌdaʊnˈstriːm/",
+  "th": "ทางปลายน้ำ; (ในงาน) ขั้นตอนที่ตามมาทีหลังและได้รับผลกระทบ",
+  "def": "in the direction a river flows; also, later in a process and affected by what happens earlier.",
+  "ex": "Thailand suffers from the mining waste because it is downstream from the mines."
+ },
+ "english": {
+  "title": "Explaining a delay that started 'upstream'",
+  "dialogue": [
+   [
+    "Client",
+    "Hi Nadda, the posts were supposed to go out this morning. What happened?"
+   ],
+   [
+    "Nadda",
+    "Sorry about that. The delay started upstream: the product photos arrived late on Friday."
+   ],
+   [
+    "Client",
+    "I see. So everything downstream got pushed back?"
+   ],
+   [
+    "Nadda",
+    "Exactly. Design and captions both depend on those photos."
+   ],
+   [
+    "Client",
+    "When can we expect the posts?"
+   ],
+   [
+    "Nadda",
+    "Design is almost done. We can schedule them for 6 pm today."
+   ],
+   [
+    "Client",
+    "That works. Next time, could you flag it earlier?"
+   ],
+   [
+    "Nadda",
+    "Absolutely. I'll send you a heads-up as soon as anything slips."
+   ]
+  ],
+  "vocab": [
+   [
+    "upstream",
+    "ต้นน้ำ / ขั้นตอนก่อนหน้า"
+   ],
+   [
+    "downstream",
+    "ปลายน้ำ / ขั้นตอนที่ตามมา"
+   ],
+   [
+    "push back",
+    "เลื่อนออกไป"
+   ],
+   [
+    "depend on",
+    "ขึ้นอยู่กับ ต้องรอ"
+   ],
+   [
+    "flag it",
+    "แจ้งให้รู้ล่วงหน้า ยกขึ้นมาเตือน"
+   ],
+   [
+    "slip",
+    "(งาน/กำหนดการ) เลื่อน ช้ากว่าแผน"
+   ]
+  ],
+  "tip": {
+   "instead": "Sorry, it's late because the photos were late.",
+   "better": "Sorry about that. The delay started upstream: the photos arrived late. We can schedule the posts for 6 pm today.",
+   "why": "ขอโทษสั้น ๆ บอกต้นเหตุแบบไม่โทษใคร แล้วปิดด้วยเวลาใหม่ที่ชัดเจน ลูกค้าสบายใจกว่า"
+  }
+ },
+ "know": [
+  {
+   "title": "Why is the Sai River reddish and murky?",
+   "body": "Bangkok Post รายงานว่าน้ำในแม่น้ำสายที่ อ.แม่สาย จ.เชียงราย มีสีแดงขุ่น เพราะของเสียจากเหมืองฝั่งเมียนมาที่มีสารหนู (arsenic) ไหลข้ามพรมแดนมา ไทยอยู่ปลายน้ำจึงรับผลกระทบ รองนายกฯ ยศชนัน วงศ์สวัสดิ์ จะให้พิสูจน์แหล่งที่มาทางวิทยาศาสตร์ร่วมกับนักวิทยาศาสตร์จีน และผลักดันให้สร้างคันกั้นเป็นบ่อพักน้ำเสียในเมียนมา ส่วนรัฐบาลจะหาแหล่งน้ำประปาใหม่ที่สะอาดให้คนภาคเหนือ"
+  },
+  {
+   "title": "What is the World Day of Remembrance for Road Traffic Victims?",
+   "body": "เป็นวันรำลึกถึงผู้เสียชีวิตและบาดเจ็บจากอุบัติเหตุบนถนน ตรงกับวันอาทิตย์ที่สามของเดือนพฤศจิกายนทุกปี ปี 2024 ไทยมีผู้เสียชีวิตบนถนน 17,477 คน ราว 80% เป็นผู้ใช้รถจักรยานยนต์ รัฐบาลตั้งเป้าลดผู้เสียชีวิตและบาดเจ็บลงครึ่งหนึ่งภายในปี 2030"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1945",
+   "text": "UNESCO, the UN agency for education, science and culture, was founded in London."
+  },
+  {
+   "year": "1532",
+   "text": "Spanish conquistador Francisco Pizarro captured the Inca emperor Atahualpa at Cajamarca, Peru."
+  }
+ ],
+ "three_things": [
+  "Write a 3-line 'why the delay happened + new time' message template you can reuse with clients",
+  "Try X's new clip tool on one long video and see how the clip links back to the original",
+  "Save the Central Embassy Sesame Street dates (17 Nov – 10 Jan) for a festive photo-content idea"
+ ],
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Thailand demands action on mining waste flowing from Myanmar",
+   "th": "รองนายกฯ ยศชนัน วงศ์สวัสดิ์ ลงพื้นที่แม่สาย จ.เชียงราย เห็นน้ำแม่น้ำสายสีแดงขุ่น ระบุว่าของเสียจากเหมืองในเมียนมามีสารหนู ไทยแจ้งจีนและเมียนมาให้เหมืองสร้างคันกั้นเป็นบ่อพักน้ำเสีย นายกฯ อนุทินบอกว่าได้คุยเรื่องนี้กับนายกฯ หลี่ เฉียง แล้ว และรัฐบาลจะหาแหล่งน้ำประปาใหม่ที่สะอาดให้คนภาคเหนือ",
+   "en": "Thailand stands downstream from the mines.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3355065/thailand-demanding-action-on-mining-waste-flowing-from-myanmar"
+  },
+  {
+   "title": "PM reaffirms goal to halve road deaths by 2030",
+   "th": "ในวันรำลึกผู้ประสบภัยจากอุบัติเหตุทางถนน นายกฯ อนุทินย้ำเป้าลดผู้เสียชีวิตและบาดเจ็บบนถนนลง 50% ภายในปี 2030 ผ่านการบังคับใช้กฎหมาย ถนนที่ปลอดภัยขึ้น และขยาย 'ด่านชุมชน' ปี 2024 มีผู้เสียชีวิต 17,477 คน ราว 80% เป็นผู้ใช้มอเตอร์ไซค์",
+   "en": "Road safety is a national agenda item.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3355040/pm-reaffirms-roadsafety-goals-on-day-of-remembrance-for-crash-victims"
+  },
+  {
+   "title": "Thailand reviews air safety after the US flight disruptions",
+   "th": "กระทรวงคมนาคมสั่งวิทยุการบินฯ (Aerothai) ตรวจอุปกรณ์สื่อสาร ระบบสำรอง และขั้นตอนฉุกเฉิน หลังระบบสื่อสารของศูนย์ควบคุมการบิน 22 แห่งในสหรัฐฯ ล่ม การประเมินเบื้องต้นไม่พบผลกระทบต่อระบบควบคุมการบินของไทย ผู้โดยสารที่จะบินไปหรือผ่านสหรัฐฯ ควรเช็กสถานะเที่ยวบินกับสายการบินก่อนออกเดินทาง",
+   "en": "No impact on Thai air traffic control was found.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3354826/thais-review-air-safety-after-us-disruptions"
+  }
+ ],
+ "world": [
+  {
+   "title": "Yemen's Houthis advance to about 60 km from Aden",
+   "th": "แหล่งข่าวทหารและรัฐบาลเยเมนบอก AFP ว่ากลุ่มฮูตียึดสองอำเภอและรุกเข้าใกล้เมืองเอเดน ที่ตั้งชั่วคราวของรัฐบาลที่นานาชาติรับรอง จนห่างราว 60 กม. หลังรัฐบาลถอนกำลังออกจากพื้นที่ใกล้ช่องแคบบาบเอลมันเดบ",
+   "en": "Aden is the interim seat of the recognised government.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-16-2026"
+  },
+  {
+   "title": "Jensen Huang reportedly considers a comeback as Nvidia CEO",
+   "th": "Financial Times รายงานว่า Jensen Huang กำลังพิจารณากลับมาเป็นซีอีโอ Nvidia อีกครั้ง โดยมีพันธมิตรตั้ง 'war room' ของผู้บริหาร Silicon Valley เพื่อผลักดันให้เขากลับมา",
+   "en": "The report cites people familiar with the matter.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-16-2026"
+  },
+  {
+   "title": "Singapore to seek wider ASEAN trade ties as 2027 chair",
+   "th": "นายกฯ สิงคโปร์ ลอว์เรนซ์ หว่อง บอกว่าในฐานะประธานอาเซียนปี 2027 ซึ่งเป็นปีครบรอบ 60 ปีอาเซียน สิงคโปร์จะผลักดันความร่วมมือกับคู่เจรจาทั้งเก่าและใหม่ เช่น สหรัฐฯ สหภาพยุโรป และแคนาดา",
+   "en": "ASEAN marks its 60th anniversary next year.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-16-2026"
+  },
+  {
+   "title": "England end Spain's long unbeaten run",
+   "th": "อังกฤษบุกชนะแชมป์โลกสเปน 3-2 ที่มาดริด คว้าที่ 1 กลุ่ม A3 เนชันส์ลีก ประตูจาก Harry Kane, Ezri Konsa และ Ben White ทำให้สเปนแพ้ในเกมการแข่งขันครั้งแรกตั้งแต่มีนาคม 2023 หลังไม่แพ้ 44 นัด",
+   "en": "Spain fought back from three goals down but fell short.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-16-2026"
+  }
+ ],
+ "social": [
+  {
+   "title": "X adds a native clip tool: share up to 60 seconds of any video",
+   "th": "X เพิ่มเครื่องมือตัดคลิปในแอปมือถือ เลือกช่วงจากวิดีโอได้ยาวสูงสุด 60 วินาที ใส่คอมเมนต์แล้วโพสต์ได้เลย คลิปจะลิงก์กลับไปวิดีโอต้นฉบับ ทั้งเจ้าของวิดีโอและคนตัดคลิปได้ส่วนแบ่งจาก Original Content Rewards และเจ้าของวิดีโอเลือกปิดไม่ได้",
+   "why": "วิดีโอยาวของแบรนด์อาจถูกตัดไปพูดต่อได้ทุกช่วง — ควรมีช่วงไฮไลต์ที่เด่นพอให้คนอยากตัดไปแชร์ และคอยดูว่าคนตัดช่วงไหนไปเล่า",
+   "source": "Peggy KTC",
+   "url": "https://peggyktc.beehiiv.com/p/creator-weekly-youtube-insights-instagram-effect-builder-twitch-clips"
+  },
+  {
+   "title": "Meta's Forum app gets AI tools for Facebook Group admins",
+   "th": "Meta เพิ่มเครื่องมือใน Forum (แอปสำหรับคนที่ดูแล Facebook Groups) ให้ Admin AI ตรวจโพสต์ที่รออนุมัติว่าตรงกฎกลุ่มไหม ช่วยร่างโพสต์และตั้งเวลาโพสต์ และมีปฏิทินคอนเทนต์ร่วมกันสำหรับแอดมินกับผู้ดูแล",
+   "why": "ถ้าทำคอมมูนิตี้ในกลุ่ม Facebook (เช่นกลุ่มผู้เล่น Duckling Sort) ใช้ AI ช่วยคัดโพสต์และวางแผนคอนเทนต์ได้ ลดงานแอดมิน",
+   "source": "JCK",
+   "url": "https://www.jckonline.com/editorial-article/social-media-updates-nov-26/"
+  },
+  {
+   "title": "Starlink invites creators to make 30-second ads with Grok Imagine",
+   "th": "Starlink เปิดประกวดให้ผู้ใช้สร้างโฆษณา 30 วินาทีด้วย Grok Imagine (สร้างวิดีโอ ภาพ และเสียง) ผลงานที่ถูกเลือกอาจได้ออกอากาศในงานกีฬาใหญ่ของสหรัฐฯ",
+   "why": "แบรนด์ใหญ่เริ่มให้ครีเอเตอร์ทำแอดด้วย AI เป็นแคมเปญประกวด — เป็นไอเดีย UGC ที่ได้ทั้งคอนเทนต์และกระแส",
+   "source": "Mediatrends",
+   "url": "https://www.mediatrends.it/social-buzz-le-notizie-della-settimana-che-forse-non-hai-letto-09-11-15-11-mediatrends/"
+  },
+  {
+   "title": "'Bicep Heart' is the newest heart gesture trend",
+   "th": "เทรนด์ Bicep Heart คือเกร็งกล้ามแขนแล้วงอมือให้เป็นรูปหัวใจ เริ่มจาก TikToker @kavithageorge ในสหรัฐฯ คลิปแรกได้เกือบ 6 ล้านวิวและ 1.2 ล้านไลก์ภายใน 10 วัน มีเวอร์ชันคู่ที่อีกคนยืนตรงกลางช่องหัวใจด้วย",
+   "why": "ท่าง่าย ทำได้ทุกคน และตลกได้ถ้าทำไม่สวย — เหมาะให้มาสคอตหรือทีมงานลองทำเป็นคลิปสั้นตามกระแส",
+   "source": "Advertising Vietnam",
+   "url": "https://advertisingvietnam.com/article/nowtrending-giai-ma-nhung-lan-song-viral-tren-mang-xa-hoi-tuan-01-1511"
+  },
+  {
+   "title": "Central Embassy brings Sesame Street to Thailand for the holidays",
+   "th": "เซ็นทรัล เอ็มบาสซี ใช้คาแรกเตอร์ Sesame Street เป็นธีมแคมเปญส่งท้ายปี Season of Giving 2027 (17 พ.ย.–10 ม.ค.) ครั้งแรกในไทย มีจุดถ่ายรูปทั่วศูนย์ สินค้าลิขสิทธิ์ห่อของขวัญลาย Sesame Street และดึงปอนด์-ภูวินมาร่วมพิธีเปิด",
+   "why": "ตัวอย่างแคมเปญ IP คาแรกเตอร์ + ดาราที่มีแฟนด้อม ทำให้คนมาถ่ายรูปแล้วโพสต์ต่อเอง — จุดถ่ายรูปคือตัวสร้างยอดโซเชียล",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3355051/sesame-street-makes-thailand-debut"
+  }
+ ],
+ "date": "2026-11-16",
+ "weather": {
+  "max": 35,
+  "min": 26,
+  "rain": 75,
+  "uv": 7,
+  "cond": "Light drizzle",
+  "humidity": 88,
+  "source": "Open-Meteo",
+  "fetched": "06:23"
+ },
+ "wordsearch": {
+  "grid": [
+   "IRIVERETYC",
+   "CGYWAIFTBP",
+   "PCNTKYERVM",
+   "EROOUFOOYL",
+   "KLOAAGWAUU",
+   "CCMSCAJDOH",
+   "NRWONLIKKC",
+   "TOWERHISGE",
+   "TOOYUFMPRG",
+   "NHGHHEARTN"
+  ],
+  "words": [
+   {
+    "word": "COOKIE",
+    "cells": [
+     [
+      5,
+      1
+     ],
+     [
+      4,
+      2
+     ],
+     [
+      3,
+      3
+     ],
+     [
+      2,
+      4
+     ],
+     [
+      1,
+      5
+     ],
+     [
+      0,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "SAFETY",
+    "cells": [
+     [
+      5,
+      3
+     ],
+     [
+      4,
+      4
+     ],
+     [
+      3,
+      5
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      1,
+      7
+     ],
+     [
+      0,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "RIVER",
+    "cells": [
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      2
+     ],
+     [
+      0,
+      3
+     ],
+     [
+      0,
+      4
+     ],
+     [
+      0,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "TOWER",
+    "cells": [
+     [
+      7,
+      0
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      7,
+      2
+     ],
+     [
+      7,
+      3
+     ],
+     [
+      7,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "HEART",
+    "cells": [
+     [
+      9,
+      4
+     ],
+     [
+      9,
+      5
+     ],
+     [
+      9,
+      6
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "ELMO",
+    "cells": [
+     [
+      3,
+      0
+     ],
+     [
+      4,
+      1
+     ],
+     [
+      5,
+      2
+     ],
+     [
+      6,
+      3
+     ]
+    ]
+   },
+   {
+    "word": "CLIP",
+    "cells": [
+     [
+      5,
+      4
+     ],
+     [
+      6,
+      5
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      8,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "ROAD",
+    "cells": [
+     [
+      2,
+      7
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      4,
+      7
+     ],
+     [
+      5,
+      7
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    3,
+    5,
+    0,
+    0,
+    6,
+    0
+   ],
+   [
+    4,
+    0,
+    0,
+    0,
+    0,
+    2
+   ],
+   [
+    0,
+    3,
+    0,
+    0,
+    0,
+    6
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+   ],
+   [
+    0,
+    0,
+    4,
+    0,
+    0,
+    3
+   ],
+   [
+    0,
+    1,
+    3,
+    5,
+    2,
+    0
+   ]
+  ],
+  "solution": [
+   [
+    3,
+    5,
+    2,
+    4,
+    6,
+    1
+   ],
+   [
+    4,
+    6,
+    1,
+    3,
+    5,
+    2
+   ],
+   [
+    1,
+    3,
+    5,
+    2,
+    4,
+    6
+   ],
+   [
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+   ],
+   [
+    5,
+    2,
+    4,
+    6,
+    1,
+    3
+   ],
+   [
+    6,
+    1,
+    3,
+    5,
+    2,
+    4
+   ]
+  ]
+ }
+}
