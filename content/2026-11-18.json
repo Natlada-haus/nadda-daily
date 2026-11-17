@@ -1,0 +1,524 @@
+{
+ "issue_no": 37,
+ "tagline": "ไทย-สหรัฐฯ ใกล้ปิดดีลการค้า · ตั๋วเชียงใหม่ช่วงลอยกระทงพุ่ง 30,000 บาท · Meta เปิดแอป Direct ทดสอบในไทย",
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Thai-US trade deal near the finish line",
+   "th": "นายกฯ อนุทิน ชาญวีรกูล และประธานาธิบดีทรัมป์ ลงนามแถลงการณ์ร่วมข้างเวทีประชุมอาเซียนที่มะนิลา ประกาศ 'ความคืบหน้าสำคัญ' ของข้อตกลงการค้าต่างตอบแทน (ART) ทรัมป์ระบุว่าไทยจะยกเลิกภาษีสินค้าสหรัฐฯ และซื้อสินค้าเกษตรสหรัฐฯ เพิ่มราว 2.6 พันล้านดอลลาร์ ฝ่ายไทยย้ำว่ายังไม่ใช่การลงนามข้อตกลงฉบับจริง ต้องรับฟังความเห็นประชาชนและผ่านขั้นตอนกฎหมายก่อน",
+   "en": "The formal agreement is expected to be signed soon.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3356460/thaius-trade-deal-near-the-finish-line"
+  },
+  {
+   "title": "Loy Krathong flights to Chiang Mai hit 30,000 baht",
+   "th": "กระทรวงคมนาคมยอมรับว่าตั๋วไป-กลับกรุงเทพฯ-เชียงใหม่ช่วงลอยกระทง 23-25 พ.ย. ผ่านแพลตฟอร์มจองและเอเจนซีพุ่งถึง 28,000-30,000 บาท ลดราคาไม่ทันแล้วเพราะตั๋วอยู่ในมือแพลตฟอร์ม และกฎหมายไทยยังสั่งแพลตฟอร์มต่างชาติไม่ได้ ปกติราคาไม่ควรเกิน 10,000 บาท",
+   "en": "Officials say future fixes need booking platforms to cooperate.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3356419/platforms-cooperation-needed-to-curb-airfare-inflation"
+  },
+  {
+   "title": "Education Ministry pledges to protect students at Nov 20 rally",
+   "th": "รมว.ศึกษาธิการ ประเสริฐ จันทรรวงทอง สั่งสถานศึกษาห้ามลงโทษหรือข่มขู่นักเรียนที่ไปร่วมชุมนุมเรื่องปฏิรูปการศึกษาที่อนุสาวรีย์ประชาธิปไตย 20 พ.ย. การชุมนุมนี้ระดมคนผ่าน TikTok เป็นหลัก และใช้ Discord ราว 2,600 คนในการประสานงาน",
+   "en": "The rally is being organised mainly through TikTok.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3356359/education-ministry-will-protect-rights-of-protesting-students"
+  }
+ ],
+ "world": [
+  {
+   "title": "US strikes Qeshm Island after mines hit ships in Hormuz",
+   "th": "อิหร่านระบุว่ากองทัพสหรัฐฯ โจมตีหลายจุดบนเกาะเกชม์ทางใต้ของอิหร่าน หลังเรืออย่างน้อย 5 ลำเกิดไฟไหม้จากทุ่นระเบิดในช่องแคบฮอร์มุซ",
+   "en": "Tension in the key oil route keeps rising.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/17"
+  },
+  {
+   "title": "Kyiv and Crimean bridges hit as strikes escalate",
+   "th": "รัสเซียโจมตีสะพานเหนือและใต้ข้ามแม่น้ำนีเปอร์ในกรุงเคียฟ ทำให้น้ำและไฟฟ้าดับบางส่วน ขณะที่ยูเครนโจมตีสะพานไครเมียเป็นวันที่สองติดต่อกัน เซเลนสกีบอกว่าเป็นการตอบโต้",
+   "en": "Both sides targeted major bridges.",
+   "source": "Reuters via Devdiscourse",
+   "url": "https://www.devdiscourse.com/article/international/4008327-reuters-world-news-summary"
+  },
+  {
+   "title": "Robert Pattinson to be the new James Bond",
+   "th": "บางกอกโพสต์รายงานว่านักแสดงอังกฤษ โรเบิร์ต แพตทินสัน จะรับบทเจมส์ บอนด์คนใหม่",
+   "en": "A new 007 has been named.",
+   "source": "Bangkok Post (Top Stories, 17 Nov)",
+   "url": "https://www.bangkokpost.com/topstories?id=131503"
+  }
+ ],
+ "social": [
+  {
+   "title": "Meta launches 'Direct', a standalone Instagram chat app, testing in Thailand",
+   "th": "Meta เปิดแอป Direct แอปแชตแยกของ Instagram ทดสอบในไทยและตุรกีบน iOS/Android ใช้ได้ทั้งมีและไม่มีบัญชี IG (ล็อกอินด้วย IG แล้วแชตซิงก์กัน) มีฟีเจอร์วาดในแชต, Notes, สร้างสติกเกอร์เอง, Voice Effects และธีม",
+   "why": "ไทยได้ใช้ก่อนใคร — ลองโหลดมาเล่นวันนี้ แล้วดูว่า DM กับลูกค้า/คอมมูนิตี้ของแบรนด์จะย้ายไปอยู่ในแอปแยกไหม เป็นเรื่องเล่าที่ดีในการคุยกับลูกค้า",
+   "source": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/"
+  },
+  {
+   "title": "Instagram brings 'content protection' against reposts and AI edits",
+   "th": "IG เปิดเครื่องมือ content protection (เดิมมีใน Facebook) สแกนหาคนเอา Reels ของครีเอเตอร์ไปโพสต์ซ้ำ เจ้าของเลือกบล็อก ใส่ป้าย 'original by' ลิงก์กลับต้นฉบับ หรือปล่อยไว้ก็ได้ และจะเริ่มทดสอบตรวจคลิป AI ที่เอาเสียงต้นฉบับไปใช้แม้ภาพถูกแก้",
+   "why": "คลิปแบรนด์ที่ทีมทำเองโดนเพจอื่นก๊อปบ่อย — ถ้าบัญชีลูกค้ามีสิทธิ์ ควรเปิดใช้เพื่อดึงยอดกลับมาที่ต้นฉบับ",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/"
+  },
+  {
+   "title": "TikTok rolls out For You feed refresh to everyone",
+   "th": "TikTok เปิดให้ผู้ใช้ทุกคนรีเซ็ตหน้า For You ได้ เหมือนเพิ่งสมัครใหม่ แล้วระบบจะเรียนรู้จากการใช้งานใหม่ พร้อมพัฒนาระบบลดคอนเทนต์ซ้ำ ๆ",
+   "why": "คนดูบางส่วนจะ 'เริ่มใหม่' — คลิปที่ hook แรงตั้งแต่ 2 วินาทีแรกมีโอกาสเข้าฟีดคนใหม่ ๆ มากขึ้น อย่าพึ่งแค่ฐานคนดูเดิม",
+   "source": "10PM Curfew",
+   "url": "https://10pmcurfew.com/news/tiktok-will-now-enable-you-to-start-over-in-the-app-by-refreshing-your"
+  },
+  {
+   "title": "YouTube view counts now include TV 'co-views'",
+   "th": "ตั้งแต่ พ.ย. 2026 ยอดวิวสาธารณะของ YouTube รวมจำนวนคนที่คาดว่าดูด้วยกันหน้าจอทีวี (ทั้งคลิปยาว Shorts และไลฟ์) ไม่ย้อนหลัง และไม่มีผลกับรายได้หรือเกณฑ์ YPP ใน Studio มีตัวชี้วัดใหม่ 'Co-view rate' ไว้หาร์กลับเป็นวิวปกติ",
+   "why": "ยอดวิวคลิปที่คนดูบนทีวีจะดูสูงขึ้น — เวลาเทียบผลให้ลูกค้าเดือนต่อเดือน ให้ระบุว่านับรวม co-views แล้ว เพื่อไม่ให้ตีความผิด",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count"
+  },
+  {
+   "title": "A student rally organised mainly on TikTok",
+   "th": "การชุมนุมนักเรียน 20 พ.ย. ที่อนุสาวรีย์ประชาธิปไตย ระดมคนผ่าน TikTok เป็นหลัก และใช้ Discord ประสานงาน ตามรายงานของบางกอกโพสต์",
+   "why": "ย้ำว่า TikTok เป็นพื้นที่หลักของคน Gen Z ไทยทั้งเรื่องบันเทิงและเรื่องสังคม — แบรนด์ควรระวังโทนคอนเทนต์ช่วงนี้",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3356359/education-ministry-will-protect-rights-of-protesting-students"
+  }
+ ],
+ "lifestyle": {
+  "title": "Planning a Loy Krathong trip?",
+  "body": "ตั๋วเครื่องบินไปเชียงใหม่ช่วง 23-25 พ.ย. ผ่านแพลตฟอร์มจองบางเจ้าแพงถึงหลักหมื่น ถ้ายังไม่ได้จอง ลองดูทางเลือกอื่น เช่น ลอยกระทงใกล้บ้านในกรุงเทพฯ หรือไปเที่ยวหลังเทศกาลแทน จะได้บรรยากาศหนาวสบายในราคาปกติ",
+  "note": "Based on Bangkok Post, 17 Nov 2026"
+ },
+ "word": {
+  "word": "standalone",
+  "pos": "adj.",
+  "ipa": "/ˈstænd.ə.ləʊn/",
+  "th": "ที่แยกออกมาเป็นอิสระ ใช้ได้ด้วยตัวเอง (เช่น แอปแยก)",
+  "def": "able to work or exist on its own, without being part of something else.",
+  "ex": "Direct is a standalone app for Instagram messages."
+ },
+ "english": {
+  "title": "Telling a client about a new app",
+  "dialogue": [
+   [
+    "Client",
+    "Have you heard about Instagram's new chat app?"
+   ],
+   [
+    "Nadda",
+    "Yes! It's called Direct. It's a standalone app, and Thailand is one of the first test markets."
+   ],
+   [
+    "Client",
+    "Does that change anything for us?"
+   ],
+   [
+    "Nadda",
+    "Not right away. But if people start chatting there, our DMs might move too."
+   ],
+   [
+    "Client",
+    "Should we do something now?"
+   ],
+   [
+    "Nadda",
+    "Let's keep an eye on it. I'll try the app this week and share what I find."
+   ],
+   [
+    "Client",
+    "Great, thanks for the heads-up."
+   ],
+   [
+    "Nadda",
+    "Anytime. I'll send you a short note on Friday."
+   ]
+  ],
+  "vocab": [
+   [
+    "standalone app",
+    "แอปแยกที่ใช้ได้เอง"
+   ],
+   [
+    "test market",
+    "ตลาดทดลอง"
+   ],
+   [
+    "right away",
+    "ทันที"
+   ],
+   [
+    "keep an eye on",
+    "จับตาดู"
+   ],
+   [
+    "heads-up",
+    "การบอกให้รู้ล่วงหน้า"
+   ],
+   [
+    "share what I find",
+    "เล่าสิ่งที่เจอ"
+   ]
+  ],
+  "tip": {
+   "instead": "There is new app. We must use it now.",
+   "better": "There's a new app. Let's keep an eye on it and test it this week.",
+   "why": "อย่ารีบให้ลูกค้าตกใจ บอกข่าวพร้อมแผนเล็ก ๆ ที่ทำได้จริง ฟังดูมืออาชีพและใจเย็นกว่า"
+  }
+ },
+ "know": [
+  {
+   "title": "What is a 'co-view'?",
+   "body": "Co-view คือการนับว่ามีคนดูคลิปเดียวกันพร้อมกันกี่คนหน้าจอเดียว เช่น ครอบครัวนั่งดู YouTube บนทีวี 3 คน วงการทีวีใช้วิธีประมาณแบบนี้มานาน ตอนนี้ YouTube เอามานับรวมในยอดวิวด้วย โดยใช้โมเดลสถิติ ไม่ได้ใช้กล้องหรือไมค์"
+  },
+  {
+   "title": "Why is Loy Krathong in Chiang Mai so busy?",
+   "body": "เชียงใหม่จัดเทศกาลยี่เป็งพร้อมลอยกระทง มีโคมลอยและโคมไฟประดับทั้งเมือง นักท่องเที่ยวไทยและต่างชาติจึงแห่ไปพร้อมกัน ปีนี้เที่ยวบินยังถูกลดลงเพื่อความปลอดภัยจากโคมลอย ตั๋วจึงหายากเป็นพิเศษ"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1928",
+   "text": "Walt Disney's 'Steamboat Willie' premiered in New York, often called Mickey Mouse's birthday."
+  },
+  {
+   "year": "1963",
+   "text": "The first push-button telephones went into service in the United States."
+  }
+ ],
+ "three_things": [
+  "Download Instagram's new Direct app and send one doodle in a chat",
+  "Check if any client page is eligible for Instagram content protection",
+  "Say 'Thanks for the heads-up' once today in English"
+ ],
+ "date": "2026-11-18",
+ "weather": {
+  "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
+ },
+ "wordsearch": {
+  "grid": [
+   "IRVIEWSVCC",
+   "RHVVIKTHUF",
+   "DEJFULHVJL",
+   "BIEOGLLDYI",
+   "RSRLNDVERG",
+   "MLFEWRKCEH",
+   "BONDCCCNLT",
+   "TWOYITHCTU",
+   "PFMMVYAKKS",
+   "LDILANTERN"
+  ],
+  "words": [
+   {
+    "word": "LANTERN",
+    "cells": [
+     [
+      9,
+      3
+     ],
+     [
+      9,
+      4
+     ],
+     [
+      9,
+      5
+     ],
+     [
+      9,
+      6
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      8
+     ],
+     [
+      9,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "DIRECT",
+    "cells": [
+     [
+      2,
+      0
+     ],
+     [
+      3,
+      1
+     ],
+     [
+      4,
+      2
+     ],
+     [
+      5,
+      3
+     ],
+     [
+      6,
+      4
+     ],
+     [
+      7,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "FLIGHT",
+    "cells": [
+     [
+      1,
+      9
+     ],
+     [
+      2,
+      9
+     ],
+     [
+      3,
+      9
+     ],
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      6,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "MICKEY",
+    "cells": [
+     [
+      8,
+      3
+     ],
+     [
+      7,
+      4
+     ],
+     [
+      6,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      4,
+      7
+     ],
+     [
+      3,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "VIEWS",
+    "cells": [
+     [
+      0,
+      2
+     ],
+     [
+      0,
+      3
+     ],
+     [
+      0,
+      4
+     ],
+     [
+      0,
+      5
+     ],
+     [
+      0,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "CHAT",
+    "cells": [
+     [
+      6,
+      6
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      9,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "REEL",
+    "cells": [
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      1
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      4,
+      3
+     ]
+    ]
+   },
+   {
+    "word": "BOND",
+    "cells": [
+     [
+      6,
+      0
+     ],
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      6,
+      3
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    0,
+    0,
+    0,
+    6,
+    0,
+    3
+   ],
+   [
+    0,
+    0,
+    3,
+    0,
+    0,
+    0
+   ],
+   [
+    4,
+    3,
+    2,
+    5,
+    0,
+    0
+   ],
+   [
+    5,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    2,
+    5,
+    1,
+    6,
+    0
+   ],
+   [
+    0,
+    6,
+    0,
+    3,
+    2,
+    0
+   ]
+  ],
+  "solution": [
+   [
+    2,
+    5,
+    1,
+    6,
+    4,
+    3
+   ],
+   [
+    6,
+    4,
+    3,
+    2,
+    5,
+    1
+   ],
+   [
+    4,
+    3,
+    2,
+    5,
+    1,
+    6
+   ],
+   [
+    5,
+    1,
+    6,
+    4,
+    3,
+    2
+   ],
+   [
+    3,
+    2,
+    5,
+    1,
+    6,
+    4
+   ],
+   [
+    1,
+    6,
+    4,
+    3,
+    2,
+    5
+   ]
+  ]
+ }
+}

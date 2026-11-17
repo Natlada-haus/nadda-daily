@@ -1,326 +1,377 @@
 {
- "issue_no": 36,
- "tagline": "ไฟไหม้ตึกแถวป่าตอง 11 ศพ · เรือน้ำมันชนทุ่นระเบิดที่ช่องแคบฮอร์มุซ · IG ให้ใส่ลิงก์ Amazon ใน Reels ได้ 30 ชิ้น",
+ "issue_no": 37,
+ "tagline": "ไทย-สหรัฐฯ ใกล้ปิดดีลการค้า · ตั๋วเชียงใหม่ช่วงลอยกระทงพุ่ง 30,000 บาท · Meta เปิดแอป Direct ทดสอบในไทย",
  "thailand": [
   {
    "lead": true,
-   "title": "Patong shophouse fire leaves 11 dead",
-   "th": "เพลิงไหม้ตึกแถวติดกัน 5 คูหาที่ป่าตอง อ.กะทู้ จ.ภูเก็ต เมื่อเช้ามืดวันจันทร์ มีผู้เสียชีวิต 11 ราย บาดเจ็บ 16 ราย คาดว่าเริ่มจากหม้อแปลงไฟฟ้าระเบิด แล้วไฟลามไปยังร้านเช่ามอเตอร์ไซค์",
-   "en": "The fire apparently started after an electrical transformer exploded.",
-   "source": "Bangkok Post (17 Nov print edition)",
-   "url": "https://www.magzter.com/TH/Bangkok-Post-Plc/Bangkok-Post/Newspaper/2591902"
+   "title": "Thai-US trade deal near the finish line",
+   "th": "นายกฯ อนุทิน ชาญวีรกูล และประธานาธิบดีทรัมป์ ลงนามแถลงการณ์ร่วมข้างเวทีประชุมอาเซียนที่มะนิลา ประกาศ 'ความคืบหน้าสำคัญ' ของข้อตกลงการค้าต่างตอบแทน (ART) ทรัมป์ระบุว่าไทยจะยกเลิกภาษีสินค้าสหรัฐฯ และซื้อสินค้าเกษตรสหรัฐฯ เพิ่มราว 2.6 พันล้านดอลลาร์ ฝ่ายไทยย้ำว่ายังไม่ใช่การลงนามข้อตกลงฉบับจริง ต้องรับฟังความเห็นประชาชนและผ่านขั้นตอนกฎหมายก่อน",
+   "en": "The formal agreement is expected to be signed soon.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3356460/thaius-trade-deal-near-the-finish-line"
   },
   {
-   "title": "Thaksin loses bid to halt seizure of 17bn baht in assets",
-   "th": "ศาลภาษีอากรกลางยกคำร้องของทักษิณ ชินวัตร ที่ขอให้ระงับการยึดและอายัดทรัพย์สิน 17,000 ล้านบาทของกรมสรรพากร เพื่อเรียกเก็บภาษีที่ค้างชำระ",
-   "en": "The court rejected the bid on Monday.",
+   "title": "Loy Krathong flights to Chiang Mai hit 30,000 baht",
+   "th": "กระทรวงคมนาคมยอมรับว่าตั๋วไป-กลับกรุงเทพฯ-เชียงใหม่ช่วงลอยกระทง 23-25 พ.ย. ผ่านแพลตฟอร์มจองและเอเจนซีพุ่งถึง 28,000-30,000 บาท ลดราคาไม่ทันแล้วเพราะตั๋วอยู่ในมือแพลตฟอร์ม และกฎหมายไทยยังสั่งแพลตฟอร์มต่างชาติไม่ได้ ปกติราคาไม่ควรเกิน 10,000 บาท",
+   "en": "Officials say future fixes need booking platforms to cooperate.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3355864/thaksin-loses-bid-to-halt-seizure-of-assets"
+   "url": "https://www.bangkokpost.com/thailand/general/3356419/platforms-cooperation-needed-to-curb-airfare-inflation"
   },
   {
-   "title": "Govt denies approving imports of China e-waste",
-   "th": "รัฐบาลปฏิเสธข่าวว่าไทยตกลงนำเข้าขยะอิเล็กทรอนิกส์จากจีนมากำจัด ระบุว่าโครงการที่ ครม. อนุมัติเป็นความร่วมมือด้านเทคโนโลยีรีไซเคิลและการอบรมเท่านั้น ภายใต้กองทุนพิเศษแม่โขง-ล้านช้าง",
-   "en": "The project covers recycling technology and training only.",
+   "title": "Education Ministry pledges to protect students at Nov 20 rally",
+   "th": "รมว.ศึกษาธิการ ประเสริฐ จันทรรวงทอง สั่งสถานศึกษาห้ามลงโทษหรือข่มขู่นักเรียนที่ไปร่วมชุมนุมเรื่องปฏิรูปการศึกษาที่อนุสาวรีย์ประชาธิปไตย 20 พ.ย. การชุมนุมนี้ระดมคนผ่าน TikTok เป็นหลัก และใช้ Discord ราว 2,600 คนในการประสานงาน",
+   "en": "The rally is being organised mainly through TikTok.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3355904/govt-denies-approving-imports-of-china-ewaste"
+   "url": "https://www.bangkokpost.com/thailand/general/3356359/education-ministry-will-protect-rights-of-protesting-students"
   }
  ],
  "world": [
   {
-   "title": "Tankers hit mines and catch fire in the Strait of Hormuz",
-   "th": "หน่วยพิทักษ์การปฏิวัติอิสลามของอิหร่าน (IRGC) แถลงผ่านสื่อรัฐว่าเรือบรรทุกน้ำมัน 2 ลำชนทุ่นระเบิดและเกิดไฟไหม้ขณะพยายามผ่านช่องแคบฮอร์มุซ และรวมแล้วมีเรือ 6 ลำเกิดไฟไหม้ในเหตุคล้ายกันภายในสองวัน",
-   "en": "Hormuz is one of the world's most important oil routes.",
-   "source": "The Indian Express",
-   "url": "https://indianexpress.com/article/world/world-news-today-live-updates-tankers-catch-fire-strait-of-hormuz-iran-us-donald-trump-benjamin-netanyahu-saudi-arabia-jensen-huang-nvidia-10964913/"
+   "title": "US strikes Qeshm Island after mines hit ships in Hormuz",
+   "th": "อิหร่านระบุว่ากองทัพสหรัฐฯ โจมตีหลายจุดบนเกาะเกชม์ทางใต้ของอิหร่าน หลังเรืออย่างน้อย 5 ลำเกิดไฟไหม้จากทุ่นระเบิดในช่องแคบฮอร์มุซ",
+   "en": "Tension in the key oil route keeps rising.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/17"
   },
   {
-   "title": "Xi, Trump and Putin to hold first three-way summit on 19 Nov",
-   "th": "กระทรวงการต่างประเทศจีนยืนยันว่า สี จิ้นผิง จะประชุมสุดยอดสามฝ่ายครั้งแรกกับโดนัลด์ ทรัมป์ และวลาดิมีร์ ปูติน ที่เซินเจิ้น วันที่ 19 พ.ย.",
-   "en": "It will be the leaders' first trilateral summit.",
-   "source": "The Indian Express",
-   "url": "https://indianexpress.com/article/world/world-news-today-live-updates-tankers-catch-fire-strait-of-hormuz-iran-us-donald-trump-benjamin-netanyahu-saudi-arabia-jensen-huang-nvidia-10964913/"
+   "title": "Kyiv and Crimean bridges hit as strikes escalate",
+   "th": "รัสเซียโจมตีสะพานเหนือและใต้ข้ามแม่น้ำนีเปอร์ในกรุงเคียฟ ทำให้น้ำและไฟฟ้าดับบางส่วน ขณะที่ยูเครนโจมตีสะพานไครเมียเป็นวันที่สองติดต่อกัน เซเลนสกีบอกว่าเป็นการตอบโต้",
+   "en": "Both sides targeted major bridges.",
+   "source": "Reuters via Devdiscourse",
+   "url": "https://www.devdiscourse.com/article/international/4008327-reuters-world-news-summary"
   },
   {
-   "title": "49th ASEAN Summit opens in Manila with a new emblem",
-   "th": "การประชุมสุดยอดอาเซียนครั้งที่ 49 เปิดที่มะนิลา ฟิลิปปินส์ หารือเรื่องความมั่นคงด้านพลังงานและอาหาร พร้อมเปิดตัวตราสัญลักษณ์อาเซียนใหม่ เพราะติมอร์-เลสเตเข้าเป็นสมาชิกแล้ว",
-   "en": "Timor-Leste has joined the bloc, so the emblem was updated.",
-   "source": "Xinhua",
-   "url": "https://english.news.cn/20261116/00055113636b428fb787c33ef0bb7cc5/c.html"
-  },
-  {
-   "title": "England end Spain's 44-match unbeaten run",
-   "th": "อังกฤษบุกชนะแชมป์โลกสเปน 3-2 ที่มาดริด คว้าที่ 1 กลุ่ม A3 เนชั่นส์ลีก จากประตูของแฮร์รี เคน, เอซรี คอนซา และเบน ไวท์ เป็นการแพ้นัดทางการครั้งแรกของสเปนตั้งแต่มี.ค. 2023",
-   "en": "Spain had gone 44 competitive games without defeat.",
-   "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-16-2026"
+   "title": "Robert Pattinson to be the new James Bond",
+   "th": "บางกอกโพสต์รายงานว่านักแสดงอังกฤษ โรเบิร์ต แพตทินสัน จะรับบทเจมส์ บอนด์คนใหม่",
+   "en": "A new 007 has been named.",
+   "source": "Bangkok Post (Top Stories, 17 Nov)",
+   "url": "https://www.bangkokpost.com/topstories?id=131503"
   }
  ],
  "social": [
   {
-   "title": "Instagram adds Amazon affiliate links in Reels and feed posts",
-   "th": "ครีเอเตอร์ที่มีสิทธิ์เชื่อมบัญชี IG กับ Amazon Influencer ได้ใน Professional Dashboard แล้วแท็กสินค้าได้สูงสุด 30 ชิ้นต่อ Reel หรือ 20 ชิ้นต่อโพสต์ IG ใส่ลิงก์ affiliate ให้อัตโนมัติ ไม่หักค่าคอมมิชชัน",
-   "why": "IG เดินหน้าเป็นช่องขายของเต็มตัว — ถ้าลูกค้าทำงานกับครีเอเตอร์ ควรคิดคอนเทนต์ที่ 'กดซื้อได้' จากในโพสต์เลย (ตอนนี้เป็น Amazon ยังไม่มีในไทย)",
+   "title": "Meta launches 'Direct', a standalone Instagram chat app, testing in Thailand",
+   "th": "Meta เปิดแอป Direct แอปแชตแยกของ Instagram ทดสอบในไทยและตุรกีบน iOS/Android ใช้ได้ทั้งมีและไม่มีบัญชี IG (ล็อกอินด้วย IG แล้วแชตซิงก์กัน) มีฟีเจอร์วาดในแชต, Notes, สร้างสติกเกอร์เอง, Voice Effects และธีม",
+   "why": "ไทยได้ใช้ก่อนใคร — ลองโหลดมาเล่นวันนี้ แล้วดูว่า DM กับลูกค้า/คอมมูนิตี้ของแบรนด์จะย้ายไปอยู่ในแอปแยกไหม เป็นเรื่องเล่าที่ดีในการคุยกับลูกค้า",
+   "source": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/"
+  },
+  {
+   "title": "Instagram brings 'content protection' against reposts and AI edits",
+   "th": "IG เปิดเครื่องมือ content protection (เดิมมีใน Facebook) สแกนหาคนเอา Reels ของครีเอเตอร์ไปโพสต์ซ้ำ เจ้าของเลือกบล็อก ใส่ป้าย 'original by' ลิงก์กลับต้นฉบับ หรือปล่อยไว้ก็ได้ และจะเริ่มทดสอบตรวจคลิป AI ที่เอาเสียงต้นฉบับไปใช้แม้ภาพถูกแก้",
+   "why": "คลิปแบรนด์ที่ทีมทำเองโดนเพจอื่นก๊อปบ่อย — ถ้าบัญชีลูกค้ามีสิทธิ์ ควรเปิดใช้เพื่อดึงยอดกลับมาที่ต้นฉบับ",
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
+   "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/"
   },
   {
-   "title": "TikTok tests 'Shop Plus' shopping subscription",
-   "th": "TikTok ทดสอบ TikTok Shop Plus กับผู้ใช้บางคนในสหรัฐฯ ทดลองฟรี 30 วัน แล้วเดือนละ 9.99 ดอลลาร์ ได้ส่วนลดพิเศษ ชุดคูปอง ส่งฟรีมากขึ้น และคืนเงินไว",
-   "why": "สัญญาณว่า TikTok Shop จะเน้นลูกค้าซื้อซ้ำแบบสมาชิก — ถ้ามาถึงไทย แคมเปญโปรโมชันบน TikTok Shop จะต้องคิดถึงกลุ่มสมาชิกด้วย",
-   "source": "We Are Social",
-   "url": "https://wearesocial.com/us/blog/2026/11/we-are-socials-monday-mashup-800/"
+   "title": "TikTok rolls out For You feed refresh to everyone",
+   "th": "TikTok เปิดให้ผู้ใช้ทุกคนรีเซ็ตหน้า For You ได้ เหมือนเพิ่งสมัครใหม่ แล้วระบบจะเรียนรู้จากการใช้งานใหม่ พร้อมพัฒนาระบบลดคอนเทนต์ซ้ำ ๆ",
+   "why": "คนดูบางส่วนจะ 'เริ่มใหม่' — คลิปที่ hook แรงตั้งแต่ 2 วินาทีแรกมีโอกาสเข้าฟีดคนใหม่ ๆ มากขึ้น อย่าพึ่งแค่ฐานคนดูเดิม",
+   "source": "10PM Curfew",
+   "url": "https://10pmcurfew.com/news/tiktok-will-now-enable-you-to-start-over-in-the-app-by-refreshing-your"
   },
   {
-   "title": "TikTok Symphony AI now makes 30-second ad videos",
-   "th": "TikTok อัปเกรด Symphony ชุดเครื่องมือ AI ทำโฆษณา ใช้โมเดล Dreamina Seedance 2.5 สร้างวิดีโอได้ยาว 30 วินาที (เดิมครึ่งเดียว) ใส่ภาพ/วิดีโอ/เสียงอ้างอิงได้ถึง 50 ชิ้น จากเดิม 9 ชิ้น",
-   "why": "แบรนด์ทำวิดีโอโฆษณาเวอร์ชันเยอะ ๆ ได้ถูกลง — งานของเราจะเป็นการคุมไอเดียและความคงที่ของแบรนด์ มากกว่าการผลิตทีละชิ้น",
-   "source": "JCK",
-   "url": "https://www.jckonline.com/editorial-article/social-media-updates-nov-26/"
+   "title": "YouTube view counts now include TV 'co-views'",
+   "th": "ตั้งแต่ พ.ย. 2026 ยอดวิวสาธารณะของ YouTube รวมจำนวนคนที่คาดว่าดูด้วยกันหน้าจอทีวี (ทั้งคลิปยาว Shorts และไลฟ์) ไม่ย้อนหลัง และไม่มีผลกับรายได้หรือเกณฑ์ YPP ใน Studio มีตัวชี้วัดใหม่ 'Co-view rate' ไว้หาร์กลับเป็นวิวปกติ",
+   "why": "ยอดวิวคลิปที่คนดูบนทีวีจะดูสูงขึ้น — เวลาเทียบผลให้ลูกค้าเดือนต่อเดือน ให้ระบุว่านับรวม co-views แล้ว เพื่อไม่ให้ตีความผิด",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count"
   },
   {
-   "title": "YouTube Studio can now cut long videos into Shorts",
-   "th": "เครื่องมือ Clips ใน YouTube Studio ทำ Shorts จากวิดีโอยาวได้แล้ว แปลงภาพ 16:9 เป็นแนวตั้ง ใส่ซับอัตโนมัติ มี AI เสนอช่วงที่ดูแยกได้ และ Short จะมีลิงก์กลับไปวิดีโอเต็ม",
-   "why": "ไลฟ์หรือคลิปยาวของลูกค้าตัดเป็น Shorts ได้ในที่เดียว และพาคนกลับไปดูตัวเต็ม — คุ้มกว่าทำ Shorts ใหม่ทุกครั้ง",
-   "source": "Search Engine Journal",
-   "url": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/"
-  },
-  {
-   "title": "YouTube Analytics becomes 'Insights', Trends becomes 'Research'",
-   "th": "หน้า Analytics บนเดสก์ท็อปเปลี่ยนเป็น Insights ที่สรุปผลเป็นประโยคอ่านง่าย แท็บ Trends กลายเป็น Research ที่ชี้คลิป 'outlier' (เช่น 5x = วิวเป็น 5 เท่าของคลิปปกติของช่อง) และ Ask Studio มาในแอปมือถือ แนบรูปได้ 10 รูป",
-   "why": "ใช้หาไอเดียจากคลิปที่ปังเกินปกติของช่องคู่แข่งได้เร็วขึ้น และสรุปผลให้ลูกค้าเป็นภาษาคนได้ง่ายขึ้น",
-   "source": "Relevant Audience",
-   "url": "https://www.relevantaudience.com/youtube/youtube-studio-insights-research-ask-studio-mobile/"
+   "title": "A student rally organised mainly on TikTok",
+   "th": "การชุมนุมนักเรียน 20 พ.ย. ที่อนุสาวรีย์ประชาธิปไตย ระดมคนผ่าน TikTok เป็นหลัก และใช้ Discord ประสานงาน ตามรายงานของบางกอกโพสต์",
+   "why": "ย้ำว่า TikTok เป็นพื้นที่หลักของคน Gen Z ไทยทั้งเรื่องบันเทิงและเรื่องสังคม — แบรนด์ควรระวังโทนคอนเทนต์ช่วงนี้",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3356359/education-ministry-will-protect-rights-of-protesting-students"
   }
  ],
  "lifestyle": {
-  "title": "Bangkok's public bike-share keeps rolling",
-  "body": "กทม. เดินหน้าโครงการจักรยานสาธารณะให้เช่าปั่นต่อ และจะทำงานร่วมกับตำรวจบังคับใช้กฎจราจร เพื่อให้การปั่นไม่กระทบความปลอดภัยบนถนน ช่วงนี้อากาศเริ่มเย็นลง ถ้าจะลองปั่นระยะสั้นแถวบ้าน อย่าลืมหมวกกันน็อกและปั่นชิดซ้ายนะ",
+  "title": "Planning a Loy Krathong trip?",
+  "body": "ตั๋วเครื่องบินไปเชียงใหม่ช่วง 23-25 พ.ย. ผ่านแพลตฟอร์มจองบางเจ้าแพงถึงหลักหมื่น ถ้ายังไม่ได้จอง ลองดูทางเลือกอื่น เช่น ลอยกระทงใกล้บ้านในกรุงเทพฯ หรือไปเที่ยวหลังเทศกาลแทน จะได้บรรยากาศหนาวสบายในราคาปกติ",
   "note": "Based on Bangkok Post, 17 Nov 2026"
  },
  "word": {
-  "word": "outlier",
-  "pos": "n.",
-  "ipa": "/ˈaʊtˌlaɪ.ər/",
-  "th": "สิ่งที่โดดเด่นหรือต่างจากกลุ่มมาก ค่าผิดปกติ (เช่น โพสต์ที่ปังกว่าปกติมาก)",
-  "def": "a person or thing that is very different from the rest of its group.",
-  "ex": "This reel was an outlier: it got five times our usual views."
+  "word": "standalone",
+  "pos": "adj.",
+  "ipa": "/ˈstænd.ə.ləʊn/",
+  "th": "ที่แยกออกมาเป็นอิสระ ใช้ได้ด้วยตัวเอง (เช่น แอปแยก)",
+  "def": "able to work or exist on its own, without being part of something else.",
+  "ex": "Direct is a standalone app for Instagram messages."
  },
  "english": {
-  "title": "Explaining an 'outlier' post to a client",
+  "title": "Telling a client about a new app",
   "dialogue": [
    [
     "Client",
-    "Wow, last week's reel got a lot of views. Can we do that every week?"
+    "Have you heard about Instagram's new chat app?"
    ],
    [
     "Nadda",
-    "I'd love to! But honestly, that reel was an outlier. It got about five times our usual views."
+    "Yes! It's called Direct. It's a standalone app, and Thailand is one of the first test markets."
    ],
    [
     "Client",
-    "So what made it different?"
+    "Does that change anything for us?"
    ],
    [
     "Nadda",
-    "The hook was strong in the first two seconds, and people shared it a lot."
+    "Not right away. But if people start chatting there, our DMs might move too."
    ],
    [
     "Client",
-    "Can we copy that?"
+    "Should we do something now?"
    ],
    [
     "Nadda",
-    "We can reuse the format, not copy it. I'll test two new versions this week and compare the results."
+    "Let's keep an eye on it. I'll try the app this week and share what I find."
    ],
    [
     "Client",
-    "Sounds good. Keep me posted."
+    "Great, thanks for the heads-up."
    ],
    [
     "Nadda",
-    "Will do. I'll send a short summary on Friday."
+    "Anytime. I'll send you a short note on Friday."
    ]
   ],
   "vocab": [
    [
-    "outlier",
-    "ค่าที่โดดเด่นผิดปกติ"
+    "standalone app",
+    "แอปแยกที่ใช้ได้เอง"
    ],
    [
-    "hook",
-    "ช่วงเปิดที่ดึงคนให้ดูต่อ"
+    "test market",
+    "ตลาดทดลอง"
    ],
    [
-    "reuse the format",
-    "ใช้รูปแบบเดิมซ้ำ"
+    "right away",
+    "ทันที"
    ],
    [
-    "test",
-    "ลองทำเพื่อวัดผล"
+    "keep an eye on",
+    "จับตาดู"
    ],
    [
-    "compare the results",
-    "เทียบผลลัพธ์"
+    "heads-up",
+    "การบอกให้รู้ล่วงหน้า"
    ],
    [
-    "keep me posted",
-    "อัปเดตให้รู้เรื่อย ๆ"
+    "share what I find",
+    "เล่าสิ่งที่เจอ"
    ]
   ],
   "tip": {
-   "instead": "That reel was lucky, we can't do it again.",
-   "better": "That reel was an outlier. We can reuse its format and test two versions this week.",
-   "why": "อย่าบอกว่าโชคดีอย่างเดียว ให้อธิบายว่าทำไมมันปัง แล้วเสนอแผนลองต่อ ลูกค้าจะเชื่อมั่นกว่า"
+   "instead": "There is new app. We must use it now.",
+   "better": "There's a new app. Let's keep an eye on it and test it this week.",
+   "why": "อย่ารีบให้ลูกค้าตกใจ บอกข่าวพร้อมแผนเล็ก ๆ ที่ทำได้จริง ฟังดูมืออาชีพและใจเย็นกว่า"
   }
  },
  "know": [
   {
-   "title": "Why does the world watch the Strait of Hormuz?",
-   "body": "ช่องแคบฮอร์มุซเป็นทางน้ำแคบ ๆ ระหว่างอิหร่านกับโอมาน เชื่อมอ่าวเปอร์เซียออกสู่ทะเล เรือบรรทุกน้ำมันจากประเทศในอ่าวต้องผ่านที่นี่ เมื่อมีเหตุเรือชนทุ่นระเบิดหรือการเดินเรือติดขัด ราคาน้ำมันและค่าขนส่งทั่วโลกจึงมักได้รับผลกระทบตามมา"
+   "title": "What is a 'co-view'?",
+   "body": "Co-view คือการนับว่ามีคนดูคลิปเดียวกันพร้อมกันกี่คนหน้าจอเดียว เช่น ครอบครัวนั่งดู YouTube บนทีวี 3 คน วงการทีวีใช้วิธีประมาณแบบนี้มานาน ตอนนี้ YouTube เอามานับรวมในยอดวิวด้วย โดยใช้โมเดลสถิติ ไม่ได้ใช้กล้องหรือไมค์"
   },
   {
-   "title": "What is an affiliate link?",
-   "body": "ลิงก์ affiliate คือลิงก์สินค้าที่มีรหัสของคนแนะนำ ถ้าคนกดลิงก์แล้วซื้อ คนแนะนำ (เช่น ครีเอเตอร์) จะได้ค่าคอมมิชชันจากร้าน ในไทยเห็นบ่อยในรูปแบบ Shopee Affiliate หรือตะกร้าใน TikTok Shop ส่วน IG เพิ่งเปิดให้ใส่ลิงก์ Amazon ใน Reels ได้"
+   "title": "Why is Loy Krathong in Chiang Mai so busy?",
+   "body": "เชียงใหม่จัดเทศกาลยี่เป็งพร้อมลอยกระทง มีโคมลอยและโคมไฟประดับทั้งเมือง นักท่องเที่ยวไทยและต่างชาติจึงแห่ไปพร้อมกัน ปีนี้เที่ยวบินยังถูกลดลงเพื่อความปลอดภัยจากโคมลอย ตั๋วจึงหายากเป็นพิเศษ"
   }
  ],
  "on_this_day": [
   {
-   "year": "1869",
-   "text": "The Suez Canal opened, linking the Mediterranean Sea and the Red Sea."
+   "year": "1928",
+   "text": "Walt Disney's 'Steamboat Willie' premiered in New York, often called Mickey Mouse's birthday."
   },
   {
-   "year": "1970",
-   "text": "The Soviet rover Lunokhod 1 landed on the Moon, the first robotic rover on another world."
+   "year": "1963",
+   "text": "The first push-button telephones went into service in the United States."
   }
  ],
  "three_things": [
-  "Open YouTube Studio's new Research tab and note one 'outlier' video idea from a channel you follow",
-  "Look at your best post this month and write one line on why it was an outlier",
-  "Practise saying 'That was an outlier, so we'll test two versions' out loud before your next client call"
+  "Download Instagram's new Direct app and send one doodle in a chat",
+  "Check if any client page is eligible for Instagram content protection",
+  "Say 'Thanks for the heads-up' once today in English"
  ],
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "weather": {
   "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
  },
  "wordsearch": {
   "grid": [
-   "NLPUDWSDIK",
-   "MIKDIHEPOV",
-   "DNEBOIMOEN",
-   "VKOTSBHKWG",
-   "VNOUTLIERM",
-   "DKGEGBPOLO",
-   "ECYREELMGO",
-   "CGWUEEOELN",
-   "SHORTSCHUE",
-   "UCANALGBEP"
+   "IRVIEWSVCC",
+   "RHVVIKTHUF",
+   "DEJFULHVJL",
+   "BIEOGLLDYI",
+   "RSRLNDVERG",
+   "MLFEWRKCEH",
+   "BONDCCCNLT",
+   "TWOYITHCTU",
+   "PFMMVYAKKS",
+   "LDILANTERN"
   ],
   "words": [
    {
-    "word": "OUTLIER",
+    "word": "LANTERN",
     "cells": [
      [
-      4,
-      2
-     ],
-     [
-      4,
+      9,
       3
      ],
      [
-      4,
+      9,
       4
      ],
      [
-      4,
+      9,
       5
      ],
      [
-      4,
+      9,
       6
      ],
      [
-      4,
+      9,
       7
      ],
      [
-      4,
+      9,
       8
+     ],
+     [
+      9,
+      9
      ]
     ]
    },
    {
-    "word": "SHORTS",
+    "word": "DIRECT",
     "cells": [
      [
-      8,
+      2,
       0
      ],
      [
-      8,
-      1
-     ],
-     [
-      8,
-      2
-     ],
-     [
-      8,
-      3
-     ],
-     [
-      8,
-      4
-     ],
-     [
-      8,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "CANAL",
-    "cells": [
-     [
-      9,
-      1
-     ],
-     [
-      9,
-      2
-     ],
-     [
-      9,
-      3
-     ],
-     [
-      9,
-      4
-     ],
-     [
-      9,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "HOOK",
-    "cells": [
-     [
       3,
-      6
+      1
+     ],
+     [
+      4,
+      2
+     ],
+     [
+      5,
+      3
+     ],
+     [
+      6,
+      4
+     ],
+     [
+      7,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "FLIGHT",
+    "cells": [
+     [
+      1,
+      9
      ],
      [
       2,
+      9
+     ],
+     [
+      3,
+      9
+     ],
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      6,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "MICKEY",
+    "cells": [
+     [
+      8,
+      3
+     ],
+     [
+      7,
+      4
+     ],
+     [
+      6,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      4,
       7
      ],
      [
-      1,
+      3,
       8
+     ]
+    ]
+   },
+   {
+    "word": "VIEWS",
+    "cells": [
+     [
+      0,
+      2
      ],
      [
       0,
-      9
+      3
+     ],
+     [
+      0,
+      4
+     ],
+     [
+      0,
+      5
+     ],
+     [
+      0,
+      6
+     ]
+    ]
+   },
+   {
+    "word": "CHAT",
+    "cells": [
+     [
+      6,
+      6
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      9,
+      6
      ]
     ]
    },
@@ -328,83 +379,41 @@
     "word": "REEL",
     "cells": [
      [
+      1,
+      0
+     ],
+     [
+      2,
+      1
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      4,
+      3
+     ]
+    ]
+   },
+   {
+    "word": "BOND",
+    "cells": [
+     [
+      6,
+      0
+     ],
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
       6,
       3
-     ],
-     [
-      6,
-      4
-     ],
-     [
-      6,
-      5
-     ],
-     [
-      6,
-      6
-     ]
-    ]
-   },
-   {
-    "word": "MOON",
-    "cells": [
-     [
-      4,
-      9
-     ],
-     [
-      5,
-      9
-     ],
-     [
-      6,
-      9
-     ],
-     [
-      7,
-      9
-     ]
-    ]
-   },
-   {
-    "word": "BIKE",
-    "cells": [
-     [
-      5,
-      5
-     ],
-     [
-      4,
-      6
-     ],
-     [
-      3,
-      7
-     ],
-     [
-      2,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "LINK",
-    "cells": [
-     [
-      0,
-      1
-     ],
-     [
-      1,
-      1
-     ],
-     [
-      2,
-      1
-     ],
-     [
-      3,
-      1
      ]
     ]
    }
@@ -413,102 +422,102 @@
  "sudoku": {
   "puzzle": [
    [
+    0,
+    0,
+    0,
     6,
     0,
-    0,
-    0,
-    0,
-    5
+    3
    ],
    [
-    2,
-    4,
-    5,
-    6,
     0,
-    0
-   ],
-   [
     0,
     3,
-    2,
+    0,
+    0,
+    0
+   ],
+   [
     4,
-    5,
-    0
-   ],
-   [
-    0,
-    5,
-    0,
-    1,
-    0,
-    0
-   ],
-   [
     3,
     2,
-    4,
+    5,
     0,
-    6,
     0
    ],
    [
     5,
-    0,
     1,
     0,
     0,
+    0,
+    0
+   ],
+   [
+    0,
+    2,
+    5,
+    1,
+    6,
+    0
+   ],
+   [
+    0,
+    6,
+    0,
+    3,
+    2,
     0
    ]
   ],
   "solution": [
    [
-    6,
-    1,
-    3,
     2,
-    4,
-    5
-   ],
-   [
-    2,
-    4,
     5,
-    6,
     1,
+    6,
+    4,
     3
    ],
    [
-    1,
+    6,
+    4,
     3,
     2,
-    4,
     5,
-    6
+    1
    ],
    [
     4,
+    3,
+    2,
     5,
-    6,
     1,
+    6
+   ],
+   [
+    5,
+    1,
+    6,
+    4,
     3,
     2
    ],
    [
     3,
     2,
-    4,
     5,
+    1,
     6,
-    1
+    4
    ],
    [
-    5,
-    6,
     1,
+    6,
+    4,
     3,
     2,
-    4
+    5
    ]
   ]
  }
