@@ -1,241 +1,230 @@
 {
- "issue_no": 38,
- "tagline": "ร่าง พ.ร.บ.อากาศสะอาดใกล้เข้าสภา · ทรัมป์-สี-ปูติน ประชุมสามฝ่ายที่เซินเจิ้น · IG แก้ Story หลังโพสต์ได้แล้ว",
+ "issue_no": 39,
+ "tagline": "ทรัมป์-สี-ปูติน ออกปฏิญญาสันติภาพ · ศาลโลกชี้เมียนมาฆ่าล้างเผ่าพันธุ์โรฮิงญา · Meta ทดสอบแอป Direct ในไทย",
  "thailand": [
   {
    "lead": true,
-   "title": "Seven-year wait for clean air bill nears end",
-   "th": "คณะกรรมาธิการร่วมพิจารณาร่าง พ.ร.บ.อากาศสะอาดเสร็จแล้ว เตรียมเสนอสภาผู้แทนฯ 25 พ.ย. และวุฒิสภาตั้งเป้าพิจารณาเสร็จภายใน 30 พ.ย. เป็นกฎหมายฉบับแรกที่รับรองสิทธิในอากาศสะอาด ใช้หลัก 'ผู้ก่อมลพิษเป็นผู้จ่าย' และตั้งกองทุนอากาศสะอาด",
-   "en": "If both chambers approve, it goes for royal endorsement.",
+   "title": "Council okays measures to cut electricity costs",
+   "th": "คณะกรรมการนโยบายพลังงานแห่งชาติ (กพช.) อนุมัติ 3 มาตรการลดค่าไฟให้ครัวเรือน SME และเกษตรกร: ให้สิทธิใช้ไฟจากก๊าซในประเทศที่ถูกกว่า LNG นำเข้าก่อน, รับซื้อไฟพลังงานหมุนเวียน (โซลาร์ ลม ชีวมวล) ในราคาต่ำกว่าไฟจาก LNG ช่วง ม.ค.–ส.ค. 2570 และเปิดให้เอกชนซื้อขายไฟหมุนเวียนกันเองได้ ส่วนดาต้าเซ็นเตอร์และธุรกิจ AI จะจ่ายค่าไฟตามต้นทุน LNG นำเข้า",
+   "en": "The ERC will recalculate the Ft rate for Jan–Apr 2027.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3357106/sevenyear-wait-for-clean-air-bill-nears-end"
+   "url": "https://www.bangkokpost.com/business/general/3357374/council-okays-measures-to-cut-electricity-costs"
   },
   {
-   "title": "Charter court rejects petition against PM, nine others",
-   "th": "ศาลรัฐธรรมนูญมีมติเอกฉันท์ไม่รับคำร้องที่กล่าวหานายกฯ อนุทิน และอีก 9 บุคคล/องค์กร ว่าพยายามล้มล้างการปกครอง โดยระบุว่าคำร้องไม่มีข้อเท็จจริงหรือหลักฐานชัดเจน",
-   "en": "Judges cited insufficient evidence.",
+   "title": "Giant krathong catches fire in Phitsanulok",
+   "th": "กระทงยักษ์หน้าสถานีรถไฟพิษณุโลกเกิดไฟไหม้เมื่อคืนวันพุธ (23:10 น.) คาดว่าไฟฟ้าลัดวงจรหลังฝนตก ดับได้ใน 5 นาที เสียหายเฉพาะส่วนยอด ผู้รับเหมาจะซ่อมเสร็จใน 2 วัน ทันงานลอยกระทง 24 พ.ย.",
+   "en": "The mayor says it will be repaired in time for the festival.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/politics/3357111/charter-court-rejects-petition-against-pm-nine-others"
+   "url": "https://www.bangkokpost.com/thailand/general/3357620/giant-krathong-catches-fire-in-phitsanulok"
   },
   {
-   "title": "Contractor in SAO building collapse sentenced to 3 years",
-   "th": "ศาลอาญาตัดสินจำคุกผู้บริหารบริษัท China Railway Number 10 (Thailand) 3 ปี ฐานใช้นอมินีประกอบธุรกิจก่อสร้าง ในคดีเชื่อมกับตึก สตง. ที่ถล่มจากแผ่นดินไหว มี.ค. 2568 ผู้ถือหุ้นแทนชาวไทย 3 คนก็ถูกตัดสินด้วย ส่วนคดีหลักยังอยู่ระหว่างสืบพยาน",
-   "en": "The main collapse case is still in court.",
+   "title": "Thailand-Cambodia maritime talks to resume next week in KL",
+   "th": "การเจรจาเรื่องเขตทางทะเลระหว่างไทยกับกัมพูชาจะกลับมาเดินหน้าอีกครั้งสัปดาห์หน้าที่กัวลาลัมเปอร์ ขณะที่ข่าวเด่นวันเดียวกันยังมีการหยุดการลักลอบทิ้งขยะพิษ 6,000 ตัน",
+   "en": "Headline from Bangkok Post Top Stories, 19 Nov 2026.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3357026/contractor-in-bangkok-building-collapse-sentenced-to-3-years"
+   "url": "https://www.bangkokpost.com/topstories"
   }
  ],
  "world": [
   {
-   "title": "Trump, Xi and Putin meet in Shenzhen",
-   "th": "ทรัมป์เดินทางถึงเซินเจิ้นเพื่อร่วมประชุม APEC และการประชุมสามฝ่ายครั้งประวัติศาสตร์กับสี จิ้นผิง และปูติน วันนี้ (19 พ.ย.) คาดคุยเรื่องยูเครน อิหร่าน การค้า นิวเคลียร์ และ AI",
-   "en": "Europe worries about decisions made over Kyiv's head.",
-   "source": "Euronews",
-   "url": "https://www.euronews.com/2026/11/18/europe-tonight-eu-proposes-45bn-ukraine-loan-as-trump-xi-and-putin-meet"
+   "title": "Trump, Xi and Putin issue 'Declaration Towards Peace'",
+   "th": "ผู้นำสหรัฐฯ จีน รัสเซีย ปิดการประชุมสามฝ่ายครั้งแรก 90 นาทีที่เซินเจิ้น ออกปฏิญญา 4 ข้อ: ปฏิรูป UN, เพิ่มการผลิตน้ำมันสำเร็จรูปแก้วิกฤตพลังงาน, เจรจาลดความเสี่ยงนิวเคลียร์ แต่ไม่มีความคืบหน้าชัดเรื่องยูเครน ผู้นำยุโรปค้านรูปแบบ 'Yalta 2.0'",
+   "en": "Europe says a 'Yalta format' will not bring peace.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/top-news-of-the-day-november-19-2026/article71719937.ece"
   },
   {
-   "title": "EU proposes €45bn loan for Ukraine",
-   "th": "ประธานคณะกรรมาธิการยุโรปเสนอเงินกู้ 4.5 หมื่นล้านยูโรให้ยูเครนปี 2027 (ทหาร 2.5 หมื่นล้าน งบประมาณ 2 หมื่นล้าน) ยูเครนจ่ายคืนเมื่อรัสเซียจ่ายค่าปฏิกรรมสงคราม ต้องได้เสียงเอกฉันท์ 27 ประเทศ",
-   "en": "Hungary and others may resist.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/all"
+   "title": "Top UN court rules Myanmar committed genocide",
+   "th": "ศาลยุติธรรมระหว่างประเทศ (ICJ) ตัดสินว่าเมียนมาก่ออาชญากรรมฆ่าล้างเผ่าพันธุ์ชาวโรฮิงญาในรัฐยะไข่เมื่อปี 2560 เป็นครั้งแรกที่ศาลนี้ตัดสินว่ารัฐใดก่อการฆ่าล้างเผ่าพันธุ์",
+   "en": "A historic first for the World Court.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/top-news-of-the-day-november-19-2026/article71719937.ece"
   },
   {
-   "title": "Hakeem Jeffries moves closer to becoming US House speaker",
-   "th": "ฮาคีม เจฟฟรีส์ ส.ส.เดโมแครตจากนิวยอร์ก ได้ 251 เสียงต่อ 11 ใกล้เป็นประธานสภาผู้แทนฯ สหรัฐฯ ผิวดำคนแรก",
-   "en": "He could be the first Black House speaker.",
+   "title": "Anthropic makes record Nasdaq debut",
+   "th": "Anthropic ผู้สร้าง Claude เข้าตลาด Nasdaq ด้วย IPO ใหญ่ที่สุดในประวัติศาสตร์ ระดมทุน 8.13 หมื่นล้านดอลลาร์ หุ้นเปิดที่ 111.50 ดอลลาร์ สูงกว่าราคา IPO 34%",
+   "en": "Protesters outside warned of an AI bubble.",
    "source": "Euronews",
-   "url": "https://www.euronews.com/2026/11/18"
+   "url": "https://www.euronews.com/2026/11/19"
   }
  ],
  "social": [
   {
-   "title": "Instagram lets you edit Stories after posting",
-   "th": "IG ให้แก้ข้อความ เพลง สติกเกอร์ และลายวาดใน Story ได้ภายใน 15 นาทีหลังโพสต์ โดยไม่เสียยอดวิว ไลก์ หรือรีพลาย (กดเมนู ⋯ > Edit Story) Story ที่แก้จะมีป้าย 'edited' พร้อมฟอนต์ สี และพื้นหลังแบบไล่สีใหม่",
-   "why": "พิมพ์ผิดใน Story ลูกค้าไม่ต้องลบโพสต์ใหม่แล้ว แต่มีแค่ 15 นาที ทีมควรเช็กทันทีหลังกดโพสต์",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them"
+   "title": "Meta tests 'Direct', a standalone Instagram DM app — in Thailand first",
+   "th": "Meta เปิดทดสอบแอป Direct แยกแชต IG ออกมา เริ่มที่ไทยและตุรกี ใช้ได้ทั้งมีหรือไม่มีบัญชี IG แชตเดิมซิงก์กัน มีฟีเจอร์ Draw วาดในแชต, Notes, สติกเกอร์เอง และธีมพื้นหลังแชต",
+   "why": "คนไทยได้ใช้ก่อน ลองโหลดมาดูว่า DM ของเพจลูกค้าจะเปลี่ยนไปยังไง และเตรียมไอเดียคอนเทนต์ที่ชวนทักแชต",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/"
   },
   {
-   "title": "TikTok launches Symphony Suite for AI ad creation",
-   "th": "TikTok รวมเครื่องมือสร้างโฆษณา ระบบอัตโนมัติ และ API ไว้ใน Symphony Suite โดยมี Symphony Agent ใน Creative Studio ช่วยแนะนำวิธีปรับโฆษณา",
-   "why": "ทำเวอร์ชันโฆษณาหลายแบบได้เร็วขึ้น ลองใช้ทำ A/B test ครีเอทีฟก่อนเสนอลูกค้า",
-   "source": "PR Daily",
-   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-66/"
+   "title": "Instagram brings Content Protection to creators",
+   "th": "IG เปิด Content Protection ให้ครีเอเตอร์ที่ผ่านเกณฑ์ ระบบจะตรวจหาคลิปที่ก๊อปวิดีโอต้นฉบับบน IG และ Facebook แล้วแจ้งเตือนให้เลือกจัดการ (ดูได้ที่ Tools > Your professional tools)",
+   "why": "คลิปเกม Duckling Sort หรือคลิปลูกค้าถูกก๊อปไปลงซ้ำจะรู้ทันที เช็กว่าบัญชีเรามีสิทธิ์ใช้หรือยัง",
+   "source": "Instagram for Creators",
+   "url": "https://creators.instagram.com/blog/introducing-content-protection/"
   },
   {
-   "title": "Facebook removes Additional Profiles on Dec 14",
-   "th": "Facebook จะปิดฟีเจอร์ Additional Profiles (โปรไฟล์ย่อยที่แยกเพื่อนและเพจที่ติดตาม) ตั้งแต่ 14 ธ.ค. ผู้ใช้ export ข้อมูลไว้ได้ ส่วน X เพิ่มเครื่องมือตัดคลิป (clipping) ในตัว และแบ่งรายได้ให้ทั้งคนตัดคลิปและเจ้าของคลิป",
-   "why": "ถ้ามีบัญชีทดสอบหรือโปรไฟล์ย่อยใช้งานลูกค้า ให้ย้าย/สำรองก่อน 14 ธ.ค.",
-   "source": "PR Daily",
-   "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-66/"
+   "title": "Bumble x Alix Earle ad: 188K likes in one hour",
+   "th": "Bumble ทำหนังโฆษณา 2 นาที ให้พีท เดวิดสันออกเดตกับครีเอเตอร์ Alix Earle อัดแน่นด้วยมุก 'คนรู้จะรู้' จากคอนเทนต์ GRWM ของเธอ ได้ 188,000 ไลก์ใน 1 ชม.แรกบน IG และ TikTok",
+   "why": "มุกอินไซด์ที่แฟนคลับครีเอเตอร์เข้าใจทำให้คนแชร์และคอมเมนต์เยอะ ใช้กับการเลือกอินฟลูฯ ให้ลูกค้าได้",
+   "source": "Campaign US",
+   "url": "https://campaignlive.com/article/bumbles-alix-earle-spot-full-easter-eggs-chronically-online/1975487"
   },
   {
-   "title": "Nearly a third of TikTok Live viewers buy what they see",
-   "th": "ข้อมูลล่าสุดชี้ว่าเกือบ 1 ใน 3 ของคนดู TikTok Live ซื้อสินค้าที่เห็นในไลฟ์ ขณะที่ Meta อัปเดตแอป Edits เพิ่ม speed curve และปรับเสียงอัตโนมัติ",
-   "why": "เป็นตัวเลขดีไว้เสนอลูกค้าทำไลฟ์ขายของ และ Edits ช่วยให้ตัด Reels เนียนขึ้นโดยไม่ต้องใช้โปรแกรมหนัก",
-   "source": "Kontentino",
-   "url": "https://www.kontentino.com/blog/social-media-bites-november-2026-week-47/"
+   "title": "Fenty's behind-the-scenes clip took 75% of makeup TikTok engagement",
+   "th": "คลิปเบื้องหลัง A$AP Rocky ของ Fenty Beauty ได้ 2.48 ล้านวิว 687,206 engagement (ราว 75% ของทั้งสัปดาห์จาก 44 แบรนด์เครื่องสำอาง) ช่วง 12–18 พ.ย. โปรโมชันส่วนใหญ่เป็นธีม Black Friday",
+   "why": "คลิปเบื้องหลังแบบดิบๆ ชนะงานโปรดักชัน ลองเสนอคลิป BTS ถ่ายงานให้ลูกค้าแทนโฆษณาเต็มรูป",
+   "source": "Beauty Retail",
+   "url": "https://beautyretail.com/tiktok-makeup-weekly-2026-11-12-11-18/"
   },
   {
-   "title": "Calvin Klein x Jude Bellingham: $35.8M media value in 48 hours",
-   "th": "แคมเปญ 'The Icon Underneath' ของ Calvin Klein กับจู๊ด เบลลิงแฮม สร้าง Media Impact Value 35.8 ล้านดอลลาร์ใน 48 ชม. คลิป TikTok เดียวได้ราว 14 ล้านวิว 2.7 ล้านไลก์",
-   "why": "ภาพเรียบง่ายแต่จับจังหวะคนดังกำลังพีค ได้ผลกว่าโปรดักชันใหญ่ เป็นเคสอ้างอิงเรื่อง timing ของ talent",
-   "source": "Marketing Chief",
-   "url": "https://marketingchief.com/news/inside-calvin-kleins-viral-jude-bellingham-campaign"
-  },
-  {
-   "title": "TikTok LIVE turns heritage into a SEA livestream",
-   "th": "TikTok ร่วมกับ UNESCO ฟิลิปปินส์ ไลฟ์ทัวร์โบสถ์ซานอากุสติน โดยครีเอเตอร์เป็นพิธีกร มีคนดู 73,000 คน เกือบ 6 ล้าน impressions และมีของขวัญเสมือนลายฟิลิปปินส์",
-   "why": "ไอเดียไลฟ์ทัวร์สถานที่ + ของขวัญเฉพาะธีม ใช้กับแบรนด์ไทยหรือเทศกาลอย่างลอยกระทงได้",
-   "source": "Marketing-Interactive",
-   "url": "https://www.marketing-interactive.com/tiktok-uses-creator-led-livestream-to-put-philippine-heritage-in-the-spotlight"
+   "title": "Pepsodent turns dentists into TikTok creators",
+   "th": "Pepsodent เปิด TeethTalk Academy ชวน The Singing Dentist มาสอนหมอฟันและนักศึกษา 30 คนทำคอนเทนต์สั้นที่ดูง่าย ช่วยเพิ่มความเชื่อมั่นในแบรนด์ 8%",
+   "why": "โมเดล 'สอนผู้เชี่ยวชาญให้เป็นครีเอเตอร์' ใช้กับประกันอย่าง FWD ได้ เช่น ให้ตัวแทนเล่าเรื่องประกันแบบสั้นๆ",
+   "source": "Unilever",
+   "url": "https://www.unilever.com/news/news-search/2026/unilevers-pepsodent-elevates-oral-health-from-routine-to-relevance-online/"
   }
  ],
  "lifestyle": {
-  "title": "Song Wat Road: world's coolest street",
-  "body": "บางกอกโพสต์รายงานว่าถนนทรงวาดในกรุงเทพฯ ได้รับเลือกเป็นถนนที่เท่ที่สุดในโลก วันหยุดนี้ลองไปเดินดูคาเฟ่ ร้านเก่า และตึกเก่าย่านทรงวาด ถ่ายรูปเก็บไว้ทำคอนเทนต์ก็ได้",
-  "note": "Based on Bangkok Post Top Stories, 18 Nov 2026"
+  "title": "Loy Krathong is next week",
+  "body": "ลอยกระทงปีนี้ตรงกับ 24 พ.ย. (ข่าวพิษณุโลกระบุวันจัดงาน) สุดสัปดาห์นี้เป็นจังหวะดีวางแผนคอนเทนต์ธีมกระทง และเลือกกระทงจากวัสดุธรรมชาติอย่างใบตองหรือขนมปัง",
+  "note": "Based on Bangkok Post, 19 Nov 2026"
  },
  "word": {
-  "word": "trilateral",
-  "pos": "adj.",
-  "ipa": "/ˌtraɪˈlæt.ər.əl/",
-  "th": "สามฝ่าย",
-  "def": "involving three groups or countries.",
-  "ex": "Trump, Xi and Putin are holding a trilateral meeting in Shenzhen."
+  "word": "declaration",
+  "pos": "n.",
+  "ipa": "/ˌdek.ləˈreɪ.ʃən/",
+  "th": "คำประกาศ, ปฏิญญา",
+  "def": "an official statement about something.",
+  "ex": "The three leaders signed a declaration towards peace."
  },
  "english": {
-  "title": "Fixing a typo in a client's Story",
+  "title": "Trying a new app before the client asks",
   "dialogue": [
    [
     "Teammate",
-    "Oh no, there's a typo in the Story we just posted."
+    "Have you heard of Meta's new app, Direct?"
    ],
    [
     "Nadda",
-    "Don't delete it! Instagram lets us edit Stories now."
+    "Yes! It's Instagram DMs on their own. Thailand is one of the first countries."
    ],
    [
     "Teammate",
-    "Really? How long do we have?"
+    "Should we tell our clients about it?"
    ],
    [
     "Nadda",
-    "Fifteen minutes. Tap the three dots, then 'Edit Story'."
+    "Let's test it first, so we know what we're talking about."
    ],
    [
     "Teammate",
-    "Will we lose the views?"
+    "Good idea. I'll download it today."
    ],
    [
     "Nadda",
-    "No, views and replies stay. It just shows an 'edited' label."
+    "Great. Note anything that could help brands chat with customers."
    ],
    [
     "Teammate",
-    "Done. That was close!"
+    "Like the custom stickers?"
    ],
    [
     "Nadda",
-    "Nice. Let's double-check before posting next time."
+    "Exactly. Let's share our findings on Monday."
    ]
   ],
   "vocab": [
    [
-    "typo",
-    "คำพิมพ์ผิด"
+    "on their own",
+    "แยกออกมาต่างหาก"
    ],
    [
-    "edit",
-    "แก้ไข"
+    "test",
+    "ทดลองใช้"
    ],
    [
-    "three dots",
-    "ปุ่มจุดสามจุด"
+    "download",
+    "ดาวน์โหลด"
    ],
    [
-    "label",
-    "ป้าย"
+    "note",
+    "จดไว้"
    ],
    [
-    "That was close!",
-    "เกือบไปแล้ว!"
+    "findings",
+    "สิ่งที่ค้นพบ"
    ],
    [
-    "double-check",
-    "ตรวจซ้ำอีกรอบ"
+    "Exactly.",
+    "ใช่เลย"
    ]
   ],
   "tip": {
-   "instead": "You make mistake. Delete now.",
-   "better": "No worries, we can fix it. Let's edit it now.",
-   "why": "ชี้ทางแก้แทนการโทษ ทีมใจเย็นและแก้งานได้เร็วกว่า"
+   "instead": "I don't know this app.",
+   "better": "I haven't tried it yet. Let me test it and get back to you.",
+   "why": "บอกขั้นต่อไปแทนการบอกว่าไม่รู้ ฟังดูมืออาชีพกว่า"
   }
  },
  "know": [
   {
-   "title": "What is 'polluter pays'?",
-   "body": "หลัก 'ผู้ก่อมลพิษเป็นผู้จ่าย' คือใครปล่อยมลพิษ ต้องจ่ายค่าธรรมเนียม ค่าปรับ หรือค่าชดเชย ร่าง พ.ร.บ.อากาศสะอาดของไทยจะนำเงินเข้ากองทุนอากาศสะอาดเพื่อแก้ปัญหา ดูแลสุขภาพ และวิจัย"
+   "title": "What is the Ft rate?",
+   "body": "ค่า Ft (ค่าไฟฟ้าผันแปร) คือส่วนในบิลค่าไฟที่ปรับตามต้นทุนจริง เช่น ราคาเชื้อเพลิงและการซื้อไฟ กกพ. จะคำนวณใหม่ทุกช่วง ปีหน้าช่วง ม.ค.–เม.ย. 2570 จะคิดตามนโยบายก๊าซใหม่"
   },
   {
-   "title": "What is APEC?",
-   "body": "APEC คือเวทีความร่วมมือทางเศรษฐกิจเอเชีย-แปซิฟิก มี 21 เขตเศรษฐกิจ รวมทั้งไทย ปีนี้จีนเป็นเจ้าภาพที่เซินเจิ้น"
+   "title": "What is the ICJ?",
+   "body": "ศาลยุติธรรมระหว่างประเทศ (ICJ) หรือ 'ศาลโลก' อยู่ที่กรุงเฮก เนเธอร์แลนด์ ตัดสินข้อพิพาทระหว่างรัฐ ต่างจาก ICC ที่ดำเนินคดีกับบุคคล"
   }
  ],
  "on_this_day": [
   {
-   "year": "1863",
-   "text": "Abraham Lincoln gave the Gettysburg Address."
+   "year": "1945",
+   "text": "The Nuremberg trials of Nazi leaders began."
   },
   {
-   "year": "1969",
-   "text": "Apollo 12 astronauts landed on the Moon, the second crewed Moon landing."
+   "year": "1985",
+   "text": "Microsoft released Windows 1.0."
   }
  ],
  "three_things": [
-  "Try editing one Story within 15 minutes to see the 'edited' label",
-  "Back up any Facebook Additional Profile before Dec 14",
-  "Use 'That was close!' once today in English"
+  "Download Meta's Direct app and try one feature",
+  "Check if Content Protection appears in your IG professional tools",
+  "Say 'Let me test it and get back to you' once today"
  ],
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "weather": {
   "max": 35,
   "min": 27,
-  "rain": 29,
+  "rain": 43,
   "uv": 7,
   "cond": "Light drizzle",
-  "humidity": 81,
+  "humidity": 70,
   "source": "Open-Meteo",
-  "fetched": "06:24"
+  "fetched": "06:27"
  },
  "wordsearch": {
   "grid": [
-   "YAPYHJPHHW",
-   "CLEANCVVWS",
-   "GPVBTYPOLL",
-   "EAUDUMYFIT",
-   "DIHFYFRYVY",
-   "ERYRHPROEO",
-   "WSOHDEVEMG",
-   "HTSJYMNDOR",
-   "SAPECDPIOK",
-   "LMNGSGETNE"
+   "RKEJFLARRS",
+   "DCYPEACEJJ",
+   "RDBEELVDSE",
+   "DIRECTVCAO",
+   "FCOURTFAII",
+   "RKRATHONGR",
+   "PLIKEOMKEO",
+   "JCLIPMAWDM",
+   "OONMDGOJPS",
+   "WNBYEPSNBD"
   ],
   "words": [
    {
-    "word": "STORY",
+    "word": "KRATHONG",
     "cells": [
      [
-      8,
-      0
-     ],
-     [
-      7,
+      5,
       1
      ],
      [
-      6,
+      5,
       2
      ],
      [
@@ -243,155 +232,183 @@
       3
      ],
      [
-      4,
-      4
-     ]
-    ]
-   },
-   {
-    "word": "CLEAN",
-    "cells": [
-     [
-      1,
-      0
-     ],
-     [
-      1,
-      1
-     ],
-     [
-      1,
-      2
-     ],
-     [
-      1,
-      3
-     ],
-     [
-      1,
-      4
-     ]
-    ]
-   },
-   {
-    "word": "EDIT",
-    "cells": [
-     [
-      6,
-      7
-     ],
-     [
-      7,
-      7
-     ],
-     [
-      8,
-      7
-     ],
-     [
-      9,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "TYPO",
-    "cells": [
-     [
-      2,
+      5,
       4
      ],
      [
-      2,
+      5,
       5
      ],
      [
-      2,
+      5,
       6
      ],
      [
-      2,
+      5,
+      7
+     ],
+     [
+      5,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "DIRECT",
+    "cells": [
+     [
+      3,
+      0
+     ],
+     [
+      3,
+      1
+     ],
+     [
+      3,
+      2
+     ],
+     [
+      3,
+      3
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      3,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "PEACE",
+    "cells": [
+     [
+      1,
+      3
+     ],
+     [
+      1,
+      4
+     ],
+     [
+      1,
+      5
+     ],
+     [
+      1,
+      6
+     ],
+     [
+      1,
       7
      ]
     ]
    },
    {
-    "word": "APEC",
+    "word": "POWER",
     "cells": [
      [
-      8,
-      1
+      9,
+      5
      ],
      [
       8,
-      2
+      6
      ],
      [
-      8,
-      3
+      7,
+      7
      ],
-     [
-      8,
-      4
-     ]
-    ]
-   },
-   {
-    "word": "LIVE",
-    "cells": [
-     [
-      2,
-      8
-     ],
-     [
-      3,
-      8
-     ],
-     [
-      4,
-      8
-     ],
-     [
-      5,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "MOON",
-    "cells": [
      [
       6,
       8
      ],
      [
-      7,
-      8
-     ],
-     [
-      8,
-      8
-     ],
-     [
-      9,
-      8
+      5,
+      9
      ]
     ]
    },
    {
-    "word": "AIR",
+    "word": "COURT",
     "cells": [
-     [
-      3,
-      1
-     ],
      [
       4,
       1
      ],
      [
-      5,
+      4,
+      2
+     ],
+     [
+      4,
+      3
+     ],
+     [
+      4,
+      4
+     ],
+     [
+      4,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "CLIP",
+    "cells": [
+     [
+      7,
       1
+     ],
+     [
+      7,
+      2
+     ],
+     [
+      7,
+      3
+     ],
+     [
+      7,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "LIKE",
+    "cells": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      6,
+      3
+     ],
+     [
+      6,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "DM",
+    "cells": [
+     [
+      7,
+      8
+     ],
+     [
+      7,
+      9
      ]
     ]
    }
@@ -401,100 +418,100 @@
   "puzzle": [
    [
     2,
-    1,
     0,
     0,
-    0,
-    0
-   ],
-   [
-    6,
-    0,
-    3,
     0,
     1,
-    5
-   ],
-   [
-    3,
-    0,
-    0,
-    0,
-    6,
     0
    ],
    [
     0,
     0,
     0,
+    2,
     3,
+    0
+   ],
+   [
+    0,
+    6,
+    0,
+    4,
+    0,
+    0
+   ],
+   [
+    0,
+    2,
+    3,
+    0,
     0,
     1
    ],
    [
     0,
+    0,
+    0,
     3,
     0,
-    1,
-    0,
-    6
+    0
    ],
    [
-    1,
     0,
+    5,
     6,
-    4,
     0,
-    0
+    0,
+    2
    ]
   ],
   "solution": [
    [
     2,
-    1,
+    3,
     5,
     6,
-    4,
-    3
-   ],
-   [
-    6,
-    4,
-    3,
-    2,
     1,
-    5
-   ],
-   [
-    3,
-    2,
-    1,
-    5,
-    6,
     4
    ],
    [
+    6,
+    1,
+    4,
+    2,
+    3,
+    5
+   ],
+   [
     5,
     6,
+    1,
     4,
-    3,
     2,
-    1
+    3
    ],
    [
     4,
-    3,
     2,
+    3,
+    5,
+    6,
+    1
+   ],
+   [
     1,
+    4,
+    2,
+    3,
     5,
     6
    ],
    [
-    1,
+    3,
     5,
     6,
+    1,
     4,
-    3,
     2
    ]
   ]
