@@ -1,0 +1,187 @@
+{
+ "issue_no": 41,
+ "tagline": "รัฐตั้งเขตควบคุมมลพิษแม่น้ำกก · AI ช่วยพิสูจน์สมมติฐานรีมันน์ · Meta ย้าย Creator Dashboard ขึ้นเว็บ",
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Govt moves to curb river toxins",
+   "th": "รัฐบาลเตรียมประกาศเขตควบคุมมลพิษยาวกว่า 150 กม. ริมแม่น้ำกก-โขง ติดตั้งสถานีตรวจวัดคุณภาพน้ำแบบเรียลไทม์ราว 20 จุด และขุดบ่อน้ำบาดาลใหม่ 10 บ่อ ให้ 14 ชุมชนมีน้ำสะอาดใช้ พร้อมขยายการตรวจสารหนูและทำแผนที่ความเสี่ยงแบบแบ่งสี",
+   "en": "Plans include 20 monitoring stations and 10 clean water sources.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3358925/govt-moves-to-curb-river-toxins"
+  },
+  {
+   "title": "973 pavilions set for royal cremation",
+   "th": "เตรียมซุ้มรับดอกไม้จันทน์ 973 ซุ้มทั่วประเทศ (กทม. 93 ซุ้ม ต่างจังหวัด 880 ซุ้ม) ให้ประชาชนร่วมถวายดอกไม้จันทน์ในงานพระราชพิธีถวายพระเพลิงพระบรมศพพระพันปีหลวง วันที่ 16 ธ.ค.",
+   "en": "PM Anutin handed over 1,071 ceremonial fire-lighting kits to provinces.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3359060/973-pavilions-set-for-royal-cremation"
+  },
+  {
+   "title": "Ties with Myanmar stay despite ICJ ruling: PM",
+   "th": "นายกฯ อนุทิน ยืนยันไทยยังคงความสัมพันธ์กับเมียนมา แม้ศาลโลก (ICJ) ชี้ว่าเมียนมากระทำการฆ่าล้างเผ่าพันธุ์ต่อชาวโรฮิงญา โดยยึดผลประโยชน์ของชาติ ส่วน รมว.ต่างประเทศ ระบุการพูดคุยต่อเนื่องช่วยลดความรุนแรงและเปิดทางช่วยเหลือด้านมนุษยธรรม",
+   "en": "Thailand says engagement aims to promote dialogue and humanitarian access.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3358955/ties-with-myanmar-stay-despite-icj-ruling-pm"
+  }
+ ],
+ "world": [
+  {
+   "title": "Riemann hypothesis: has maths' most famous problem been cracked?",
+   "th": "นักวิจัยของ Anthropic อ้างว่าพิสูจน์สมมติฐานรีมันน์ (โจทย์คณิตศาสตร์ที่ดังที่สุดในโลก) ได้ด้วยความช่วยเหลือของ AI Claude นักคณิตศาสตร์บอกว่าอาจเป็นเหตุการณ์ประวัติศาสตร์ แต่ต้องใช้เวลาหลายสัปดาห์กว่าจะเข้าใจบทพิสูจน์ทั้งหมด",
+   "en": "Mathematicians say the claimed proof could be historic.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked"
+  },
+  {
+   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "th": "เรือบรรทุกน้ำมัน 2 ลำถูกโจมตีใกล้เมืองคาซับของโอมาน ไม่มีผู้เสียชีวิต ขณะที่อิหร่านระบุเรืออีกลำเกิดไฟไหม้จากทุ่นระเบิด สถานการณ์ช่องแคบฮอร์มุซยังตึงเครียด ซึ่งอาจกระทบราคาน้ำมัน",
+   "en": "Britain's maritime agency reported two incidents near Oman.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
+  },
+  {
+   "title": "Nations agree to 'elaborate' on rules for AI 'killer robots' by 2028",
+   "th": "ประเทศสมาชิกอนุสัญญาว่าด้วยอาวุธตามแบบของ UN ตกลงจะพัฒนากฎสำหรับอาวุธอัตโนมัติที่ใช้ AI ภายในปี 2028 แต่ยังไม่สามารถตกลงออกกฎที่มีผลผูกพันทางกฎหมายได้ทันที",
+   "en": "Members failed to agree on swift adoption of legally binding rules.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/"
+  }
+ ],
+ "social": [
+  {
+   "title": "Meta brings its new Creator Dashboard to the web",
+   "th": "Creator Dashboard ตัวใหม่ของ Meta (เดิมชื่อ Professional Dashboard) ใช้บนเดสก์ท็อปได้แล้ว และจะกลายเป็นหน้าหลักในการจัดการเพจครีเอเตอร์แทนเครื่องมือเดิม มีเครื่องมือ AI และการสร้างวิดีโอเพิ่ม ส่วนแบรนด์ใช้ Business Dashboard",
+   "why": "ทีมที่ดูแลเพจลูกค้าบนคอมฯ จะต้องเรียนรู้หน้าตาเครื่องมือใหม่อีกรอบ ลองเปิดดูก่อนวันทำงานจริง",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/meta-brings-its-updated-creator-dashboard-to-the-web/875143/"
+  },
+  {
+   "title": "Threads tests voted Q&A in live chats",
+   "th": "Threads ทดสอบฟีเจอร์ Q&A ในไลฟ์แชต ให้โฮสต์รวบรวมคำถามแล้วให้ผู้ร่วมแชตโหวตว่าจะถามข้อไหนก่อน คล้าย AMA ของ Reddit",
+   "why": "ถ้าเปิดใช้ทั่วไป เป็นช่องทางให้แบรนด์จัดเซสชันตอบคำถามแฟน ๆ แบบมีโครงสร้าง เช่น Q&A เกม Duckling Sort",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/threads-tests-new-qa-option-in-live-chats/875287/"
+  },
+  {
+   "title": "TikTok launches a checker for AI-made content",
+   "th": "TikTok เปิดเครื่องมือให้ทุกคนตรวจได้ว่าคอนเทนต์ที่เห็นทางออนไลน์ถูกสร้างหรือแก้ไขด้วยฟีเจอร์ AI ของ TikTok หรือไม่ (อ้างอิง C2PA Content Credentials) พร้อมขยาย Likeness Detection ทั่วโลก",
+   "why": "งานที่ใช้ AI ในคลิปลูกค้าควรติดป้าย AI ให้ถูกต้อง เพราะคนตรวจย้อนได้ง่ายขึ้นเรื่อย ๆ",
+   "source": "TikTok Newsroom",
+   "url": "https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150"
+  },
+  {
+   "title": "Livestreaming finds its audience",
+   "th": "YouTube, TikTok, Instagram และ Twitch ต่างเพิ่มฟีเจอร์ไลฟ์ เพื่อให้ครีเอเตอร์มีส่วนร่วมกับแฟน ๆ และดึงผู้ลงโฆษณา ท่ามกลางคลิปสั้นที่ล้นฟีด",
+   "why": "ไลฟ์ช่วยให้คนดูอยู่นานและผูกพันกับแบรนด์มากขึ้น ลองเสนอไลฟ์สั้น ๆ ในแผนคอนเทนต์ลูกค้าเดือนหน้า",
+   "source": "Axios",
+   "url": "https://www.axios.com/media-trends-membership/2026/11/21/livestreaming-youtube-tiktok-twitch"
+  },
+  {
+   "title": "India's opposition protests at Meta offices over account removals",
+   "th": "Youth Congress ของอินเดียประท้วงหน้าสำนักงาน Meta ในไฮเดอราบัด มุมไบ และคุรุคราม หลังบัญชี Instagram ของแกนนำถูกจำกัด และยื่นคำขาด 7 วันให้ Meta คืนบัญชีและชี้แจง",
+   "why": "เตือนว่าบัญชีบนแพลตฟอร์มถูกจำกัดได้เสมอ ควรสำรองคอนเทนต์และมีช่องทางติดต่อลูกค้า/แฟนนอกแพลตฟอร์มด้วย",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals"
+  }
+ ],
+ "lifestyle": {
+  "title": "Loy Krathong is this Tuesday",
+  "body": "ลอยกระทงวันอังคารที่ 24 พ.ย. นี้ เลือกกระทงจากวัสดุธรรมชาติหรือลอยออนไลน์ ช่วยลดขยะในแม่น้ำ และถ้ามีญาติอยู่ริมแม่น้ำกกทางเหนือ ให้ติดตามประกาศผลตรวจน้ำจากหน่วยงานรัฐก่อนใช้น้ำ",
+  "note": "Based on Bangkok Post, 22 Nov 2026"
+ },
+ "word": {
+  "word": "hypothesis",
+  "pos": "n.",
+  "ipa": "/haɪˈpɒθ.ə.sɪs/",
+  "th": "สมมติฐาน",
+  "def": "an idea or explanation that has not yet been proved true.",
+  "ex": "Mathematicians are checking a new proof of the Riemann hypothesis."
+ },
+ "english": {
+  "title": "Trying the new dashboard",
+  "dialogue": [
+   [
+    "Teammate",
+    "Have you seen the new Creator Dashboard on desktop?"
+   ],
+   [
+    "Nadda",
+    "Not yet. Is it very different?"
+   ],
+   [
+    "Teammate",
+    "A little. Some menus have moved."
+   ],
+   [
+    "Nadda",
+    "Let's explore it together before Monday."
+   ],
+   [
+    "Teammate",
+    "Good idea. I'd rather not get lost during a deadline."
+   ],
+   [
+    "Nadda",
+    "Me too. Let's write down where everything is."
+   ]
+  ],
+  "vocab": [
+   [
+    "desktop",
+    "คอมพิวเตอร์ตั้งโต๊ะ"
+   ],
+   [
+    "explore",
+    "สำรวจ"
+   ],
+   [
+    "moved",
+    "ย้ายที่"
+   ],
+   [
+    "get lost",
+    "หลงทาง/งง"
+   ],
+   [
+    "write down",
+    "จดไว้"
+   ]
+  ]
+ },
+ "know": [
+  {
+   "title": "What is the Riemann hypothesis?",
+   "body": "สมมติฐานรีมันน์ (ตั้งโดย Bernhard Riemann ปี 1859) เกี่ยวกับการกระจายตัวของจำนวนเฉพาะ เป็นหนึ่งใน 7 'โจทย์แห่งสหัสวรรษ' ที่สถาบัน Clay ตั้งรางวัลไว้ 1 ล้านดอลลาร์"
+  },
+  {
+   "title": "What is a pollution control zone?",
+   "body": "เขตควบคุมมลพิษ คือพื้นที่ที่รัฐประกาศตาม พ.ร.บ.ส่งเสริมและรักษาคุณภาพสิ่งแวดล้อมแห่งชาติ เมื่อมีปัญหามลพิษรุนแรง เพื่อให้ท้องถิ่นทำแผนและใช้มาตรการแก้ไขได้เร็วขึ้น"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1963",
+   "text": "US President John F. Kennedy was assassinated in Dallas, Texas."
+  },
+  {
+   "year": "1995",
+   "text": "Toy Story, the first fully computer-animated feature film, opened in US cinemas."
+  }
+ ],
+ "three_things": [
+  "Open Meta's Creator Dashboard on desktop and find the Insights menu",
+  "Plan an eco-friendly krathong for Tuesday",
+  "Use the word 'hypothesis' in one sentence today"
+ ],
+ "wordsearch_words": [
+  "RIVER",
+  "PROOF",
+  "LIVE",
+  "THREADS",
+  "CHAT",
+  "MATH",
+  "WEB",
+  "KRATHONG"
+ ]
+}
