@@ -1,0 +1,520 @@
+{
+ "issue_no": 43,
+ "tagline": "ปลาและหอยแม่น้ำกกพบสารหนูเกินมาตรฐาน · NATO ส่ง AWACS ช่วยโปแลนด์ · Meta ทดสอบแอป Direct ในไทย",
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Unsafe arsenic levels detected in 10 Kok River aquatic species",
+   "th": "กรมประมงตรวจสัตว์น้ำ 300 ชนิดจากแม่น้ำกก จ.เชียงราย พบ 10 ชนิดมีสารหนูเกินระดับปลอดภัย เช่น กุ้งน้ำจืด หอยเชอรี่ หอยขม และหอยกาบ จึงเตือนประชาชนงดบริโภค ต้นเหตุคือโลหะหนักจากเหมืองที่ไม่มีการควบคุมในเมียนมา",
+   "en": "The Department of Fisheries warns people not to eat the affected species.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3359815/unsafe-arsenic-levels-detected-in-10-kok-river-aquatic-species"
+  },
+  {
+   "title": "Thai National Dress to feature on UN stamp series",
+   "th": "ชุดไทยศิวาลัย (หญิง) และเสื้อพระราชทานแขนยาวคาดผ้า (ชาย) ได้อยู่บนแสตมป์ชุด 'National Costumes' ของไปรษณีย์สหประชาชาติ (UNPA) ราคา 1.20 ฟรังก์สวิส ออกที่เจนีวา ร่วมกับชุดประจำชาติอีก 8 ประเทศ",
+   "en": "Thailand's textile heritage goes global on a UN stamp.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3359850/thai-national-dress-to-feature-on-un-stamp-series"
+  },
+  {
+   "title": "Dems to grill Chaichanok, PM in debate",
+   "th": "พรรคประชาธิปัตย์ โดยนายอภิสิทธิ์ เวชชาชีวะ เตรียมพุ่งเป้าอภิปรายไม่ไว้วางใจนายกฯ อนุทิน ชาญวีรกูล และ รมว.ดีอี ชัยชนก ชิดชอบ ในการอภิปรายวันที่ 7–11 ธ.ค. นี้",
+   "en": "The no-confidence debate runs Dec 7–11.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/politics/3359969/dems-to-grill-chaichanok-pm-in-debate"
+  }
+ ],
+ "world": [
+  {
+   "lead": true,
+   "title": "NATO to send early-warning aircraft to Poland after missiles incident",
+   "th": "NATO จะส่งเครื่องบินแจ้งเตือนภัยล่วงหน้า AWACS ไปโปแลนด์ หลังขีปนาวุธ Kh-101 ของรัสเซีย 3 ลูกตกในโปแลนด์เมื่อวันศุกร์ ทำให้กังวลว่าสงครามยูเครนอาจลามเข้าเขต NATO",
+   "en": "Poland says the AWACS gives 'deeper operational awareness'.",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/"
+  },
+  {
+   "title": "Australia to treat AI as key foreign policy challenge",
+   "th": "ออสเตรเลียจะยก AI เป็นความท้าทายหลักด้านนโยบายต่างประเทศ รมว.ต่างประเทศ Penny Wong เตือนว่า AI กำลังเปลี่ยนรากฐานสังคม และเปิดช่องให้ต่างชาติแทรกแซงประชาธิปไตยได้",
+   "en": "AI joins US–China competition on the foreign policy agenda.",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/5f374b32b07b/world/asia-pacific/australia-treat-ai-key-foreign-policy-challenge-2026-11-23/"
+  },
+  {
+   "title": "COP flop triggers backlash in Australia; Pacific nations express despair",
+   "th": "หลังการประชุม COP31 จบลงโดยไม่มีข้อตกลง เกิดเสียงวิจารณ์ในออสเตรเลีย และกลุ่มประเทศหมู่เกาะแปซิฟิกแสดงความผิดหวังอย่างมาก",
+   "en": "Pacific nations say they are in despair.",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/3fec1b0a85a0/sustainability/cop/cop-flop-triggers-backlash-australia-pacific-nations-express-despair-2026-11-23/"
+  }
+ ],
+ "social": [
+  {
+   "title": "Meta tests Direct, a stand-alone Instagram DM app — in Thailand first",
+   "th": "Meta เริ่มทดสอบแอป Direct สำหรับแชต DM ของ Instagram โดยเปิดก่อนที่ตุรกีและไทย ใช้ได้ทั้งมีและไม่มีบัญชี Instagram เน้นแชตเดี่ยวและกลุ่มกับเพื่อนและครอบครัว",
+   "why": "ไทยคือตลาดทดลอง ถ้าคนย้ายไปแชตใน Direct แบรนด์ที่ใช้ DM ปิดการขายหรือรับคำถามลูกค้าต้องดูว่าแชตยังเข้าถึงได้เหมือนเดิมไหม",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/"
+  },
+  {
+   "title": "Threads rolls out advanced search filters",
+   "th": "Threads เปิดตัวการค้นหาขั้นสูง กดเมนูฟิลเตอร์ในช่องค้นหาเพื่อกรองตามช่วงวันที่ คอมมูนิตี้ ประเภทโพสต์ และเลือกให้แสดงเฉพาะคำที่ตรงกันเป๊ะได้",
+   "why": "ใช้ทำ social listening ได้ง่ายขึ้น ค้นชื่อแบรนด์ลูกค้าหรือคู่แข่งแบบกรองวันที่ได้ทันที",
+   "source": "Threads (@threads)",
+   "url": "https://www.threads.com/@threads/post/DfkgGO8Jedq"
+  },
+  {
+   "title": "TikTok adds tools to check AI-generated content",
+   "th": "TikTok ออกเครื่องมือให้ทุกคนตรวจได้ว่าภาพหรือวิดีโอสร้าง/แก้ด้วยเครื่องมือ AI ของ TikTok หรือไม่ และเริ่มเปิด Likeness Detection แบบสมัครใจให้ครีเอเตอร์ที่มีสิทธิ์แจ้งเมื่อมีคนใช้ AI เลียนแบบหน้าตาตัวเอง",
+   "why": "คอนเทนต์ AI ของแบรนด์จะถูกตรวจสอบได้ง่ายขึ้น ต้องติดป้าย AI ให้ถูก และระวังการใช้หน้าครีเอเตอร์โดยไม่ได้รับอนุญาต",
+   "source": "TikTok Newsroom",
+   "url": "https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150"
+  },
+  {
+   "title": "Malaysian brands crash a viral drone proposal",
+   "th": "นักร้อง Fazley Yaakob ขอ Seri Vida แต่งงานด้วยโดรน 1,200 ลำเขียนว่า \"Nak duduk Ipoh ke KL?\" บนเวที TikTok Shop Mega Shock Live Concert คลิปไวรัลบน Threads และมีแบรนด์อย่างน้อย 7 แบรนด์ เช่น Carsome ทำโดรนโชว์เวอร์ชันของตัวเองล้อตาม",
+   "why": "ตัวอย่าง real-time marketing ที่ดี จับโมเมนต์ไวรัลได้ภายในไม่กี่วันด้วยภาพเดียว ไอเดียนี้ใช้กับแบรนด์ลูกค้าได้ตอนมีกระแสในไทย",
+   "source": "Marketing-Interactive",
+   "url": "https://www.marketing-interactive.com/seri-vida-said-yes-to-a-drone-proposal-and-so-did-these-brands"
+  },
+  {
+   "title": "Instagram lets creators add Amazon affiliate links in Reels and posts",
+   "th": "Instagram ให้ครีเอเตอร์ที่มีสิทธิ์ในสหรัฐฯ ใส่ลิงก์ affiliate ของ Amazon ใน Reels และโพสต์ฟีดได้",
+   "why": "Instagram กำลังเปิดทางให้ครีเอเตอร์หาเงินในแอป ถ้าขยายมาไทย อาจเปลี่ยนวิธีจ้างอินฟลูฯ ขายของ",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
+  }
+ ],
+ "lifestyle": {
+  "title": "Happy Loy Krathong!",
+  "body": "คืนนี้ (อังคาร 24 พ.ย.) คือคืนลอยกระทง เลือกกระทงจากวัสดุธรรมชาติ เช่น ใบตองหรือขนมปัง หรือลองลอยออนไลน์เพื่อลดขยะในแม่น้ำ อย่าลืมกินปลาและหอยจากแหล่งที่ปลอดภัย ตามคำเตือนเรื่องแม่น้ำกกของกรมประมง",
+  "note": "Based on Bangkok Post, 22–23 Nov 2026"
+ },
+ "word": {
+  "word": "despair",
+  "pos": "n.",
+  "ipa": "/dɪˈsper/",
+  "th": "ความสิ้นหวัง",
+  "def": "the feeling that there is no hope and nothing will get better.",
+  "ex": "Pacific nations expressed despair after the climate talks failed."
+ },
+ "english": {
+  "title": "Chatting outside Instagram",
+  "dialogue": [
+   [
+    "Teammate",
+    "Have you seen the new Direct app? It's being tested in Thailand."
+   ],
+   [
+    "Nadda",
+    "Yes! It's just Instagram DMs, without the feed."
+   ],
+   [
+    "Teammate",
+    "Do you think customers will still message the brand there?"
+   ],
+   [
+    "Nadda",
+    "Probably. Let's keep an eye on our DM response time."
+   ],
+   [
+    "Teammate",
+    "Good idea. I'll track it in this week's report."
+   ],
+   [
+    "Nadda",
+    "Perfect. Let me know if anything changes."
+   ]
+  ],
+  "vocab": [
+   [
+    "stand-alone",
+    "แยกเป็นอิสระ"
+   ],
+   [
+    "keep an eye on",
+    "คอยจับตาดู"
+   ],
+   [
+    "response time",
+    "เวลาในการตอบกลับ"
+   ],
+   [
+    "track",
+    "ติดตาม"
+   ],
+   [
+    "feed",
+    "ฟีด"
+   ]
+  ]
+ },
+ "know": [
+  {
+   "title": "What is AWACS?",
+   "body": "AWACS ย่อมาจาก Airborne Warning and Control System คือเครื่องบินที่มีเรดาร์ขนาดใหญ่บนหลังคา ใช้ตรวจจับเครื่องบินและขีปนาวุธจากระยะไกล แล้วแจ้งเตือนกองกำลังภาคพื้น"
+  },
+  {
+   "title": "What is arsenic?",
+   "body": "สารหนู (arsenic) คือธาตุพิษที่พบได้ในหินและแร่ เมื่อมีการทำเหมือง สารหนูจะปนเปื้อนลงแหล่งน้ำได้ ถ้าได้รับต่อเนื่องเป็นเวลานานจะเป็นอันตรายต่อผิวหนัง ปอด และเพิ่มความเสี่ยงมะเร็ง"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1859",
+   "text": "Charles Darwin published 'On the Origin of Species'."
+  },
+  {
+   "year": "1971",
+   "text": "A man known as D. B. Cooper hijacked a plane in the US, parachuted out with the ransom money, and was never found."
+  }
+ ],
+ "three_things": [
+  "Float a natural krathong tonight",
+  "Try Threads' new search filters on a client brand",
+  "Use the word 'despair' in one sentence today"
+ ],
+ "date": "2026-11-24",
+ "weather": {
+  "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
+ },
+ "wordsearch": {
+  "grid": [
+   "DRADARUNIK",
+   "BIHPOYCVGR",
+   "SDROALUCHA",
+   "ITHEJHSSDT",
+   "PDAMCRKIRH",
+   "CWPMLTIKOO",
+   "NWYTPJHVNN",
+   "NHBSYPHVEG",
+   "HRTHREADSR",
+   "VPHOPECECB"
+  ],
+  "words": [
+   {
+    "word": "KRATHONG",
+    "cells": [
+     [
+      0,
+      9
+     ],
+     [
+      1,
+      9
+     ],
+     [
+      2,
+      9
+     ],
+     [
+      3,
+      9
+     ],
+     [
+      4,
+      9
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      6,
+      9
+     ],
+     [
+      7,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "THREADS",
+    "cells": [
+     [
+      8,
+      2
+     ],
+     [
+      8,
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      8,
+      7
+     ],
+     [
+      8,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "DIRECT",
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      2
+     ],
+     [
+      3,
+      3
+     ],
+     [
+      4,
+      4
+     ],
+     [
+      5,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "DRONE",
+    "cells": [
+     [
+      3,
+      8
+     ],
+     [
+      4,
+      8
+     ],
+     [
+      5,
+      8
+     ],
+     [
+      6,
+      8
+     ],
+     [
+      7,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "STAMP",
+    "cells": [
+     [
+      2,
+      0
+     ],
+     [
+      3,
+      1
+     ],
+     [
+      4,
+      2
+     ],
+     [
+      5,
+      3
+     ],
+     [
+      6,
+      4
+     ]
+    ]
+   },
+   {
+    "word": "RIVER",
+    "cells": [
+     [
+      4,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      8,
+      9
+     ]
+    ]
+   },
+   {
+    "word": "RADAR",
+    "cells": [
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      2
+     ],
+     [
+      0,
+      3
+     ],
+     [
+      0,
+      4
+     ],
+     [
+      0,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "HOPE",
+    "cells": [
+     [
+      9,
+      2
+     ],
+     [
+      9,
+      3
+     ],
+     [
+      9,
+      4
+     ],
+     [
+      9,
+      5
+     ]
+    ]
+   }
+  ]
+ },
+ "sudoku": {
+  "puzzle": [
+   [
+    1,
+    0,
+    0,
+    2,
+    5,
+    0
+   ],
+   [
+    0,
+    0,
+    3,
+    1,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    2,
+    0,
+    3,
+    1,
+    0
+   ],
+   [
+    0,
+    1,
+    0,
+    4,
+    0,
+    0
+   ]
+  ],
+  "solution": [
+   [
+    1,
+    6,
+    4,
+    2,
+    5,
+    3
+   ],
+   [
+    2,
+    5,
+    3,
+    1,
+    6,
+    4
+   ],
+   [
+    6,
+    4,
+    2,
+    5,
+    3,
+    1
+   ],
+   [
+    5,
+    3,
+    1,
+    6,
+    4,
+    2
+   ],
+   [
+    4,
+    2,
+    5,
+    3,
+    1,
+    6
+   ],
+   [
+    3,
+    1,
+    6,
+    4,
+    2,
+    5
+   ]
+  ]
+ }
+}

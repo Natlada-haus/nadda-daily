@@ -1,227 +1,265 @@
 {
- "issue_no": 42,
- "tagline": "สมช.เตรียมคุมสารเคมีส่งออกไปเหมืองเมียนมา · COP31 จบแบบไร้ข้อตกลง · Instagram แก้ Stories หลังโพสต์ได้แล้ว",
+ "issue_no": 43,
+ "tagline": "ปลาและหอยแม่น้ำกกพบสารหนูเกินมาตรฐาน · NATO ส่ง AWACS ช่วยโปแลนด์ · Meta ทดสอบแอป Direct ในไทย",
  "thailand": [
   {
    "lead": true,
-   "title": "Curbs planned on mine toxins",
-   "th": "สภาความมั่นคงแห่งชาติ (สมช.) เตรียมจัดทำรายชื่อสารเคมีที่จะจำกัดหรือห้ามส่งออกไปเมียนมา เพื่อลดการปนเปื้อนสารพิษจากเหมืองในแม่น้ำชายแดน โดยจะเสนอต่อที่ประชุมกระทรวงกลาโหม มาตรการอาจรวมถึงให้ผู้ประกอบการฝั่งเมียนมาต้องแจ้งข้อมูลและส่งตัวอย่างสารเคมี",
-   "en": "A chemical ban list goes to a Defence Ministry meeting.",
+   "title": "Unsafe arsenic levels detected in 10 Kok River aquatic species",
+   "th": "กรมประมงตรวจสัตว์น้ำ 300 ชนิดจากแม่น้ำกก จ.เชียงราย พบ 10 ชนิดมีสารหนูเกินระดับปลอดภัย เช่น กุ้งน้ำจืด หอยเชอรี่ หอยขม และหอยกาบ จึงเตือนประชาชนงดบริโภค ต้นเหตุคือโลหะหนักจากเหมืองที่ไม่มีการควบคุมในเมียนมา",
+   "en": "The Department of Fisheries warns people not to eat the affected species.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3359330/curbs-planned-on-mine-toxins"
+   "url": "https://www.bangkokpost.com/thailand/general/3359815/unsafe-arsenic-levels-detected-in-10-kok-river-aquatic-species"
   },
   {
-   "title": "Police arrest weed shop staff over licence breach",
-   "th": "เจ้าหน้าที่ภูเก็ตจับพนักงานร้านกัญชา 3 คนที่เชิงทะเล อ.ถลาง หลังร้านยังขายช่อดอกทั้งที่ถูกพักใบอนุญาต 90 วันตั้งแต่ 23 ต.ค. ยึดช่อดอกมูลค่าราว 2 ล้านบาท และพบการขายแอลกอฮอล์นอกเวลาและอาหารผสมกัญชาที่ไม่มีเลข อย.",
-   "en": "Phuket officials seized cannabis buds worth about 2 million baht.",
+   "title": "Thai National Dress to feature on UN stamp series",
+   "th": "ชุดไทยศิวาลัย (หญิง) และเสื้อพระราชทานแขนยาวคาดผ้า (ชาย) ได้อยู่บนแสตมป์ชุด 'National Costumes' ของไปรษณีย์สหประชาชาติ (UNPA) ราคา 1.20 ฟรังก์สวิส ออกที่เจนีวา ร่วมกับชุดประจำชาติอีก 8 ประเทศ",
+   "en": "Thailand's textile heritage goes global on a UN stamp.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3359445/police-arrest-weed-shop-staff-over-licence-breach"
+   "url": "https://www.bangkokpost.com/thailand/general/3359850/thai-national-dress-to-feature-on-un-stamp-series"
   },
   {
-   "title": "Land title probe ordered over waste sorting plant",
-   "th": "รมช.มหาดไทยสั่งตรวจสอบการออกเอกสารสิทธิ์ น.ส.3 ให้โรงคัดแยกขยะอุตสาหกรรมที่เพิ่งถูกปิดใน ต.หนองโพรง อ.ศรีมหาโพธิ จ.ปราจีนบุรี ซึ่งเดิมเป็นที่ดินเพื่อการเกษตร",
-   "en": "The land was originally meant for farming.",
+   "title": "Dems to grill Chaichanok, PM in debate",
+   "th": "พรรคประชาธิปัตย์ โดยนายอภิสิทธิ์ เวชชาชีวะ เตรียมพุ่งเป้าอภิปรายไม่ไว้วางใจนายกฯ อนุทิน ชาญวีรกูล และ รมว.ดีอี ชัยชนก ชิดชอบ ในการอภิปรายวันที่ 7–11 ธ.ค. นี้",
+   "en": "The no-confidence debate runs Dec 7–11.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3359350/land-title-probe-ordered-over-waste-sorting-plant"
+   "url": "https://www.bangkokpost.com/thailand/politics/3359969/dems-to-grill-chaichanok-pm-in-debate"
   }
  ],
  "world": [
   {
-   "title": "COP31 climate talks end without a deal",
-   "th": "การประชุมโลกร้อน COP31 จบลงโดยไม่มีข้อตกลง สหภาพยุโรป สหราชอาณาจักร และกลุ่มประเทศเกาะ มองว่าร่างข้อตกลงอ่อนเกินไปเพราะไม่พูดถึงเชื้อเพลิงฟอสซิล ขณะที่ประเทศผู้ผลิตน้ำมันอย่างรัสเซียและซาอุฯ ค้านถ้อยคำนี้ ประธานการประชุมบอกว่าจะไม่มีร่างใหม่อีก",
-   "en": "Delegates called the result 'disappointing'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
+   "lead": true,
+   "title": "NATO to send early-warning aircraft to Poland after missiles incident",
+   "th": "NATO จะส่งเครื่องบินแจ้งเตือนภัยล่วงหน้า AWACS ไปโปแลนด์ หลังขีปนาวุธ Kh-101 ของรัสเซีย 3 ลูกตกในโปแลนด์เมื่อวันศุกร์ ทำให้กังวลว่าสงครามยูเครนอาจลามเข้าเขต NATO",
+   "en": "Poland says the AWACS gives 'deeper operational awareness'.",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/"
   },
   {
-   "title": "Democrats win largest House majority since 1992",
-   "th": "พรรคเดโมแครตได้ที่นั่งสภาผู้แทนฯ สหรัฐมากที่สุดนับตั้งแต่ปี 1992 หลัง Chuck Hubbard ชนะ ส.ส. Virginia Foxx ของรีพับลิกันในเขต 5 นอร์ทแคโรไลนาหลังนับคะแนนใหม่",
-   "en": "The North Carolina seat sealed the historic majority.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat"
+   "title": "Australia to treat AI as key foreign policy challenge",
+   "th": "ออสเตรเลียจะยก AI เป็นความท้าทายหลักด้านนโยบายต่างประเทศ รมว.ต่างประเทศ Penny Wong เตือนว่า AI กำลังเปลี่ยนรากฐานสังคม และเปิดช่องให้ต่างชาติแทรกแซงประชาธิปไตยได้",
+   "en": "AI joins US–China competition on the foreign policy agenda.",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/5f374b32b07b/world/asia-pacific/australia-treat-ai-key-foreign-policy-challenge-2026-11-23/"
   },
   {
-   "title": "Signal restricts screenshots to block AI assistants",
-   "th": "แอป Signal บล็อกการแคปหน้าจอบน iOS เป็นค่าเริ่มต้น และเปิด Screen Security บน Android อัตโนมัติเมื่อตรวจพบผู้ช่วย AI อย่าง Siri หรือ Gemini พยายามอ่านหน้าจอ ผู้ใช้ปิดเองได้",
-   "en": "Signal calls AI surveillance an 'existential threat'.",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+   "title": "COP flop triggers backlash in Australia; Pacific nations express despair",
+   "th": "หลังการประชุม COP31 จบลงโดยไม่มีข้อตกลง เกิดเสียงวิจารณ์ในออสเตรเลีย และกลุ่มประเทศหมู่เกาะแปซิฟิกแสดงความผิดหวังอย่างมาก",
+   "en": "Pacific nations say they are in despair.",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/3fec1b0a85a0/sustainability/cop/cop-flop-triggers-backlash-australia-pacific-nations-express-despair-2026-11-23/"
   }
  ],
  "social": [
   {
-   "title": "Instagram now lets you edit Stories after posting",
-   "th": "Instagram ให้แก้ Story ที่โพสต์ไปแล้วได้ภายใน 15 นาที ทั้งข้อความ เพลง สติกเกอร์ และลายเส้น โดยไม่เสียยอดวิว ไลก์ หรือคำตอบ (กดจุดสามจุด > Edit Story)",
-   "why": "พิมพ์ผิดหรือแท็กผิดใน Story ลูกค้าแก้ทันได้โดยไม่ต้องลบโพสต์ใหม่ แต่มีเวลาแค่ 15 นาที ต้องเช็กทันทีหลังโพสต์",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them"
-  },
-  {
-   "title": "Meta tests Direct, a messaging-only Instagram app — in Thailand",
-   "th": "Meta ทดสอบแอป Direct สำหรับแชตของ Instagram โดยเฉพาะ เปิดให้ใช้ในไทยและตุรกีบน Android และ iOS ใช้ได้แม้ไม่มีบัญชี Instagram และแชตเดิมซิงก์กันทั้งสองแอป",
-   "why": "ไทยเป็นตลาดทดลอง ลองโหลดมาดูว่า DM ของเพจแบรนด์แสดงผลยังไง และคิดเรื่องการตอบแชตลูกค้าที่อาจมาจากแอปนี้",
-   "source": "Meta Newsroom",
-   "url": "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/"
-  },
-  {
-   "title": "Instagram's Content Protection fights copycat reposts",
-   "th": "เครื่องมือ Content Protection ช่วยครีเอเตอร์ที่เข้าเกณฑ์ตรวจจับคลิปที่ถูกรีโพสต์โดยไม่ได้รับอนุญาตบน Instagram และ Facebook แล้วเลือกติดตาม ซ่อน ใส่เครดิตลิงก์ หรือปล่อยไว้ พร้อมทดสอบตรวจคลิป AI ที่เอาเสียงไปใช้แต่เปลี่ยนภาพ",
-   "why": "ใช้ปกป้องคลิปต้นฉบับของ Duckling Sort และงานลูกค้าจากเพจก๊อปได้ เช็กว่าบัญชีเข้าเกณฑ์หรือยัง",
+   "title": "Meta tests Direct, a stand-alone Instagram DM app — in Thailand first",
+   "th": "Meta เริ่มทดสอบแอป Direct สำหรับแชต DM ของ Instagram โดยเปิดก่อนที่ตุรกีและไทย ใช้ได้ทั้งมีและไม่มีบัญชี Instagram เน้นแชตเดี่ยวและกลุ่มกับเพื่อนและครอบครัว",
+   "why": "ไทยคือตลาดทดลอง ถ้าคนย้ายไปแชตใน Direct แบรนด์ที่ใช้ DM ปิดการขายหรือรับคำถามลูกค้าต้องดูว่าแชตยังเข้าถึงได้เหมือนเดิมไหม",
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/"
+   "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/"
   },
   {
-   "title": "Snapchat lets AI coding assistants build AR Lenses",
-   "th": "Snap เปิด Easy Lens CLI ให้นักพัฒนาใช้ Claude Code, Cursor, Codex หรือ AI ตัวอื่นสร้าง ทดสอบ พรีวิว และเผยแพร่ AR Lens ของ Snapchat จากคำสั่งภาษาธรรมดา",
-   "why": "ทำฟิลเตอร์ AR ให้แคมเปญแบรนด์ได้ถูกและเร็วขึ้นมาก ทีม AI ของเราลองทำ Lens เป็ด Duckling Sort ได้",
+   "title": "Threads rolls out advanced search filters",
+   "th": "Threads เปิดตัวการค้นหาขั้นสูง กดเมนูฟิลเตอร์ในช่องค้นหาเพื่อกรองตามช่วงวันที่ คอมมูนิตี้ ประเภทโพสต์ และเลือกให้แสดงเฉพาะคำที่ตรงกันเป๊ะได้",
+   "why": "ใช้ทำ social listening ได้ง่ายขึ้น ค้นชื่อแบรนด์ลูกค้าหรือคู่แข่งแบบกรองวันที่ได้ทันที",
+   "source": "Threads (@threads)",
+   "url": "https://www.threads.com/@threads/post/DfkgGO8Jedq"
+  },
+  {
+   "title": "TikTok adds tools to check AI-generated content",
+   "th": "TikTok ออกเครื่องมือให้ทุกคนตรวจได้ว่าภาพหรือวิดีโอสร้าง/แก้ด้วยเครื่องมือ AI ของ TikTok หรือไม่ และเริ่มเปิด Likeness Detection แบบสมัครใจให้ครีเอเตอร์ที่มีสิทธิ์แจ้งเมื่อมีคนใช้ AI เลียนแบบหน้าตาตัวเอง",
+   "why": "คอนเทนต์ AI ของแบรนด์จะถูกตรวจสอบได้ง่ายขึ้น ต้องติดป้าย AI ให้ถูก และระวังการใช้หน้าครีเอเตอร์โดยไม่ได้รับอนุญาต",
+   "source": "TikTok Newsroom",
+   "url": "https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150"
+  },
+  {
+   "title": "Malaysian brands crash a viral drone proposal",
+   "th": "นักร้อง Fazley Yaakob ขอ Seri Vida แต่งงานด้วยโดรน 1,200 ลำเขียนว่า \"Nak duduk Ipoh ke KL?\" บนเวที TikTok Shop Mega Shock Live Concert คลิปไวรัลบน Threads และมีแบรนด์อย่างน้อย 7 แบรนด์ เช่น Carsome ทำโดรนโชว์เวอร์ชันของตัวเองล้อตาม",
+   "why": "ตัวอย่าง real-time marketing ที่ดี จับโมเมนต์ไวรัลได้ภายในไม่กี่วันด้วยภาพเดียว ไอเดียนี้ใช้กับแบรนด์ลูกค้าได้ตอนมีกระแสในไทย",
+   "source": "Marketing-Interactive",
+   "url": "https://www.marketing-interactive.com/seri-vida-said-yes-to-a-drone-proposal-and-so-did-these-brands"
+  },
+  {
+   "title": "Instagram lets creators add Amazon affiliate links in Reels and posts",
+   "th": "Instagram ให้ครีเอเตอร์ที่มีสิทธิ์ในสหรัฐฯ ใส่ลิงก์ affiliate ของ Amazon ใน Reels และโพสต์ฟีดได้",
+   "why": "Instagram กำลังเปิดทางให้ครีเอเตอร์หาเงินในแอป ถ้าขยายมาไทย อาจเปลี่ยนวิธีจ้างอินฟลูฯ ขายของ",
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
+   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
   }
  ],
  "lifestyle": {
-  "title": "Loy Krathong is tomorrow",
-  "body": "พรุ่งนี้ (อังคาร 24 พ.ย.) วันลอยกระทง เตรียมกระทงจากวัสดุธรรมชาติ เช่น ใบตองหรือขนมปัง หรือลองลอยกระทงออนไลน์ ช่วยลดขยะในแม่น้ำ ใครอยู่ภูเก็ตช่วงนี้ เช็กกฎร้านค้าและเวลาขายแอลกอฮอล์ในวันเทศกาลด้วย",
+  "title": "Happy Loy Krathong!",
+  "body": "คืนนี้ (อังคาร 24 พ.ย.) คือคืนลอยกระทง เลือกกระทงจากวัสดุธรรมชาติ เช่น ใบตองหรือขนมปัง หรือลองลอยออนไลน์เพื่อลดขยะในแม่น้ำ อย่าลืมกินปลาและหอยจากแหล่งที่ปลอดภัย ตามคำเตือนเรื่องแม่น้ำกกของกรมประมง",
   "note": "Based on Bangkok Post, 22–23 Nov 2026"
  },
  "word": {
-  "word": "contamination",
+  "word": "despair",
   "pos": "n.",
-  "ipa": "/kənˌtæm.ɪˈneɪ.ʃən/",
-  "th": "การปนเปื้อน",
-  "def": "the act of making something dirty or harmful by adding a dangerous substance.",
-  "ex": "Thailand wants to reduce contamination of border rivers."
+  "ipa": "/dɪˈsper/",
+  "th": "ความสิ้นหวัง",
+  "def": "the feeling that there is no hope and nothing will get better.",
+  "ex": "Pacific nations expressed despair after the climate talks failed."
  },
  "english": {
-  "title": "Fixing a Story in time",
+  "title": "Chatting outside Instagram",
   "dialogue": [
    [
     "Teammate",
-    "Oh no, I tagged the wrong brand in the client's Story."
+    "Have you seen the new Direct app? It's being tested in Thailand."
    ],
    [
     "Nadda",
-    "Don't panic. You can edit Stories now."
+    "Yes! It's just Instagram DMs, without the feed."
    ],
    [
     "Teammate",
-    "Really? Without deleting it?"
+    "Do you think customers will still message the brand there?"
    ],
    [
     "Nadda",
-    "Yes, but only within 15 minutes. Tap the three dots."
+    "Probably. Let's keep an eye on our DM response time."
    ],
    [
     "Teammate",
-    "Done! The views are still there, too."
+    "Good idea. I'll track it in this week's report."
    ],
    [
     "Nadda",
-    "Great. Let's double-check every tag before we post next time."
+    "Perfect. Let me know if anything changes."
    ]
   ],
   "vocab": [
    [
-    "tag",
-    "แท็ก"
+    "stand-alone",
+    "แยกเป็นอิสระ"
    ],
    [
-    "panic",
-    "ตกใจ/ลนลาน"
+    "keep an eye on",
+    "คอยจับตาดู"
    ],
    [
-    "within",
-    "ภายใน"
+    "response time",
+    "เวลาในการตอบกลับ"
    ],
    [
-    "double-check",
-    "ตรวจซ้ำ"
+    "track",
+    "ติดตาม"
    ],
    [
-    "views",
-    "ยอดวิว"
+    "feed",
+    "ฟีด"
    ]
   ]
  },
  "know": [
   {
-   "title": "What is COP?",
-   "body": "COP ย่อมาจาก Conference of the Parties คือการประชุมประจำปีของประเทศภาคีอนุสัญญาสหประชาชาติว่าด้วยการเปลี่ยนแปลงสภาพภูมิอากาศ (UNFCCC) COP31 คือครั้งที่ 31"
+   "title": "What is AWACS?",
+   "body": "AWACS ย่อมาจาก Airborne Warning and Control System คือเครื่องบินที่มีเรดาร์ขนาดใหญ่บนหลังคา ใช้ตรวจจับเครื่องบินและขีปนาวุธจากระยะไกล แล้วแจ้งเตือนกองกำลังภาคพื้น"
   },
   {
-   "title": "What is Nor Sor 3 (น.ส.3)?",
-   "body": "น.ส.3 คือหนังสือรับรองการทำประโยชน์ในที่ดิน ยืนยันว่าผู้ถือได้ใช้ประโยชน์ในที่ดินนั้น แต่ยังไม่ใช่โฉนด (น.ส.4) ซึ่งเป็นเอกสารกรรมสิทธิ์เต็มรูปแบบ"
+   "title": "What is arsenic?",
+   "body": "สารหนู (arsenic) คือธาตุพิษที่พบได้ในหินและแร่ เมื่อมีการทำเหมือง สารหนูจะปนเปื้อนลงแหล่งน้ำได้ ถ้าได้รับต่อเนื่องเป็นเวลานานจะเป็นอันตรายต่อผิวหนัง ปอด และเพิ่มความเสี่ยงมะเร็ง"
   }
  ],
  "on_this_day": [
   {
-   "year": "1936",
-   "text": "The first issue of LIFE magazine, famous for its photojournalism, was published."
+   "year": "1859",
+   "text": "Charles Darwin published 'On the Origin of Species'."
   },
   {
-   "year": "1963",
-   "text": "Doctor Who was first broadcast on BBC television in the UK."
+   "year": "1971",
+   "text": "A man known as D. B. Cooper hijacked a plane in the US, parachuted out with the ransom money, and was never found."
   }
  ],
  "three_things": [
-  "Try editing an Instagram Story within 15 minutes of posting",
-  "Prepare a natural krathong for tomorrow",
-  "Use the word 'contamination' in one sentence today"
+  "Float a natural krathong tonight",
+  "Try Threads' new search filters on a client brand",
+  "Use the word 'despair' in one sentence today"
  ],
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "weather": {
-  "max": 36,
-  "min": 26,
-  "rain": 7,
-  "uv": 7,
-  "cond": "Overcast",
-  "humidity": 80,
-  "source": "Open-Meteo",
-  "fetched": "06:23"
+  "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
  },
  "wordsearch": {
   "grid": [
-   "RGLRDNRKAY",
-   "BBEBSIGNAL",
-   "GCNSULRJIL",
-   "WLSKDMYEGW",
-   "LIITCNRECB",
-   "TMSRODVDAT",
-   "AAYIYROICE",
-   "GTJVDKYTNY",
-   "TEMENUJCNS",
-   "TNFRGNLHTJ"
+   "DRADARUNIK",
+   "BIHPOYCVGR",
+   "SDROALUCHA",
+   "ITHEJHSSDT",
+   "PDAMCRKIRH",
+   "CWPMLTIKOO",
+   "NWYTPJHVNN",
+   "NHBSYPHVEG",
+   "HRTHREADSR",
+   "VPHOPECECB"
   ],
   "words": [
    {
-    "word": "CLIMATE",
+    "word": "KRATHONG",
     "cells": [
      [
+      0,
+      9
+     ],
+     [
+      1,
+      9
+     ],
+     [
       2,
-      1
+      9
      ],
      [
       3,
-      1
+      9
      ],
      [
       4,
-      1
+      9
      ],
      [
       5,
-      1
+      9
      ],
      [
       6,
-      1
+      9
      ],
      [
       7,
-      1
+      9
+     ]
+    ]
+   },
+   {
+    "word": "THREADS",
+    "cells": [
+     [
+      8,
+      2
      ],
      [
       8,
-      1
+      3
+     ],
+     [
+      8,
+      4
+     ],
+     [
+      8,
+      5
+     ],
+     [
+      8,
+      6
+     ],
+     [
+      8,
+      7
+     ],
+     [
+      8,
+      8
      ]
     ]
    },
@@ -230,81 +268,77 @@
     "cells": [
      [
       0,
-      4
+      0
      ],
      [
       1,
-      5
+      1
      ],
      [
       2,
-      6
-     ],
-     [
-      3,
-      7
-     ],
-     [
-      4,
-      8
-     ],
-     [
-      5,
-      9
-     ]
-    ]
-   },
-   {
-    "word": "SIGNAL",
-    "cells": [
-     [
-      1,
-      4
-     ],
-     [
-      1,
-      5
-     ],
-     [
-      1,
-      6
-     ],
-     [
-      1,
-      7
-     ],
-     [
-      1,
-      8
-     ],
-     [
-      1,
-      9
-     ]
-    ]
-   },
-   {
-    "word": "STORY",
-    "cells": [
-     [
-      3,
       2
      ],
      [
-      4,
+      3,
       3
      ],
      [
-      5,
+      4,
       4
      ],
      [
-      6,
+      5,
       5
+     ]
+    ]
+   },
+   {
+    "word": "DRONE",
+    "cells": [
+     [
+      3,
+      8
+     ],
+     [
+      4,
+      8
+     ],
+     [
+      5,
+      8
+     ],
+     [
+      6,
+      8
      ],
      [
       7,
-      6
+      8
+     ]
+    ]
+   },
+   {
+    "word": "STAMP",
+    "cells": [
+     [
+      2,
+      0
+     ],
+     [
+      3,
+      1
+     ],
+     [
+      4,
+      2
+     ],
+     [
+      5,
+      3
+     ],
+     [
+      6,
+      4
      ]
     ]
    },
@@ -312,83 +346,70 @@
     "word": "RIVER",
     "cells": [
      [
+      4,
+      5
+     ],
+     [
       5,
-      3
+      6
      ],
      [
       6,
-      3
+      7
      ],
      [
       7,
-      3
+      8
      ],
      [
       8,
-      3
-     ],
-     [
-      9,
-      3
+      9
      ]
     ]
    },
    {
-    "word": "EDIT",
+    "word": "RADAR",
     "cells": [
      [
-      4,
-      7
+      0,
+      1
      ],
-     [
-      5,
-      7
-     ],
-     [
-      6,
-      7
-     ],
-     [
-      7,
-      7
-     ]
-    ]
-   },
-   {
-    "word": "LENS",
-    "cells": [
      [
       0,
       2
      ],
      [
-      1,
-      2
+      0,
+      3
      ],
      [
-      2,
-      2
+      0,
+      4
      ],
      [
-      3,
-      2
+      0,
+      5
      ]
     ]
    },
    {
-    "word": "TAG",
+    "word": "HOPE",
     "cells": [
      [
-      5,
-      0
+      9,
+      2
      ],
      [
-      6,
-      0
+      9,
+      3
      ],
      [
-      7,
-      0
+      9,
+      4
+     ],
+     [
+      9,
+      5
      ]
     ]
    }
@@ -397,8 +418,8 @@
  "sudoku": {
   "puzzle": [
    [
+    1,
     0,
-    6,
     0,
     2,
     5,
@@ -407,39 +428,39 @@
    [
     0,
     0,
-    0,
     3,
-    6,
+    1,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
     1
    ],
    [
     0,
-    1,
-    2,
-    5,
-    4,
-    3
+    0,
+    0,
+    0,
+    0,
+    0
    ],
    [
     0,
-    4,
+    2,
+    0,
     3,
-    6,
-    0,
-    2
-   ],
-   [
-    4,
-    0,
-    6,
-    0,
-    0,
-    5
+    1,
+    0
    ],
    [
     0,
-    2,
-    5,
+    1,
+    0,
     4,
     0,
     0
@@ -447,52 +468,52 @@
   ],
   "solution": [
    [
-    3,
-    6,
     1,
-    2,
-    5,
-    4
-   ],
-   [
-    2,
-    5,
-    4,
-    3,
     6,
-    1
-   ],
-   [
-    6,
-    1,
+    4,
     2,
     5,
-    4,
     3
    ],
    [
+    2,
     5,
-    4,
     3,
-    6,
     1,
+    6,
+    4
+   ],
+   [
+    6,
+    4,
+    2,
+    5,
+    3,
+    1
+   ],
+   [
+    5,
+    3,
+    1,
+    6,
+    4,
     2
    ],
    [
     4,
-    3,
-    6,
-    1,
-    2,
-    5
-   ],
-   [
-    1,
     2,
     5,
-    4,
     3,
+    1,
     6
+   ],
+   [
+    3,
+    1,
+    6,
+    4,
+    2,
+    5
    ]
   ]
  }
