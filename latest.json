@@ -1,300 +1,241 @@
 {
- "issue_no": 43,
- "tagline": "ปลาและหอยแม่น้ำกกพบสารหนูเกินมาตรฐาน · NATO ส่ง AWACS ช่วยโปแลนด์ · Meta ทดสอบแอป Direct ในไทย",
+ "issue_no": 44,
+ "tagline": "ไทยขอเมียนมาพักเหมืองฉาน 6 เดือน · Huawei ถูกตัดสินมีความผิดในสหรัฐฯ · Muse AI เข้า DM ของ Instagram",
  "thailand": [
   {
    "lead": true,
-   "title": "Unsafe arsenic levels detected in 10 Kok River aquatic species",
-   "th": "กรมประมงตรวจสัตว์น้ำ 300 ชนิดจากแม่น้ำกก จ.เชียงราย พบ 10 ชนิดมีสารหนูเกินระดับปลอดภัย เช่น กุ้งน้ำจืด หอยเชอรี่ หอยขม และหอยกาบ จึงเตือนประชาชนงดบริโภค ต้นเหตุคือโลหะหนักจากเหมืองที่ไม่มีการควบคุมในเมียนมา",
-   "en": "The Department of Fisheries warns people not to eat the affected species.",
+   "title": "Thais seek Shan mining pause",
+   "th": "ไทยจะขอให้เมียนมาหยุดเหมืองที่ไม่มีการควบคุมในรัฐฉานเป็นเวลา 6 เดือน เพื่อให้ไทยและจีนวางแผนลดสารหนูในแม่น้ำ รองนายกฯ ยศชนัน วงศ์สวัสดิ์ เผยก่อนการประชุม 3 ฝ่าย ไทย-เมียนมา-จีน เรื่องคุณภาพน้ำในแม่น้ำข้ามพรมแดน วันพุธและพฤหัสนี้",
+   "en": "The talks aim to cut arsenic pollution in rivers along the Thai-Myanmar border.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3359815/unsafe-arsenic-levels-detected-in-10-kok-river-aquatic-species"
+   "url": "https://www.bangkokpost.com/thailand/general/3360584/thais-seek-shan-mining-pause"
   },
   {
-   "title": "Thai National Dress to feature on UN stamp series",
-   "th": "ชุดไทยศิวาลัย (หญิง) และเสื้อพระราชทานแขนยาวคาดผ้า (ชาย) ได้อยู่บนแสตมป์ชุด 'National Costumes' ของไปรษณีย์สหประชาชาติ (UNPA) ราคา 1.20 ฟรังก์สวิส ออกที่เจนีวา ร่วมกับชุดประจำชาติอีก 8 ประเทศ",
-   "en": "Thailand's textile heritage goes global on a UN stamp.",
-   "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3359850/thai-national-dress-to-feature-on-un-stamp-series"
+   "title": "Clean Air Bill faces crucial House vote today",
+   "th": "ร่าง พ.ร.บ.บริหารจัดการอากาศสะอาด เข้าสภาฯ วันนี้ (25 พ.ย.) หลังผลักดันมา 7 ปี เน้นสิทธิในอากาศสะอาดและหลัก 'ผู้ก่อมลพิษเป็นผู้จ่าย' ขณะที่ PM2.5 เริ่มเกินมาตรฐานใน 6 สถานีเมื่อวานเช้า",
+   "en": "PM2.5 is rising again ahead of the haze season.",
+   "source": "Nation Thailand",
+   "url": "https://www.nationthailand.com/news/general/40073871"
   },
   {
-   "title": "Dems to grill Chaichanok, PM in debate",
-   "th": "พรรคประชาธิปัตย์ โดยนายอภิสิทธิ์ เวชชาชีวะ เตรียมพุ่งเป้าอภิปรายไม่ไว้วางใจนายกฯ อนุทิน ชาญวีรกูล และ รมว.ดีอี ชัยชนก ชิดชอบ ในการอภิปรายวันที่ 7–11 ธ.ค. นี้",
-   "en": "The no-confidence debate runs Dec 7–11.",
+   "title": "Police step up security for Loy Krathong",
+   "th": "ตำรวจเพิ่มกำลังดูแลความปลอดภัยทั่วประเทศช่วงลอยกระทง ทั้งจุดลอยกระทงริมน้ำและพื้นที่คนหนาแน่น",
+   "en": "Police were out in force at Loy Krathong sites nationwide.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/politics/3359969/dems-to-grill-chaichanok-pm-in-debate"
+   "url": "https://www.bangkokpost.com/thailand/general/3360409/police-step-up-security-for-loy-krathong"
   }
  ],
  "world": [
   {
    "lead": true,
-   "title": "NATO to send early-warning aircraft to Poland after missiles incident",
-   "th": "NATO จะส่งเครื่องบินแจ้งเตือนภัยล่วงหน้า AWACS ไปโปแลนด์ หลังขีปนาวุธ Kh-101 ของรัสเซีย 3 ลูกตกในโปแลนด์เมื่อวันศุกร์ ทำให้กังวลว่าสงครามยูเครนอาจลามเข้าเขต NATO",
-   "en": "Poland says the AWACS gives 'deeper operational awareness'.",
-   "source": "Reuters",
-   "url": "https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/"
+   "title": "China's Huawei convicted at US criminal trial",
+   "th": "Huawei ถูกศาลสหรัฐฯ ตัดสินมีความผิดเมื่อ 24 พ.ย. ในคดีที่รวมข้อหาหลอกธนาคารเรื่องธุรกิจในอิหร่านและขโมยความลับทางการค้าจากบริษัทสหรัฐฯ คดีเริ่มตั้งแต่ปี 2018",
+   "en": "Experts say the case has not undermined Huawei's business.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-25-2026"
   },
   {
-   "title": "Australia to treat AI as key foreign policy challenge",
-   "th": "ออสเตรเลียจะยก AI เป็นความท้าทายหลักด้านนโยบายต่างประเทศ รมว.ต่างประเทศ Penny Wong เตือนว่า AI กำลังเปลี่ยนรากฐานสังคม และเปิดช่องให้ต่างชาติแทรกแซงประชาธิปไตยได้",
-   "en": "AI joins US–China competition on the foreign policy agenda.",
-   "source": "Reuters",
-   "url": "https://www.reuters.com/5f374b32b07b/world/asia-pacific/australia-treat-ai-key-foreign-policy-challenge-2026-11-23/"
+   "title": "Nvidia's Huang apologises to staff a day after reinstatement",
+   "th": "Jensen Huang ขอโทษพนักงาน Nvidia ที่ละเมิดจรรยาบรรณบริษัท และบอกว่ากำลังเข้ารับการบำบัด หนึ่งวันหลังได้กลับมาเป็น CEO หลังทรัมป์เข้าแทรกแซง",
+   "en": "Trump's intervention restored Huang as Nvidia CEO.",
+   "source": "The Straits Times / Reuters",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-25-2026"
   },
   {
-   "title": "COP flop triggers backlash in Australia; Pacific nations express despair",
-   "th": "หลังการประชุม COP31 จบลงโดยไม่มีข้อตกลง เกิดเสียงวิจารณ์ในออสเตรเลีย และกลุ่มประเทศหมู่เกาะแปซิฟิกแสดงความผิดหวังอย่างมาก",
-   "en": "Pacific nations say they are in despair.",
-   "source": "Reuters",
-   "url": "https://www.reuters.com/3fec1b0a85a0/sustainability/cop/cop-flop-triggers-backlash-australia-pacific-nations-express-despair-2026-11-23/"
+   "title": "Taiwan's elections not about China, but Beijing has a lot to say",
+   "th": "ไต้หวันเลือกตั้งนายกเทศมนตรีและผู้ว่าการเขตวันเสาร์นี้ จีนโจมตีผู้สมัครนายกเทศมนตรีไทเปของพรรค DPP คือ Puma Shen ว่าเป็น 'คนทรยศ'",
+   "en": "China calls the DPP's Taipei candidate a 'traitor'.",
+   "source": "Reuters (via Devdiscourse)",
+   "url": "https://www.devdiscourse.com/article/international/4011410-reuters-world-news-summary"
   }
  ],
  "social": [
   {
-   "title": "Meta tests Direct, a stand-alone Instagram DM app — in Thailand first",
-   "th": "Meta เริ่มทดสอบแอป Direct สำหรับแชต DM ของ Instagram โดยเปิดก่อนที่ตุรกีและไทย ใช้ได้ทั้งมีและไม่มีบัญชี Instagram เน้นแชตเดี่ยวและกลุ่มกับเพื่อนและครอบครัว",
-   "why": "ไทยคือตลาดทดลอง ถ้าคนย้ายไปแชตใน Direct แบรนด์ที่ใช้ DM ปิดการขายหรือรับคำถามลูกค้าต้องดูว่าแชตยังเข้าถึงได้เหมือนเดิมไหม",
+   "title": "Meta brings Muse AI into Instagram DMs",
+   "th": "ผู้ใช้ Instagram แชตกับ Muse AI ใน DM ได้แล้ว ถามข้อมูลเพิ่มเติมเกี่ยวกับโพสต์ สถานที่ หรือสินค้าที่เห็น และสรุปแชตที่พลาดไป เริ่มที่สหรัฐฯ แคนาดา เม็กซิโก ญี่ปุ่น และสิงคโปร์",
+   "why": "คนจะถาม AI เรื่องสินค้าในโพสต์แบรนด์มากขึ้น แคปชันและข้อมูลสินค้าต้องชัดพอให้ AI ตอบแทนเราได้ถูก",
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/"
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
   },
   {
-   "title": "Threads rolls out advanced search filters",
-   "th": "Threads เปิดตัวการค้นหาขั้นสูง กดเมนูฟิลเตอร์ในช่องค้นหาเพื่อกรองตามช่วงวันที่ คอมมูนิตี้ ประเภทโพสต์ และเลือกให้แสดงเฉพาะคำที่ตรงกันเป๊ะได้",
-   "why": "ใช้ทำ social listening ได้ง่ายขึ้น ค้นชื่อแบรนด์ลูกค้าหรือคู่แข่งแบบกรองวันที่ได้ทันที",
-   "source": "Threads (@threads)",
-   "url": "https://www.threads.com/@threads/post/DfkgGO8Jedq"
-  },
-  {
-   "title": "TikTok adds tools to check AI-generated content",
-   "th": "TikTok ออกเครื่องมือให้ทุกคนตรวจได้ว่าภาพหรือวิดีโอสร้าง/แก้ด้วยเครื่องมือ AI ของ TikTok หรือไม่ และเริ่มเปิด Likeness Detection แบบสมัครใจให้ครีเอเตอร์ที่มีสิทธิ์แจ้งเมื่อมีคนใช้ AI เลียนแบบหน้าตาตัวเอง",
-   "why": "คอนเทนต์ AI ของแบรนด์จะถูกตรวจสอบได้ง่ายขึ้น ต้องติดป้าย AI ให้ถูก และระวังการใช้หน้าครีเอเตอร์โดยไม่ได้รับอนุญาต",
-   "source": "TikTok Newsroom",
-   "url": "https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content?lang=en-150"
-  },
-  {
-   "title": "Malaysian brands crash a viral drone proposal",
-   "th": "นักร้อง Fazley Yaakob ขอ Seri Vida แต่งงานด้วยโดรน 1,200 ลำเขียนว่า \"Nak duduk Ipoh ke KL?\" บนเวที TikTok Shop Mega Shock Live Concert คลิปไวรัลบน Threads และมีแบรนด์อย่างน้อย 7 แบรนด์ เช่น Carsome ทำโดรนโชว์เวอร์ชันของตัวเองล้อตาม",
-   "why": "ตัวอย่าง real-time marketing ที่ดี จับโมเมนต์ไวรัลได้ภายในไม่กี่วันด้วยภาพเดียว ไอเดียนี้ใช้กับแบรนด์ลูกค้าได้ตอนมีกระแสในไทย",
-   "source": "Marketing-Interactive",
-   "url": "https://www.marketing-interactive.com/seri-vida-said-yes-to-a-drone-proposal-and-so-did-these-brands"
-  },
-  {
-   "title": "Instagram lets creators add Amazon affiliate links in Reels and posts",
-   "th": "Instagram ให้ครีเอเตอร์ที่มีสิทธิ์ในสหรัฐฯ ใส่ลิงก์ affiliate ของ Amazon ใน Reels และโพสต์ฟีดได้",
-   "why": "Instagram กำลังเปิดทางให้ครีเอเตอร์หาเงินในแอป ถ้าขยายมาไทย อาจเปลี่ยนวิธีจ้างอินฟลูฯ ขายของ",
+   "title": "Threads comes to iPad and adds cashtags",
+   "th": "Threads เปิดแอปบน iPad และเพิ่ม cashtag แสดงราคาหุ้น กราฟ และข้อมูลค้นหาสำหรับหุ้น NYSE/Nasdaq, ETF และคริปโต",
+   "why": "Threads กำลังดึงบทสนทนาเชิงข่าวและการเงินแบบ X มา ลองดูว่าหัวข้อของลูกค้าไปเกิดบน Threads มากขึ้นไหม",
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
+   "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/"
+  },
+  {
+   "title": "X adds video thumbnail and caption options",
+   "th": "X เพิ่มการเลือกภาพปกวิดีโอ สไตล์และสีคำบรรยายแบบใหม่ และตัวเลือกเลย์เอาต์ X บอกว่าโพสต์วิดีโอได้รีชและเอนเกจเมนต์มากกว่า 5 เท่า และ 36% ของอิมเพรสชันทั้งหมดมาจากวิดีโอ",
+   "why": "ถ้าลงคลิปบน X ให้เลือกปกเองและใส่คำบรรยาย จะได้รีชดีกว่าปล่อยค่าเริ่มต้น",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/x-adds-new-video-thumbnail-and-caption-options/875428/"
+  },
+  {
+   "title": "Khemjira Forever finale trends worldwide with 550K+ posts",
+   "th": "แฟนซีรีส์ 'เขมจิรา' ดันแฮชแท็กตอนจบขึ้นเทรนด์โลกบน X โดย 'KHEMJIRA FOREVER FINAL EP' ทะลุ 557,000 โพสต์ ทราฟฟิกหลักจากอินโดนีเซีย ไทย และอาเซียน",
+   "why": "ด้อมซีรีส์ไทยยังเป็นเครื่องยนต์เทรนด์ระดับภูมิภาค แบรนด์ที่จับมือนักแสดงต้องวางคอนเทนต์ให้ตรงคืนออกอากาศ",
+   "source": "The Gulf Observer",
+   "url": "https://thegulfobserver.com/khemjira-forever-final-episode/"
+  },
+  {
+   "title": "GrabFood MEGA GALE x Tle-Firstone exclusive live",
+   "th": "GrabFood จัดไลฟ์ 'MY MER-MEAL ฮีโร่เงือกหนุ่ม กู้ด่วนความหิว' กับ เต้ ไฟร์สโตน เมื่อ 24 พ.ย. ในแคมเปญ MEGA GALE ถูกกว่าชัวร์* ที่มีโค้ดส่วนลดรายวันถึงสิ้นเดือน",
+   "why": "ตัวอย่างการใช้ไลฟ์กับดาราผูกโค้ดส่วนลดรายวัน ยืดกระแสแคมเปญทั้งเดือน ไม่ใช่แค่วันเดียว",
+   "source": "Grab TH",
+   "url": "https://www.grab.com/th/en/blog/livetlefirstone24nov2026/"
   }
  ],
  "lifestyle": {
-  "title": "Happy Loy Krathong!",
-  "body": "คืนนี้ (อังคาร 24 พ.ย.) คือคืนลอยกระทง เลือกกระทงจากวัสดุธรรมชาติ เช่น ใบตองหรือขนมปัง หรือลองลอยออนไลน์เพื่อลดขยะในแม่น้ำ อย่าลืมกินปลาและหอยจากแหล่งที่ปลอดภัย ตามคำเตือนเรื่องแม่น้ำกกของกรมประมง",
-  "note": "Based on Bangkok Post, 22–23 Nov 2026"
+  "title": "PM2.5 is back",
+  "body": "ฝุ่น PM2.5 เริ่มเกินมาตรฐานในบางพื้นที่แล้ว เช็กค่าฝุ่นในแอป Air4Thai ก่อนออกจากบ้าน พกหน้ากาก N95 ติดกระเป๋า และถ้าออกกำลังกายกลางแจ้ง เลือกวันที่ค่าฝุ่นต่ำ",
+  "note": "Based on Nation Thailand, 24 Nov 2026"
  },
  "word": {
-  "word": "despair",
+  "word": "suspension",
   "pos": "n.",
-  "ipa": "/dɪˈsper/",
-  "th": "ความสิ้นหวัง",
-  "def": "the feeling that there is no hope and nothing will get better.",
-  "ex": "Pacific nations expressed despair after the climate talks failed."
+  "ipa": "/səˈspen.ʃən/",
+  "th": "การระงับชั่วคราว",
+  "def": "a temporary stop to an activity.",
+  "ex": "Thailand asked for a six-month suspension of mining in Shan State."
  },
  "english": {
-  "title": "Chatting outside Instagram",
+  "title": "Asking the AI in your DMs",
   "dialogue": [
    [
     "Teammate",
-    "Have you seen the new Direct app? It's being tested in Thailand."
+    "Did you see Instagram added Muse AI to DMs?"
    ],
    [
     "Nadda",
-    "Yes! It's just Instagram DMs, without the feed."
+    "Yes. People can ask it about a product they see in a post."
    ],
    [
     "Teammate",
-    "Do you think customers will still message the brand there?"
+    "So the AI might answer for our client's brand?"
    ],
    [
     "Nadda",
-    "Probably. Let's keep an eye on our DM response time."
+    "Exactly. Our captions need clear product details."
    ],
    [
     "Teammate",
-    "Good idea. I'll track it in this week's report."
+    "Should I update the product info in our posts?"
    ],
    [
     "Nadda",
-    "Perfect. Let me know if anything changes."
+    "Please do. Let's review it together on Friday."
    ]
   ],
   "vocab": [
    [
-    "stand-alone",
-    "แยกเป็นอิสระ"
+    "assistant",
+    "ผู้ช่วย"
    ],
    [
-    "keep an eye on",
-    "คอยจับตาดู"
+    "product details",
+    "รายละเอียดสินค้า"
    ],
    [
-    "response time",
-    "เวลาในการตอบกลับ"
+    "update",
+    "อัปเดต / ปรับปรุง"
    ],
    [
-    "track",
-    "ติดตาม"
-   ],
-   [
-    "feed",
-    "ฟีด"
+    "review",
+    "ตรวจทาน"
    ]
   ]
  },
  "know": [
   {
-   "title": "What is AWACS?",
-   "body": "AWACS ย่อมาจาก Airborne Warning and Control System คือเครื่องบินที่มีเรดาร์ขนาดใหญ่บนหลังคา ใช้ตรวจจับเครื่องบินและขีปนาวุธจากระยะไกล แล้วแจ้งเตือนกองกำลังภาคพื้น"
+   "title": "What is PM2.5?",
+   "body": "PM2.5 คือฝุ่นละอองขนาดไม่เกิน 2.5 ไมครอน เล็กกว่าเส้นผมราว 25 เท่า เข้าลึกถึงปอดและกระแสเลือดได้ มาตรฐานไทยเฉลี่ย 24 ชั่วโมงอยู่ที่ 37.5 ไมโครกรัมต่อลูกบาศก์เมตร"
   },
   {
-   "title": "What is arsenic?",
-   "body": "สารหนู (arsenic) คือธาตุพิษที่พบได้ในหินและแร่ เมื่อมีการทำเหมือง สารหนูจะปนเปื้อนลงแหล่งน้ำได้ ถ้าได้รับต่อเนื่องเป็นเวลานานจะเป็นอันตรายต่อผิวหนัง ปอด และเพิ่มความเสี่ยงมะเร็ง"
+   "title": "What does 'polluter pays' mean?",
+   "body": "หลัก 'ผู้ก่อมลพิษเป็นผู้จ่าย' หมายถึงคนหรือธุรกิจที่สร้างมลพิษต้องรับผิดชอบค่าใช้จ่ายในการแก้ไข เช่น ภาษีหรือค่าธรรมเนียม เพื่อจูงใจให้ลดมลพิษตั้งแต่ต้นทาง"
   }
  ],
  "on_this_day": [
   {
-   "year": "1859",
-   "text": "Charles Darwin published 'On the Origin of Species'."
+   "year": "1915",
+   "text": "Albert Einstein presented the field equations of general relativity to the Prussian Academy of Sciences."
   },
   {
-   "year": "1971",
-   "text": "A man known as D. B. Cooper hijacked a plane in the US, parachuted out with the ransom money, and was never found."
+   "year": "1952",
+   "text": "Agatha Christie's play 'The Mousetrap' opened in London; it became the world's longest-running play."
   }
  ],
  "three_things": [
-  "Float a natural krathong tonight",
-  "Try Threads' new search filters on a client brand",
-  "Use the word 'despair' in one sentence today"
+  "Check today's PM2.5 before heading out",
+  "Read one client caption as if an AI had to answer from it",
+  "Use the word 'suspension' in a sentence today"
  ],
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "weather": {
-  "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
+  "max": 34,
+  "min": 28,
+  "rain": 37,
+  "uv": 7,
+  "cond": "Light drizzle",
+  "humidity": 68,
+  "source": "Open-Meteo",
+  "fetched": "06:27"
  },
  "wordsearch": {
   "grid": [
-   "DRADARUNIK",
-   "BIHPOYCVGR",
-   "SDROALUCHA",
-   "ITHEJHSSDT",
-   "PDAMCRKIRH",
-   "CWPMLTIKOO",
-   "NWYTPJHVNN",
-   "NHBSYPHVEG",
-   "HRTHREADSR",
-   "VPHOPECECB"
+   "ACNVIDEOIH",
+   "MELKPTSAMM",
+   "ITOONHIACU",
+   "NAOMNRKCAS",
+   "IITUCEHBPE",
+   "NRUKLASPTU",
+   "GVGAEDWRIL",
+   "GVIOASGTOF",
+   "ALEANABANE",
+   "RDTRIVERGE"
   ],
   "words": [
-   {
-    "word": "KRATHONG",
-    "cells": [
-     [
-      0,
-      9
-     ],
-     [
-      1,
-      9
-     ],
-     [
-      2,
-      9
-     ],
-     [
-      3,
-      9
-     ],
-     [
-      4,
-      9
-     ],
-     [
-      5,
-      9
-     ],
-     [
-      6,
-      9
-     ],
-     [
-      7,
-      9
-     ]
-    ]
-   },
    {
     "word": "THREADS",
     "cells": [
      [
-      8,
-      2
-     ],
-     [
-      8,
-      3
-     ],
-     [
-      8,
-      4
-     ],
-     [
-      8,
+      1,
       5
      ],
      [
-      8,
-      6
-     ],
-     [
-      8,
-      7
-     ],
-     [
-      8,
-      8
-     ]
-    ]
-   },
-   {
-    "word": "DIRECT",
-    "cells": [
-     [
-      0,
-      0
-     ],
-     [
-      1,
-      1
-     ],
-     [
       2,
-      2
+      5
      ],
      [
       3,
-      3
+      5
      ],
      [
       4,
-      4
+      5
      ],
      [
       5,
       5
+     ],
+     [
+      6,
+      5
+     ],
+     [
+      7,
+      5
      ]
     ]
    },
    {
-    "word": "DRONE",
+    "word": "CAPTION",
     "cells": [
+     [
+      2,
+      8
+     ],
      [
       3,
       8
@@ -314,30 +255,63 @@
      [
       7,
       8
+     ],
+     [
+      8,
+      8
      ]
     ]
    },
    {
-    "word": "STAMP",
+    "word": "MINING",
     "cells": [
+     [
+      1,
+      0
+     ],
      [
       2,
       0
      ],
      [
       3,
-      1
+      0
      ],
      [
       4,
-      2
+      0
      ],
      [
       5,
-      3
+      0
      ],
      [
       6,
+      0
+     ]
+    ]
+   },
+   {
+    "word": "CLEAN",
+    "cells": [
+     [
+      4,
+      4
+     ],
+     [
+      5,
+      4
+     ],
+     [
+      6,
+      4
+     ],
+     [
+      7,
+      4
+     ],
+     [
+      8,
       4
      ]
     ]
@@ -346,70 +320,87 @@
     "word": "RIVER",
     "cells": [
      [
-      4,
+      9,
+      3
+     ],
+     [
+      9,
+      4
+     ],
+     [
+      9,
       5
      ],
      [
-      5,
+      9,
       6
      ],
      [
-      6,
+      9,
       7
+     ]
+    ]
+   },
+   {
+    "word": "VIDEO",
+    "cells": [
+     [
+      0,
+      3
      ],
      [
-      7,
-      8
+      0,
+      4
      ],
      [
-      8,
+      0,
+      5
+     ],
+     [
+      0,
+      6
+     ],
+     [
+      0,
+      7
+     ]
+    ]
+   },
+   {
+    "word": "MUSE",
+    "cells": [
+     [
+      1,
+      9
+     ],
+     [
+      2,
+      9
+     ],
+     [
+      3,
+      9
+     ],
+     [
+      4,
       9
      ]
     ]
    },
    {
-    "word": "RADAR",
+    "word": "AIR",
     "cells": [
      [
-      0,
+      3,
       1
      ],
      [
-      0,
-      2
+      4,
+      1
      ],
      [
-      0,
-      3
-     ],
-     [
-      0,
-      4
-     ],
-     [
-      0,
-      5
-     ]
-    ]
-   },
-   {
-    "word": "HOPE",
-    "cells": [
-     [
-      9,
-      2
-     ],
-     [
-      9,
-      3
-     ],
-     [
-      9,
-      4
-     ],
-     [
-      9,
-      5
+      5,
+      1
      ]
     ]
    }
@@ -418,102 +409,102 @@
  "sudoku": {
   "puzzle": [
    [
-    1,
-    0,
-    0,
-    2,
-    5,
-    0
-   ],
-   [
-    0,
-    0,
-    3,
-    1,
-    0,
-    0
-   ],
-   [
-    0,
-    0,
-    0,
-    0,
-    0,
-    1
-   ],
-   [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    0,
-    2,
-    0,
-    3,
-    1,
-    0
-   ],
-   [
-    0,
-    1,
-    0,
     4,
+    5,
+    3,
+    6,
+    2,
+    0
+   ],
+   [
+    6,
     0,
+    1,
+    0,
+    0,
+    0
+   ],
+   [
+    3,
+    0,
+    2,
+    0,
+    0,
+    5
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    6,
+    0
+   ],
+   [
+    0,
+    0,
+    6,
+    0,
+    1,
+    4
+   ],
+   [
+    2,
+    1,
+    0,
+    0,
+    3,
     0
    ]
   ],
   "solution": [
    [
-    1,
-    6,
     4,
+    5,
+    3,
+    6,
     2,
+    1
+   ],
+   [
+    6,
+    2,
+    1,
+    4,
     5,
     3
    ],
    [
-    2,
-    5,
     3,
-    1,
     6,
-    4
+    2,
+    1,
+    4,
+    5
    ],
    [
-    6,
-    4,
-    2,
-    5,
-    3,
-    1
-   ],
-   [
-    5,
-    3,
     1,
-    6,
     4,
+    5,
+    3,
+    6,
     2
    ],
    [
-    4,
-    2,
     5,
     3,
+    6,
+    2,
     1,
-    6
+    4
    ],
    [
-    3,
-    1,
-    6,
-    4,
     2,
-    5
+    1,
+    4,
+    5,
+    3,
+    6
    ]
   ]
  }
