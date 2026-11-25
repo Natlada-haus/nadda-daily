@@ -1,293 +1,290 @@
 {
- "issue_no": 44,
- "tagline": "ไทยขอเมียนมาพักเหมืองฉาน 6 เดือน · Huawei ถูกตัดสินมีความผิดในสหรัฐฯ · Muse AI เข้า DM ของ Instagram",
+ "issue_no": 45,
+ "tagline": "สหรัฐฯ เสนอภาษีสินค้าไทยสูงสุด 18% · สภาผ่าน พ.ร.บ.อากาศสะอาด 430 เสียง · Muse AI ของ Meta บุกอังกฤษ",
  "thailand": [
   {
    "lead": true,
-   "title": "Thais seek Shan mining pause",
-   "th": "ไทยจะขอให้เมียนมาหยุดเหมืองที่ไม่มีการควบคุมในรัฐฉานเป็นเวลา 6 เดือน เพื่อให้ไทยและจีนวางแผนลดสารหนูในแม่น้ำ รองนายกฯ ยศชนัน วงศ์สวัสดิ์ เผยก่อนการประชุม 3 ฝ่าย ไทย-เมียนมา-จีน เรื่องคุณภาพน้ำในแม่น้ำข้ามพรมแดน วันพุธและพฤหัสนี้",
-   "en": "The talks aim to cut arsenic pollution in rivers along the Thai-Myanmar border.",
-   "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3360584/thais-seek-shan-mining-pause"
-  },
-  {
-   "title": "Clean Air Bill faces crucial House vote today",
-   "th": "ร่าง พ.ร.บ.บริหารจัดการอากาศสะอาด เข้าสภาฯ วันนี้ (25 พ.ย.) หลังผลักดันมา 7 ปี เน้นสิทธิในอากาศสะอาดและหลัก 'ผู้ก่อมลพิษเป็นผู้จ่าย' ขณะที่ PM2.5 เริ่มเกินมาตรฐานใน 6 สถานีเมื่อวานเช้า",
-   "en": "PM2.5 is rising again ahead of the haze season.",
+   "title": "Thai exports face new US tariffs of up to 18%",
+   "th": "สหรัฐฯ (USTR) เสนอเก็บภาษีสินค้าไทยสูงสุด 18% ภายใต้มาตรา 301 อ้างเรื่องกำลังการผลิตส่วนเกิน อัตรานี้ยังไม่ใช่ข้อสรุป เปิดรับความเห็นถึง 5 ม.ค. 2027 และไต่สวนสาธารณะ 25 ม.ค. ส่วนเวียดนามโดนสูงสุด 35% ผู้ส่งออกไทยเริ่มกังวล",
+   "en": "The rate is a proposed cap, with some goods exempt.",
    "source": "Nation Thailand",
-   "url": "https://www.nationthailand.com/news/general/40073871"
+   "url": "https://www.nationthailand.com/news/world/40073928"
   },
   {
-   "title": "Police step up security for Loy Krathong",
-   "th": "ตำรวจเพิ่มกำลังดูแลความปลอดภัยทั่วประเทศช่วงลอยกระทง ทั้งจุดลอยกระทงริมน้ำและพื้นที่คนหนาแน่น",
-   "en": "Police were out in force at Loy Krathong sites nationwide.",
+   "title": "House passes Clean Air Bill 430–0",
+   "th": "สภาผู้แทนราษฎรผ่านร่าง พ.ร.บ.บริหารจัดการอากาศสะอาดฉบับแก้ไขเป็นเอกฉันท์ 430 เสียง เมื่อ 25 พ.ย. ต่อไปวุฒิสภาจะลงมติวันจันทร์ที่ 30 พ.ย.",
+   "en": "The Senate votes on Monday, Nov 30.",
+   "source": "Nation Thailand",
+   "url": "https://www.nationthailand.com/news/politics/40073921"
+  },
+  {
+   "title": "15 provinces on flood alert, Nov 27–30",
+   "th": "ปภ. เตือนประจวบคีรีขันธ์และ 14 จังหวัดภาคใต้ เฝ้าระวังน้ำท่วมฉับพลัน น้ำป่า ดินโคลนถล่ม ช่วง 27–30 พ.ย. ขอความช่วยเหลือโทร 1784",
+   "en": "Call 1784 for emergency help.",
+   "source": "Nation Thailand",
+   "url": "https://www.nationthailand.com/news/general/40073922"
+  },
+  {
+   "title": "Phuket to host B1bn Muay Thai stadium",
+   "th": "เวทีราชดำเนินเตรียมเปิดสนามมวยแห่งแรกนอกกรุงเทพฯ ที่ Central Phuket ราวต้นปี 2029 มูลค่ากว่า 1 พันล้านบาท 2,500 ที่นั่ง ตั้งเป้านักท่องเที่ยวต่างชาติ 1 ล้านคนต่อปี",
+   "en": "It is Rajadamnern's first venue outside Bangkok.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/thailand/general/3360409/police-step-up-security-for-loy-krathong"
+   "url": "https://www.bangkokpost.com/business/general/3361239/phuket-to-host-b1bn-muay-thai-stadium"
   }
  ],
  "world": [
   {
    "lead": true,
-   "title": "China's Huawei convicted at US criminal trial",
-   "th": "Huawei ถูกศาลสหรัฐฯ ตัดสินมีความผิดเมื่อ 24 พ.ย. ในคดีที่รวมข้อหาหลอกธนาคารเรื่องธุรกิจในอิหร่านและขโมยความลับทางการค้าจากบริษัทสหรัฐฯ คดีเริ่มตั้งแต่ปี 2018",
-   "en": "Experts say the case has not undermined Huawei's business.",
-   "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-25-2026"
-  },
-  {
-   "title": "Nvidia's Huang apologises to staff a day after reinstatement",
-   "th": "Jensen Huang ขอโทษพนักงาน Nvidia ที่ละเมิดจรรยาบรรณบริษัท และบอกว่ากำลังเข้ารับการบำบัด หนึ่งวันหลังได้กลับมาเป็น CEO หลังทรัมป์เข้าแทรกแซง",
-   "en": "Trump's intervention restored Huang as Nvidia CEO.",
+   "title": "US proposes new tariffs on 14 trading partners",
+   "th": "รัฐบาลทรัมป์เสนอภาษีใหม่กับคู่ค้า 14 ประเทศ เพื่อตอบโต้ 'กำลังการผลิตส่วนเกิน' เช่น สิงคโปร์สูงสุด 20% และอาจลดเหลือ 10% หากบรรลุข้อตกลงการค้า",
+   "en": "Washington blames excess industrial capacity for cheap exports.",
    "source": "The Straits Times / Reuters",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-25-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-26-2026"
   },
   {
-   "title": "Taiwan's elections not about China, but Beijing has a lot to say",
-   "th": "ไต้หวันเลือกตั้งนายกเทศมนตรีและผู้ว่าการเขตวันเสาร์นี้ จีนโจมตีผู้สมัครนายกเทศมนตรีไทเปของพรรค DPP คือ Puma Shen ว่าเป็น 'คนทรยศ'",
-   "en": "China calls the DPP's Taipei candidate a 'traitor'.",
-   "source": "Reuters (via Devdiscourse)",
-   "url": "https://www.devdiscourse.com/article/international/4011410-reuters-world-news-summary"
+   "title": "At least 30 killed in Egypt fuel-truck blaze",
+   "th": "รถบรรทุกผลิตภัณฑ์ปิโตรเลียมพลิกคว่ำและไฟลุกบนถนนวงแหวนสายหลักในกิซา อียิปต์ มีผู้เสียชีวิตอย่างน้อย 30 ราย บาดเจ็บ 15 ราย",
+   "en": "The fire broke out above a tunnel in Giza's Al-Warraq district.",
+   "source": "The Straits Times / AFP",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-26-2026"
+  },
+  {
+   "title": "'Hope' wins best film at Blue Dragon Awards",
+   "th": "หนังไซไฟสัตว์ประหลาด Hope ของ นา ฮงจิน คว้ารางวัลภาพยนตร์ยอดเยี่ยมเวที Blue Dragon ครั้งที่ 47 ขณะที่ Possible Love ของ อี ชางดง ได้ 4 รางวัล รวมนำชายและนำหญิง",
+   "en": "Hope starred Jung Ho-yeon, Zo In-sung and Hwang Jung-min.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-26-2026"
   }
  ],
  "social": [
   {
-   "title": "Meta brings Muse AI into Instagram DMs",
-   "th": "ผู้ใช้ Instagram แชตกับ Muse AI ใน DM ได้แล้ว ถามข้อมูลเพิ่มเติมเกี่ยวกับโพสต์ สถานที่ หรือสินค้าที่เห็น และสรุปแชตที่พลาดไป เริ่มที่สหรัฐฯ แคนาดา เม็กซิโก ญี่ปุ่น และสิงคโปร์",
-   "why": "คนจะถาม AI เรื่องสินค้าในโพสต์แบรนด์มากขึ้น แคปชันและข้อมูลสินค้าต้องชัดพอให้ AI ตอบแทนเราได้ถูก",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
-  },
-  {
-   "title": "Threads comes to iPad and adds cashtags",
-   "th": "Threads เปิดแอปบน iPad และเพิ่ม cashtag แสดงราคาหุ้น กราฟ และข้อมูลค้นหาสำหรับหุ้น NYSE/Nasdaq, ETF และคริปโต",
-   "why": "Threads กำลังดึงบทสนทนาเชิงข่าวและการเงินแบบ X มา ลองดูว่าหัวข้อของลูกค้าไปเกิดบน Threads มากขึ้นไหม",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/"
-  },
-  {
-   "title": "X adds video thumbnail and caption options",
-   "th": "X เพิ่มการเลือกภาพปกวิดีโอ สไตล์และสีคำบรรยายแบบใหม่ และตัวเลือกเลย์เอาต์ X บอกว่าโพสต์วิดีโอได้รีชและเอนเกจเมนต์มากกว่า 5 เท่า และ 36% ของอิมเพรสชันทั้งหมดมาจากวิดีโอ",
-   "why": "ถ้าลงคลิปบน X ให้เลือกปกเองและใส่คำบรรยาย จะได้รีชดีกว่าปล่อยค่าเริ่มต้น",
+   "title": "Meta expands Muse AI agent to the UK",
+   "th": "Meta เปิด Muse ผู้ช่วย AI ส่วนตัวในอังกฤษ สำหรับผู้ใช้ 18+ บน iOS, Android, muse.ai และ WhatsApp ช่วยช้อปปิ้ง จัดปฏิทิน วางแผนเที่ยว ร่วมกับแบรนด์อย่าง M&S, ASOS, Sainsbury's ขณะที่หน่วยงานกำกับของอังกฤษจับตาเรื่องข้อมูลผู้ใช้",
+   "why": "Muse เริ่มทำหน้าที่ 'คนช่วยซื้อของ' แล้ว ต่อไปข้อมูลสินค้าที่ชัดในโพสต์และเว็บของลูกค้าจะมีผลกับการที่ AI แนะนำแบรนด์",
    "source": "Social Media Today",
-   "url": "https://www.socialmediatoday.com/news/x-adds-new-video-thumbnail-and-caption-options/875428/"
+   "url": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/"
   },
   {
-   "title": "Khemjira Forever finale trends worldwide with 550K+ posts",
-   "th": "แฟนซีรีส์ 'เขมจิรา' ดันแฮชแท็กตอนจบขึ้นเทรนด์โลกบน X โดย 'KHEMJIRA FOREVER FINAL EP' ทะลุ 557,000 โพสต์ ทราฟฟิกหลักจากอินโดนีเซีย ไทย และอาเซียน",
-   "why": "ด้อมซีรีส์ไทยยังเป็นเครื่องยนต์เทรนด์ระดับภูมิภาค แบรนด์ที่จับมือนักแสดงต้องวางคอนเทนต์ให้ตรงคืนออกอากาศ",
-   "source": "The Gulf Observer",
-   "url": "https://thegulfobserver.com/khemjira-forever-final-episode/"
+   "title": "Influencer's krathong-kicking clip sparks backlash",
+   "th": "อินฟลูฯ หนุ่มทำคอนเทนต์เตะกระทงช่วงลอยกระทงจนโดนทัวร์ลงหนัก ล่าสุดออกมาขอโทษแล้ว ชาวเน็ตยังวิจารณ์คอนเทนต์ขยะ 'ลอยกระทง69' แบบเตะ ปา กระโดดน้ำ",
+   "why": "เตือนใจตอนเลือกอินฟลูฯ ให้แบรนด์: เช็กประวัติคอนเทนต์ช่วงเทศกาล คอนเทนต์ที่ไม่เคารพประเพณีโดนกระแสตีกลับเร็วมาก",
+   "source": "TNews",
+   "url": "https://www.tnews.co.th/social/social-news/664513"
   },
   {
-   "title": "GrabFood MEGA GALE x Tle-Firstone exclusive live",
-   "th": "GrabFood จัดไลฟ์ 'MY MER-MEAL ฮีโร่เงือกหนุ่ม กู้ด่วนความหิว' กับ เต้ ไฟร์สโตน เมื่อ 24 พ.ย. ในแคมเปญ MEGA GALE ถูกกว่าชัวร์* ที่มีโค้ดส่วนลดรายวันถึงสิ้นเดือน",
-   "why": "ตัวอย่างการใช้ไลฟ์กับดาราผูกโค้ดส่วนลดรายวัน ยืดกระแสแคมเปญทั้งเดือน ไม่ใช่แค่วันเดียว",
-   "source": "Grab TH",
-   "url": "https://www.grab.com/th/en/blog/livetlefirstone24nov2026/"
+   "title": "Punthai x Khai Hua Roh for 14th anniversary",
+   "th": "กาแฟพันธุ์ไทยจับมือขายหัวเราะ ส่ง 'น้องชงชง' แท็กทีมการ์ตูนไทยระดับตำนาน ฉลอง '14 ปี พันธุ์ไทยใหญ่เท่าช้าง' ด้วยคลิปสั้นสายฮา",
+   "why": "ตัวอย่างการยืม IP การ์ตูนไทยที่คนทุกวัยรู้จัก ทำแคมเปญครบรอบให้แชร์ง่าย ใช้เป็นไอเดียคอลแลบให้ลูกค้าได้",
+   "source": "Marketing Oops!",
+   "url": "https://www.marketingoops.com/pr-news/punthai-x-kaihuaroh/"
+  },
+  {
+   "title": "Thai-dress ID card photos trend",
+   "th": "เทรนด์ใหม่ แต่งชุดไทยไปถ่ายรูปบัตรประชาชน ให้รูปติดบัตรสวยแบบไทย",
+   "why": "เทรนด์ 'ภูมิใจความเป็นไทย' แบบเล็ก ๆ ในชีวิตจริง ต่อยอดเป็นคอนเทนต์ UGC หรือฟิลเตอร์ให้แบรนด์ได้",
+   "source": "Kapook",
+   "url": "https://women.kapook.com/view/500321"
   }
  ],
  "lifestyle": {
-  "title": "PM2.5 is back",
-  "body": "ฝุ่น PM2.5 เริ่มเกินมาตรฐานในบางพื้นที่แล้ว เช็กค่าฝุ่นในแอป Air4Thai ก่อนออกจากบ้าน พกหน้ากาก N95 ติดกระเป๋า และถ้าออกกำลังกายกลางแจ้ง เลือกวันที่ค่าฝุ่นต่ำ",
-  "note": "Based on Nation Thailand, 24 Nov 2026"
+  "title": "Heading south this weekend?",
+  "body": "ปภ. เตือน 15 จังหวัดภาคใต้และประจวบฯ เสี่ยงน้ำท่วมช่วง 27–30 พ.ย. ถ้ามีแผนเที่ยวทะเลใต้ เช็กพยากรณ์อากาศก่อนเดินทาง เลี่ยงจุดเสี่ยงน้ำป่า และจดเบอร์ 1784 ไว้",
+  "note": "Based on Nation Thailand, 25 Nov 2026"
  },
  "word": {
-  "word": "suspension",
+  "word": "tariff",
   "pos": "n.",
-  "ipa": "/səˈspen.ʃən/",
-  "th": "การระงับชั่วคราว",
-  "def": "a temporary stop to an activity.",
-  "ex": "Thailand asked for a six-month suspension of mining in Shan State."
+  "ipa": "/ˈtær.ɪf/",
+  "th": "ภาษีศุลกากร / ภาษีนำเข้า",
+  "def": "a tax on goods coming into or going out of a country.",
+  "ex": "The US proposed a tariff of up to 18% on Thai goods."
  },
  "english": {
-  "title": "Asking the AI in your DMs",
+  "title": "Briefing a client on a trend",
   "dialogue": [
    [
-    "Teammate",
-    "Did you see Instagram added Muse AI to DMs?"
+    "Client",
+    "Have you seen the Thai-dress ID photo trend?"
    ],
    [
     "Nadda",
-    "Yes. People can ask it about a product they see in a post."
+    "Yes! It's simple, proud and very shareable."
    ],
    [
-    "Teammate",
-    "So the AI might answer for our client's brand?"
-   ],
-   [
-    "Nadda",
-    "Exactly. Our captions need clear product details."
-   ],
-   [
-    "Teammate",
-    "Should I update the product info in our posts?"
+    "Client",
+    "Could we join it without looking forced?"
    ],
    [
     "Nadda",
-    "Please do. Let's review it together on Friday."
+    "We could invite fans to share their own photos."
+   ],
+   [
+    "Client",
+    "Nice. What about the risks?"
+   ],
+   [
+    "Nadda",
+    "We'll keep it respectful and check every creator first."
    ]
   ],
   "vocab": [
    [
-    "assistant",
-    "ผู้ช่วย"
+    "shareable",
+    "แชร์ง่าย"
    ],
    [
-    "product details",
-    "รายละเอียดสินค้า"
+    "forced",
+    "ฝืน / ไม่เป็นธรรมชาติ"
    ],
    [
-    "update",
-    "อัปเดต / ปรับปรุง"
+    "respectful",
+    "ให้เกียรติ"
    ],
    [
-    "review",
-    "ตรวจทาน"
+    "creator",
+    "ครีเอเตอร์ / ผู้สร้างคอนเทนต์"
    ]
   ]
  },
  "know": [
   {
-   "title": "What is PM2.5?",
-   "body": "PM2.5 คือฝุ่นละอองขนาดไม่เกิน 2.5 ไมครอน เล็กกว่าเส้นผมราว 25 เท่า เข้าลึกถึงปอดและกระแสเลือดได้ มาตรฐานไทยเฉลี่ย 24 ชั่วโมงอยู่ที่ 37.5 ไมโครกรัมต่อลูกบาศก์เมตร"
+   "title": "What is Section 301?",
+   "body": "มาตรา 301 ของกฎหมายการค้าสหรัฐฯ ปี 1974 ให้อำนาจผู้แทนการค้าสหรัฐฯ (USTR) สอบสวนและตอบโต้การค้าที่สหรัฐฯ มองว่าไม่เป็นธรรม เช่น การขึ้นภาษีนำเข้า"
   },
   {
-   "title": "What does 'polluter pays' mean?",
-   "body": "หลัก 'ผู้ก่อมลพิษเป็นผู้จ่าย' หมายถึงคนหรือธุรกิจที่สร้างมลพิษต้องรับผิดชอบค่าใช้จ่ายในการแก้ไข เช่น ภาษีหรือค่าธรรมเนียม เพื่อจูงใจให้ลดมลพิษตั้งแต่ต้นทาง"
+   "title": "Why does a bill go to the Senate?",
+   "body": "ระบบรัฐสภาไทย ร่างกฎหมายที่ผ่านสภาผู้แทนราษฎรต้องส่งให้วุฒิสภาพิจารณาต่อ ถ้าวุฒิสภาเห็นชอบจึงนำขึ้นทูลเกล้าฯ เพื่อประกาศใช้"
   }
  ],
  "on_this_day": [
   {
-   "year": "1915",
-   "text": "Albert Einstein presented the field equations of general relativity to the Prussian Academy of Sciences."
+   "year": "1922",
+   "text": "Howard Carter and Lord Carnarvon first looked into Tutankhamun's tomb in Egypt."
   },
   {
-   "year": "1952",
-   "text": "Agatha Christie's play 'The Mousetrap' opened in London; it became the world's longest-running play."
+   "year": "1942",
+   "text": "The film 'Casablanca' premiered in New York City."
   }
  ],
  "three_things": [
-  "Check today's PM2.5 before heading out",
-  "Read one client caption as if an AI had to answer from it",
-  "Use the word 'suspension' in a sentence today"
+  "Check the weather if you're travelling south this weekend",
+  "Note one brand collab idea from today's Social Pulse",
+  "Use the word 'tariff' in a sentence today"
  ],
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "weather": {
-  "max": 34,
-  "min": 28,
-  "rain": 37,
-  "uv": 7,
-  "cond": "Light drizzle",
-  "humidity": 68,
-  "source": "Open-Meteo",
-  "fetched": "06:27"
+  "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
  },
  "wordsearch": {
   "grid": [
-   "ACNVIDEOIH",
-   "MELKPTSAMM",
-   "ITOONHIACU",
-   "NAOMNRKCAS",
-   "IITUCEHBPE",
-   "NRUKLASPTU",
-   "GVGAEDWRIL",
-   "GVIOASGTOF",
-   "ALEANABANE",
-   "RDTRIVERGE"
+   "VKIYVVNPAV",
+   "IEAEACFLTM",
+   "SUPNTBAJAI",
+   "MOKRATHONG",
+   "HNMCRYMEMH",
+   "COMRIFHOUV",
+   "LFNHFLFFSS",
+   "EPEEFOFIET",
+   "ARSLEOJBTT",
+   "NJSTADIUMS"
   ],
   "words": [
    {
-    "word": "THREADS",
+    "word": "KRATHONG",
     "cells": [
      [
-      1,
-      5
+      3,
+      2
      ],
      [
-      2,
-      5
+      3,
+      3
+     ],
+     [
+      3,
+      4
      ],
      [
       3,
       5
      ],
      [
-      4,
-      5
+      3,
+      6
      ],
      [
-      5,
-      5
+      3,
+      7
      ],
      [
-      6,
-      5
+      3,
+      8
      ],
      [
-      7,
-      5
+      3,
+      9
      ]
     ]
    },
    {
-    "word": "CAPTION",
+    "word": "STADIUM",
     "cells": [
      [
-      2,
-      8
+      9,
+      2
      ],
      [
-      3,
-      8
+      9,
+      3
      ],
      [
-      4,
-      8
+      9,
+      4
      ],
      [
-      5,
-      8
+      9,
+      5
      ],
      [
-      6,
-      8
+      9,
+      6
      ],
      [
-      7,
-      8
+      9,
+      7
      ],
      [
-      8,
+      9,
       8
      ]
     ]
    },
    {
-    "word": "MINING",
+    "word": "TARIFF",
     "cells": [
      [
-      1,
-      0
-     ],
-     [
       2,
-      0
+      4
      ],
      [
       3,
-      0
+      4
      ],
      [
       4,
-      0
+      4
      ],
      [
       5,
-      0
+      4
      ],
      [
       6,
-      0
+      4
+     ],
+     [
+      7,
+      4
      ]
     ]
    },
@@ -295,74 +292,70 @@
     "word": "CLEAN",
     "cells": [
      [
-      4,
-      4
-     ],
-     [
       5,
-      4
+      0
      ],
      [
       6,
-      4
+      0
      ],
      [
       7,
-      4
+      0
      ],
      [
       8,
-      4
+      0
+     ],
+     [
+      9,
+      0
      ]
     ]
    },
    {
-    "word": "RIVER",
+    "word": "FLOOD",
     "cells": [
      [
-      9,
-      3
+      5,
+      5
      ],
      [
-      9,
-      4
+      6,
+      5
      ],
      [
-      9,
+      7,
+      5
+     ],
+     [
+      8,
       5
      ],
      [
       9,
-      6
-     ],
-     [
-      9,
-      7
+      5
      ]
     ]
    },
    {
-    "word": "VIDEO",
+    "word": "MUAY",
     "cells": [
+     [
+      3,
+      0
+     ],
+     [
+      2,
+      1
+     ],
+     [
+      1,
+      2
+     ],
      [
       0,
       3
-     ],
-     [
-      0,
-      4
-     ],
-     [
-      0,
-      5
-     ],
-     [
-      0,
-      6
-     ],
-     [
-      0,
-      7
      ]
     ]
    },
@@ -370,37 +363,41 @@
     "word": "MUSE",
     "cells": [
      [
-      1,
-      9
-     ],
-     [
-      2,
-      9
-     ],
-     [
-      3,
-      9
-     ],
-     [
       4,
-      9
+      8
+     ],
+     [
+      5,
+      8
+     ],
+     [
+      6,
+      8
+     ],
+     [
+      7,
+      8
      ]
     ]
    },
    {
-    "word": "AIR",
+    "word": "HOPE",
     "cells": [
+     [
+      4,
+      0
+     ],
      [
       3,
       1
      ],
      [
-      4,
-      1
+      2,
+      2
      ],
      [
-      5,
-      1
+      1,
+      3
      ]
     ]
    }
@@ -409,101 +406,101 @@
  "sudoku": {
   "puzzle": [
    [
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    6,
     4,
-    5,
-    3,
-    6,
-    2,
-    0
-   ],
-   [
-    6,
     0,
-    1,
     0,
     0,
     0
    ],
    [
     3,
-    0,
     2,
+    1,
     0,
     0,
-    5
-   ],
-   [
-    0,
-    0,
-    0,
-    0,
-    6,
     0
    ],
    [
     0,
-    0,
-    6,
-    0,
-    1,
-    4
-   ],
-   [
-    2,
     1,
     0,
-    0,
-    3,
-    0
-   ]
-  ],
-  "solution": [
-   [
-    4,
-    5,
-    3,
-    6,
-    2,
-    1
-   ],
-   [
-    6,
-    2,
-    1,
     4,
     5,
     3
    ],
    [
+    4,
+    0,
     3,
-    6,
+    2,
+    0,
+    6
+   ]
+  ],
+  "solution": [
+   [
+    5,
+    3,
     2,
     1,
+    6,
+    4
+   ],
+   [
+    1,
+    6,
+    4,
+    5,
+    3,
+    2
+   ],
+   [
+    6,
+    4,
+    5,
+    3,
+    2,
+    1
+   ],
+   [
+    3,
+    2,
+    1,
+    6,
     4,
     5
    ],
    [
+    2,
     1,
+    6,
+    4,
+    5,
+    3
+   ],
+   [
     4,
     5,
     3,
-    6,
-    2
-   ],
-   [
-    5,
-    3,
-    6,
     2,
     1,
-    4
-   ],
-   [
-    2,
-    1,
-    4,
-    5,
-    3,
     6
    ]
   ]
