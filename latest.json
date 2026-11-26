@@ -180,7 +180,14 @@
  ],
  "date": "2026-11-27",
  "weather": {
-  "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
+  "max": 35,
+  "min": 26,
+  "rain": 29,
+  "uv": 7,
+  "cond": "Light drizzle",
+  "humidity": 78,
+  "source": "Open-Meteo",
+  "fetched": "06:15"
  },
  "wordsearch": {
   "grid": [
