@@ -1,261 +1,264 @@
 {
- "issue_no": 45,
- "tagline": "สหรัฐฯ เสนอภาษีสินค้าไทยสูงสุด 18% · สภาผ่าน พ.ร.บ.อากาศสะอาด 430 เสียง · Muse AI ของ Meta บุกอังกฤษ",
+ "issue_no": 46,
+ "tagline": "ไฟไหม้โรงกลั่นบางจาก คุมได้แล้ว · ไทยขอยกเว้นภาษีสหรัฐฯ เพิ่ม 15 กลุ่มสินค้า · YouTube เปิดให้ทุกคนตั้งปก Shorts เอง",
  "thailand": [
   {
    "lead": true,
-   "title": "Thai exports face new US tariffs of up to 18%",
-   "th": "สหรัฐฯ (USTR) เสนอเก็บภาษีสินค้าไทยสูงสุด 18% ภายใต้มาตรา 301 อ้างเรื่องกำลังการผลิตส่วนเกิน อัตรานี้ยังไม่ใช่ข้อสรุป เปิดรับความเห็นถึง 5 ม.ค. 2027 และไต่สวนสาธารณะ 25 ม.ค. ส่วนเวียดนามโดนสูงสุด 35% ผู้ส่งออกไทยเริ่มกังวล",
-   "en": "The rate is a proposed cap, with some goods exempt.",
+   "title": "Major fire at Bangchak refinery brought under control",
+   "th": "เกิดระเบิดและไฟไหม้ที่หน่วยไฮโดรแครกกิ้ง (Unit 4) โรงกลั่นบางจาก เมื่อบ่ายวันที่ 26 พ.ย. รมว.พลังงานเผยไฟไม่ลามถึงถังน้ำมันหรือก๊าซ เบื้องต้นมีผู้บาดเจ็บราว 5–8 คน และสั่งตรวจวัดคุณภาพอากาศและน้ำเสียรอบพื้นที่",
+   "en": "Officials ordered air and wastewater monitoring around the site.",
    "source": "Nation Thailand",
-   "url": "https://www.nationthailand.com/news/world/40073928"
+   "url": "https://www.nationthailand.com/news/general/40073971"
   },
   {
-   "title": "House passes Clean Air Bill 430–0",
-   "th": "สภาผู้แทนราษฎรผ่านร่าง พ.ร.บ.บริหารจัดการอากาศสะอาดฉบับแก้ไขเป็นเอกฉันท์ 430 เสียง เมื่อ 25 พ.ย. ต่อไปวุฒิสภาจะลงมติวันจันทร์ที่ 30 พ.ย.",
-   "en": "The Senate votes on Monday, Nov 30.",
+   "title": "Thailand seeks 15 more US tariff exemptions",
+   "th": "รองนายกฯ และ รมว.พาณิชย์ สุภจี สุธรรมพันธุ์ เผยไทยจะเจรจาขอลดภาษีมาตรา 301 และขอยกเว้นเพิ่มราว 15 กลุ่มสินค้า เช่น กุ้ง ข้าว อาหารทะเล ถุงมือยาง ขณะที่เพดาน 18% ที่สหรัฐฯ เสนอยังไม่มีผล อัตรา 12.5% ยังใช้อยู่",
+   "en": "New measures are expected to take effect by March 2027.",
    "source": "Nation Thailand",
-   "url": "https://www.nationthailand.com/news/politics/40073921"
+   "url": "https://www.nationthailand.com/business/economy/40073966"
   },
   {
-   "title": "15 provinces on flood alert, Nov 27–30",
-   "th": "ปภ. เตือนประจวบคีรีขันธ์และ 14 จังหวัดภาคใต้ เฝ้าระวังน้ำท่วมฉับพลัน น้ำป่า ดินโคลนถล่ม ช่วง 27–30 พ.ย. ขอความช่วยเหลือโทร 1784",
-   "en": "Call 1784 for emergency help.",
+   "title": "Baht weakens past 34 per US dollar",
+   "th": "เงินบาทอ่อนค่าทะลุ 34 บาทต่อดอลลาร์สหรัฐ ระดับอ่อนสุดในรอบกว่า 19 เดือน",
+   "en": "It is the baht's weakest level in more than 19 months.",
    "source": "Nation Thailand",
-   "url": "https://www.nationthailand.com/news/general/40073922"
+   "url": "https://www.nationthailand.com/business/banking-finance/40073960"
   },
   {
-   "title": "Phuket to host B1bn Muay Thai stadium",
-   "th": "เวทีราชดำเนินเตรียมเปิดสนามมวยแห่งแรกนอกกรุงเทพฯ ที่ Central Phuket ราวต้นปี 2029 มูลค่ากว่า 1 พันล้านบาท 2,500 ที่นั่ง ตั้งเป้านักท่องเที่ยวต่างชาติ 1 ล้านคนต่อปี",
-   "en": "It is Rajadamnern's first venue outside Bangkok.",
+   "title": "Suan Liap bridge partly closed after cracks found",
+   "th": "กรมทางหลวงชนบทปิดสะพานสวนเลียบขาออก (แยกราชพฤกษ์–กัลปพฤกษ์ เขตภาษีเจริญ) หลังพบรอยร้าวใกล้ตอม่อ ติดตั้งเหล็กค้ำยันแล้ว แต่ยังไม่ระบุวันเปิด สะพานนี้รับรถจากฝั่งสาทรไปตลิ่งชัน",
+   "en": "Police advise drivers to avoid the flyover at rush hour.",
    "source": "Bangkok Post",
-   "url": "https://www.bangkokpost.com/business/general/3361239/phuket-to-host-b1bn-muay-thai-stadium"
+   "url": "https://www.bangkokpost.com/thailand/general/3361605/bangkok-interchange-partly-closed-after-cracks-found"
   }
  ],
  "world": [
   {
    "lead": true,
-   "title": "US proposes new tariffs on 14 trading partners",
-   "th": "รัฐบาลทรัมป์เสนอภาษีใหม่กับคู่ค้า 14 ประเทศ เพื่อตอบโต้ 'กำลังการผลิตส่วนเกิน' เช่น สิงคโปร์สูงสุด 20% และอาจลดเหลือ 10% หากบรรลุข้อตกลงการค้า",
-   "en": "Washington blames excess industrial capacity for cheap exports.",
+   "title": "Trump asks Putin to 'pull back' military aggression in Europe",
+   "th": "ทรัมป์เผยขอให้ปูตินถอย 'การรุกรานทางทหาร' ต่อยุโรป ตอนพบกันที่จีนสัปดาห์ก่อน โดยเชื่อว่าจะช่วยนำไปสู่ข้อตกลงยุติสงครามยูเครน หลังเพิ่งออกแถลงการณ์ร่วมกับเลขาฯ NATO",
+   "en": "It marks a shift in tone towards the Russian leader.",
    "source": "The Straits Times / Reuters",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-26-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-27-2026"
   },
   {
-   "title": "At least 30 killed in Egypt fuel-truck blaze",
-   "th": "รถบรรทุกผลิตภัณฑ์ปิโตรเลียมพลิกคว่ำและไฟลุกบนถนนวงแหวนสายหลักในกิซา อียิปต์ มีผู้เสียชีวิตอย่างน้อย 30 ราย บาดเจ็บ 15 ราย",
-   "en": "The fire broke out above a tunnel in Giza's Al-Warraq district.",
-   "source": "The Straits Times / AFP",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-26-2026"
-  },
-  {
-   "title": "'Hope' wins best film at Blue Dragon Awards",
-   "th": "หนังไซไฟสัตว์ประหลาด Hope ของ นา ฮงจิน คว้ารางวัลภาพยนตร์ยอดเยี่ยมเวที Blue Dragon ครั้งที่ 47 ขณะที่ Possible Love ของ อี ชางดง ได้ 4 รางวัล รวมนำชายและนำหญิง",
-   "en": "Hope starred Jung Ho-yeon, Zo In-sung and Hwang Jung-min.",
+   "title": "Trump calls for probe into upward GDP revision",
+   "th": "ทรัมป์เรียกร้องให้สอบสวนตัวเลข GDP ไตรมาส 3 ที่กระทรวงพาณิชย์สหรัฐฯ ปรับขึ้นเป็น 4.3% จาก 3.4% ซึ่งการปรับตัวเลขแบบนี้เป็นเรื่องปกติ",
+   "en": "Such revisions are routine.",
    "source": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-26-2026"
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-27-2026"
+  },
+  {
+   "title": "Princess Diana charity enters administration",
+   "th": "The Diana Award องค์กรการกุศลที่ตั้งขึ้นเพื่อรำลึกถึงเจ้าหญิงไดอานาตั้งแต่ปี 1999 ประกาศเข้าสู่กระบวนการบริหารจัดการหนี้ เพราะไม่สามารถทำตามภาระผูกพันได้",
+   "en": "It was a rare project William and Harry still shared.",
+   "source": "The Straits Times / Reuters",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-27-2026"
   }
  ],
  "social": [
   {
-   "title": "Meta expands Muse AI agent to the UK",
-   "th": "Meta เปิด Muse ผู้ช่วย AI ส่วนตัวในอังกฤษ สำหรับผู้ใช้ 18+ บน iOS, Android, muse.ai และ WhatsApp ช่วยช้อปปิ้ง จัดปฏิทิน วางแผนเที่ยว ร่วมกับแบรนด์อย่าง M&S, ASOS, Sainsbury's ขณะที่หน่วยงานกำกับของอังกฤษจับตาเรื่องข้อมูลผู้ใช้",
-   "why": "Muse เริ่มทำหน้าที่ 'คนช่วยซื้อของ' แล้ว ต่อไปข้อมูลสินค้าที่ชัดในโพสต์และเว็บของลูกค้าจะมีผลกับการที่ AI แนะนำแบรนด์",
+   "title": "Muse AI arrives inside Instagram DMs",
+   "th": "Meta เปิดให้คุยกับ Muse ในแชต DM ของ Instagram ได้เลย แชร์โพสต์ให้ Muse แล้วสั่งให้ทำต่อ เช่น เก็บร้านกาแฟลงแผนเที่ยว หรือหาดีล Black Friday เริ่มทยอยเปิดใน iOS/Android บางประเทศ",
+   "why": "คนจะเริ่มส่งโพสต์แบรนด์ให้ AI ช่วยหาข้อมูลต่อ แคปชันที่บอกราคา สถานที่ และรายละเอียดชัดจะได้เปรียบ",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+  },
+  {
+   "title": "YouTube lets every creator set custom Shorts thumbnails",
+   "th": "YouTube เปิดให้ครีเอเตอร์ทุกคนอัปโหลดภาพปก Shorts เองได้ ทั้งตอนอัปโหลดและแก้ภายหลังใน YouTube Studio หรือเลือกเฟรมที่ระบบแนะนำ",
+   "why": "ทำปก Shorts ให้เข้า CI ลูกค้าและเรียงสวยบนหน้าช่องได้แล้ว ควรเพิ่มปกเข้า checklist งานส่ง",
    "source": "Social Media Today",
-   "url": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/"
+   "url": "https://www.socialmediatoday.com/news/youtube-enables-custom-shorts-thumbnails/875687/"
   },
   {
-   "title": "Influencer's krathong-kicking clip sparks backlash",
-   "th": "อินฟลูฯ หนุ่มทำคอนเทนต์เตะกระทงช่วงลอยกระทงจนโดนทัวร์ลงหนัก ล่าสุดออกมาขอโทษแล้ว ชาวเน็ตยังวิจารณ์คอนเทนต์ขยะ 'ลอยกระทง69' แบบเตะ ปา กระโดดน้ำ",
-   "why": "เตือนใจตอนเลือกอินฟลูฯ ให้แบรนด์: เช็กประวัติคอนเทนต์ช่วงเทศกาล คอนเทนต์ที่ไม่เคารพประเพณีโดนกระแสตีกลับเร็วมาก",
-   "source": "TNews",
-   "url": "https://www.tnews.co.th/social/social-news/664513"
+   "title": "Instagram Stories are now editable for 15 minutes",
+   "th": "Instagram ให้แก้ข้อความ เพลง สติกเกอร์ และลายเส้นใน Story ได้ภายใน 15 นาทีหลังโพสต์ โดยไม่เสียยอดวิว ไลก์ หรือรีพลาย พร้อมฟอนต์และสติกเกอร์ใหม่",
+   "why": "พิมพ์ผิดใน Story ลูกค้าไม่ต้องลบโพสต์ใหม่แล้ว แต่ต้องตรวจให้ทันใน 15 นาที",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them"
   },
   {
-   "title": "Punthai x Khai Hua Roh for 14th anniversary",
-   "th": "กาแฟพันธุ์ไทยจับมือขายหัวเราะ ส่ง 'น้องชงชง' แท็กทีมการ์ตูนไทยระดับตำนาน ฉลอง '14 ปี พันธุ์ไทยใหญ่เท่าช้าง' ด้วยคลิปสั้นสายฮา",
-   "why": "ตัวอย่างการยืม IP การ์ตูนไทยที่คนทุกวัยรู้จัก ทำแคมเปญครบรอบให้แชร์ง่าย ใช้เป็นไอเดียคอลแลบให้ลูกค้าได้",
-   "source": "Marketing Oops!",
-   "url": "https://www.marketingoops.com/pr-news/punthai-x-kaihuaroh/"
+   "title": "Emplifi survey: 90% of marketers say AI raised output",
+   "th": "Emplifi สำรวจผู้บริหารการตลาด 405 คน 90% บอกว่า AI ช่วยเพิ่มผลงานของทีม และ 54% บอกว่าทีมโซเชียลใหญ่ขึ้น ใช้เป็นข้อมูลวางแผนปี 2027",
+   "why": "มีตัวเลขไว้อ้างตอนเสนอแผน AI workflow ให้ลูกค้าหรือหัวหน้าสำหรับปีหน้า",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/"
   },
   {
-   "title": "Thai-dress ID card photos trend",
-   "th": "เทรนด์ใหม่ แต่งชุดไทยไปถ่ายรูปบัตรประชาชน ให้รูปติดบัตรสวยแบบไทย",
-   "why": "เทรนด์ 'ภูมิใจความเป็นไทย' แบบเล็ก ๆ ในชีวิตจริง ต่อยอดเป็นคอนเทนต์ UGC หรือฟิลเตอร์ให้แบรนด์ได้",
-   "source": "Kapook",
-   "url": "https://women.kapook.com/view/500321"
+   "title": "Thai TikTok: 7-a-side football and Loy Krathong trend",
+   "th": "แฮชแท็ก #บอล7สี และ #ฟุตบอล7สี ติดเทรนด์สูงสุดของ TikTok ไทยช่วงกลาง พ.ย. ส่วนคอนเทนต์ #ลอยกระทง ก็มาแรงขึ้น",
+   "why": "คอนเทนต์ฟุตบอลยังมาแรง ต่อยอดแนว prediction/กิจกรรมทายผลแบบที่เคยทำให้ CHANGAN ได้",
+   "source": "TokConnect",
+   "url": "https://tokconnect.com/trends/thailand/"
   }
  ],
  "lifestyle": {
-  "title": "Heading south this weekend?",
-  "body": "ปภ. เตือน 15 จังหวัดภาคใต้และประจวบฯ เสี่ยงน้ำท่วมช่วง 27–30 พ.ย. ถ้ามีแผนเที่ยวทะเลใต้ เช็กพยากรณ์อากาศก่อนเดินทาง เลี่ยงจุดเสี่ยงน้ำป่า และจดเบอร์ 1784 ไว้",
-  "note": "Based on Nation Thailand, 25 Nov 2026"
+  "title": "Driving out of Sathorn today?",
+  "body": "สะพานสวนเลียบขาออก (สาทร → ตลิ่งชัน) ปิดบางส่วนเพราะพบรอยร้าว ถ้าต้องไปฝั่งธนฯ ช่วงเร่งด่วน เผื่อเวลาเพิ่มและดูป้ายทางเบี่ยง",
+  "note": "Based on Bangkok Post, 26 Nov 2026"
  },
  "word": {
-  "word": "tariff",
+  "word": "exemption",
   "pos": "n.",
-  "ipa": "/ˈtær.ɪf/",
-  "th": "ภาษีศุลกากร / ภาษีนำเข้า",
-  "def": "a tax on goods coming into or going out of a country.",
-  "ex": "The US proposed a tariff of up to 18% on Thai goods."
+  "ipa": "/ɪɡˈzemp.ʃən/",
+  "th": "การยกเว้น",
+  "def": "permission not to pay a tax or follow a rule that others must follow.",
+  "ex": "Thailand is asking for tariff exemptions on shrimp and rice."
  },
  "english": {
-  "title": "Briefing a client on a trend",
+  "title": "Fixing a typo in a client's Story",
   "dialogue": [
    [
     "Client",
-    "Have you seen the Thai-dress ID photo trend?"
+    "There's a typo in the Story we just posted!"
    ],
    [
     "Nadda",
-    "Yes! It's simple, proud and very shareable."
+    "No worries, I can edit it within 15 minutes."
    ],
    [
     "Client",
-    "Could we join it without looking forced?"
+    "Will we lose the views?"
    ],
    [
     "Nadda",
-    "We could invite fans to share their own photos."
+    "No, the views and replies stay."
    ],
    [
     "Client",
-    "Nice. What about the risks?"
+    "Great. Can you fix the sticker too?"
    ],
    [
     "Nadda",
-    "We'll keep it respectful and check every creator first."
+    "Sure, I'll update it right away."
    ]
   ],
   "vocab": [
    [
-    "shareable",
-    "แชร์ง่าย"
+    "typo",
+    "คำพิมพ์ผิด"
    ],
    [
-    "forced",
-    "ฝืน / ไม่เป็นธรรมชาติ"
+    "edit",
+    "แก้ไข"
    ],
    [
-    "respectful",
-    "ให้เกียรติ"
+    "right away",
+    "ทันที"
    ],
    [
-    "creator",
-    "ครีเอเตอร์ / ผู้สร้างคอนเทนต์"
+    "replies",
+    "การตอบกลับ"
    ]
   ]
  },
  "know": [
   {
-   "title": "What is Section 301?",
-   "body": "มาตรา 301 ของกฎหมายการค้าสหรัฐฯ ปี 1974 ให้อำนาจผู้แทนการค้าสหรัฐฯ (USTR) สอบสวนและตอบโต้การค้าที่สหรัฐฯ มองว่าไม่เป็นธรรม เช่น การขึ้นภาษีนำเข้า"
+   "title": "What is hydrocracking?",
+   "body": "ไฮโดรแครกกิ้งคือกระบวนการในโรงกลั่นที่ใช้ไฮโดรเจน ความร้อน และแรงดันสูง ทำลายโมเลกุลน้ำมันหนักให้กลายเป็นน้ำมันเบา เช่น ดีเซลและน้ำมันเครื่องบิน"
   },
   {
-   "title": "Why does a bill go to the Senate?",
-   "body": "ระบบรัฐสภาไทย ร่างกฎหมายที่ผ่านสภาผู้แทนราษฎรต้องส่งให้วุฒิสภาพิจารณาต่อ ถ้าวุฒิสภาเห็นชอบจึงนำขึ้นทูลเกล้าฯ เพื่อประกาศใช้"
+   "title": "Why does a weak baht matter?",
+   "body": "บาทอ่อนทำให้สินค้านำเข้าและการเที่ยวต่างประเทศแพงขึ้น แต่ช่วยให้ผู้ส่งออกและธุรกิจท่องเที่ยวในไทยได้เงินบาทมากขึ้นต่อดอลลาร์"
   }
  ],
  "on_this_day": [
   {
-   "year": "1922",
-   "text": "Howard Carter and Lord Carnarvon first looked into Tutankhamun's tomb in Egypt."
+   "year": "1895",
+   "text": "Alfred Nobel signed his will in Paris, setting up the Nobel Prizes."
   },
   {
    "year": "1942",
-   "text": "The film 'Casablanca' premiered in New York City."
+   "text": "Jimi Hendrix was born in Seattle."
   }
  ],
  "three_things": [
-  "Check the weather if you're travelling south this weekend",
-  "Note one brand collab idea from today's Social Pulse",
-  "Use the word 'tariff' in a sentence today"
+  "Check your route if you drive towards Thonburi today",
+  "Add a custom cover to your next YouTube Short",
+  "Use the word 'exemption' in a sentence today"
  ],
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "weather": {
   "error": "<urlopen error _ssl.c:1012: The handshake operation timed out>"
  },
  "wordsearch": {
   "grid": [
-   "VKIYVVNPAV",
-   "IEAEACFLTM",
-   "SUPNTBAJAI",
-   "MOKRATHONG",
-   "HNMCRYMEMH",
-   "COMRIFHOUV",
-   "LFNHFLFFSS",
-   "EPEEFOFIET",
-   "ARSLEOJBTT",
-   "NJSTADIUMS"
+   "TARIFFSNYM",
+   "URMGSTORYY",
+   "BESLBRIDGE",
+   "CFOHIOTNYS",
+   "AIMYOOLRJT",
+   "GNUBEREGPV",
+   "EESGAFTJKV",
+   "YREOHHISBY",
+   "JYMYRTTRTB",
+   "SPMDHASPEG"
   ],
   "words": [
    {
-    "word": "KRATHONG",
+    "word": "REFINERY",
     "cells": [
      [
-      3,
-      2
+      1,
+      1
+     ],
+     [
+      2,
+      1
      ],
      [
       3,
-      3
+      1
      ],
      [
-      3,
-      4
+      4,
+      1
      ],
      [
-      3,
-      5
+      5,
+      1
      ],
      [
-      3,
-      6
+      6,
+      1
      ],
      [
-      3,
-      7
+      7,
+      1
      ],
      [
-      3,
-      8
-     ],
-     [
-      3,
-      9
+      8,
+      1
      ]
     ]
    },
    {
-    "word": "STADIUM",
+    "word": "BRIDGE",
     "cells": [
      [
-      9,
-      2
-     ],
-     [
-      9,
-      3
-     ],
-     [
-      9,
+      2,
       4
      ],
      [
-      9,
+      2,
       5
      ],
      [
-      9,
+      2,
       6
      ],
      [
-      9,
+      2,
       7
      ],
      [
-      9,
+      2,
       8
+     ],
+     [
+      2,
+      9
      ]
     ]
    },
@@ -263,12 +266,41 @@
     "word": "TARIFF",
     "cells": [
      [
-      2,
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      2
+     ],
+     [
+      0,
+      3
+     ],
+     [
+      0,
       4
      ],
      [
+      0,
+      5
+     ]
+    ]
+   },
+   {
+    "word": "SHORTS",
+    "cells": [
+     [
+      2,
+      2
+     ],
+     [
       3,
-      4
+      3
      ],
      [
       4,
@@ -276,86 +308,61 @@
      ],
      [
       5,
-      4
-     ],
-     [
-      6,
-      4
-     ],
-     [
-      7,
-      4
-     ]
-    ]
-   },
-   {
-    "word": "CLEAN",
-    "cells": [
-     [
-      5,
-      0
-     ],
-     [
-      6,
-      0
-     ],
-     [
-      7,
-      0
-     ],
-     [
-      8,
-      0
-     ],
-     [
-      9,
-      0
-     ]
-    ]
-   },
-   {
-    "word": "FLOOD",
-    "cells": [
-     [
-      5,
       5
      ],
      [
       6,
-      5
+      6
      ],
      [
       7,
-      5
-     ],
-     [
-      8,
-      5
-     ],
-     [
-      9,
-      5
+      7
      ]
     ]
    },
    {
-    "word": "MUAY",
+    "word": "STORY",
     "cells": [
      [
-      3,
-      0
-     ],
-     [
-      2,
-      1
+      1,
+      4
      ],
      [
       1,
-      2
+      5
      ],
      [
-      0,
+      1,
+      6
+     ],
+     [
+      1,
+      7
+     ],
+     [
+      1,
+      8
+     ]
+    ]
+   },
+   {
+    "word": "BAHT",
+    "cells": [
+     [
+      5,
       3
+     ],
+     [
+      6,
+      4
+     ],
+     [
+      7,
+      5
+     ],
+     [
+      8,
+      6
      ]
     ]
    },
@@ -364,40 +371,40 @@
     "cells": [
      [
       4,
-      8
+      2
      ],
      [
       5,
-      8
+      2
      ],
      [
       6,
-      8
+      2
      ],
      [
       7,
-      8
+      2
      ]
     ]
    },
    {
-    "word": "HOPE",
+    "word": "FIRE",
     "cells": [
      [
-      4,
-      0
+      6,
+      5
      ],
      [
-      3,
-      1
+      7,
+      6
      ],
      [
-      2,
-      2
+      8,
+      7
      ],
      [
-      1,
-      3
+      9,
+      8
      ]
     ]
    }
@@ -406,102 +413,102 @@
  "sudoku": {
   "puzzle": [
    [
-    0,
-    0,
-    2,
-    0,
-    0,
-    0
-   ],
-   [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    6,
     4,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    3,
-    2,
     1,
     0,
-    0,
-    0
-   ],
-   [
-    0,
-    1,
-    0,
-    4,
     5,
-    3
+    0,
+    0
    ],
    [
-    4,
     0,
-    3,
     2,
     0,
+    4,
+    1,
     6
+   ],
+   [
+    2,
+    3,
+    4,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    6,
+    0,
+    0,
+    3,
+    0
+   ],
+   [
+    3,
+    4,
+    0,
+    6,
+    0,
+    0
+   ],
+   [
+    0,
+    5,
+    2,
+    0,
+    0,
+    1
    ]
   ],
   "solution": [
    [
-    5,
-    3,
-    2,
+    4,
     1,
     6,
-    4
+    5,
+    2,
+    3
+   ],
+   [
+    5,
+    2,
+    3,
+    4,
+    1,
+    6
+   ],
+   [
+    2,
+    3,
+    4,
+    1,
+    6,
+    5
    ],
    [
     1,
     6,
-    4,
     5,
+    2,
     3,
+    4
+   ],
+   [
+    3,
+    4,
+    1,
+    6,
+    5,
     2
    ],
    [
     6,
-    4,
     5,
-    3,
     2,
+    3,
+    4,
     1
-   ],
-   [
-    3,
-    2,
-    1,
-    6,
-    4,
-    5
-   ],
-   [
-    2,
-    1,
-    6,
-    4,
-    5,
-    3
-   ],
-   [
-    4,
-    5,
-    3,
-    2,
-    1,
-    6
    ]
   ]
  }
