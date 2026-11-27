@@ -1,0 +1,198 @@
+{
+ "issue_no": 47,
+ "tagline": "ใต้ฝนหนัก 13 จังหวัด · สหรัฐฯ ยิงหยุดเรือฝ่าปิดล้อมอิหร่าน · TikTok เปิดเครื่องมือจับหน้าปลอม AI ทั่วโลก",
+ "thailand": [
+  {
+   "lead": true,
+   "title": "Heavy rain warning for 13 southern provinces",
+   "th": "กรมอุตุนิยมวิทยาเตือนฝนตกหนักถึงหนักมากทั่วภาคใต้ถึง 30 พ.ย. วันนี้ (28 พ.ย.) สุราษฎร์ธานีและนครศรีธรรมราชหนักสุด เสี่ยงน้ำป่าไหลหลาก และคลื่นในอ่าวไทยสูงเกิน 3 เมตร",
+   "en": "Residents near foothills and waterways should prepare for flash floods.",
+   "source": "Nation Thailand",
+   "url": "https://www.nationthailand.com/news/general/40074006"
+  },
+  {
+   "title": "650,000 flood-hit households still await relief",
+   "th": "สองเดือนหลังน้ำท่วม ยังมีกว่า 650,000 ครัวเรือนรอเงินเยียวยา ณ 26 พ.ย. โอนสำเร็จแล้ว 74.4% ของผู้ยื่น 2.54 ล้านครัวเรือน กรุงเทพฯ ยื่นมากที่สุดกว่า 1.1 ล้านครัวเรือน ยังค้างอยู่ราว 342,000",
+   "en": "Applicants face long procedures across several agencies.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/special-reports/3362201/650000-floodhit-households-still-await-relief-funds"
+  },
+  {
+   "title": "Thaksin calls for a cap on airline fares",
+   "th": "ทักษิณโพสต์ใน X ขอให้กระทรวงคมนาคมคุมเพดานราคาตั๋วเครื่องบิน หลังจองไปเชียงใหม่ช่วงลอยกระทงแล้วตั๋วโลว์คอสต์ไป-กลับเริ่มกว่า 13,000 บาท",
+   "en": "\"These are no longer low-cost airlines,\" he said.",
+   "source": "Bangkok Post",
+   "url": "https://www.bangkokpost.com/thailand/general/3362156/thaksin-calls-for-airline-fare-cap-as-lowcost-tickets-soar"
+  },
+  {
+   "title": "Bangkok road closures for today's marathon",
+   "th": "วันนี้มีงานวิ่ง Amazing Thailand Marathon ในกรุงเทพฯ ปิดถนนบางช่วงตั้งแต่ 00.01 น. ถ้าออกจากบ้านเช้านี้ เช็กเส้นทางก่อนนะ",
+   "en": "Check closed roads before driving this morning.",
+   "source": "Nation Thailand",
+   "url": "https://www.nationthailand.com/news/sport/40073783"
+  }
+ ],
+ "world": [
+  {
+   "lead": true,
+   "title": "US disables ship trying to run Iran blockade",
+   "th": "กองทัพสหรัฐฯ ยิงอาวุธนำวิถีใส่ท้ายเรือสินค้า M/V Pacific Archer ในอ่าวโอมาน หลังออกจากท่าบันดาร์อับบาส ทำให้เรือเสียระบบขับเคลื่อน ลูกเรือปลอดภัย ฝั่งอิหร่านยืนยันจะปิดช่องแคบฮอร์มุซต่อ",
+   "en": "The US reimposed its naval blockade of Iranian ports in July.",
+   "source": "The Straits Times / Reuters",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-28-2026"
+  },
+  {
+   "title": "OpenAI countersues Apple over trade secrets",
+   "th": "OpenAI ฟ้องกลับ Apple ที่ศาลแคลิฟอร์เนีย กล่าวหาว่าขโมยความลับทางการค้าและกีดกันซัพพลายเออร์ไม่ให้ทำอุปกรณ์ให้ OpenAI หลัง Apple ฟ้องก่อนเรื่องดึงตัวพนักงาน",
+   "en": "OpenAI says its devices could outcompete Apple on its own turf.",
+   "source": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-28-2026"
+  },
+  {
+   "title": "UN chief condemns drone attack on Kuwait",
+   "th": "เลขาธิการ UN ประณามการโจมตีด้วยโดรนในคูเวต ซึ่งทำให้ชาวอิตาลีเสียชีวิต 2 คน และเรียกร้องให้ทุกฝ่ายยับยั้งชั่งใจ",
+   "en": "Guterres said he was deeply concerned by escalation in the region.",
+   "source": "UN News",
+   "url": "https://news.un.org/en/story/2026/11/1168893"
+  },
+  {
+   "title": "North Korean hackers move stolen Binance crypto",
+   "th": "นักวิจัยบล็อกเชนพบกลุ่มฟอกเงินเกาหลีเหนือใช้ THORChain และบริการ coinjoin โยกคริปโตที่ขโมยจาก Binance เมื่อ ต.ค. มูลค่า 6.3 พันล้านดอลลาร์ ใกล้แปลงเป็นเงินสดได้แล้ว",
+   "en": "US authorities call it the largest heist in history.",
+   "source": "The Straits Times / Reuters",
+   "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-28-2026"
+  }
+ ],
+ "social": [
+  {
+   "title": "TikTok launches AI checker and global Likeness Detection",
+   "th": "TikTok เปิดเครื่องมือเช็กว่าคลิป ภาพ หรือเสียงทำด้วย AI ของ ByteDance (TikTok, CapCut, Dreamina ฯลฯ) ไหม ใช้ได้แม้ไม่มีบัญชี และขยาย Likeness Detection ทั่วโลก แจ้งเตือนครีเอเตอร์เมื่อมีคลิปใช้หน้าเขาโดยไม่ได้รับอนุญาต",
+   "why": "ใช้ตรวจคลิปก่อนรีโพสต์หรือส่งลูกค้า และเตือน KOL ในแคมเปญให้ลงทะเบียนป้องกัน deepfake",
+   "source": "Music Ally",
+   "url": "https://musically.com/2026/11/27/tiktok-rolls-out-likeness-detection-tools/"
+  },
+  {
+   "title": "Instagram adds affiliate links inside Reels and posts (US)",
+   "th": "Instagram ให้ครีเอเตอร์สหรัฐฯ ในโปรแกรม Amazon influencer แปะลิงก์ affiliate ในรีลได้ถึง 30 ชิ้น โพสต์ 20 ชิ้น Instagram ไม่หักค่าคอม และว่าลิงก์ในโพสต์ได้คลิกราว 2 เท่าของลิงก์ใน bio",
+   "why": "ถ้ามาไทย งาน KOL จะวัดยอดขายได้ทุกโพสต์ ควรเริ่มคิด KPI แบบ reach + sales ไว้ล่วงหน้า",
+   "source": "Net Influencer",
+   "url": "https://www.netinfluencer.com/instagram-in-post-affiliate-links-39-industry-experts-on-what-brands-will-pay-creators-for/"
+  },
+  {
+   "title": "Instagram for TV is coming to India",
+   "th": "Meta ประกาศที่งาน House of Instagram มุมไบว่า Instagram for TV จะมาอินเดียเร็วๆ นี้ ให้ดูรีลและคอนเทนต์ครีเอเตอร์บนจอทีวีพร้อมเพื่อน",
+   "why": "รีลเริ่มถูกดูบนจอใหญ่ ข้อความบนวิดีโอต้องอ่านง่ายทั้งบนมือถือและทีวี",
+   "source": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/"
+  },
+  {
+   "title": "X adds custom video thumbnails and caption styles",
+   "th": "X ให้เลือกเฟรมหรืออัปโหลดภาพปกวิดีโอเองได้ และเพิ่มสไตล์ซับไตเติลพร้อมเลือกสีได้อิสระ",
+   "why": "โพสต์วิดีโอแบรนด์บน X ทำปกให้เข้า CI ได้แล้ว เหมือนที่ YouTube Shorts เพิ่งเปิด",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/x-adds-new-video-thumbnail-and-caption-options/875428/"
+  },
+  {
+   "title": "Meta expands its Muse AI assistant to the UK",
+   "th": "Meta ขยายผู้ช่วย AI 'Muse' ไปยังสหราชอาณาจักร ต่อจากที่เพิ่งใส่ Muse เข้าไปใน DM ของ Instagram",
+   "why": "Muse กำลังขยายตลาด ถ้ามาไทยคนจะถาม AI เรื่องแบรนด์ใน DM ข้อมูลในโพสต์ต้องครบ",
+   "source": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/"
+  }
+ ],
+ "lifestyle": {
+  "title": "Out early on a Saturday?",
+  "body": "เช้านี้กรุงเทพฯ มีงานวิ่งมาราธอน ปิดถนนบางช่วงตั้งแต่เที่ยงคืน ถ้าจะขับรถออกไปไหนเช้าๆ เช็กเส้นทางก่อน หรือนั่ง BTS ไปแทน",
+  "note": "Based on Nation Thailand, Nov 2026"
+ },
+ "word": {
+  "word": "blockade",
+  "pos": "n.",
+  "ipa": "/blɒˈkeɪd/",
+  "th": "การปิดล้อม",
+  "def": "an action that stops ships, goods or people from going into or out of a place.",
+  "ex": "The ship tried to run the blockade but was stopped."
+ },
+ "english": {
+  "title": "Pitching affiliate links to a client",
+  "dialogue": [
+   [
+    "Client",
+    "Can we track sales from our KOL posts?"
+   ],
+   [
+    "Nadda",
+    "In the US, creators can now add links inside Reels."
+   ],
+   [
+    "Client",
+    "Not just in the bio?"
+   ],
+   [
+    "Nadda",
+    "Right. Links in posts get about twice the clicks."
+   ],
+   [
+    "Client",
+    "Let's plan for that next year."
+   ],
+   [
+    "Nadda",
+    "Sure, I'll add sales to our KPIs."
+   ]
+  ],
+  "vocab": [
+   [
+    "track",
+    "ติดตามผล"
+   ],
+   [
+    "affiliate link",
+    "ลิงก์ค่าคอมมิชชัน"
+   ],
+   [
+    "twice",
+    "สองเท่า"
+   ],
+   [
+    "plan for",
+    "วางแผนรองรับ"
+   ]
+  ]
+ },
+ "know": [
+  {
+   "title": "What is a blockade?",
+   "body": "การปิดล้อมคือการใช้กำลังทหาร มักเป็นเรือรบ ไม่ให้เรือหรือสินค้าเข้าออกท่าเรือของประเทศหนึ่ง เพื่อกดดันทางเศรษฐกิจหรือการทหาร"
+  },
+  {
+   "title": "What is a deepfake?",
+   "body": "ดีปเฟกคือวิดีโอ ภาพ หรือเสียงที่ใช้ AI สร้างหรือดัดแปลงให้เหมือนคนจริง เช่น ทำให้ดูเหมือนคนนั้นพูดสิ่งที่ไม่เคยพูด"
+  }
+ ],
+ "on_this_day": [
+  {
+   "year": "1520",
+   "text": "Ferdinand Magellan's ships entered the Pacific Ocean after crossing the strait now named after him."
+  },
+  {
+   "year": "1943",
+   "text": "Roosevelt, Churchill and Stalin met at the Tehran Conference."
+  }
+ ],
+ "three_things": [
+  "Check road closures before driving out this morning",
+  "Try TikTok's AI checker on a clip you plan to repost",
+  "Use the word 'blockade' in a sentence today"
+ ],
+ "wordsearch_words": [
+  "RAIN",
+  "FLOOD",
+  "SHIP",
+  "TIKTOK",
+  "REELS",
+  "LINKS",
+  "MARATHON",
+  "AI"
+ ]
+}
